@@ -24,7 +24,7 @@ mkdir /tmp/my_new_corpus
 # set of inputs based on the old corpus.
 cargo fuzz run my_fuzz_target \
     ~/path/to/wasmtime-libfuzzer-corpus/my_fuzz_target \
-    -- -merge=1 /tmp/my_new_corpus
+    -- -merge=1 -shrink=1 /tmp/my_new_corpus
 
 # Move the target's old corpus aside.
 mv ~/path/to/wasmtime-libfuzzer-corpus/my_fuzz_target /tmp/my_fuzz_target_backup

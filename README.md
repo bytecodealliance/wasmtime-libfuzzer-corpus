@@ -13,26 +13,13 @@ example, `wasmtime/fuzz/fuzz_targets/compile.rs`'s corpus is the contents of
 
 ## Minimizing a Fuzz Target's Corpus
 
+To take an existing corpus and shrink it down to its minimal size while
+preserving the amount of code that is covered when running the corpus through
+its fuzz target, run the `shrink-corpus.sh` script:
+
 ```shell
-# In the wasmtime repository.
-cd ~/path/to/wasmtime
-
-# Create a new directory for the target's minimized corpus.
-mkdir /tmp/my_new_corpus
-
-# Populate the new corpus with a minimal-but-coverage-preserving
-# set of inputs based on the old corpus.
-cargo fuzz run my_fuzz_target \
-    ~/path/to/wasmtime-libfuzzer-corpus/my_fuzz_target \
-    -- -merge=1 -shrink=1 /tmp/my_new_corpus
-
-# Move the target's old corpus aside.
-mv ~/path/to/wasmtime-libfuzzer-corpus/my_fuzz_target /tmp/my_fuzz_target_backup
-
-# Replace the old corpus with the new, minimal one.
-mv /tmp/my_new_corpus ~/path/to/wasmtime-libfuzzer-corpus/my_fuzz_target
-
-# Commit the new, minimized corpus.
-cd ~/path/to/wasmtime-libfuzzer-corpus
-git add my_fuzz_target
+./shrink-corpus.sh ~/path/to/wasmtime my-fuzz-target
 ```
+
+Where `my-fuzz-target` is the name of the fuzz target whose corpus you'd like to
+minimize.

@@ -1,0 +1,5 @@
+(func
+
+f64.ge
+i64x2.shr_s
+) 

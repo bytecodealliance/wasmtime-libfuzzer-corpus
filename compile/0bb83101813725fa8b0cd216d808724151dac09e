@@ -1,0 +1,4 @@
+(func $l%_u
+i64.trunc_u:sat/f64
+i64.trunc_u:sat/f64
+-%

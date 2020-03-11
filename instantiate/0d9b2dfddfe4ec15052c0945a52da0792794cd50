@@ -1,0 +1,4 @@
+(func	$vI'''''''i64e.xtend32_s_u
+i64x2.shr_u
+i64x2.shr_u
+i64x2.all_

@@ -1,0 +1,4 @@
+		(func	(f64.eq
+f64.neg 
+call_indirect);;g 
+call_indirect);;unc	(fc}}

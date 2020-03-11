@@ -1,0 +1,5 @@
+						(func	$nI''''	
+i32x4.neg;;	d;unc	$nI'	
+i16x8.min_s;;	$nI''	
+i16x8.min_s;;	d		c
+)

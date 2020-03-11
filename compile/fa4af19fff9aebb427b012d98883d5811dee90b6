@@ -1,0 +1,1 @@
+(func        v16x8.load_splat   v16x8.load_splat  i64.extend_u/i32   i64.extend_u/i32                          i64.extend_u/i32                i64.extend_u/i32                )

@@ -1,0 +1,74 @@
+(func $0|i8x16.narr
+
+
+
+;;%)(fun
+f64.sqrt;;c $un0
+i8x16.extract_lane_u
+
+
+;;%%e(#m
+
+1
+
+;;%qrt;;c $u0
+i8x16.extract_lane_u
+
+
+;;%%%%%0%lem
+
+0
+
+;;%$.iqrt;;c $u0
+i8x16.extract_lane_u
+
+
+;;%%%%%%5%lem
+
+1
+;;%$.'  c $un0
+i8x16.extract_lane_u
+
+
+;;%%e(#m
+
+1
+
+;;%8x16.narr
+
+
+
+;;%)(fun#f64.sqrt;;c $un0
+i8x16.extract_lane_u
+
+
+;;%%%%%5%lem
+
+1
+;;%$.'  c $un0
+i8x16.extract_lane_u
+
+
+;;%%e(#m
+
+1
+
+;;%qrt;;c $u0
+i8x16.extract_lane_u
+
+
+;;%%%%%0%lem
+
+0
+
+;;%$.iqrt;;c $u0
+i8x16.extract_lane_u
+
+
+;;%%%%%0%lem
+
+0
+
+;;x2.mul;;un0'5l
+
+);;$f)%(un

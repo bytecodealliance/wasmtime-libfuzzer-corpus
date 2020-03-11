@@ -1,0 +1,4 @@
+			(func	
+i8x16.add_saturate_s;;	4.eq
+i8x16.add_saturate_s;;"b?c
+)

@@ -1,0 +1,271 @@
+						(func	$nI''''	
+i32x4.neg;;	dro@p		c
+)	(func	$nI''''	
+i32x4.neg;;	dropn'oc	$nI;'>''%%%%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i32.store16;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	drop%%'n%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	drop'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''a0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropnVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''a0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%n'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''a0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%'	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	drop'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''a0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropnVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''a0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%n'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(fu5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%I''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVna0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVi32.gt_sVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropnVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	d%2%%%%%%%%%na0xc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVi36x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVxc
+)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVV)	(func	$nI''''	
+i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV%%5%%%%%%%%%nVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVi36j8oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVI''''	
+i32x4.neg;;	drop4	.$VV.VVVVVVVVVVVVVVVVVVVVVVV;drop4.$.		c
+)

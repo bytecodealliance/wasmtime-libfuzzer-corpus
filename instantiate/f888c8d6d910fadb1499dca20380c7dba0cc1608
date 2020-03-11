@@ -1,0 +1,4 @@
+				(func	$nffffffff.or
+i32.reinterpret/f32;;	ff6nff
+i32.reinterpret/f32;;		-c
+)

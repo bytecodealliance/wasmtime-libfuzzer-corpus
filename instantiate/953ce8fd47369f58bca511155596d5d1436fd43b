@@ -1,0 +1,5 @@
+		(func	i16x8.avgr_u
+i64.eq;;	
+i32.eq;;;	drcp
+i32.eq;;	drc
+)

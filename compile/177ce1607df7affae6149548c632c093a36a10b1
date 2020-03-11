@@ -1,0 +1,1 @@
+(func   i32x4.mul  i64x2.replace_lane     1  return )    

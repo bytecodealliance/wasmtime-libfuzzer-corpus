@@ -1,0 +1,16 @@
+(func
+
+
+i64.atomic.rmw32.xchg_u;;%!l
+
+
+
+i64.atomic.rmw32.xchg_u;;%
+
+
+f64.load;;tl
+
+
+
+i64.atomic.rmw32.xchg_u;;%
+);;-%

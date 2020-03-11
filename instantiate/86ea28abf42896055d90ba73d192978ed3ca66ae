@@ -1,0 +1,6 @@
+	(func		$n'i64x2.mul'''	;;'	
+i64.trunc_u/f32;;+4(;;'	32;;+4(nc_u/f32;;+4(;;'	
+i64.trunc_u/f32;;+4([c	$n&&.msub;;Idn'i64x2uul(;;'	
+i64.trunc_u/f32;;[c	$n&l(;;'	
+i64.trunc_u/f32;;+4l;;+c@
+)

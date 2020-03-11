@@ -1,0 +1,23 @@
+				(func	$'';;	pdrop.or;;t6;pnq+
+i64.or;;t6ropnq
+i64.or;;ta;	p0eq	ct64.pdropnq
+i64.or;;ta;	p0eq
+i64.or;;				(fpdropnq
+i64.or;;t6q
+i64.or;;topnq
+i64.or;;ta;	0eq
+i64.or;;				(fpdropnq
+i64.or;;t6q
+i64.or;;t64.pdropnq
+i64.or;;ta;	p0enq
+i64.or;;t6;pnq+
+i64.or;;tpnq+
+i64.or;;t6ropnq
+i64.or;;ta;	p0eq	ct64.pdropnq
+i64.or;;ta;	p0eq
+i64.or;;				(fpdropnq
+i64.or;;t6q
+i64.or;;t64.pdropnq
+i64.or;;ta;	p0eq	ct64.pdropnq
+i64.or;;ta;	p0eq	c
+)

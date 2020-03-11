@@ -1,0 +1,14 @@
+		(func	(f32.eq
+i64.clz ;;	lz;;	lz;n
+select);;q
+i64.clz ;;	lz;n;;	z;n
+i64.clz ;;	lz;n;;	lz;n
+i64.clz ;;	lz;n;;	lz;n
+i64.clz ;;	lz;n;;	lz;n
+i64.clz ;;;	lz;n
+i64.clz ;;	lz;n;;	l;	lz;n;;	lz;n
+i64.clz ;;	lz;n;;	lz;n
+i64.clz ;;	lz;n;;	lz;n
+i64.clz ;;	lz;n;;	lz;n
+i64.clz 		;;	lz;n;;	lz;n
+select);;#"'}\u{'}		(fun\uc

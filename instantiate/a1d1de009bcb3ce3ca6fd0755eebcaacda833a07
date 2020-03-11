@@ -1,0 +1,18 @@
+				(func	$''''''''''''''''''''''''''''s;;		H'
+i16x8.gt_s;;x4$'''''''''''''c8
+)			(func	$nI''
+i16x8.gt_s;;x4.=
+i16x8.gt_s;;x4.ge_s;;		H''n0ge_s;;		H''n.=
+i16x8.gt_s;;x4.ge_s;;		''''''''''''''''''s;;		H''c7
+)			(func	$nI''
+i16x8.gt_s;;x4$''''''''''s;;		H''c8
+)			(func	$nI''
+i16x8.gt_s;;x4.=
+i16x8.gt_s;;x8.ge_s;;		H''n0ge_s;;		H''n.=
+i16x8.gt_s;;x4.ge_s;;		H''n0ge_s;;	;x4.=
+i16x8.gt_s;;x4.ge_s;;		H''n0g	(func	$nI''
+i16x8.gt_s;;x4$'''''x4.ge_s;;		H''n0ge_s;;		H''n.=
+i16x8.gt_s;;x4.ge_s;;		H''n0gx4.=
+i16x8.gt_s;;x4.gx8.gt_s;;x4.ge_s;;		h''n0ge_s;;		H''n.=
+i16x8.gt_s;;x4.ge_s;;		c
+)

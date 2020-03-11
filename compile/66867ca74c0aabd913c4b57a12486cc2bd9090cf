@@ -1,0 +1,1 @@
+(func      return       v16x8.load_splat      i64.xor   v16x8.load_splat   v16x8.load_splat  memory.copy      ) 

@@ -1,0 +1,13 @@
+(func
+
+local.set
+  $un
+
+local.set
+  $unc
+
+local.set
+  $i
+
+local.set
+i

@@ -1,0 +1,1 @@
+(func f64.trunc      i32x4.widen_high_i16x8_u     i64x2.shl  i32x4.widen_high_i16x8_u           memory.copy     f32.le           i32x4.widen_high_i16x8_u               ) 

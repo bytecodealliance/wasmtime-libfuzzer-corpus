@@ -1,0 +1,115 @@
+(func $'lrunc_s:sat/f2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \'.@runc_s:sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \'.@ru
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \'.@runc_s:sat/f31
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_:/tassf32
+i16x8.avgr_u
+
+;;%;% $% \':sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s.nc_1
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_:/tassf32
+i16x8.avgr_u
+
+;;%;% $% \':sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% \'.nc_s:sat/fnc_s:sat/f31
+i16x8.avgr_u
+
+;;%s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \':sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% \'.@rs:sat/fnc_s:sat/f31
+i16x8.avgr_u
+
+;;%;% ;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% \'.@runcf32
+i16x8.avgr_u
+
+;;%;% $% \'.@runc_s:sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \'.@ru
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \'.@runc_s:sat/f31
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_:/tassf32
+i16x8.avgr_u
+
+;;%;% $% \':sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s.nc_1
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_:/tassf32
+i16x8.avgr_u
+
+;;%;% $% \':sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% \'.nc_s:sat/fnc_s:sat/f31
+i16x8.avgr_u
+
+;;%s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \':sat2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% /f32
+i16x8.avgr_u
+
+;;%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% $% \'.l
+
+
+
+
+
+
+);;-%

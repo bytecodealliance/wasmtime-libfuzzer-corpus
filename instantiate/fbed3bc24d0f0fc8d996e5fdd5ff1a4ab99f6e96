@@ -1,0 +1,4 @@
+				(func	$nI''no i32.load;;	ail%2.gt;zx	<gt
+f64x2.replace_lane 0 i32.load;;	
+f64x2.replace_lane 0 i32.load;;	a   @9 il%2
+)

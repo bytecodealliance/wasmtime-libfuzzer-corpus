@@ -1,0 +1,4 @@
+				(func	$'''4:xf32x4.mnx''	
+i16x8.le_s	
+i64x2.mul;;
+)

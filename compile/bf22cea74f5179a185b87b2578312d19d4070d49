@@ -1,0 +1,25 @@
+(func   
+
+i32.load16_u
+
+
+
+
+    table.get
+3
+
+
+
+
+
+
+
+
+
+i32.load16_u
+i32.shr_s
+
+
+i32.load16_u
+
+) 

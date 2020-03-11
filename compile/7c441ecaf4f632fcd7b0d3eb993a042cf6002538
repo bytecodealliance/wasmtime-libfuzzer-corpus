@@ -1,0 +1,3 @@
+(func $'unm
+i32.trunc_sat_f32_u;;omic_32;;m
+i32.trunc_sat_f32_u;om$

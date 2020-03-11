@@ -1,0 +1,1 @@
+(func          i32.load    i32x4.eq         i32.load    i32x4.eq      i32.load    i32x4.eq     i32x4.eq           return  i32.load  i32x4.eq      i32.load    i32x4.eq     i32x4.eq           return  i32.load i32x4.eq      )  

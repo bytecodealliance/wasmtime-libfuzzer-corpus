@@ -1,0 +1,1 @@
+(elem(  i32.rotr (  i32.rotr  i64.store ) block i64.store )) 

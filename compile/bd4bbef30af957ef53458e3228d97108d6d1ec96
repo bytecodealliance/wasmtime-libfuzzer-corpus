@@ -1,0 +1,29 @@
+(func       i8x16.shl      
+  i64x2.sub      
+
+ i64.atomic.rmw8.xchg_u 
+
+
+
+
+
+    i8x16.shl      
+
+ i64.atomic.rmw8.xchg_u 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+) 

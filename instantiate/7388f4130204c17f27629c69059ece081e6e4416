@@ -1,0 +1,4 @@
+		(func	(f64.eq
+f32.ne;;	d
+	memory.size;;	c
+	memory.size;

@@ -1,0 +1,14 @@
+(func $'f2te_s
+
+i64.load
+
+i8x16.sub_saturate_s
+;;%fun.load
+
+i8x16.sub_saturate_s
+
+;;
+;;
+
+
+);;-%

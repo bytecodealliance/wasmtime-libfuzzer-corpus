@@ -1,0 +1,1 @@
+(func  table.init 5  table.init 5000)(func  table.init 500000)(func  table.init 50000)

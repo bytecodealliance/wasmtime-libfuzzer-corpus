@@ -1,0 +1,7 @@
+				(func	$uI
+i8x16.gt_s;;	drofffof.or
+i8x16.gt_s;;	dff.
+i8x16.gt_s;;	drc.rpf
+i8x16.gt_s;;	ff.or
+i8x16.gt_s;;;nc
+)

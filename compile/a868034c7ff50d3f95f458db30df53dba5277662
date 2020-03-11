@@ -1,0 +1,3 @@
+(func
+i64.atomic.load16_u)(func
+i64.atomic.load16_u) 

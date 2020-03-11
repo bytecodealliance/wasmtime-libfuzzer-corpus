@@ -1,0 +1,4 @@
+				(func
+f64x2.min;;	dfunc
+i16x8.shl;;	rpl''
+i32x4.le_u)

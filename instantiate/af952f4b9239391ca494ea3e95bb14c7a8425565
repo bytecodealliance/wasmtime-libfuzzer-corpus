@@ -1,0 +1,4 @@
+		(func	f32.gt;;	dro
+i64.eq;;=dr
+i32.eq;;	c
+)

@@ -1,0 +1,4 @@
+	(func	$i7''	
+i32.rem_s	
+i32.rem_s;;	op	c
+)

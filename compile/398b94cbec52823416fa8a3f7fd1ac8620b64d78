@@ -1,0 +1,119 @@
+(func $?'@@l$;;$
+i16x8.load8x8_u
+
+;;%)((func $'(func $?'@@l$;;$
+i16x8.load8x8_u
+
+;;%)((func $'@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;%)((func $'(func $?'@@l$;;$
+i16x8.load8x8_u
+
+;;%)((func $'@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;;%)((vunc $'@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;%)($$;;$
+i32x4.ne
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;;%)((vunc $'@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;%)($$;;$
+i32x4.ne
+
+i16x8.load8x8_u
+
+;;%)(@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;;%)((vunc $'
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;;%)((vunc $'@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;%)($$;;$
+i32x4.ne
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;;%)((vunc $'@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;%)($$;;$
+i32x4.ne
+
+i16x8.load8x8_u
+
+;;%)(@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;;%)((vunc $'
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;;%)((vunc $'@@l$;;$
+v128.xor
+
+i16x8.load8x8_u
+
+i16x8.load8x8_u
+
+;;%)($$;;$
+i32x4.ne
+
+i16x8.load8x8_u
+
+;;%)((func $ne
+
+i15x8.load8x8_u
+
+;;%)((func $'@@l$;;
+);;-%

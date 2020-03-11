@@ -1,0 +1,5 @@
+(func   		  		
+ 			    i64.trunc_u/f64 					  
+		  			  i64.trunc_u/f64  
+	 			   i64.trunc_u/f64 					  
+		f32.sqrt	 (  i64.trunc_u/f64 					    i64.trunc_u/f64  )     ) 

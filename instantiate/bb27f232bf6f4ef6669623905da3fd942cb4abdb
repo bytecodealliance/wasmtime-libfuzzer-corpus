@@ -1,0 +1,4 @@
+(			func	$nIt
+i32.sub ;;	d ;	
+i8x16.sub_saturate_s	;;u	 ;	
+)

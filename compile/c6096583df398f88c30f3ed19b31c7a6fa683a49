@@ -1,0 +1,184 @@
+(func  
+
+ i32.clz
+i64.load8_u
+
+      	
+
+
+
+
+      	
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+
+
+ i64.load8_u
+
+
+
+ i64.load8_u
+
+ i32.clz
+
+ 
+
+
+
+
+
+   i64.load8_u
+
+ i32.clz
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+
+
+ i64.load8_u
+
+ i32.clz
+
+ 
+
+
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+
+
+ i64.load8_u
+
+         	
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+      	
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+
+
+ i64.load8_u
+
+ i32.clz
+
+ 
+
+
+
+
+
+   i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+      	
+
+
+
+ i64.load8_u
+
+ i64.load8_u
+
+
+
+ i64.load8_u
+
+         	
+
+
+
+ i64.load8_u
+
+ i64.load8_u
+
+ i32.clz
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+
+
+ i64.load8_u
+
+ i32.clz
+
+ 
+
+
+
+
+
+   i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+      	
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+
+
+ i64.load8_u
+
+         	
+
+
+
+ i64.load8_u
+
+ i32.clz
+i64.load8_u
+
+      i64.load8_u
+
+ i32.clz
+
+ 
+
+
+
+
+
+
+
+
+) 

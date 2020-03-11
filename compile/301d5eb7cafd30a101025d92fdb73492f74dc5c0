@@ -1,0 +1,1 @@
+(func             f32.min  return   i32.atomic.rmw8.sub_u       f32.min  return  i32.atomic.rmw8.sub_u        i32.atomic.rmw8.sub_u       return  i32.atomic.rmw8.sub_u    ) 

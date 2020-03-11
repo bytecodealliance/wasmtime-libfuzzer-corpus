@@ -1,0 +1,1 @@
+(func    i16x8.lt_s    return  return  i32.trunc_u/f32 i32.trunc_u/f32  )   

@@ -1,0 +1,9 @@
+				(func	$.sore16;;	dropc	(f;	?
+i32.store16;;unc	func		?
+i32.store16;;unc	func	$.shr_8In'''''	
+f64.trunc;;	
+i32.store16;;$.sh64.trunc;;	
+i16x8.min_s;;	drofpn	$?
+i32.store16;;		+;'d''(func	;;4	8In'''''	
+f64.trunc;;	6;;	opna0	cdx
+)

@@ -1,0 +1,27 @@
+(func    
+
+i32.atomic.rmw.xor
+
+
+
+i32.store
+
+
+
+i32.atomic.rmw.xor   i32.div_s 
+   
+
+i32.atomic.rmw.xor
+   
+
+i32.atomic.rmw.xor
+
+
+i32.store
+
+
+
+
+
+
+  ) 

@@ -1,0 +1,10 @@
+(func $sh
+i64.store16
+;;f
+i64.store16
+;;;;
+)(func $sh
+i64.store16
+;;f32.nearest
+
+i64.store16);;;-%;;;-%

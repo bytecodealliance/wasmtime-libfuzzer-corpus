@@ -1,0 +1,119 @@
+.arch a-a-f
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿarch a-a-f;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<Zae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿarch a-a-f;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿarch a-a-f;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v2,r1,7@ÿÿÿÿsbÿÿ,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿarch a-a-f;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿarch a-a-f;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿarch a-a-f;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v2,r1,7@ÿÿÿÿsbÿÿ,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿarch a-a-f;L=a-a-f;La=f;@
+@
+@
+
+;trap@
+
+.word+Oc-Ë/aZae,%-~<-/~2<0rsb	v3,7@ÿ@@@@@@
+sRsfd 0
+rsb v2,r1,7@TR
+rsb	v3,r1,7@ÿÿÿÿsbÿÿÿ2,r1,7@TR
+rsb	v2,r1,7@ÿÿÿÿsbÿÿÿ@ÿ"b2,r1sbÿÿÿ@ÿ"b
+l@

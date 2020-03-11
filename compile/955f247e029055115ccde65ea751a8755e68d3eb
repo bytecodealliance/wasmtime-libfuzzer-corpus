@@ -1,0 +1,19 @@
+(func $'
+i8x16.le_u;;u;lc $'
+i8x16.le_u;;ulc $'
+i8x16.le_u;;u;l@lre
+i8x16.le_u;;u;x16.l;lc $'
+i8x16.le_u;;ulc $'
+i8x16.le_u;;u;l@lre
+i8x16.le_u;;u;x16.le_u;;u;lc $'
+i8x16.le_u;;u;l@lre
+i8x16.le_u;;u;@lre
+i8x16.le_u;;u;[e_u;;u;lc $'
+i8x16.le_u;;u;l@lre
+i8x16.le_u;;u;@lre
+i8x16.le_u;;u;[Xenc;l@lre
+i8x16.le_u;;u;x16.le_u;;u;lc $'
+i8x16.le_u;;u;l@lre
+i8x16.le_u;;u;@i8x16.le_u;;u;[Xenc@lre
+i8x16.le_u;;u;[Xenc.
+);;-/

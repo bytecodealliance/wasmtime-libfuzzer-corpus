@@ -1,0 +1,33 @@
+						(func	$nI''''	
+i32x4.neg;;neg;;Iropn'o!	$nI;'>''%%%%%.neg;	
+i32x4.neg;;	dropn'oc	
+i16x8.min_s;;		'	
+f64x2.min;;	dropn	
+i16x8.min_s;;	%%%%5%%%%%%%%nafu0	'	
+i32x4.neg;;	dropn'oc	
+i16x8.min_s;;		'	
+f64x2.min;;	dropn	
+i16x8.min_s;;	5%%%%%%%%nafu0	'	
+i32x4.neg;;	dropn	
+i16x8.min_s;;	5%%%%%%%%nafn;;	dropn	
+i16x8.min_s;;	%%%%5%%%%%%%%nafu0	'	
+i32x4.neg;;	dropn'oc	
+i16x8.min_s;;		'	
+f64x2.min;;	dropn	
+i16x8.min_s;;	5%%%%%%%%nafu0	'	
+i32x4.neg;;	dropn	
+i16x8.min_s;;	5%%%%%%%%nafu0	'	
+i32x4.neg;;	dropn'oc	
+i16x8.min_s;;		'	
+f64x2.min;;	dropn	
+i16x8.min_s;;	%%%%5%%%%%%%%nafu0	'	
+i32x4.neg;;	dropn'oc	
+i16x8.min_s;;		'	
+f64x2.min;;	dropn	
+i16x8.min_s;;	5%%%%%%%%nafu0	'	
+i32x4.neg;;	dropn'oc	
+i16x8.min_s;;		'	
+f64x2.min;;	dropn	
+i16x8.min_s;;	dropn'oc	dr;;	dropn'oc	
+i16x8.min_s;;		c
+)

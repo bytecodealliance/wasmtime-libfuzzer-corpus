@@ -1,0 +1,1 @@
+(func         memory.copy  return i64.atomic.rmw16.add_u   memory.copy     ) 

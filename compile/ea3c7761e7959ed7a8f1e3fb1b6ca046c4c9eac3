@@ -1,0 +1,6 @@
+(func 
+i16x8.gt_s
+
+
+i16x8.load8x8_u
+) 

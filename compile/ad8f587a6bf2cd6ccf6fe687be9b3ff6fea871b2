@@ -1,0 +1,1 @@
+(func f32.const 700.300000504502 f64.const 000 i64.trunc_f64_u f64.const 0000050000000000000  return         )(func ) (func f32.const 700.300000504502 f64.const 000 i64.trunc_f64_u f64.const 50000000032767  return         )(func ) 

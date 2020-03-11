@@ -1,0 +1,1 @@
+(func  i32.eqi64.rem_s dropget_local2   get_local2 i64.eqget_local2get_local2   get_local2 )       

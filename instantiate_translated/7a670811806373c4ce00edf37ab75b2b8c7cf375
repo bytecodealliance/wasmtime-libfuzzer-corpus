@@ -1,0 +1,16 @@
+document {
+  doctype {
+    name: "T SYSTEM \'\'"
+    int_subset: "<!ENTITY z \'6888;UUUUUUUUUUUUUUUUUUUUUUUUUUUUUMUTF-16MMMMUUUUUUUUUTUUUUU&a;4UMUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUMMMMMMMMMMMMUUUUUUUUUUUUUUUUUUUUMMMMMMMMMMMMMMMMMLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLMMMMMMMMUUUUUUUUUUUUU#UUUUUUUUUUUUUUUUUUU\'>"
+  }
+  element {
+    tag {
+      name: "Y><Y xmlns=\"\"/><Y"
+      attribute {
+        name: "xmlns"
+        value: ">&z;&z;&z;Nz;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;;&z;&z;&z;&z;&z;&z;=&z;Nz;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;&z;;&z;&z;&z;&z;&z;&z;&z;N&z;&z;;&z;&z;&z;&z;&z;&z;&z;;&z;&z;ID&z;&z;z;&z;&z;&z;&z;&z;&z;&z;&z;"
+      }
+    }
+  }
+}
+options: 5

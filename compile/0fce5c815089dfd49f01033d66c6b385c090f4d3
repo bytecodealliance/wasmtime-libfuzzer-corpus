@@ -1,0 +1,1 @@
+(func f32.const 127 i32.eq f32.const 7 f32.const 0)

@@ -1,0 +1,5 @@
+				(func	$$n'	f32x4.ge
+i32.rotl
+i16x8.mul;;	dotlge
+i32.rotl
+)

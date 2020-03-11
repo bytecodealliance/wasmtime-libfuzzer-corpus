@@ -1,0 +1,12 @@
+(func       i8x16.shl
+
+
+
+
+
+i32.and
+
+
+
+  i8x16.shl 
+i32.and)

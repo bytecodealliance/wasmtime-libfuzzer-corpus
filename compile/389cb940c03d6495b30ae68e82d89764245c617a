@@ -1,0 +1,5 @@
+(func i64.atomic.store8;;$\ei32x4\m$(
+i64.atomic.store8;;$\e2x4$\x234ei
+)(func $m;;;$\m$(
+i64.atomic.store8;;$x4
+);;;%

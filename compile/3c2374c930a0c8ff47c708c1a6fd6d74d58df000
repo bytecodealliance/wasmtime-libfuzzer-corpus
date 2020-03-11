@@ -1,0 +1,30 @@
+(func
+i16x8.load8x8_u
+
+
+
+
+
+
+
+
+
+i32x4.eq   i16x8.load8x8_u
+
+
+
+
+
+ i16x8.load8x8_u
+
+
+
+
+
+
+
+
+
+
+
+ ) 

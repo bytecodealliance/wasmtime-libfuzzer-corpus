@@ -1,0 +1,1 @@
+(func  return i32.shl    if  i64.extend8_s  i64.extend8_s     )   

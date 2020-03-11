@@ -1,0 +1,1 @@
+(func f32x4.replace_lane 0 f64.constget_local 00)

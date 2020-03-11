@@ -1,0 +1,6 @@
+		(func	(f64.eq
+f32.ne;;	d	`%			cf32x4.gt;;q;;
+i32.eqz
+f64.max);;c
+i32.eqz
+f64.max);;c}x6+ }" 

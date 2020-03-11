@@ -1,0 +1,3 @@
+		(func	
+i64.atomic.load32_u;;dac	
+i64.atomic.load32_u)

@@ -1,0 +1,1 @@
+(func      i64.and i8x16.add        i8x16.add   loop i8x16.add     ) 

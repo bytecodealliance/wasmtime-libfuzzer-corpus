@@ -1,0 +1,6 @@
+(func
+
+i64.atomic.rmw.and 
+
+i64.atomic.rmw.and
+) 

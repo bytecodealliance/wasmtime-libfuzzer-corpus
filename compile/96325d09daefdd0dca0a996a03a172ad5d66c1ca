@@ -1,0 +1,5 @@
+(func
+loop 
+i32.rotl
+
+loop ) 

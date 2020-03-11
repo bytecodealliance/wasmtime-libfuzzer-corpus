@@ -1,0 +1,9 @@
+				(func	$pc.r
+i32.atomic.load16_u;;or
+i32.atomic.load
+i16x8.widen_high_i8x16_u;;	tomic.load16_u;;	drf16_n.or
+i32.atomic.load
+i16x8.widen_high_i8x16_u;;	tomic.load16_u;u;;	drff	drff.n.or
+i32.atomic.load
+i16x8.widen_high_i8x16_u;;	tomic.load16_u;;	drff.nc
+)

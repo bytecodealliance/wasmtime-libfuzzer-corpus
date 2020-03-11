@@ -1,0 +1,1 @@
+(func i64.atomic.rmw8.xchg_u i31.aLomic.rmw-6.xor_u)

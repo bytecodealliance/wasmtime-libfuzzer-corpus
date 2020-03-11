@@ -1,0 +1,3 @@
+(func	;;"b'
+i64.atomic.rmw8.and_u"b"""""
+)

@@ -1,0 +1,56 @@
+(func $0|i8x16.narr
+
+
+
+;;%)(funcf  c $un$
+i8x16.extract_lane_u
+
+
+;;%%%%%0%lem
+
+1
+
+
+i8x16.sub_saturate_u
+
+
+f32.sqrt;;c $un0
+i8x16.extract_lane_u
+
+
+;;%%%%%0
+;;%%%%%0%lem
+
+1
+
+
+
+i32.le_s
+
+
+
+i8x16.narrow_i16x8_s
+
+;;%%%%
+i32.le_s
+
+
+
+;;%2.sqrt;;c $un0
+i8x16.extract_lane_u
+
+
+;;%%%%%lem
+
+1
+
+
+
+
+
+
+i8x16.narrow_i16x8_s
+
+
+
+);;$%)(fun

@@ -1,0 +1,6 @@
+	(func	$_=urmiis
+i64.atomic.wait;;	n_s
+i64.atomic.wait;;_s
+i64.atomic.wait;;	p6puus
+i64.atomic.wait;; 
+)

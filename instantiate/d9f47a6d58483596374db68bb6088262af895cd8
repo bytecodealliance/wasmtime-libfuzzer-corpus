@@ -1,0 +1,4 @@
+		(func	i64.ne;;		%
+call_indirect
+i32.clz ;;	dY$
+)

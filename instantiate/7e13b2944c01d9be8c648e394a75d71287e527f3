@@ -1,0 +1,5 @@
+				(func	$1q
+f32x4.neg;;	dr 1q
+f32x4.neg;;','
+f32x4.neg;;		c
+)

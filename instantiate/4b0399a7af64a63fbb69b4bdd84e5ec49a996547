@@ -1,0 +1,6 @@
+				(func	$s5s
+i32x4.max_u;;*
+i32x4.max_u;;	r
+i32x4.max_u;;	rc	
+i32x4.max_u;;sx_u;c
+)

@@ -1,0 +1,1 @@
+(func      f64.eq  return     f64.eq  f64.eq            f64.eq    i32.or   return  f64.eq            f64.eq    i32.or  f64.eq      f64.eq    f32.eq            f64.eq            f64.eq    f64.eq  return     f64.eq  f64.eq            f64.eq    i32.or  f64.eq      f64.eq   f64.eq  f32.eq             f64.eq  return     f64.eq  f64.eq               ) 

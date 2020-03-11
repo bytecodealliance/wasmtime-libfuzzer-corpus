@@ -1,0 +1,13 @@
+		(func	return;;		loal;2	ro0	
+i64.atomic.rmw16.or_u
+i32.or;;11 A: (	$nd_u
+i64.atomic.rmw16.or_u
+i32.or;;11 : (	urn;;		%`	4.loal;2	ro0	
+i64.atomic.rmw16.or_u
+i32.or;;15 Ami$  1dgomi.rmw6.and_u
+i64.atomic.rmw16.or_u
+i32.or;;10 : (	urn;;		%`	4dgomic.rmw6.and_u
+i64.atomic.rmw16.or_u
+i32.or;;11 :  1 dc	(.rm" 
+i64.atomic.rmw16.or_u
+)

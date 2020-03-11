@@ -1,0 +1,1 @@
+(func        $i32.oktcp#p )     (func      $i32.popcnt      return_call     $i32..gt  ) (func   return_call   $i32.popcnt )     (func  )  (func   $i32..gt  ) (func              )      

@@ -1,0 +1,1 @@
+(func        f32.min       i64.atomic.store16      i64.atomic.store16                f32.min          i64.atomic.store16          f32.min          f32.min          i64.atomic.store16         f32.min                        ) 

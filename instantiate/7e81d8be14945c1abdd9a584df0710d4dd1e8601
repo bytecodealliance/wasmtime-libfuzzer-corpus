@@ -1,0 +1,13 @@
+	(func	;;	dr
+f64x2.sub;;m_s;;;
+f64x2.sub;;	rg	$nf64x2.minc	;;	dr
+f64x2.sub;;m_s;;;
+f64x2.sub;;	rg	$nub;;	rg	$nc	;;	dr
+f64x2.sub;;m_s;;;
+f64x2.sub;;	#c	;;	dr
+f64x2.sub;;m_s;;;
+f64x2.sub;;	rg	$nf64x2.minc	;;	dr
+f64x2.sub;;m_s;;;
+f64x2.sub;;	rg	$nub;;	rg	$nc	;;	dr
+f64x2.sub;;m_s;;;
+)

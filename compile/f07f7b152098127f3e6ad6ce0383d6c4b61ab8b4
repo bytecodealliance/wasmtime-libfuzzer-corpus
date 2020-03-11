@@ -1,0 +1,1 @@
+(func    i64.atomic.store f32.add )  (func    i64.atomic.store f32.add        i64.atomic.store f32.add   )  

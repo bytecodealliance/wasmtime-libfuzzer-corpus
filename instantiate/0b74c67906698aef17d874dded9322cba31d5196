@@ -1,0 +1,3 @@
+				(func	i64.trunc_f32_s i32.load;;	
+i32x4.extract_lane 5
+)

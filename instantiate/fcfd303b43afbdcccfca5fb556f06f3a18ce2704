@@ -1,0 +1,4 @@
+			(func	$nI'64.floor;;'I	'r6x.	'rd16x. nx7gt
+i64x2.extract_lane 0 i32.load;;$lI 4 nx7gt
+i64x2.extract_lane 0 i32.load;;$lI 4
+)

@@ -1,0 +1,9 @@
+			(func	$nI''''''	
+i64.atomic.store16	
+i16x8.neg;;ue16	
+i16x8.neg;;	dr.qqqqqqqqq
+i64.atomic.store16	
+i16x8.neg;;	dr.qq^^^^^^^''	
+i64.atomic.store16	
+i16x8.neg;;	d(.qqqqqqqqqOqqqc@
+)

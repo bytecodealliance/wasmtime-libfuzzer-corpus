@@ -1,0 +1,4 @@
+				(func	$nI'''	
+i16x8.mul	
+f64x2.sqrt;;	28.store;;	1?
+)

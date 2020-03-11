@@ -1,0 +1,20 @@
+(func $'l$load32
+
+i64.atomic.load32_u
+
+
+;;%%%c@/
+
+i64.atomic.load32_u
+
+
+
+;;%%%c m%%%%%c@@
+
+i64.atomic.load32_u
+
+
+
+
+
+;;%%%c  %

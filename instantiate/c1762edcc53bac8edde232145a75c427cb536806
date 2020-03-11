@@ -1,0 +1,6 @@
+								(func	$nI''''	
+i16x8.mul;;	dro	i3 1q
+f32x4.ne;;	
+i64x2.sub;;	
+i64x2.sub
+)

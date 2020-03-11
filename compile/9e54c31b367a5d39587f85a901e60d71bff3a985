@@ -1,0 +1,8 @@
+(func
+table.fill
+1;;m%%
+i16x8.ge_u
+table.fill
+0;;;;%2_
+)
+

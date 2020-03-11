@@ -1,0 +1,1 @@
+(func       i32.div_s   i32.div_s  i32.trunc_f32_s )(func   i32.div_s    i32.div_s   i32.div_s    i32.div_s   i32.div_s  i64.trunc_f64_s   i32.div_s   i32.div_s   i32.div_s  i32.trunc_f32_s )(func     i32.div_s    i32.div_s   i32.div_s    i32.div_s   i32.div_s  i64.trunc_f64_s   i32.div_s  i64.trunc_f32_s )  

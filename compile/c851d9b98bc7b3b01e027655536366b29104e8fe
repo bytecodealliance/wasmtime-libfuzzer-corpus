@@ -1,0 +1,1 @@
+(func f32.const 70 i32.eq f32.const 70 f32.const 70 f32.eq f32.const 70 f32.const 7 f32.const 70 i32.eq f32.const 70 f32.const 70 f32.eq f32.const 70 f32.const 70 f32.const 700050000)

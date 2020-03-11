@@ -1,0 +1,31 @@
+(func
+i16x8.splat
+;;$%c
+i16x8.splat
+;;c
+i16x8.splat
+;;
+f32x4.splat
+;;%>%
+f32x4.splat
+;;$ b%%%>%
+f32x4.splat
+;;%>%
+f32x4.splat
+;;c
+i16x8.splat
+;;$%%>*
+f32x4.splat
+;;%>%
+f32x4.splat
+;;$ %
+f32x4.splat
+;;%%>%
+f32x4.splat
+;;%>%
+f32x4.splat
+;;$%`%;l$)
+
+
+
+);;-%

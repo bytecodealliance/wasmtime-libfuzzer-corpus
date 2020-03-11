@@ -1,0 +1,4 @@
+				(func	$'''wt;;	proi32.ge
+i64.atomic.rmw16.xor_u;;	u2.ne;;ge
+i64.atomic.rmw16.xor_u;;		`}}			c
+)

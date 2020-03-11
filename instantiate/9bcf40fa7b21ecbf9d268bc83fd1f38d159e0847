@@ -1,0 +1,4 @@
+				(func	$nmul;;2nn	
+i16x8.gt_u;;	
+f32.trunc
+)

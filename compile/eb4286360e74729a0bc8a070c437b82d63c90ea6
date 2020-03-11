@@ -1,0 +1,1 @@
+(func return    	 i64.eq i8x16.shr_s  i32.atomic.rmw8.sub_u) 

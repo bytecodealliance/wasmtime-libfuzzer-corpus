@@ -1,0 +1,1 @@
+(func $%%=AAAAAA i32.atomic.rmw.sub i32.atomic.rmw.sub)(func  i32.atomic.rmw.sub)(func $\lm.\%AAAA@S%%)

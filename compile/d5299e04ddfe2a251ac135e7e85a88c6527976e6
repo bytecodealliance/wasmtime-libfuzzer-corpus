@@ -1,0 +1,1 @@
+(func select  return       return   return   i32.atomic.store8        i32.atomic.store8          ) 

@@ -1,0 +1,27 @@
+(func $emlm$|@mhr_u
+
+;;-%%c 
+i16x8.shr_u;;32_u
+i16x8.shr_u;;%%at%mload
+i16x8.shr_u;;%%_u
+i16x8.shr_u;; 
+i16x8.shr_u;;t%%
+
+;;-%%c 
+i16x8.shr_u;;32mlm
+i16x8.shr_u
+
+;;-%%c 
+i16x8.shr_u;;32_u
+i16x8.shr_u;;%%at%mload
+i16x8.shr_u;;%%_u
+i16x8.shr_u;; 
+i16x8.shr_u;;t%%
+
+;;-%%c 
+i16x8.shr_u;;<2_u
+i16x8.shr_u;;%%a_u;;t%%
+
+;;-%%c 
+i16x8.shr_u;;32_u
+i16x8.shr_u) 

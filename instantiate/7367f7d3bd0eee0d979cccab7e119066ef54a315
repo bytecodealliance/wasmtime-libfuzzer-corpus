@@ -1,0 +1,18 @@
+		(func
+f32.eq
+i64.or;;r%`f32.eq
+i64.or;;cor;;r%`
+f32.eq
+i64.or;;r
+f32.eq
+i64.or;;(func
+f32.eq
+i64.or;;r%`f32.e;cor;;r%`
+f32.eq
+i64.or;;r%`
+f32.eq
+i64.or;;r%`
+f32.eq
+i64.or
+f32.eq
+i64.or;	

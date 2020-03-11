@@ -1,0 +1,4 @@
+				(func	$nef.or
+f64x2.extract_lane
+i33.Y   :::	c
+)

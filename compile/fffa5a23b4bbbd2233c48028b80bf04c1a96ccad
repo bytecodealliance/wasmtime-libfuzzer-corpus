@@ -1,0 +1,1 @@
+(func        $ic  )  (func )  (func   $i1i   call $i32     call $i32.gt  ) (func      call $i32.gt    call   $ic  )  (func       call $i32.gt    call   $ic  )  (func           $i32)  (func           $i32.gt  )  (func     )      

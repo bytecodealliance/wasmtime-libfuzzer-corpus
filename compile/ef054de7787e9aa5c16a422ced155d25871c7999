@@ -1,0 +1,1 @@
+(func i32.atomic.load i16x8.le_s)(func $^'d i32x4.min_s)(func $^ee$^'d i32x4.min_s)(func $^'l%%d i32x4.min_s)(func $l)

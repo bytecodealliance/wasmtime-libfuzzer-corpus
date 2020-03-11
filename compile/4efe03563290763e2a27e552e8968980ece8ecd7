@@ -1,0 +1,8 @@
+(func $'l
+
+i32.atomic.rmw16.and_u
+;;%)
+
+i32.atomic.rmw16.and_u
+;;%f\'lm$unc
+);;-"

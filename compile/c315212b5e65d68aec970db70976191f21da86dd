@@ -1,0 +1,14 @@
+(func  i8x16.neg 
+f32.sub
+
+   i8x16.neg
+f32.sub
+    
+
+
+
+
+  i8x16.neg 
+f32.sub
+
+ ) 

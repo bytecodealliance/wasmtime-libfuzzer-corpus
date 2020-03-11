@@ -1,0 +1,4 @@
+(func
+i64.atomic.rmw.cmpxchg
+f32.demote/f64;;	c
+)	

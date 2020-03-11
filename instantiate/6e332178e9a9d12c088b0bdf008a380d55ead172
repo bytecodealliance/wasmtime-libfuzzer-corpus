@@ -1,0 +1,6 @@
+		(func;;;		
+i32.atomic.rmw16.and_u;;x
+i32.atomic.rmw16.and_u;;x	ic._u;;;;		
+i32.atomic.rmw16.and_u;;x
+i3.a
+)

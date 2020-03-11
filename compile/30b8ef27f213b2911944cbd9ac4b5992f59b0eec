@@ -1,0 +1,1 @@
+(func        $p#p )     (func       $i32.popcnt )     (func   )( func   return_call   $i32.popcnt )     (func  )  (func     return_call   $i32.popcnt )     (func  )  (func     return_call   $i32.popcnt )   

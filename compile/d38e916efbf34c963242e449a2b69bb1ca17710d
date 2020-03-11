@@ -1,0 +1,9 @@
+(func f32x4.abs;;$\3x4.mf;
+f32.abs;;$\'l
+
+f32x4.abs;;$il;
+f32x4.abs;;$\'lm$%
+f32x4.abs;;,;i32@l;
+f32x4.abs;;$\'l
+
+);;-%

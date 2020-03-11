@@ -1,0 +1,15 @@
+(func   
+i8x16.narrow_i16x8_s     
+i8x16.narrow_i16x8_s     
+i64.le_s
+
+
+
+  
+
+  
+i8x16.narrow_i16x8_s    
+i8x16.narrow_i16x8_s    i64.le_s
+
+
+) 

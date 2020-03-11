@@ -1,0 +1,8 @@
+		(func	f32.gt;;	  t;;f   0 0 1q
+i64.trunc_f32_s;;	lrolrop	0q
+i64.trunc_f32_s;;	lr0 f32_s;;	lrolrop	0 0 1q
+i64.trunc_f32_s;;	lr0 1q
+i64.trunc_f32_s;;	lrop 0 1q
+i64.trunc_f32_s;;	lr0 1q
+i64.trunc_f32_s;;	lro  `	.		c
+)

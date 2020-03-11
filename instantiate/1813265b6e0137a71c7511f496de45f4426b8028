@@ -1,0 +1,5 @@
+				(func	$x4.ne;;;;;;;;;;;;";;;
+i64.atomic.rmw8.cmpxchg_u;;;;;;;;:;;""	%`			
+i64.atomic.rmw8.cmpxchg_u)(func	$vgt;;"b;;;;;;;;;;;;;
+i64.atomic.rmw8.cmpxchg_u;;;;;;;;;;;=;;;;;;;";;;
+i64.atomic.rmw8.cmpxchg_u)(func	$n)

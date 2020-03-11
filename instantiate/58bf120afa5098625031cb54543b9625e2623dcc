@@ -1,0 +1,4 @@
+				(func	$nI''q
+f32.ne;;	a.ge
+i16x8.widen_high_i8x16_u;;	.ge
+)

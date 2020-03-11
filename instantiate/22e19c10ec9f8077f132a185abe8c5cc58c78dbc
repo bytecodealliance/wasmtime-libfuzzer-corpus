@@ -1,0 +1,7 @@
+		(func	f32.gt;;	q
+i64.trunc_f64_s;;+
+i64.trunc_f64_s;;+
+i64.trunc_f64_s;;	lrop; .q
+i65473.trunc_f64_s;;+
+i64.trunc_f64_s;;	 .qh
+)

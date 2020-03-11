@@ -1,0 +1,4 @@
+				(func	;;p.ge
+i64.atomic.rmw8.sub_u;;	pu.ncI$'"f56'.ge
+i64.atomic.rmw8.sub_u;;	puncI$''''''_
+)

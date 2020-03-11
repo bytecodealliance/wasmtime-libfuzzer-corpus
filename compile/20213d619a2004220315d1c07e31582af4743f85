@@ -1,0 +1,1 @@
+(func  f64.const 503 i64.trunc_s:sat/f64    return  ) ;;unc4.tf-15.%

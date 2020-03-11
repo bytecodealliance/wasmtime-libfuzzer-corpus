@@ -1,0 +1,13 @@
+(func $'l$l@
+
+f32x4.replace_lane
+
+2
+
+;;%32
+
+f32x4.replace_lane
+
+0
+
+);;-%

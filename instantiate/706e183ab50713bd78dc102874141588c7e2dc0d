@@ -1,0 +1,6 @@
+		(func
+(f64.eq
+f32.ne;;	o%Req
+f64.gt)f64.gt
+f64.load
+f64.gt);;"	da0

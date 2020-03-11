@@ -1,0 +1,1 @@
+(func     v128.load     v128.load           i64.atomic.load16_u         i64.atomic.load16_u         i64.atomic.load16_u         i64.atomic.load16_u    con1v ) A

@@ -1,0 +1,2 @@
+(func)    (func f32.store)      (func f32.store)   (func f32.store)      (func f32.store)   
+(func)    (func f32.store)      (func f32.store)   (func f32.store)      (func)(func f32.store)   

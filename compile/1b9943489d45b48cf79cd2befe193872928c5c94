@@ -1,0 +1,1 @@
+(func  (        f64.floor   i32.atomic.rmw16.or_u  f32.floor i32.ge_u    f32.floor    )     f32.floor    ) 

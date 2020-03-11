@@ -1,0 +1,255 @@
+(func       return                        return       i16x8.max_u  ) (func            i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                                return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u                    f32.lt                              i16x8.max_u                         f32.lt      
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                              return                        return       i16x8.max_u  ) (func                                           i16x8.max_u             return                  return                          
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                return                  return                          
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func                      i16x8.max_u                    f32.lt                                                return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u                    f32.lt                              i16x8.max_u             return                  return                           return                      return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u                    f32.lt                
+
+
+
+
+
+
+
+
+
+
+
+
+ f32.lt           ) (func       return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                              return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u                    f32.lt                              i16x8.max_u                         f32.lt      
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                              return                        return       i16x8.max_u  ) (func                                           i16x8.max_u             return                  return                          
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                             return                return                  return                          
+
+
+f32x4.neg
+
+
+
+        i16x8.max_u  ) (func           
+
+
+
+
+
+
+            i16x8.max_u             return                  return                            return                        return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func                      i16x8.max_u                    f32.lt                                                return       i16x8.max_u  ) (func                     f32.lt                       
+
+
+f32x4.neg
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u        ) ;;unc       return    `46744073718~51615x       retur    

@@ -1,0 +1,7 @@
+				(func	$'
+v128.xor;;n	le_s	
+v128.xor	
+v128.xor;;n	d;f
+v128.xor	
+v128.xor;;n	d;f2\
+)

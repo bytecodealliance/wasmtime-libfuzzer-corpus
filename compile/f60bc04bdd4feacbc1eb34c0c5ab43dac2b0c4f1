@@ -1,0 +1,15 @@
+(func 
+f64x2.splat
+
+
+f64x2.splat
+
+ i64.ctz
+f32.sqrt
+
+
+
+
+f64x2.splat
+
+  i8x16.shl ) 

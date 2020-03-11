@@ -1,0 +1,1 @@
+(func     i32.trunc_f64_s    f32.div      i32.trunc_f64_s i32.trunc_f64_s  i32.trunc_f64_s  )   

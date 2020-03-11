@@ -1,0 +1,4 @@
+		(func	return;;	6t;;	$04.eq
+f32.ne;;	p
+f32.ne;;		"0
+)

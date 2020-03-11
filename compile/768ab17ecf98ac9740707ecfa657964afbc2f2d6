@@ -1,0 +1,1 @@
+(func   f64.neg 	i64x2.shr_u f32.negi64x2.shr_ui64x2.shr_uf64.max f64.neg 	i64x2.shr_u) 

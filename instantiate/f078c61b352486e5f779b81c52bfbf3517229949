@@ -1,0 +1,7 @@
+					(func	$n
+i16x8.shr_s;;	s
+i32.lt_s;;
+i16x8.shr_s;;	s
+i32.lt_s;;	ds
+i32.lt_s;;	d		c			c	(f
+)

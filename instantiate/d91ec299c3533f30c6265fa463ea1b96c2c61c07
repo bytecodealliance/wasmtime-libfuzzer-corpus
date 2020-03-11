@@ -1,0 +1,24 @@
+		(func	i64.eq;;mic.rmw32.sub_micp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;				0 q
+i32.rotl;;	lrop	%` 0	%`1j
+i64.atomic.rmw32.sub_u;;		%	%`dp	;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;				0 q
+i32.rotl;;	lrop	%` 0	%`1j
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` f32x2.lt64.atomic.rmrmw32.sub_u;;		%	%`d`nan:0` 0	%b1q
+i64.atomic.rmw32.sub_u;;			1 %` 0	%`1j
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` f3mw32.sub_u;;				0 q
+i32.rotl;;	l
+i64.atomic.rmw32.sub_u;;		%	%rop	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;				0 q
+i32.rotl;;	lrop	%` 0	%`1j
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` f32x2..rmw32.sub_u;;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;				0 q
+i32.rotl;;	lrop	%` 0	%`1j
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` f32mw32.sub_u;;		%	%`d`nan:0` 0	%b1q
+i64.atomic.rmw32.sub_u;;			0 %` 0	%`1j
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` f3mw32.sub_u;;				0 q
+i32.rotl;;	l
+i64.atomic.rmw32.sub_u;;		x			c
+)

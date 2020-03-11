@@ -1,0 +1,3 @@
+		(func	f32.gt;;	npna .q
+i64.trunc_f64_s;;+
+i64.trunc_f64_s)

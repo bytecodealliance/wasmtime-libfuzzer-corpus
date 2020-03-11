@@ -1,0 +1,5 @@
+				(func	$'.'.shl;;qq
+i64.add
+i64.add;;@n
+i64.add;;$'.shl
+)

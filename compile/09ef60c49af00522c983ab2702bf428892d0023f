@@ -1,0 +1,1 @@
+(func     memory.copy           f32x4.neg    i64.atomic.rmw32.and_u           i64.atomic.rmw32.and_u   f32.ceil      i64.atomic.rmw32.and_u      ) 

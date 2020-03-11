@@ -1,0 +1,7 @@
+				(func	$nIfloor;;'	
+f32.floor;;	rm:
+i32x4.any_true
+v128.not;;'1s
+i32x4.any_true
+v128.not;;	d(o%`
+)

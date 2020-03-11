@@ -1,0 +1,7 @@
+				(func	$nI#'N28.not;;r	(fa6+ i32.load;;h;rx	7gt
+i32x4.extract_lane 0 i32.load;;	a   @9	;ti32.shr_rx	7gt
+i32x4.extract_lane 0 i32.load;;	a   @9 il%2.ge 0 i32.load;;	a ;ti32.shr_rx	7gt
+i32x4.extract_lane 0 i32.load;;	a   @9 il%2.gt;z	ract,_.gt;z	ract,_lane 0 i32.load;;	a ;ti32.shr_rx	7gt
+i32x4.extract_lane 0 i32.load;;	alz	(loadoad;;hr_rx	9gt
+i32x4.extract_lane 0 i32.load;;	i64xe.2ng%22.D
+)

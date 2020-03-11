@@ -1,0 +1,1 @@
+(func  i64.load8_u i32.gt_u i16x8.ne i16x8.ne i16x8.ne i64.load8_u i16x8.ne i16x8.ne)

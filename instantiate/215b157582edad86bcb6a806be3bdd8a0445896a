@@ -1,0 +1,4 @@
+				(func	$'+''ge
+i64.atomic.rmw32.xor_u;;	.?g	;[.ge
+i64.atomic.rmw32.xor_u;;	u?fe
+)

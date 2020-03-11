@@ -1,0 +1,7 @@
+(func	$nI1'I'$n''''''	
+i32x4.splat;;	ri16x8.shl2x4;;	dropn'oc	$''''''	
+i32x4.splat;;	d'''	
+i32x4.splat;;	a'0)(16.shr_S;;	dropn'oc	$''''''	
+i32x4.splat;;	d'''	
+i32x4.splat;;	func
+)

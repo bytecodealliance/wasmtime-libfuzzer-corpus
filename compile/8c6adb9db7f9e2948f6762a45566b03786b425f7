@@ -1,0 +1,8 @@
+(func
+
+nop
+
+nop
+i8x16.gt_s;;;
+
+) 

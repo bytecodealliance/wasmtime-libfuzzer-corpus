@@ -1,0 +1,4 @@
+				(func	$n
+i64.atomic.store16;;	drff.oK
+i64.atomic.store16;;$n'f;	
+)

@@ -1,0 +1,21 @@
+				(func
+v128.and;;	dc
+v128.and;;	drounc
+v128.and;;	dc
+v128.and;;	dron' 		c
+v128.and;;	dc
+v128.and;;	dri64.trunc_s:sat&/				(func
+v128.and;;	dc
+v128.and;;	dron' 		c
+v128.and;;	dc
+v128.and;;	dri64.trunc_s:sat&/f64and;;	dc
+v128.and;;	drounc
+v128.and;;	dc
+v128.and;;	drod;;	dc
+v128.and;;	dri64.trunc_s:		(func;;A	d2ropn' 		c
+v128.and;;	dc
+v128.and;; 			c
+)				(func;;A	d2ropn' 		c
+v128.and;;	dc
+v128.and;;	dro 			c
+)

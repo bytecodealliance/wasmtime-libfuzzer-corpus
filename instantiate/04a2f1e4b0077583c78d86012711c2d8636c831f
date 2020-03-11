@@ -1,0 +1,4 @@
+		(func	(f32.add
+f32.ne;;dq
+f32.gt);;"""q
+f32.gt);;""

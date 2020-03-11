@@ -1,0 +1,8 @@
+(func   
+
+i16x8.shr_s
+
+
+ i8x16.ne
+
+i64.atomic.rmw16.xchg_u   ) 

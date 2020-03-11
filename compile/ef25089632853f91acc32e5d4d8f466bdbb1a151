@@ -1,0 +1,1 @@
+(func                    return       i64x2.shr_s         ) (func                       return       i64x2.shr_s          return                         )    (func  i64.or               i64x2.shr_s         ) (func         return i16x8.mul         return                    return       i64x2.shr_s             )  

@@ -1,0 +1,9 @@
+(func $o
+
+
+f64x2.ne
+v16x8.load_splat;;%-fum;@;%2.ne
+v16x8.load_splat;;%-@@@HH
+v16x8.load_splat;;%-(f
+
+);;%%

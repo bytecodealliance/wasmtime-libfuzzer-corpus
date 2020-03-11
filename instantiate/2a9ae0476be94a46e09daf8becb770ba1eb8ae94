@@ -1,0 +1,5 @@
+		(func	return;;	d;;c	
+i64.trunc_s/f32	return;;	d;1e3;a0x	&&rc@
+i64.trunc_s/f32	return;;	d;.e	x	&&rc	
+i64.trunc_s/f32	return;;	d;;a02
+)

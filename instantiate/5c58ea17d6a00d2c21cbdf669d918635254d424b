@@ -1,0 +1,4 @@
+	(func	(f64.eq
+ )(f32.sub;;)
+ )(f64.sub
+ )(f64.sub

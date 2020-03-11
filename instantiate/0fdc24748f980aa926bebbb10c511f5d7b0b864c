@@ -1,0 +1,1 @@
+(data(i64.atomic.rmw.and(i64.atomic.rmw.and(f64.copysomic.rmw.

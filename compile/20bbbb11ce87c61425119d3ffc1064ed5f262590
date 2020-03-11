@@ -1,0 +1,7 @@
+(func  
+
+
+i32.rotr   f32.add f64x2.abs  f32.add f64x2.abs
+
+
+i32.rotr   f32.add f64x2.absf64x2.abs) 

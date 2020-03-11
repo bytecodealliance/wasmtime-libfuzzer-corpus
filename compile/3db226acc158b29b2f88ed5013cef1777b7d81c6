@@ -1,0 +1,1 @@
+(func      return           return f32.demote/f64         v128.bitselect             v128.bitselect            return f32.demote/f64         v128.bitselect            v128.bitselect         ) 

@@ -1,0 +1,1 @@
+(elem  (    i64x2.neg  i64.atomic.rmw32.xor_u   )     ) 

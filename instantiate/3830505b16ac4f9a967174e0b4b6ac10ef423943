@@ -1,0 +1,6 @@
+	(		func	$nI''
+f32.load;;nd(4ss
+f32.load;;nd
+f32.load;;(ss
+i64.atomic.rmw16.cmpxchg_u;;`
+)

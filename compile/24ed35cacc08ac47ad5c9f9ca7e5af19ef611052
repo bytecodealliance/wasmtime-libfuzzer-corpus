@@ -1,0 +1,10 @@
+(global
+
+i32
+nop
+nop
+
+
+nop
+
+v8x16.swizzle

@@ -1,0 +1,12 @@
+(func 
+
+i16x8.add
+i32.store
+
+
+
+i32.store
+
+
+
+	) 

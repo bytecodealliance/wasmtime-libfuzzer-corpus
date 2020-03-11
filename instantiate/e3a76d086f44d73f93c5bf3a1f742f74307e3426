@@ -1,0 +1,4 @@
+		(func	return;;;;;a&&rc	
+f32x4.div	
+i32.atomic.rmw16.add_u;;;; 
+)

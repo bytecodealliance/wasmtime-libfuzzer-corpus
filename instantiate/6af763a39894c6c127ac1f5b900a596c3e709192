@@ -1,0 +1,6 @@
+				(func	$'''	
+i16x8.mul;;	droprox
+i8x16.ne;;)(f'''1s
+v16x8.load_splat;;	dr'''''''''''1s
+v16x8.load_splat;;		
+)

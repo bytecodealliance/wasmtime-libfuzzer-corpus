@@ -1,0 +1,7 @@
+		(func	
+i32.atomic.load;;	.eq
+;;	2.eqU	xxxxAxxeq
+i64.atomic.load;;	eq
+i64.atomic.load;;	eq
+i64.atomic.load;;	eq
+i64.atomic.load;;	2.eqdd;	1.e(f3"

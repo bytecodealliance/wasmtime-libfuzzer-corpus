@@ -1,0 +1,1 @@
+(func      return      i64x2.neg  i32.atomic.rmw8.and_u    return   i64x2.neg  i32.atomic.rmw8.and_u           i64x2.neg  i32.atomic.rmw8.and_u      ) 

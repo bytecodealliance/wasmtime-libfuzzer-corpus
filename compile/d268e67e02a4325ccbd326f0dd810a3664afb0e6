@@ -1,0 +1,1 @@
+(func   )(func      i32x4.load16x4_u       i64.popcnt      )(func      i32x4.load16x4_u     )(func             i32x4.load16x4_u     i64.popcnt      )(func       ) ;;unc-i64.  

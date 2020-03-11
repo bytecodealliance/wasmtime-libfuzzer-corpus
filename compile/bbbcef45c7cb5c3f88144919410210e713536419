@@ -1,0 +1,9 @@
+(func
+
+  v128.load      v128.load     i32.trunc_sat_f64_s
+
+ i32.trunc_sat_f64_s
+ i32.trunc_sat_f64_s
+
+
+) 

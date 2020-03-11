@@ -1,0 +1,3 @@
+		(func	i64.eq;;			%`c	
+i64.trunc_s/f64;;.q;c	
+i64.trunc_s/f64;;	dra		0

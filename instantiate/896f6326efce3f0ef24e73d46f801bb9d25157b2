@@ -1,0 +1,14 @@
+(func	$x2
+f64x2.mul;;#[c	
+)	(func	$n32.neg;;	n;;64x2
+f64x2.mul;;#ccccxunc	$x2
+f64x2.mul;;#[c	
+)	(func	$n32l;;#ccccxneg;;	n;;n;;64x2
+f64x2.mul;;#ccccxneg;;	n;;64x2
+f64x2.mul;;#4([c	
+)	(func	$n322
+f64x2.mul;;#4neg;;	n;;64x2
+f64x2.mul;;#4([c	
+)	(func	$n322
+f64x2.mul;;#4([c	
+)

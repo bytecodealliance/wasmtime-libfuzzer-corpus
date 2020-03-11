@@ -1,0 +1,5 @@
+				(func	$nI''
+i32.load8_u;;		;;	nI''
+i32.load8_u;;		''
+i32.load8_u;;		;;	nI''
+i32.load8_u;;				(func	$

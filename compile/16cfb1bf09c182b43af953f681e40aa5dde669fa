@@ -1,0 +1,8 @@
+(func $0|ixn
+f32.sqrt;;c 0
+i8x16.extract_lane_u
+1
+
+;;%ql
+
+)

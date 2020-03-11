@@ -1,0 +1,356 @@
+(func       return              return       return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func       return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                              return                    return         ) (func       return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                          f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return          f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f64.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                         return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return          f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return t            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return          f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f64.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                    f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                          f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return          f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f64.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func     ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s            return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return           i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt    i32x4.shr_s      return    return                              return                    return         ) (func       return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                          f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return          f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f64.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                         f32.nearest      f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                    f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                          f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt           return         ) (func       return                  return             return       return                               f64.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                    f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                          f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return          f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f64.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func     ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s            return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                                         return                    return         ) (func       return                  return             return               f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func     ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt  return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return              f64.lt                  return        return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                   return    return        i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func     ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt i64.load32_u     return             return      
+              return         )(func       return       ;;2                  return    return            f32.lt            i32x4.shr_s      return   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i16x8.le_u
+
+     return                               f32.lt                  return                    return         ) (func       return                  return             return       return                               f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return    return                  return             return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return                              f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                          f32.lt           f32.lt                  return    return                       f64.lt                               return                    return         ) (func              return                  f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                      f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return  return        i64.load32_u     return             return      
+              return               f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return                               f32.lt            f32.lt           f32.lt            i32x4.shr_s      return    return                       f64.lt                  return    return        i64.load32_u     return             return      
+              return         )(func       return  
+
+
+
+
+
+  return    return            return       return                 return         ) ;;unc       retu              return n       return     retur n              return        return      

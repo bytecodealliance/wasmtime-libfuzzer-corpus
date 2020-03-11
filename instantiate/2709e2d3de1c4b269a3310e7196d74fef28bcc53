@@ -1,0 +1,3 @@
+	(func
+i32.atomic.load8_u
+)

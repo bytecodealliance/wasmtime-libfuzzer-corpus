@@ -1,0 +1,12 @@
+(func
+;;%)(fun8
+
+i16x8.ne;;x_u 
+i16x8.ne
+
+i32.atomic.wait;;%)(@un8
+
+i16x8.ne
+
+i32.atomic.wait;;% 
+);;- %

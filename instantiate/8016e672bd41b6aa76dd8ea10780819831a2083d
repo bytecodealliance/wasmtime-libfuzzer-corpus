@@ -1,0 +1,3 @@
+				(func	$nI''*''I'c
+i32.atomic.rmw8.sub_u)(func	f32.gt;;''c
+i32.atomic.rmw8.sub_u)(func	$nI);;;;;

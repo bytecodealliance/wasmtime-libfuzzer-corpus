@@ -1,0 +1,4 @@
+		(func	(i32.eqz
+f64.max);;c
+i32.eqz
+f64.neg)

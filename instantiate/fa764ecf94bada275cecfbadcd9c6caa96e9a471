@@ -1,0 +1,7 @@
+		(func		$nIf>4'.eq
+f64.eq
+f64.eq
+f32.ge;;	f
+f64.eq
+f32.ge;;%c
+)

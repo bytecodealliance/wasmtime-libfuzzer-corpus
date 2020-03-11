@@ -1,0 +1,8 @@
+	(func	$n;;''	<<e'''	<<e
+i8x16.add
+i8x16.add;;	;<<e'''	<<e
+i8x16.add;;	
+i8x16.add;;	;*c''	<Oe
+i8x16.add;;	
+i8x16.add;;	;*c
+)

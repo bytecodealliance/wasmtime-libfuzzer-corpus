@@ -1,0 +1,6 @@
+				(func	$'''''e;;	e
+i8x16.narrow_i16x8_u;;	pdrop
+i8x16.narrow_i16x8_u;;	pdropna0eq
+f32.ne;;pdropna
+i8x16.narrow_i16x8_u;;	ppdr;	d2.ne;;	d0)(f	cd}}			c
+)

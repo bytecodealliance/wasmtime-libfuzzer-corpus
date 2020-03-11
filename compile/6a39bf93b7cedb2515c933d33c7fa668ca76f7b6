@@ -1,0 +1,25 @@
+(func     
+
+
+
+
+f32.floor
+
+
+i8x16.shr_u
+
+i32.rem_u
+i8x16.shr_u
+
+f32.floor
+
+
+
+i8x16.shr_u
+
+i32.rem_u
+
+
+
+
+  )  

@@ -1,0 +1,137 @@
+(func $d32_u
+
+
+
+;;%%%cm%%%.32_u
+
+
+
+;;%%%c m%%%.tru$\%@
+i64.atomic.rmw16.add_u
+i64.atomic.load
+;;%;
+;;%%%c m%%%.trtload
+;;%;
+;;%%%c m%%%.f64
+
+
+;;%tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%c@@
+
+i64.atomic.load
+;;%;
+;;%%%c m%%%.trtload
+;;%;
+;;%%%c m%%%.f64
+
+
+;;% m%%%.32_u
+
+
+
+;;%%%c m%%%.tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%c@@
+
+i64.atomic.load
+;;%;
+;;%%%c m%%%.trtload
+;;%;
+;;%
+
+;;%tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%cm%%%.32_u
+
+
+
+;;%%%c m%%%.tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%c;;%%%c d
+;;%%;;%;
+;;%%%c m%%%.f64
+
+
+;;%tru$\%@
+i64.atomic.rmw16.add_u
+;;%%\%@
+i64.atomic.rmw16.add_u
+;;%%%c@@
+
+i64.atomic.load
+;;%;
+;;%%%c m%%%.+rtload
+;;%;
+;;%%%c m%%%.f64
+
+
+
+
+
+;;%%%c m%%%.tru$\%@
+i64.atomic.rmw16.add_u
+i64.atomic.load
+;;%;
+;;%%%c m%%%.trtload
+;;%;
+;;%%%c m%%%.f64
+
+
+;;%tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%c@@
+
+i64.atomic.rmw16.add_u
+;;%%%c@@
+
+i64.atomic.load
+;;%;
+;;%%%c m%%%.trtload
+;;%;
+;;%
+
+;;%tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%cm%%%.32_u
+
+
+
+;;%%%c m%%%.tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%c;;%%%c d
+;;%%;;%;
+;;%%%c m%%%.f64
+
+
+;;%tru$\%@
+i64.atomic.rmw16.add_u
+;;%%\%@
+i64.atomic.rmw16.add_u
+;;%%%c@@
+
+i64.atomic.load
+;;%;
+;;%%%c m%%%.+rtload
+;;%;
+;;%%%c m%;;%tru$\%@
+i64.atomic.rmw16.add_u
+;;;;%%%cm%%%.2050_u
+
+
+
+;;%%%c m%%%.tru$\%@
+i64.atomic.rmw16.add_u
+;;%%%c;;%%%c m%d
+;;%;
+;;%%%c m%%%.f64
+
+
+;;  $'\%%.l
+
+
+
+
+
+
+);;-%

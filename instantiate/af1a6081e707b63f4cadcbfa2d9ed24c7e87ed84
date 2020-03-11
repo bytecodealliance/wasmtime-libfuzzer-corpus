@@ -1,0 +1,18 @@
+				(func	$.max;;	drop'x4.max;;:
+i32.le_s;;	dropn!'.le_s;;	dropn!
+f32x4.max;;	d.max;;	drop.$.		'pnropn!''pn!
+f32x4.max;;2
+i32.le_s;;	dropn!
+f32x4.max;;	d.maxop'x4.max;;:
+i32.le_s;;	dropn!''pn!
+f32x4.max;;:
+i32.le_s;;	dropn!
+f32x4.max;;	dropn!''pn!
+f32x4.max;;2
+i32.le_s;;	dropn!
+f32x4.max;;	d.max;;	drop.$.		cdrop'x4.max;;:
+i32.le_s;;	dropn!''pn!
+f32x4.max;;:
+i32.le_s;;	dropn!
+f32x4.max;;	d.max;;	drop.$.		c
+)

@@ -1,0 +1,5 @@
+					(func
+v128.not;;;4x0,%%I'%	
+v128.not;;%'
+v128.not;;?	d'dropn'c
+)

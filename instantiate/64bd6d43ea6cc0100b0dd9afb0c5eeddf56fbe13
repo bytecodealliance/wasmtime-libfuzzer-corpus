@@ -1,0 +1,4 @@
+				(func	$''
+i32.atomic.rmw8.or_u;;	pdrop;;	$'''''''';;.|e;.~
+i32.atomic.rmw8.or_u;;	pdr/mw8e3c
+)

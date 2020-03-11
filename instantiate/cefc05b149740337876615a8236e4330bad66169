@@ -1,0 +1,4 @@
+			(func	$nIe;;fffr
+i32.atomic.wait
+f32.neg
+)

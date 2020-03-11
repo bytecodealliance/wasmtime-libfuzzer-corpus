@@ -1,0 +1,1 @@
+(func  f64.nearest       ) (func f64.ne       f32.floor    ) (func f64.nearest       ) (func       f32.floor    f32.floor          f32.floor    f32.floor    ) (func f64.nearest       ) (func       f32.floor    f32.floor          f32.floor          ) 

@@ -1,0 +1,5 @@
+				(func	f64.min;;a2.ge
+i32.trunc_u/f32;;	pdro64x2.ge
+i32.trunc_u/f32;;	pdr.i2di3ov_u2.ne;;	^turatk_u;;	pdr.urax2.ge
+i32.trunc_u/f32;;	pdroiS6<x2.ge
+i32.trunc_u/f32;;	pdr.i2di3ov_oad

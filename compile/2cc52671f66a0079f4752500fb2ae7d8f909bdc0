@@ -1,0 +1,31 @@
+(func
+
+
+
+i32.shr_s
+
+
+ table.get
+5
+
+
+
+
+
+table.get
+5
+
+
+
+
+
+
+
+block table.get
+1
+
+
+
+
+
+ ) 

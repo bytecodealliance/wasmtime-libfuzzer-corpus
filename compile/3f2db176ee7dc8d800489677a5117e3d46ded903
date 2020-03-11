@@ -1,0 +1,9 @@
+(func $'rnuct_s:sat/f32;;o)e%-'%m$\.;% $%$%&%%%
+i32.trunc_s:sat/f32;;omici64.atomic.rmw.orret_f64m$\.;% $%$%&%%%
+i32.trunc_s:sat/f32;;ot_f64.nearest$%
+i32.trunc_s:sat/f32;;omicnc $'lm$\%%;%)e%-'%m$\.;% $%$%&%%%
+i32.trunc_s:sat/f32;;ot_f64 $%&;% $%$%&%%%
+i32.trunc_s:sat/f32;;omici64.atomic.rmw.orret_f64m$\.;% $%$%&%%%
+i32.trunc_s:sat/f32;;ot_f64.nearest$%
+i32.trunc_s:sat/f32;;omic $%&%%%
+i32.trunc_s:sat/f32;;omicc>>z $'l$

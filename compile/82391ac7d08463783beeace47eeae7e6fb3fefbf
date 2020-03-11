@@ -1,0 +1,6 @@
+(func;;;;;
+nop;;s
+v128.and
+
+v128.and
+) 

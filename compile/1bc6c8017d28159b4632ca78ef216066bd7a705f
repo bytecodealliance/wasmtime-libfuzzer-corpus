@@ -1,0 +1,1 @@
+(func  (            i64.xor    return        i32.rem_s i32.rem_s        i32.rem_s  i32.rem_s     )        ) 

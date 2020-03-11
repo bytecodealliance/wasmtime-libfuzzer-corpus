@@ -1,0 +1,1 @@
+(func       return    drop                 drop       drop            i32.reinterpret/f32   drop                 drop          drop     i32.reinterpret/f32   drop             drop        return )

@@ -1,0 +1,3 @@
+		(func	f32.gt;;	f32.gt;;		9;	sub_%``1q
+i32.atomic.rmw16.sub_u;;	ub_2.gts		;9;;	ub_%``1q
+i32.atomic.rmw16.sub_u)

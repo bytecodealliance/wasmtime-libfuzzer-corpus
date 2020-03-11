@@ -1,0 +1,6 @@
+				(func
+i32x4.ge_s;;	L''n0,s	
+i64.trunc_u/f64;;'n0,s	
+i64.trunc_u/f64;;,s	
+i64.trunc_u/f64;;'n0,s	
+i64.tru

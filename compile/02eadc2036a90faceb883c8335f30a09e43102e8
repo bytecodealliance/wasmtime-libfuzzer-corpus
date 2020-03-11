@@ -1,0 +1,26 @@
+(func  f64.ceil i32.le_s 
+
+
+
+f32.ceil
+
+
+
+f64.ceil
+ 
+ 
+  ) (func  
+
+
+f64.ceil i32.le_s 
+
+
+
+f32.ceil
+
+
+
+f64.ceil i32.le_s 
+
+ 
+  ) 

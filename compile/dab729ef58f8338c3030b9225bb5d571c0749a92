@@ -1,0 +1,11 @@
+(func
+i32.gt_s
+
+
+
+i32.gt_s;;\')
+i64.gt_s
+i32.gt_s
+i64.gt_s
+
+);;-p

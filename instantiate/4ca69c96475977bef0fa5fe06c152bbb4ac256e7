@@ -1,0 +1,17 @@
+		(func	;;	dr;$;	drcp;;	drcp
+i64.eqz;;(4.eqz;;(;n	;;drcp
+i64.eq;;	drrccp
+i64.eqz;;(
+i64.eqz;;(;q	;;drrccp
+i64.eqz;;(64.eq;;	drrccp
+i64.eqz;;(
+i64.eqz;;(;q	;;drcp
+i64.eq;;	drrccp
+i64.eqz;;(;q	;;drcp
+i64.eq;;	$rrcp
+i64.eqz;;(
+i64.eqz;;(;q	;;drcp
+i64.eq;;	drrccp
+i64.eqz;;(;q	;;drcp
+i64.eq;;	drrc		c
+)

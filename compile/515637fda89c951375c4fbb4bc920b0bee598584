@@ -1,0 +1,1 @@
+(func   i8x16.ne        ) (func  i8x16.ne    i32.rem_s      ) (func  i8x16.ne  i32.ge_u           ) (func  i8x16.ne   i32.rem_s     )

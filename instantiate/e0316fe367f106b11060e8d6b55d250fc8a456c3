@@ -1,0 +1,26 @@
+	(func	$n''''	
+i64x2.mul;;	(fumul{;	n;;Idr		neg;;	n;
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;	(func	$n';
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;	$n';
+i8x16.neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	$ne;g;	';
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnf;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Ln'$Lnl;;	n;
+i8x16.lt_u;;	(f	
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;$Lnl;;	n;
+i8x16.lt_u;;	(j	$ne;g;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)

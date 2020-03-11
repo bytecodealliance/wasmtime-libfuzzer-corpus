@@ -1,0 +1,35 @@
+(func     
+
+
+
+
+
+
+i64.atomic.rmw8.add_u    
+
+
+
+
+i64.atomic.rmw8.add_u 
+ f32x4.eq
+
+
+
+
+
+
+
+i64.atomic.rmw8.add_u 
+
+
+
+
+
+
+
+
+
+
+
+
+  ) 

@@ -1,0 +1,10 @@
+(func	$n
+loop	end;;	
+loop	end;;	$n
+loop		end;;c	$n
+loop	end;;
+loop	end;;	
+loop		end;;c	$n
+loop	end;;	
+loop	end;;	oen;	ooc
+)

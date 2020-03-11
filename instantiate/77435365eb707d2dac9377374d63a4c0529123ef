@@ -1,0 +1,10 @@
+				(func	$x4.ne;;	drx		`% (;mpxchg_u)(func	$nI';;";;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;.ato;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI';;";;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;.ato;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;.atomic.rmw4.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;;;;;;;;;r% (;mpxchg_u)(func	$nI';;";;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI''d2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222220)(func	$vg;;;;;;.atomic.rmw8.cmpxchg_u)(func	$nI''d0)22222222222222222222222222mw4.cmpxchg_u)(func	$d0)(func	$vg;;;;;;.atomic.r		(func	$x4.ne;;	drx		`% (;mpxchg_u)(func	$nI';;";;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;.ato;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;.atomic.rmw4.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;;;;;;;;;r% (;mpxchg_u)(func	$nI';;";;;
+i32.atomic.rmw8.cmpxchg_u)(func	$nI''d2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222220)(func	$vg;;;;;;.n'c
+)

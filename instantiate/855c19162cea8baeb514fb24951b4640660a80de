@@ -1,0 +1,4 @@
+			(func	$n
+i32x4.ge_s;;not;
+i32x4.ge_s;;x	?
+)

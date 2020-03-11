@@ -1,0 +1,5 @@
+		(func	(f64.eq
+i64.extend16_s;;	6+    p 
+i64.extend16_s;;	dp1q
+)i64.extend16_s;; p 2q
+i64.extend16_s;;%ax6

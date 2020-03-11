@@ -1,0 +1,1 @@
+(func $^'lm%. i32.trunc_f32_s)(func $^'lm%%c i32.trunc_f32_s i16x8.le_s)(func $^'c i32.trunc_f32_s i16x8.le_s)(func $^'lm$%ee3e')

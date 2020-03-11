@@ -1,0 +1,8 @@
+		(func	
+i8x16.splat;;i
+i16x8.max_s;;"xnc	
+i8x16.splat;;i
+i16x8.max_s;;"Wp.max..splat;;i
+i16x8.max_s;;;i
+i16x8.max_s;;"Wp.max.m_sm_s
+)

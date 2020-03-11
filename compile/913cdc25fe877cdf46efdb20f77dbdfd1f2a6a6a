@@ -1,0 +1,37 @@
+(func $'l$load32_u
+
+
+
+;;@@@@@%%%c m
+
+i32.atomic.load16_u
+i32.atomic.load16_u
+
+
+
+;;%% m
+
+i32.atomic.load16_u
+i32.atomic.load16_u
+
+
+
+;;%%%c@ munc $2_u
+
+
+
+;;@@@@@@@@@@@@@@@@@%%%c m
+
+i32.atomic.load16_u
+i32.atomic.load16_u
+
+
+
+;;%%%c@ m%%@@@@@@@@@@@@@@@@%%%c m
+
+i32.atomic.load16_u
+i32.atomic.load16_u
+
+
+
+;;%%%c@ m%%%%%

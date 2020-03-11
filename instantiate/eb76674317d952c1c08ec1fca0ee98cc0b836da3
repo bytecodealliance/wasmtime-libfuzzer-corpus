@@ -1,0 +1,2 @@
+(func		$nI'f.>1e5
+i64.atomic.rmw16.xchg_u)

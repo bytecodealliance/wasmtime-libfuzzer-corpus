@@ -1,0 +1,1 @@
+(func     return       i32.atomic.rmw16.xor_u            i16x8.narrow_i32x4_u   i16x8.narrow_i32x4_u  i16x8.narrow_i32x4_u        memory.copy       i16x8.narrow_i32x4_u   return     ) 

@@ -1,0 +1,4 @@
+(func	$q
+i32.atomic.rmw.or;;/''2q
+i32.atomic.rmw.or;;`c
+)

@@ -1,0 +1,10 @@
+(func $o
+
+
+f64x2.ne
+v16x8.load_splat;;%-( (;~@@
+v16x8.load_splat;;%-(fum
+v16x8.load_splat;;ne
+v16x8.load_splat;;%-(fum;@@;~@@@H;%2.ne
+v16x8.load_splat;;n] mnc
+);;%%

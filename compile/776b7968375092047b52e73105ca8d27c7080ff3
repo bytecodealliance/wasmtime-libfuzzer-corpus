@@ -1,0 +1,3 @@
+(func;;
+atomic.notify
+i64.trunc_f32_u)

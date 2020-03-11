@@ -1,0 +1,6 @@
+		(func	(i64.load16_u
+f32.gt;;	x6+   	aY	c6+f32.eq
+table.copy;;	aaa   Yq
+table.copy;;	aaaapcnt;;	aY	c	Cc}}<<<<<+<
+f32.gt);;""""""""C\\f32.lt\pn\\DDDDDDD\\a\\\\Y\\\<<<<=<<<<<<<4u.eq
+f32.gt);;""""""""C\\DDDDDD\\a\\\\Y\\\<<<<=<<<<<<<4u{Cc}}

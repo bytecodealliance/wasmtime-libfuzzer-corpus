@@ -1,0 +1,6 @@
+				(func	$n	
+i16x8.mul;;'('''1s
+v64x2.load_splat;;	dr8	nI'''''1s
+v64x2.load_splat;;	dro2.l''''1s
+v64x2.load_splat;;	dro		c
+)

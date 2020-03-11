@@ -1,0 +1,17 @@
+		(func	f32.gt;;	r0 2.gt;;	r0 1
+i64x2.shl;;drunc	nc	
+i64x2.shl;;	ddrunc	r0 1
+i64x2.shl;;	;	ddrunc	r0 1
+i64x2.shl;;	;1
+i64x2.shl;;	ddrunc	r0 1
+i64x2.shl;;	;	r1 1
+i64x2.shl;;l;;	ddrunc	r0 1
+i64x2.shl;;	;	r0 164x2.shl;;r0 1
+i64x2.shl;;	;	r0 1
+i64x2.shl;;l;;	ddrunc	r0 1
+i64x2.shl;;	;1
+i64x2.shl;;	ddrunc	r0 0
+i64x2.shl;;	;	r0 1
+i64x2.shl;;l;;	ddrunc	r0 1
+i64x2.shl;;	;	r0 1
+i64x2.shl;;

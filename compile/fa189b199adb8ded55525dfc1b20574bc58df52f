@@ -1,0 +1,1 @@
+(func $^ee i8x16.add_saturate_s)(func $arri16x8_u i8x16.add_saturate_s)(func i64.atomic.load i16x8.le_s)(func $%%%-%oad i8x16.narrow_i16x8_u i8x16.add_saturate_s)(func $^'e%mi8x16.narrow_i16x8_u i8x16.add_saturate_s)(func $'a')

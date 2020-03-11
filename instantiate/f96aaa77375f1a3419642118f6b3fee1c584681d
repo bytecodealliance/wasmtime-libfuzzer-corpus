@@ -1,0 +1,7 @@
+				(func	$nI''''	
+i16x8.neg;;func	$q	
+i64.store;;	qqqq
+i16x8.neg;;func	$q	
+i64.store;;	qqqq	$q	
+i64.store;;	qqqqq	
+i64.store)

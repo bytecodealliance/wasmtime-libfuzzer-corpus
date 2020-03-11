@@ -1,0 +1,18 @@
+(func   v8x16.load_splat
+
+
+
+
+v8x16.load_splat
+
+    
+  i8x16.sub_saturate_u
+  i8x16.sub_saturate_u 
+
+
+
+
+   i8x16.sub_saturate_u 
+
+
+  ) 

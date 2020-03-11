@@ -1,0 +1,37 @@
+(func   
+
+    i16x8.load8x8_s
+
+
+ f64.convert_u/i32
+
+
+
+
+
+ f64.convert_u/i32
+
+
+
+block
+
+
+
+
+
+
+  
+
+
+ f64.convert_u/i32
+
+
+
+block
+
+
+
+
+
+
+  ) 

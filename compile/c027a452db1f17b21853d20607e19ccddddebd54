@@ -1,0 +1,1 @@
+(func        memory.copy  return    memory.copy      i16x8.neg      memory.copy  memory.copy    i16x8.neg         memory.copy  ) 

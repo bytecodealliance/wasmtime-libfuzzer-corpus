@@ -1,0 +1,1 @@
+(func f64.const 0 f32.const 700.3002000504502 i64.trunc_s:sat/f32 f32.const  300.300000504503 i64.trunc_s:sat/f32  f64.const 0 f32.const 700.3002000504502 i64.trunc_s:sat/f32 f32.const 0000001   return         ) ;;u020005045i82.sub f64.const 00001   return         ) ;;u.%

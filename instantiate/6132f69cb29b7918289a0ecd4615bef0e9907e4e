@@ -1,0 +1,17 @@
+				(func	$nI'''		
+i32.ge_s;;	drop.le;;	d 1s
+f32.nearest;;drop.le;;nc	$nI';	d 1s
+f32.nearest;;dr;;	drop.le;;	d 1s''		
+i32.ge_s;;	d 1s
+f32.nearest;;drop.le;;nc	$nI'''		
+i32.ge_s;;	drop.le;;	d 1s
+f32.nearest;;dr;;	drop.le;;	dunc	$nI'''		
+i32.ge_s;;	drop.le;;	d 1s
+f32.nearest;;drop.le;;nc	$nI'''		
+i32.ge_s;;	d 1s
+f32.nearest;;drop.le;;nc	$nI'''		
+i32.ge_s;;	drop.le;;	d 1s
+f32.nearest;;dr;;	drop.le;;	d 1s
+f32.nearest;;dr 1s
+f32.nearest;;drop.l
+)

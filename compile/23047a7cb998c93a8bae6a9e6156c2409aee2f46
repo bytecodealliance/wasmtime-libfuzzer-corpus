@@ -1,0 +1,1 @@
+(func f32.const 700.300000504502 i64.trunc_s:sat/f32 f32.const 1394550382908903324199 i64.trunc_s:sat/f32 f32.const 0000504502 i64.trunc_s:sat/f32 f32.const 00504502 i64.trunc_s:sat/f32 f32.const 000   return       ) ;;un6.c;n

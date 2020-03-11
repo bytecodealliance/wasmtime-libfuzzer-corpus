@@ -1,0 +1,9 @@
+(func;;;;;;;;s
+i64.atomic.store32;;nc;;;;;;s
+i32.atomic.store
+i64.atomic.store16;;2;;nc;;;;s
+i64.atomic.store16;;ΎΎ2;;s
+i64.atomic.store16;;
+i64.atomic.store16;;ΎΎ2.m;;
+
+) 

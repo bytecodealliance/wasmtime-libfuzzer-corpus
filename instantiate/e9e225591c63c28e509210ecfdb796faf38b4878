@@ -1,0 +1,4 @@
+				(func	$-vv16x86x8.loa4'1s
+v16x8.load_splat;;	'1s
+f32.convert_i64_s;;	dr'
+)

@@ -1,0 +1,1 @@
+(func f32.const 01855000.00000001 i64.trunc_f32_u f64.const 000000000 f32.const 000000000100001 i64.trunc_f32_u f64.const 00000003630435595324532593 f32.const 00000000003710000.00000001 i64.trunc_f32_u f64.const 483647   return         ) ;;unc       return       ~    r        

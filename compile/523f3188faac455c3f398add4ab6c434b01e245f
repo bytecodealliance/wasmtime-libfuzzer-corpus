@@ -1,0 +1,18 @@
+(func $'l$load3%%@@@
+
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+i64.atomic.rmw16.cmpxchg_u
+);;-%

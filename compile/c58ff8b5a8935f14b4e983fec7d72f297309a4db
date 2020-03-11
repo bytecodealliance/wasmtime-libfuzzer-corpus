@@ -1,0 +1,7 @@
+(func
+
+local.set
+ $unc
+
+local.set
+em_sa

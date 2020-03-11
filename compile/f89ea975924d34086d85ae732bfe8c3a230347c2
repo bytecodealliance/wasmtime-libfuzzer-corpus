@@ -1,0 +1,1 @@
+(func  f32.sqrt  f32.sqrt )(func   f32.sqrt f32.sqrt  f64x2.div  )

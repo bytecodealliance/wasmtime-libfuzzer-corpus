@@ -1,0 +1,5 @@
+		(func;;a..eq
+f32.sub;;#q;;(s32..eq
+f32.sub;;q;;q
+f32.sub;;#2x4.ge_u
+)

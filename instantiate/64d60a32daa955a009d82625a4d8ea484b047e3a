@@ -1,0 +1,5 @@
+				(func	$n''	
+i16x8.mul;;	8.mul;	'unc	$n''	
+i16x8.mul;;	8.mul;;	n''
+memory.fill;;.u/;;
+)

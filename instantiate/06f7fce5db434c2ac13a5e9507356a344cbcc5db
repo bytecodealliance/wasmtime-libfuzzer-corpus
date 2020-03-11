@@ -1,0 +1,17 @@
+				(func	$nI'''32ro0x''	
+i16x8.le_s	
+f32x4.min;;	d;f32ro0x''	
+i32.clz;;	dr
+f32x4.min;;	d;f32ro0x''		((func	$nI''''min;;	dropn'oc	:$nI'''	
+f32x4.min;;	d;f32ro0x''	
+f32.min;;	dro2ro0x''	
+i32.clz;;	dr
+f32x4.min;;	d;f32ro0x''		((func	$nI''''min;;	dropn'oc	:$nI(func	$nI''%''	;f32ro0x''		((func	$nIf'''	
+f32x4.min;;	''	
+i32.clz;;	dr
+f32x4.min;;	d;f32ro0x''		((func	
+f32x4.min;;	d;f3''		((func	$nI''''	
+f32x4.min;;	d;''''	
+f32x4.min;;	d;f#2ro0x''	
+f32.min;;	dr_p;f3o0x'			\
+)

@@ -1,0 +1,1 @@
+(func    i32.store ( i32.store    i64.rotl   ( i32.store    i64.rotl    i32.store   i32.store      )       )  ) 

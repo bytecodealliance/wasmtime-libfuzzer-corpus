@@ -1,0 +1,4 @@
+				(func
+i32.trunc_s:sat/f32;;	r
+i32.trunc_s:sat/f32;;tpu.c
+)

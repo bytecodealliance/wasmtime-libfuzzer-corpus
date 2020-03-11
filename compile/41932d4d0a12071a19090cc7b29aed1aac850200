@@ -1,0 +1,11 @@
+(func   i32.atomic.rmw.xchg   i32x4.extract_lane
+
+
+
+
+
+
+3   
+
+
+ ) 

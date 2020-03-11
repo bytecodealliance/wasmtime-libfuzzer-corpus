@@ -1,0 +1,6 @@
+		(func	f32.gt;;
+i32.eq;;	aaaq
+i32x4.shl
+i64.eq;;	drt
+i32x4.shl
+)

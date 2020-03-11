@@ -1,0 +1,1 @@
+(func       drop    i64.atomic.load32_u  drop       i64.atomic.load32_u      i64.atomic.load32_u drop       i64.atomic.load32_u  d   

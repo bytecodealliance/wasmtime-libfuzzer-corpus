@@ -1,0 +1,6 @@
+				(func	$nI''
+i32x4.ge_s;;
+i32.atomic.store;;wnI''
+i32x4.ge_s;;
+i32.atomic.store;;wr_s	c
+)

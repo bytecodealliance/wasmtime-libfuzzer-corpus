@@ -1,0 +1,5 @@
+				(func	f64x2.ne;;iix.24
+	nop;;	unc	f65x2.ne;;ix.24
+	nop;;	drn
+	nop;;	dr
+)

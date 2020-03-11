@@ -1,0 +1,2 @@
+(func  i64x2.load32x2_u
+i64.atomic.rmw16.xor_u) 

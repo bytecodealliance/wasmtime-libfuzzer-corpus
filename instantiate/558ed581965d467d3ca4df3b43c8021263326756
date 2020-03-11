@@ -1,0 +1,5 @@
+		(data	(f32.eq
+f32.ne;;q
+f32.ne;;	f32.eq
+f32.ne;;q
+f32.ne;;	dr;dr;	dr!

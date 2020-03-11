@@ -1,0 +1,26 @@
+(func       i8x16.shl    f32.sqrt
+
+
+
+
+
+
+
+
+nop
+
+f32.sqrt
+
+
+
+
+
+
+
+f32.sqrt
+
+f32.sqrt
+
+
+
+) 

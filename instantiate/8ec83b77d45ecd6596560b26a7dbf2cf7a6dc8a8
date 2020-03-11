@@ -1,0 +1,6 @@
+		(func	i64.ne;;	0x;;
+v128.and;;	dr
+v128.and;;c" drc;;
+v128.and;;	dr
+v128.and;;	dropa1x	q*a5 	c+" 
+)

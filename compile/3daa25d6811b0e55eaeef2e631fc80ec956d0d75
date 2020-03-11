@@ -1,0 +1,1 @@
+(func i64.store16   i32.store16      i32.store16    return      i32.store16   i32.store16    return      i32.store  i32.store16 ) 

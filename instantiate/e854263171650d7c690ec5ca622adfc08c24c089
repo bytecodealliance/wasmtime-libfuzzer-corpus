@@ -1,0 +1,19 @@
+		(func	f32.gt;;	droprt;;t;;	droprt;;		0 q
+i32.rotl;;	lrop	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;				0 q
+i32.rotl;;	lrop	%`sub_u;;		%	%`d x		%`			c
+)(func	f32.gt;;	droprt;;t;;	droprt;;		0 q
+i32.rotl;;	lrop	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;				0 qq
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;		%	%`d x		%`			c
+)(func	f32.gt;;	droprt;;t;;	droprt;;		0 q
+i32.rotl;;	lrop	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;				0 q
+i32.rotl;;	lrop	%` 0	%`1q
+i64.atomic.rmw32.sub_u;;		%	%`dp	%` 0	%`0q
+i64.atomic.rmw32.sub_u;;		%	%`x`			c
+)

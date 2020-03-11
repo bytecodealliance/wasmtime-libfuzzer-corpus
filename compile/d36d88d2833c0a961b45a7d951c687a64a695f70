@@ -1,0 +1,1 @@
+(func f32x4.sqrt)(func $^'lenc v128.load)(func $^'%i5~_u/????????nc v128.load)(func $^'????nc v128.load)(func $^'???nc v128.load)(func $^=e%i16~fence)

@@ -1,0 +1,4 @@
+				(func	$nI''''	i64.lt_s
+i8x16.avgr_u;;	$n;	=.
+i32.load16_u;;	ro
+)

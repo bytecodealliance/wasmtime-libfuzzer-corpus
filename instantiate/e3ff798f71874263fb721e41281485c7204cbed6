@@ -1,0 +1,24 @@
+				(func	$'''wait;;	pdroi32.div_u2.nec.		(func	$'''wait;;	pdroi32.div_unxor_u;;	.?w32.xor_u;;	.;	pdroi32.div_u.xor_u;;	.?ge32	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	.c}}mw16.ait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	;;ge
+i64.atomic.rmw32.xor_u;;	.c}omic.wait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	;;ge
+i64.atomic.rmw32.xor_u;;
+i64.atomic.rmw32.xor_u;;	.;	pdroi32.div_u.xor_u;;ge64.ne;;	c	
+f32.sqrt
+i64.atomic.wait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	.;	pdroi32.div_u.xor_u;;	.?ge32.ne;;	c	
+f32.sqrt
+i64.atomic.wait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	.c}}mw16.ait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	;;ge
+i64.atomic.rmw32.xor_u;;	.c}omic.wait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	;;ge
+i64.atomic.rmw32.xor_u;;
+i64.atomic.rmw32.xor_u;;	.;	pdroi32.div_u.xor_u;;	.?ge32.ne;;	c	
+f32.sqrt
+i64.atomic.wait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	u;;	.c}omic.wait;;	pdroi32.div_u2.ne;;ge
+i64.atomic.rmw32.xor_u;;	;;ge
+i64.atomic.rmw32.xor_u;;	.c}}	.c}}mor_u;;	
+)

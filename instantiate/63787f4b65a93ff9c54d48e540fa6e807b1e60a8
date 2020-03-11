@@ -1,0 +1,5 @@
+		(func	(f64.eq
+f32.gt;;. ;; p 1q
+call_indirect;;	tneu;	   p 2q
+call_indirect;;	
+$'

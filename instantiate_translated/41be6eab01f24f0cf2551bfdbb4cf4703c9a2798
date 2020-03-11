@@ -1,0 +1,10 @@
+document {
+  doctype {
+    name: "T SYSTEM \'\'" int_subset: "<!ENTITY z \'&:;&:;&:;&:;'>"
+  }
+  element {
+tag {
+  name: "U>&z;;z;&z;&z;&z;&z;&z;&z;&z;" }
+  }
+}
+options: 4

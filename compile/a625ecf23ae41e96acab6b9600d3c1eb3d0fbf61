@@ -1,0 +1,1 @@
+(data    (return      i8x16.ge_s i8x16.ge_s    f32.ceil  f64.ceil     f32.eq           f64.eq            f32.ceil   f32.ceil  f64.ceil     f32.eq           f64.eq            f32.ceil     f32.eq f32.eq       f64.ceil)            f64.ceil)       ) 

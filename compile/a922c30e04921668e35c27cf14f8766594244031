@@ -1,0 +1,1 @@
+(func    f32.min               f32.min                                  f32.min            f32.min        i32.atomic.rmw.or       i32.atomic.rmw.or       i32.atomic.rmw.or         i32.atomic.rmw.or       i32.atomic.rmw.or       i64.atomic.rmw.or       i32.atomic.rmw.or                 i32.atomic.rmw.or   i32.atomic.rmw.or      ) 

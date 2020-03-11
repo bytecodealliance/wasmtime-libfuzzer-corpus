@@ -1,0 +1,708 @@
+(func $'lrunc_s:sat/f2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%/f2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':s16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:2.load16_s
+
+;;%/f2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $%'% /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:al $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+;;%;%n $'lrunc_s:sat/f3runc_s;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:al $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n (func 
+f32x4.min;;$($\%;%%%
+f64x2.ge
+
+
+
+;;$'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%%-%% 'lm$\%
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $%'% /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:al $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;_s
+
+;;%/f2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':s16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%/f2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $%'% /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:al $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:al $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n (func 
+f32x4.min;;$($\%;%%%
+f64x2.ge
+
+
+
+;;$'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%%-%% ''lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%/f2
+i16x8.avgr_u
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'sat/f32
+i16x8.avgr_u
+
+;;%;% $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:as/fnc_s:sat/f3,
+i16x8.avgr_u
+
+;;%;% $n $'lrunc_s:sa;;%;%n $'l $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $%'% /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:al $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1 \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%n $'lrunc_s:sat/f31
+i16x8.avgr_u
+
+;;%;% 1% &'.@rst:al $% \'.@runc16x8.avgr_u
+
+;;%;% $% \':sat2
+i32.load16_s
+
+;;%;%n $'lrunc_s:sat/f3runc_s:sat/f32
+i16x8.avgr_u
+
+;;%;% 1%;% $% % /f32
+i16x8.avgr_u
+
+;;%;% % $% \
+;;%;% $% \':sat2
+f64.copysign
+
+;;%;%
+;;%\'^%%-%       &'.@rst:a- $@;\'u$'l%$@@;;$\'l\'lm$\%%\%;%)
+
+);;-   z%

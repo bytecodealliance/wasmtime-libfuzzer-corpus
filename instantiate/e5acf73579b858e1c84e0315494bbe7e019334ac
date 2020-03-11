@@ -1,0 +1,4 @@
+				(func	$nIdr
+i64.popcnt;;	;r
+i64.popcnt;;	1?
+)

@@ -1,0 +1,5 @@
+				(func	$''	
+i32.atomic.wait;;;	c	$n'''	'	
+i32.atomic.rmw8.xor_u;;;;;	c	$n'''	'	
+i32.atomic.rmw8.xor_u;;;	c	@
+)

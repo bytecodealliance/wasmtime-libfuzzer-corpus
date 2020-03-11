@@ -1,0 +1,16 @@
+(func
+
+
+
+
+i32.rem_s
+
+
+v128.store
+ 
+i32x4.any_true
+i32x4.any_true
+
+
+
+ )

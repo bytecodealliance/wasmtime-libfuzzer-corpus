@@ -1,0 +1,5 @@
+				(func	$n'''	i64.lt_s
+i32.load;;ne;64.lt_s
+i32.load;;ndrs
+i32.load;;4
+)

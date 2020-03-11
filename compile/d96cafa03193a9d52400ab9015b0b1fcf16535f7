@@ -1,0 +1,9 @@
+(func
+i32.atomic.load16_u
+
+;;@@u
+i32.atomic.load16_u;;'.l
+
+
+
+);;

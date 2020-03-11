@@ -1,0 +1,6 @@
+				(func	;;\
+i16x8.mul;;	d
+i16x8.max_u;;	dro	
+i16x8.max_u;;256 	c
+i16x8.max_u;;	dro	
+)

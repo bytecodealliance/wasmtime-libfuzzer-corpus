@@ -1,0 +1,6 @@
+	(func
+f64x2.div;;+f'f#nc
+f64x2.div
+f32x4.min;;+644c
+f32x4.min;;+4(22
+)

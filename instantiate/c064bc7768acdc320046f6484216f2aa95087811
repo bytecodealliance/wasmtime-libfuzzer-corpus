@@ -1,0 +1,40 @@
+				(func	$nI'xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	i64.loadatomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	cI@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xorc.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;;;	c	@
+i32.atomic.rmw8.xor_u;9;	c	@
+i32.at

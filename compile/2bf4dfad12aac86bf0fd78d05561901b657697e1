@@ -1,0 +1,1 @@
+(func      f64.min        i32x4.ge_s                 i32x4.ge_s       i32x4.ge_s      i32x4.ge_s   f32.min              i32x4.ge_s              i32x4.ge_s   f32.min         i32x4.ge_s   f32.min               i32x4.ge_s f32.min   ) 

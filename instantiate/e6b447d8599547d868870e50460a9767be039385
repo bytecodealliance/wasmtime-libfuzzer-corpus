@@ -1,0 +1,9 @@
+				(func	$'.shl;;q
+return;;t;v8.shl;;q
+return;;t;v8x16;	pdropna0eq
+i32.shl;;	px0eq
+i32.shl;;	prnoad	pbeq
+i32.shl;;	prnoadi;neq
+i32.shl;;	prnoad	poad	pbeq
+i32.shl;;	prnoad	pb"'"?"'}}			c
+)

@@ -1,0 +1,4 @@
+			(func	$'''
+i64.store32
+i16x8.le_s
+)

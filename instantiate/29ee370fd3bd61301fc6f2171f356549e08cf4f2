@@ -1,0 +1,4 @@
+		(func	(i64x2.add;;f	%a@q
+return);;"%;8_u;;c
+i32x4.widen_high_i16x8_u;;c
+)

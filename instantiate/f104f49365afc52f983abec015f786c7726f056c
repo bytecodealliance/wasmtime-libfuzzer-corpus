@@ -1,0 +1,5 @@
+		(func	;;*;;(;q
+f64.abs;;q		
+f64.abs;;.eq
+i32.shl;;q;		f33.
+)

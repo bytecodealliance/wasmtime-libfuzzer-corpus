@@ -1,0 +1,4 @@
+		(func	;;arcll
+i32.eq;;	mory.fiLl
+i32x4.max_u;;	
+)

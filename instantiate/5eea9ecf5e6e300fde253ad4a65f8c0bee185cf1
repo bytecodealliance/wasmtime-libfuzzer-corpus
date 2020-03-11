@@ -1,0 +1,4 @@
+				(func	$''''''''BB2q
+i64.atomic.rmw.or;;B2q
+i64.atomic.rmw.or;;rc
+)

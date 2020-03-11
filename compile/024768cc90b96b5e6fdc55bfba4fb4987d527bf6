@@ -1,0 +1,4 @@
+(func    i8x16.ne   i32.rotl   
+
+   i32.rotl   
+ i32.rotl    i32.rotl  ) 

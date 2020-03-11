@@ -1,0 +1,6 @@
+				(func	$'''nan:0xf33x
+i32.and;;	f.and;;	ff33x
+i32.and;;xi32.and;;x
+i32.and;;	f
+i32.and;;	f'		\
+)

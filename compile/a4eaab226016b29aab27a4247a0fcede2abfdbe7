@@ -1,0 +1,4 @@
+(func $%
+f64.promote_f32
+i16x8.min_u;;$ote_f32
+i16x8.min_u);;-%

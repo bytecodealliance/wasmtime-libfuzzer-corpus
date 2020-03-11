@@ -1,0 +1,4 @@
+				(func	$nI'''eq
+i64.load16_u;;q
+i64.load16_u
+)

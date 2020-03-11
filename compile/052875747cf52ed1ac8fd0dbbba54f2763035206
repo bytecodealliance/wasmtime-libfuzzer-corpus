@@ -1,0 +1,1 @@
+(func  (    return    i32x4.max_s    i32x4.max_s  i16x8.shr_s    )        )(func (    i32x4.max_s  i32x4.max_s     )         ) 

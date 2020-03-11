@@ -1,0 +1,1 @@
+(func       i16x8.sub return          i16x8.sub  i64.atomic.load8_u    i16x8.sub                   i64.atomic.load8_u return      i64.atomic.load8_u    i16x8.sub  )     

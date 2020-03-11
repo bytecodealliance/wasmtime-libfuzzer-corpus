@@ -1,0 +1,3 @@
+	(func		
+i64.load
+i16x8.ne)

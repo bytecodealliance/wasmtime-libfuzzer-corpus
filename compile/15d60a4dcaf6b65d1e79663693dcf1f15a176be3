@@ -1,0 +1,1 @@
+(func   f32.div    f32.sub  i32.shr_s f32.sub   i32.shr_s f32.div       i32.shr_s f32.sub        i32.shr_s f32.sub  )  

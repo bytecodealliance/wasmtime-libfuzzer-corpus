@@ -1,0 +1,24 @@
+(func  
+i16x8.any_true
+
+
+
+f32.eq
+
+
+
+
+
+i64.rem_s
+
+
+
+
+
+
+
+f32.eq
+
+
+
+f32.eq ) 

@@ -1,0 +1,1 @@
+(func      i32.load8_u return       i64.atomic.rmw.or         i64.atomic.rmw.or        i64.atomic.rmw.or        v128.or i64.eqz  i64.atomic.rmw.or        )

@@ -1,0 +1,1 @@
+(func   						 v128.load 									 v128.load drop   f32x4.eq					 i32.trunc_u/f64   								 v128.load 		 v128.load drop   f32x4.eq					    v128.load 										 v128.load   f32x4.eq								 v128.load 										 v128.load    i32.trunc_u/f64   ) 

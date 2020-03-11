@@ -1,0 +1,1 @@
+(func         f64.gt          i32.atomic.rmw.sub         i32.atomic.rmw.sub    i32.atomic.rmw.sub       ) 

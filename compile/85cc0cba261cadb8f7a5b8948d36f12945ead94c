@@ -1,0 +1,9 @@
+(func 
+       return       return               i64.rotl return     
+       return       return               i64.rotl return                   
+       return       return               i64.rotl return                   
+       return       return               i64.rotl return                   
+   i64.rotl return                   
+     return       return               i64.rotl return                   
+          return       return                  i64.rotl return                   
+ i64.rotl return             return         return      ) ;;unn          

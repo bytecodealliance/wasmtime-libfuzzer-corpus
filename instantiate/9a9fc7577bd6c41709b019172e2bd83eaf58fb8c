@@ -1,0 +1,6 @@
+		(func	$.shr_s''	
+f64.trunc;;	
+i32.store16;;c	$nI'&				;;(fuanc0'
+i32.mul;;0'
+i32.mul;;	t				(dO	c
+)

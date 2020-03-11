@@ -1,0 +1,4 @@
+		(func	f32.eq;;		d2q;
+i32.eq;;q;;	.	ddRcp
+f32.sub;;i32
+)

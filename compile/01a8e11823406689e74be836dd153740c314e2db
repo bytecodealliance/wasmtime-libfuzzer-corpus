@@ -1,0 +1,13 @@
+(func   i64.atomic.rmw.xor 
+
+
+ 
+i64x2.add
+i64x2.add
+i64x2.add
+;;
+
+
+
+
+  ) 

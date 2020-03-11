@@ -1,0 +1,8 @@
+		(func;;:q;	*62i64.trunc_u/f64unc;;:;qd33_u;;:q;	64.;;:q;	64.
+i64.load16_u;;:q;	6.
+)	(func;;:q;	*62i64.trunc_u/f64unc;;:;qd33_uunc;;:q;	*62i64.trunc_u/f64unc;;:;qd33_u;;:q;	64.;;:q;	64.
+i64.load16_u;;:q;	6.
+)	(func;;:q;	*62i64.trunc_u/f64unc;;:;qd33_u;;:q;	64.;;:q;	64.
+i64.load16_u;;:q;	;;:q;	64.;;:q;	64.
+i64.load16_u;;:q;	6.
+)

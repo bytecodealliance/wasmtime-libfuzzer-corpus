@@ -1,0 +1,35 @@
+(func i32.trunc_u:sat/f64
+
+
+ i32.trunc_u:sat/f64
+
+
+i32.trunc_u:sat/f64
+
+
+;;;.nc n4.l
+
+i32.trunc_u:sat/f64
+
+
+
+
+
+ i32.trunc_u:sat/f64
+
+
+
+i32.trunc_u:sat/f64
+
+
+i32.trunc_u:sat/f64
+
+
+;;;.nc n4.l
+
+i32.trunc_u:sat/f64
+
+
+;;..?
+
+);;-%

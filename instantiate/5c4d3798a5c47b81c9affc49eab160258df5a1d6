@@ -1,0 +1,109 @@
+	(func	$n''''	
+i64x2.mul;;	(fumul{;	n;;Idr		neg;;	n;
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;	(func	$n';
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;	$n';
+i8x16.lt_u;;	(f	$negu;;	(f	$neg;;8.	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	$ne;g;	';
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;_u;;	(func	$n'$Lnl;;	~;
+i8x16.lt_u;;	(f	$neg;;	;;`	(fumul{;	n;;Idr		neg;;28x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$(b;g;	;;	(fumu;;	n;'i16x8.lt_u;;	(fu;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;I;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	$ne;g;	';
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;`	(fumul{;	n;;Idr		neg;;28x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(fu;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$;;	(fumu;;	n;
+i16x8.lt_u;;	(fu;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;I;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	$ne;g;	';
+i8x16.lt_u;;	(f	$neg;;	n;
+i16x8.lt_u;;_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;`	(fumul{;	n;;Idr		neg;;28x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(fu;;	n;
+i8x16.lt_u;;	(f	$	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;`	(fumul{;	n;;Idr		neg;;28x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(fu;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumulneg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
+i16x8.lt_u;;	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;18x2.l<C@
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(f	$ne;g;	;;	(f
+)	(func	$n'$Lnl;;	n;
+i8x16.lt_u;;	(j	$ne;g;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
+)

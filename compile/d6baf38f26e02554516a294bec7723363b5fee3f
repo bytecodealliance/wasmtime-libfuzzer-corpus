@@ -1,0 +1,8 @@
+(func
+
+i32.eq
+i16x8.shr_s
+
+i16x8.shr_s
+
+i32.eqz ) 

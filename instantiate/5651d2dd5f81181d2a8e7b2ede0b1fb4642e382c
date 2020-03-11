@@ -1,0 +1,9 @@
+				(func	$''4.ao
+f32.demote/f64
+f32.demote/f64
+f32.ne;;atoload
+f32.demote/f64
+f32.ne;;atoload
+f32.demote/f64
+f32.ne;;pr}			c
+)

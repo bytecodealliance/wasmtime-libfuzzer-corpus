@@ -1,0 +1,8 @@
+	(func	$n16x8.neg	
+i32.rem_u;;'	
+i16x8.neg	
+i32.rem_u;;.a'	
+i32.rem_u;;.a''	
+i16x8.neg	
+i32.rem_u;;.4-x3
+)

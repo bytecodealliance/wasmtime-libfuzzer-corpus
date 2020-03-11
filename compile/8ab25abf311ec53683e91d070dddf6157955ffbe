@@ -1,0 +1,17 @@
+(func $v0l
+
+i32.atomic.rmw.and
+
+;;%(func $vil
+
+i32.atomic.rmw.and
+
+;;%eiI
+
+i32.atomic.rmw.and
+
+;;%(fuv04l
+
+i32.atomic.rmw.and
+
+%( $

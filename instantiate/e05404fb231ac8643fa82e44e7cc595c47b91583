@@ -1,0 +1,6 @@
+				(func	$''i6.ne
+f32x4.le
+i64.trunc_s/f32;;32x2.ne
+f32x4.le
+i64.trunc_s/f32;;32.3
+)

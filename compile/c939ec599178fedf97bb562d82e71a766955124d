@@ -1,0 +1,22 @@
+(func $'l$ad32_u
+
+f32x4.replace_lane
+2
+
+;;%_u
+;;%%%c_s:s
+f32x4.replace_lane
+
+2
+
+;;%_ui3@
+
+f32x4.replace_lane
+
+2
+
+;;%_ui32
+
+
+
+);;-%

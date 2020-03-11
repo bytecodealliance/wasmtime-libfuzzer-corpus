@@ -1,0 +1,7 @@
+				(func	$jj
+i8x16.sub_saturate_s;;or
+i8x16.sub_saturate_s;;	drc.:
+i8x16.sub_saturate_s;;or
+i8x16.sub_saturate_s;;	drc.:
+i8x16.sub_saturate_s;;oc.:
+)

@@ -1,0 +1,2 @@
+(func    
+  i8x16.max_s    i64.le_s   i8x16.max_s  )   

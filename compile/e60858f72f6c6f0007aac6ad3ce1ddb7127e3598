@@ -1,0 +1,1 @@
+(func  return f32.lt i16x8.min_s i16x8.min_s    ) 

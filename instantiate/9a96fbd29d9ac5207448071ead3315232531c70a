@@ -1,0 +1,8 @@
+		(func	f64.eq;;+ 0x7i6pnap4
+i32.ne
+i64.ne;;	drcpign4
+i32.ne
+i64.ne;;	drcpign4
+i32.ne
+i64.ne;;	drcpc
+)

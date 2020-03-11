@@ -1,0 +1,1 @@
+(func i64.trunc_f32_s i8x16.gt_u)(func $^-A|%nc i64.trunc_f32_s i64.trunc_f32_s i8x16.gt_u)(func $^-A|%nc i64.trunc_f32_s i8x16.gt_u)(func $^-A|%eeunc i64.trunc_f32_s i8x16.gt_u)(func $^-A|%nc i64.trunc_f32_s i64.trunc_f32_s i8x16.gt_u)(func i64.trunc_f32_s i8x16.gt_u)(func $^-A|%_u)(func $^-A|%eeer.or)

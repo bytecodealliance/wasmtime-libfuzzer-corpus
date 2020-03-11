@@ -1,0 +1,4 @@
+				(func
+i32.atomic.load8_u;;	droI$nI''f.or
+i32.atomic.load8_u;;	droI;	dr$nc
+)

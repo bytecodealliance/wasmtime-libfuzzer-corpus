@@ -1,0 +1,6 @@
+				(func	$nor
+i64.atomic.rmw.sub;;	drof;	drofffeffff
+i32x4.sub;;	ff.or
+i32x4.sub;;	ff,or
+i32x4.sub;;	nor$cId
+)

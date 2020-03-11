@@ -1,0 +1,26 @@
+(func  
+
+
+
+
+f64.eq
+
+
+
+
+
+f64x2.add
+
+i32.atomic.rmw16.cmpxchg_u
+
+
+i32.atomic.rmw16.cmpxchg_u
+
+
+
+
+
+
+
+
+ ) 

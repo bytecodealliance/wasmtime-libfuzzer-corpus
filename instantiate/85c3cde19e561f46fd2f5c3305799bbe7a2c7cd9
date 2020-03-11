@@ -1,0 +1,4 @@
+				(func	$$nIor
+f32.add;;+2
+f32.add;;+2x4r
+)

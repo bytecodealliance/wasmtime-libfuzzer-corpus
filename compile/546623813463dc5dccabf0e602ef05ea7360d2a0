@@ -1,0 +1,1 @@
+(func                    return                                                               )    (func         i64.atomic.rmw.xor     i64.atomic.rmw.xor                   )    (func         i64.atomic.rmw.xor     i64.atomic.rmw.xor    ) (func           )    (func         return                    )    (func ) 

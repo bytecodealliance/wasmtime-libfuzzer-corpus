@@ -1,0 +1,6 @@
+	(func	$n'''	
+i64x2.mul;;	l;;	CCCCCCC	
+i32x4.add;;	lfu$n''CCCCCCCCCn''$n'''	
+i32x4.add;;	l;;	(+fu$n'l;;);fu$n''CCCCCCCC	
+i32x4.add;;	l;;	(fl<C@
+)

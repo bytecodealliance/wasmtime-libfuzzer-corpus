@@ -1,0 +1,8 @@
+(func   f32.div
+
+ i16x8.sub 
+f64.div     f64.div
+
+f64.div
+      f64.div
+      ) 

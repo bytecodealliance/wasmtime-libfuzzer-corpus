@@ -1,0 +1,5 @@
+(func$n7gt
+f32x4.extract_lane 0 i32x4.extract_lane 0)		(func$n7gt
+f32x4.extract_lane 0 i32x4.extract_lane 0)		(func$n7gt
+f32x4.extract_lane 0 i32x4.extract_lane 0)		(func$n7gt
+f32x4.extract_lane 0 i32x4.extract_lane 0)

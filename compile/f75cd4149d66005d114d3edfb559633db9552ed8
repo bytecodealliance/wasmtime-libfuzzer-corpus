@@ -1,0 +1,31 @@
+(func   
+
+f64.ge
+ i16x8.replace_lane
+
+
+
+
+
+
+  
+
+
+
+8
+
+
+
+
+ i16x8.replace_lane
+
+
+
+
+
+
+8
+
+
+
+  ) 

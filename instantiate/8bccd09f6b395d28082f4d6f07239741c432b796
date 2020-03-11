@@ -1,0 +1,3 @@
+				(func	$q
+i64.atomic.rmw.or;;0c
+)

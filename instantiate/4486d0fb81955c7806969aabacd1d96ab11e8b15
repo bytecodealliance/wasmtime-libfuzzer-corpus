@@ -1,0 +1,3 @@
+			(func	;;I'c
+i32.atomic.rmw.and;;	c
+)

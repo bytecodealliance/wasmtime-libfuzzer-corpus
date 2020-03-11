@@ -1,0 +1,2 @@
+		(func	(f64.eq
+i64.atomic.rmw.or	(f64.atooic.rmw.or	4.eqmi

@@ -1,0 +1,4 @@
+				(func		
+	i64.load16_s	
+	i64.load16_s;;	dr.ne
+)

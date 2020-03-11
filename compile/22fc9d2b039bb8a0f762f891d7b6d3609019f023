@@ -1,0 +1,45 @@
+(func i32.div_u
+
+
+
+
+
+
+
+
+
+
+
+
+
+i64.atomic.rmw8.xchg_u
+ i32.div_u
+
+
+
+
+
+
+
+
+
+
+
+i64.atomic.rmw8.xchg_u
+ i32.div_u
+
+
+
+
+i64.div_u
+i64.atomic.rmw8.xchg_u
+ i32.div_u
+
+
+
+
+
+
+
+
+) 

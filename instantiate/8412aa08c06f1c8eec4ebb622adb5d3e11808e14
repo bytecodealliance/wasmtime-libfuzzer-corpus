@@ -1,0 +1,12 @@
+				(func	$nI''''	
+i16x8.mul;;	dx`			i32.gtz(-286553561'''	
+i16x8.mul;;	dx	%`			i			i3 1q
+i64.atomic.store8;;	a0+	%(			 1q
+f32x4.eq;;	d	%`			i32.gtz(-28655\561'''	
+i16x8.mul;;	dx	%`			i3 1q
+i64.atomic.store8;;	a(			 1q
+f32x4.eq;;	dropna03 1q
+i64.atomic.store8;;	a0+	%(	1q
+i64.atomic.store8;;	a0+	%(			 1q
+f32x4.eq;;	dropna0x	;	drop(5	''''dpn'occ
+)

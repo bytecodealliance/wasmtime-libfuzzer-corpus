@@ -1,0 +1,17 @@
+(func
+i8x16.narrow_i16x8_s
+
+
+f32.sqrt;;c $un0
+i8x16.extract_lane_u
+
+
+;;%%%%%0%le
+
+1
+
+;;s
+
+
+
+);;$%)(fun

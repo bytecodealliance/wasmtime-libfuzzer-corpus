@@ -1,0 +1,4 @@
+		(func	return;;nsat`I''
+i64.atomic.rmw16.sub_u;;	,	rat	8ic..											'
+i64.atomic.rmw16.sub_u;;	,irat	0ic..				 
+)

@@ -1,0 +1,26 @@
+(func  
+ v128.xor
+  
+
+
+i64.rotr  
+
+
+
+i64.load32_s
+
+f64.eq   v128.xor
+
+  v128.xor
+  
+
+
+i64.load32_s
+
+
+
+f64.eq   v128.xor
+
+  v128.xor
+
+) 

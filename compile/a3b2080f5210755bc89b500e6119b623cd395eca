@@ -1,0 +1,7 @@
+(func $Bl
+memory.init
+$2>
+memory.init
+$1l
+memory.init
+$2@B

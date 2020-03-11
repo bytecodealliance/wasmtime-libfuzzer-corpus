@@ -1,0 +1,3 @@
+		(func	f32.gt;;	(;	0x%`			q
+f32x4.div;;	l	c
+i32.atomic.rmw16.xchg_u)

@@ -1,0 +1,1 @@
+(func      return    i32.popcnt    i32.popcnt             return                   i32.popcnt              i32.popcnt    i32.popcnt  i8x16.min_s         i32.popcnt                 i32.popcnt           return    i32.popcnt    i32.popcnt  i8x16.min_s         )       

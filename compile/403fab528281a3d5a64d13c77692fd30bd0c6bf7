@@ -1,0 +1,1 @@
+(func       i32.popcnt            return           return         i32.popcnt   i32.atomic.rmw8.or_u  i32.atomic.rmw8.or_u   i32.atomic.rmw8.or_u         )       

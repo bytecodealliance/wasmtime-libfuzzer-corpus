@@ -1,0 +1,1 @@
+(func     $ic  )   (func  call        $ic)   (func       $i16.gt   call  $i16.gt       call  $i16.gt     )     

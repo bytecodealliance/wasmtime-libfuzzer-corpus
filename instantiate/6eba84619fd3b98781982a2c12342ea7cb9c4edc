@@ -1,0 +1,54 @@
+	(func
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCCCCCCCCCCul{;$func	$n'''	
+i64x2.mul;;	l;;	(fu$n'l;;	(fu$n'''	
+i64x2.mul;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCn''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCCCCCCCCCCul{;f32x4.gt	
+i64x2.mul;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore13CCCCCCCn''$n'''	
+i64x2.mul;;	l'''	
+v128.and;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCn''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCCCCCCCCCCul{;$func	$n'''	
+i64x2.mul;;	l;;	(fu$n'l;;	(fu$n'	
+i32x4.mul;;;;ore16CCCCCCCCCCCCCCCCul{;f32x4.gt	
+i64x2.mul;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCn''$n'''	
+i64x2.mul;;	l'''	
+v128.and;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCn''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCCCCCCCCCCul{;$func	$n'''	
+i64x2.mul;;	func	$n'''	
+i64x2.mul;;	l;;	(fu$n'l;;	(fu$n'''	
+i64x2.mul;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCn''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCCCCCCCCCCul{;f32x4.gt	
+i64x2.mul;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore13CCCCCCCn''$n'''	
+i64x2.mul;;	l'''	
+v128.and;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCn''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCCCCCCCCCCCCCul{;$func	$n'''	
+i64x2.mul;;	l;;	(fu$n'l;;	(fu$n'''	
+i64x2.mul;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;ore16CCCCC$n'''	
+i64x2.mul;;	l'''	
+v128.and;;	l;;	(fun''''	(
+i32x4.mul;;;''''	
+i32x4.mul;;;;C@
+)

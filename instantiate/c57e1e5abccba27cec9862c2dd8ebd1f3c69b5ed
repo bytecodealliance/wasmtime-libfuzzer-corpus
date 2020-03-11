@@ -1,0 +1,6 @@
+		(func	f64.eq
+f32.max;;
+f32.max;;	dr_u
+f32.max;;rc
+
+)

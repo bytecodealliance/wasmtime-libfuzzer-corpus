@@ -1,0 +1,8 @@
+(func
+br
+2
+
+
+table.set
+2
+) 

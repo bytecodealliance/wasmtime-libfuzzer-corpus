@@ -1,0 +1,1 @@
+(func f64x2.max 		 f64x2.max 		 f64.mul   f64x2.max 	f64.mul f64x2.min	 	 	) 

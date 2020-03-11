@@ -1,0 +1,6 @@
+	(func	$n''''	
+i64x2.mul;;	l;	(funore8;;
+i16x8.sub_saturate_s;;	(c	8		(t_u;;	(cmu;IdCn;;	(t_u;;	(c	7	('''	
+i64x2.mul;;	l;;	(f;;Idn;.mul;;	l;;	(funore8;;
+i16x8.sub_saturate_s;;	;;	(f;;Id
+)

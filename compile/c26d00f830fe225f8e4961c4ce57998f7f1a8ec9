@@ -1,0 +1,8 @@
+(func
+
+i16x8.any_true
+i32.gt_u
+
+
+i16x8.any_true
+i32.gt_u) 

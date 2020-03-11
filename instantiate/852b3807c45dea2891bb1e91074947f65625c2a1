@@ -1,0 +1,37 @@
+				(func	$nIe;;				(f$nc	$nIe;;	$fffff;f.or
+i64.atomic.load32_u;;	dromic.rmw.sub;;	drofffffff;f.;;	dromic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dapff.or
+i64.atomic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	drfffffpr\\et_f32;;	dropnapff.ub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dromic.rmw.sub;;r
+i64.atomic.load32_u;;	drfffffprEt_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;sub;;	or
+i64.atomic.load32_u;;	dapff.or
+i64.atomic.rmw.sub;;"\\\\\\\d	drofn'k;rpret_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;	droffomic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dapff.or
+i64.atomic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	drfffffpr\\et_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;	
+i64.atomic.rmw.sub;;	drofn'f;rpret_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dromic.rmw.sub;;r
+i64.atomic.load32_u;;	drfffffpret_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;sub;;	or
+i64.atomic.load32_u;;	dapff.or
+i64.atomic.rmw.sub;;"\\\\\\\d	drofn'k;rpret_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dromic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dapff.or
+i64.atomic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dsfffffpr\\et_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;	
+i64.atomic.rmw.sub;;	drofn'f;rpre_u;;	dromic.rmw.sub;;r
+i64.atomic.load32_u;;	drfffffpret_f32;;	dropnapff.or
+i64.atomic.rmw.sub;;sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dapff.onc
+
+i64.atomic.load32_u;;	dapff.or
+i64.atomic.rmw.sub;;	drofffffff;f.or
+i64.atomic.load32_u;;	dsfffffpr\\et_f32;;	dropnapffomic.load32_u;;	dapff.onc
+)

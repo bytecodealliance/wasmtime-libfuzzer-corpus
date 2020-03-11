@@ -1,0 +1,6 @@
+				(func	$nretuvnfp.or
+i64.atomic.rmw.or
+;;	dro:f.or
+i64.atomic.rmw.or
+	d4.atomic.rmw.sub;;
+)

@@ -1,0 +1,7 @@
+				(func	$f64.trunc;;	
+i32.store16;;'d''	
+i32.store16;;	8na0	
+i32.store16;;	o0	;'d''	
+i32.store16
+i32.store16;;	opnax
+)

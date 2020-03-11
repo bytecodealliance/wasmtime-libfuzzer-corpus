@@ -1,0 +1,16 @@
+(func   
+
+
+
+
+
+
+i8x16.neg
+ 
+ table.get 
+
+
+ 2  table.get 
+
+
+5) 

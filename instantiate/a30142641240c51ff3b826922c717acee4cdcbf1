@@ -1,0 +1,3 @@
+		(func	(f32.eq		
+(	i8x16.gt_s;;	t_s;;
+(	i8x16.gt_s;;

@@ -1,0 +1,1 @@
+(elem  (   return             return               return                           f64x2.sqrt      return  i32x4.trunc_sat_f32x4_s   i32x4.trunc_sat_f32x4_s                              return             return    i32x4.trunc_sat_f32x4_s   i32x4.trunc_sat_f32x4_s     i64.store16       )        ) 

@@ -1,0 +1,4 @@
+				(func	$n
+i16x8.splat;;	4		
+i16x8.splat;;
+)

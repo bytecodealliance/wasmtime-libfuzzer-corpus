@@ -1,0 +1,10 @@
+(func
+nop
+i64.load16_u
+nop
+
+
+
+nop
+
+)

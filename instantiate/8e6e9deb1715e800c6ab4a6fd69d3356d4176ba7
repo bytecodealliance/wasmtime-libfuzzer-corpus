@@ -1,0 +1,4 @@
+		(func	f32.gt;;	  1q
+i32.trunc_s/f32;;	lrop\\\\\\\`\\\(f6  0 1q
+i32.trunc_s/f32;;	lr+   0 1q
+i32.trunc_s/f32;;	llrop	(

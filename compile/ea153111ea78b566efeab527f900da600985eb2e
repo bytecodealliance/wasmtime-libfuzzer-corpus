@@ -1,0 +1,22 @@
+(func 
+
+   i64.rotr    i16x8.load8x8_s
+ i8x16.neg 
+
+ 
+
+
+
+
+
+
+i16x8.load8x8_s
+
+
+
+
+
+
+
+i16x8.load8x8_s
+ ) 

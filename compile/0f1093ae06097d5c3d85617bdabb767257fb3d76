@@ -1,0 +1,1 @@
+(func  i32.load8_s  br_if 1 i64.load8_s    br_if 1   br_if 0  br_if 0      ) 

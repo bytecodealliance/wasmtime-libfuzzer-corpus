@@ -1,0 +1,1 @@
+(func   i16x8.widen_low_i8x16_s  i32.store8 i16x8.widen_low_i8x16_s   )

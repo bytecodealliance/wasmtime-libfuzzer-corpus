@@ -1,0 +1,1 @@
+(func i64.add i64.atomic.rmw32.or_u i32.atomic.rmw16.cmpxchg_u) 

@@ -1,0 +1,6 @@
+	(func	$_=urmin_s
+i64.atomic.wait;;_s
+i64.atomic.wait;;	p6puu
+i8x16.shr_s
+i64.atomic.wait;;			 }}			c
+)

@@ -1,0 +1,31 @@
+(func i16x8.le_u
+
+
+
+
+i8x16.eq
+
+
+i64.div_u
+
+
+
+
+
+
+
+
+
+
+i8x16.eq
+i8x16.eq
+
+
+
+
+i8x16.eq
+
+
+i64.div_u
+
+ ) 

@@ -1,0 +1,32 @@
+(func;;;i32.shr_si
+;;;x;;;
+
+
+nop
+v64x2.load_splat
+;;;i
+
+nop
+v64x2.load_splat
+;;;;;u;mi
+;;;x;;;
+
+
+nop
+v64x2.load_splat
+;;;i
+v64x2.load_splat
+;;;;^
+v64x2.load_splat
+;;;;;u;mi;;;u;m;;;
+
+
+nop
+v64x2.load_splat
+;;;i
+
+;;no
+;;i
+;;u;mi
+
+) 

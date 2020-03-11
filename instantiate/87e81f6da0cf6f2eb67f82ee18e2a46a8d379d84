@@ -1,0 +1,7 @@
+		(elem	(f64.eq
+f32.eq;;	8.1Q
+f64.load;;	󠀳 ~q
+f32.eq;;	8.1Q
+f64.load;;	󠀳 ~q
+f32.gt);;%""a
+))

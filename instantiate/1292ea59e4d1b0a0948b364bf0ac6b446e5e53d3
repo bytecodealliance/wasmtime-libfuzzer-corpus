@@ -1,0 +1,4 @@
+				(func		
+i16x8.mul;;	drop
+i8x16.max_s;;	nf5$.		 c
+)

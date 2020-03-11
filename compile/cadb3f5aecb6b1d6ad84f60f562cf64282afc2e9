@@ -1,0 +1,1 @@
+(elem  (    i8x16.min_u   i8x16.min_u          i64.atomic.rmw32.xor_u        (    i8x16.min_u          i64.atomic.rmw32.xor_u     )      )       ) 

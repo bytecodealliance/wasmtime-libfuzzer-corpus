@@ -1,0 +1,23 @@
+				(func	$nE.store';;x		b"	q
+i64x2.mul;;;;x	.store';;x		b"	q
+i64x2.mul;;;;x		ore';;	b"	q
+i64x2.mul;;;;stoq
+i64x2.mul;;;;x		b"	q
+i64x2.mul;;	l	b"	q
+i64x2.mul;;	lore';;x		b"	q
+i64x2.mul;;;;x		b"	q
+i64x2.mul;;	l32.:;x		b"	q
+i64x2.mul;;;;z		b"	q
+;;	l32 nEie';l;;;;x	.store';;x		b"x2.mul;;	l	b"	q
+i64x2.mul;;	
+i64x2.mul;;;;x		b"	q
+i64x2.mul;;	l	b"	q
+i64x2.mul;;	lore';;x		b"	q
+i64x2.mul;;;;x		b"	q
+i64x2.mul;;	l32x		b"	q
+i64x2.mul;;	l32.:;x		b"	q
+i64x2.mul;;;;z		b"	q
+;;	l32;;x		b"	q
+i64x2.mul;;;;x		b"	q
+i64x2.mul;;	l32$nEi63.*:tx		%`e{		Dc_u
+)

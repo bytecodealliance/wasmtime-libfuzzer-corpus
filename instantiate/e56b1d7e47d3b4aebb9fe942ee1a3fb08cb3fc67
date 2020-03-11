@@ -1,0 +1,3 @@
+				(func	$or
+i32x4.gt_s;;	drop
+)

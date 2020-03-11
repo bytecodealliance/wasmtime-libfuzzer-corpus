@@ -1,0 +1,1 @@
+(func  (    select   return  i32.rotr    return  i64.rotr      ) ) 

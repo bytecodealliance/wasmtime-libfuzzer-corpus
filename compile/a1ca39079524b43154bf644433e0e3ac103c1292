@@ -1,0 +1,7 @@
+(func
+
+
+i32x4.ne
+f64.convert_s/i32
+
+    )

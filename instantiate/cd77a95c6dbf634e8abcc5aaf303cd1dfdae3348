@@ -1,0 +1,4 @@
+		(func	return
+i64.popcnt;;zdr
+i32.popcnt;;
+)

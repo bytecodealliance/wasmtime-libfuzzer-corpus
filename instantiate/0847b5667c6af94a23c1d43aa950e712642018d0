@@ -1,0 +1,3 @@
+		(func
+i64.load32_u;;
+i64.load32_u(

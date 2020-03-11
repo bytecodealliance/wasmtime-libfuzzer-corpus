@@ -1,0 +1,1 @@
+(func  f64.load  f64.eq   f64.eq   f64.eq   f32.eq ) 

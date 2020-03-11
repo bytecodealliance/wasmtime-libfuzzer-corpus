@@ -1,0 +1,1 @@
+(global  $i3   f32  return_call_indirect f64x2.sqrt  ) 

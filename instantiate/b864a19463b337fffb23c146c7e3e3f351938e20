@@ -1,0 +1,5 @@
+			(func	$''n;;tkmi	eq
+i64x2.load32x2_s;;1t7	c
+i64.trunc_sat_f32_s;;t7	ci
+i64x2.load32x2_s;;)	c
+)

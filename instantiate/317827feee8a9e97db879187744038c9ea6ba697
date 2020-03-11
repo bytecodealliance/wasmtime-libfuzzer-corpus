@@ -1,0 +1,3 @@
+(func	$x2
+f64x2.mul;;#c	.mu#
+f64x2.mul)

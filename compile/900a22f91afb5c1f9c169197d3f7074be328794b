@@ -1,0 +1,15 @@
+(func  i16x8.le_u    i8x16.shl 
+i32.atomic.load16_u
+      i8x16.shl 
+i32.atomic.load16_u
+i16x8.le_u     i8x16.shl 
+i32.atomic.load16_u
+      i8x16.shl 
+i32.atomic.load16_u
+
+
+
+
+
+
+) 

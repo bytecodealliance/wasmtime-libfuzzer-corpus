@@ -1,0 +1,1 @@
+(func   f64x2.neg i32.atomic.load16_u    return     i32.atomic.load16_u    return     i32.atomic.load16_u) ;;ef64x     

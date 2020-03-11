@@ -1,0 +1,20 @@
+(func	$vI''neg
+f32.demote/f64;;(%func	$vI''neg
+f32.demote/f64;;(%vI''neg
+f32.demote/f64;;(%func	$vI''neg
+f32.demote/f64;;(%`			(%'	''aaaaq		(%'	''aaaaq
+f32x4.abs
+f32.demote/f64;;(%`	`	`		aaaaq
+i64x2.add
+f32.demote/f64;;(%`f`G'	c
+
+f32x4.abs
+f32.demote/f64;;(%`	aq
+i64x2.add
+f32.demote/f64;;(%`f`G'	c
+
+f32x4.abs
+f32.demote/f64;;(%`	`	`		aaaaq
+i64x2.add
+f32.demote/f64;;(%`f`G'	c
+)	

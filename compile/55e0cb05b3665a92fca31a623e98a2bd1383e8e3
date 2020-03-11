@@ -1,0 +1,1 @@
+(func     $m>>>>r>> i32.atomic.rmw16.or_u)(func     $m>>  i32.atomic.rmw16.or_u    i32.atomic.rmw16.or_u)(func     $m>i16x8.widen_low_i8x16_s>>>>to_s);;u

@@ -1,0 +1,1 @@
+(func     i32.mul       f64x2.abs     i64.atomic.store16)    

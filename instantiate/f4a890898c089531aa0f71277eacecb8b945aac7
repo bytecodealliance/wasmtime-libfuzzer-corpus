@@ -1,0 +1,6 @@
+		(func;;;q6.
+f32.sub;;#(s4..eq
+f32.sub;;;..eq
+f32.sub;;bS;q
+f32.sub;;!
+)

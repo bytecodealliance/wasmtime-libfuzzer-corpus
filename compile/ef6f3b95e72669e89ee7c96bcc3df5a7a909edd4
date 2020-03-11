@@ -1,0 +1,1 @@
+(func         return        v16x8.load_splat  return               i32x4.load16x4_s     i32x4.load16x4_s    i32x4.load16x4_s        i32x4.load16x4_s            )      

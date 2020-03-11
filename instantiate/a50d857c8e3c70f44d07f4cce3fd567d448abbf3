@@ -1,0 +1,3 @@
+		(func	(f32.eq
+ f32.eq f32.eq
+ f32.eq f2.eq -1

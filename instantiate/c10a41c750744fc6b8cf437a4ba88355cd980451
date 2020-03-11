@@ -1,0 +1,8 @@
+				(func
+i32x4.shl;;w
+i32.mul;;w
+
+i64.mul;;wp
+i32.mul
+i32.mul
+)

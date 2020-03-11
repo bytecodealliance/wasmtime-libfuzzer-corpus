@@ -1,0 +1,4 @@
+(func $g
+i8x16.splat;;f
+i8x16.splat;;u
+);;-%x16n_

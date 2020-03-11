@@ -1,0 +1,34 @@
+		(func	return;;	dlrop	6+   (f64.cn0	%	(func	return;;	dlrop	5+   (f64.cn0	%` 0	%`1q
+f32.ceil;;		/	%	dn0	%2 0	%`1q
+f32.ceil;;				6+   (f64.cn0	%` 0	%`1q
+f32.ceil;;		%`1q
+f32.ceil;;			%	%`+   (f64.cn%` 0	%`1q
+f32.ceil;;		/	%	dn0	%2 0	%`1q
+f32.ceil;;				6+   (f64.cn0	%` 0	%`1q
+f32.ceil;;		%`1q
+f32.ceil;;			%	%`+   (f64.cn0	%` 0	%`1q
+f32.ceil;;		%`2q
+f32.ceil;;%` 0	%`1q
+f32.ceil;;		%`1q
+f32.ceil;;			%	%`dro` 0q
+f32.ceil;;				6+   (f64.cn0	%` 0	%`q
+f32.ceil;;			%	%`dropnadro` 0q
+f32.ceil;;				6+   (f64.cn0	%` 0	%`q
+f32.ceil;;			%	%`dropna   .rotl;;	lrop	6+   (f64.cn0	%` 0	%`1q
+f32.ceil;;	0	%` 0	%`1q
+f32.ceil;;		%`2q
+f32.ceil;;%` 0	%`1q
+f32.ceil;;		%`1q
+f32.ceil;;			%	%`dro` 0q
+f32.ceil;;				6+   (f64.cn0	%` 0	%`q
+f32.ceil;;			%	%`dropnadro` 0q
+f32.ceil;;				6+   (f64.cn0	%` 0	%`q
+f32.ceil;;			%	%`dropna   .rotl;;	lrop	6+   (f64.cn0	%` 0	%`1q
+f32.ceil;;		%`2q
+f32.ceil;;%` 0	%`1q
+f32.ceil;;		%`1q
+f32.ceil;;			%	%`dro` 0q
+f32.ceil;;				6+   (f64.cn0	%` 06+   (f64.cn0	%` 0	%`q
+f32.ceil;;			%	%`dropnf32.ceil;;		%`1q
+f32.ceil;;			%	%`	dro
+)

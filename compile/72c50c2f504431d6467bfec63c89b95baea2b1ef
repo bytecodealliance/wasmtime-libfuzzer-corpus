@@ -1,0 +1,1 @@
+(func  $eeeatomic.load i64.atomic.rmw16.add_u)(func $llld i64.atomic.rmw16.add_u)(func $lll.load i64.atomic.rmw16.add_u)(func $llll16x8.d i64.atomic.rmw16.add_u)(func $lle_u)

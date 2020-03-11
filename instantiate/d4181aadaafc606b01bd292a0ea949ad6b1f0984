@@ -1,0 +1,5 @@
+			(func	$n	
+i32x4.ge_s;;no	
+i32x4.ge_s;;I'''128.not;r	
+i32x4.ge_s;;
+)

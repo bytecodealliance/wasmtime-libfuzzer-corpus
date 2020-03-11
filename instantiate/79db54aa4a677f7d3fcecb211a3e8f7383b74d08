@@ -1,0 +1,4 @@
+		(func	(f64.eq
+f32.le;;	dr(eq
+f32.le;;	dq
+f32.le;;	dropc_f32_s 

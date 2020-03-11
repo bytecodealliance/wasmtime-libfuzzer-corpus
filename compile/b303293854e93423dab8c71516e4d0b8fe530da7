@@ -1,0 +1,13 @@
+(func
+
+
+f64.sub
+i16x8.extract_lane_u   
+0
+
+
+
+call_indirect 
+
+
+ ) 

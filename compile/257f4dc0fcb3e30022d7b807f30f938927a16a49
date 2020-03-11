@@ -1,0 +1,12 @@
+(func $'65Y
+
+i16x8.max_s
+i16x8.sub_saturate_s
+
+;;
+i16x8.sub_saturate_s
+
+;;
+
+
+);;-3

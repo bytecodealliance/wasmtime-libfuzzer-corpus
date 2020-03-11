@@ -1,0 +1,5 @@
+	(func		
+i32.rem_u
+i16x8.neg	
+i32.rem_u;;.a
+)

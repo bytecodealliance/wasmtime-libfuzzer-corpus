@@ -1,0 +1,7 @@
+				(func	$nI:''''gv0'''I''/''''''''''''&'0g.t;;"$''a"n
+	i64.atomic.rmw8.xor_u;;"$''a"n
+	i64.le_s;;"bT"nc	,f2.eq;c	5'''I''/t;;"$''a"n
+	i64.atomic.rmw8.xor_u;;"$''a"$nI:''''gv0''''a"n
+	i64.le_s;;"bTbnc	,f2.eq;"n
+	i64.atomic.rmw8.xor_u;;"''''''''
+)

@@ -1,0 +1,1 @@
+(func         return          return      i32.atomic.rmw16.cmpxchg_u           i32.atomic.rmw16.cmpxchg_u        )     (func          f32.gt     return           i32.atomic.rmw16.cmpxchg_u           i32.atomic.rmw16.cmpxchg_u        )     

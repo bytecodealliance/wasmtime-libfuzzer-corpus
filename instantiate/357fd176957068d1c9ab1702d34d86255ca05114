@@ -1,0 +1,5 @@
+				(func	$'''''		
+i32.atomic.rmw.xor;;'		
+i32.atomic.rmw.xor;;
+i32.atomic.rmw.xor;2.amixor;;
+i32.		(fa

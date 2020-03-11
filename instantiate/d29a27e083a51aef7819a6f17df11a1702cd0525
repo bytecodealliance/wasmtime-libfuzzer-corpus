@@ -1,0 +1,9 @@
+				(func	$nI''''''''''0'''''
+f32.gt;;	a
+f32.gt;;	dr0.64.eq;;''''gt;;	dr32.64.e@;;	dd
+ref.is_null
+f32.gt;;a
+f32.gt;;	d	ddd
+f64x2.splat
+f32.gt;;	a%	c
+)

@@ -1,0 +1,7 @@
+				(func	$nI''
+i16x8.shr_s;;	tore8;aa;			0(f@43eq
+i64.store8;;	aa43eq
+i64.store8;;1(f@43eq
+i64.store8;;	aa43eq
+i64.store8;;	aa				%%%%%%%%%%%32B
+)

@@ -1,0 +1,1 @@
+(func   i32.atomic.rmw.add i32.atomic.rmw.add    ) 

@@ -1,0 +1,5 @@
+			(func	$no|;; 	1x>x	7gt
+i16x8.replace_lane 1 i32.load;;	a i1$nI''
+)				(func	$nI''no|;;r	2x4.+  	1x>2. nx	7gt
+i16x8.replace_lane 1 i32.load;;	a&  @9 nI''
+)

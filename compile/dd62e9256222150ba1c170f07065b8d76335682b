@@ -1,0 +1,1 @@
+(func    i64x2.shl     i64.trunc_u:sat/f64        i64.trunc_u:sat/f32    i64.trunc_u:sat/f64        i64.trunc_u:sat/f32            ) 

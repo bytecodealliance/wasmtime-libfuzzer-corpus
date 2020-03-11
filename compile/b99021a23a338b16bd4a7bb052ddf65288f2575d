@@ -1,0 +1,1 @@
+(func                  i32.clz  i8x16.avgr_u f32.min       i16x8.widen_low_i8x16_u f32.min       i16x8.widen_low_i8x16_u                 f64.mul                  i16x8.widen_low_i8x16_u           ) 

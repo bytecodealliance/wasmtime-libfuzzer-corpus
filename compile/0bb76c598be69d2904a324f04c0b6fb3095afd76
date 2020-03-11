@@ -1,0 +1,1 @@
+(func    i32.atomic.rmw16.and_u    return    return   i32.atomic.rmw16.and_u  i32.load16_s  return   i32.atomic.rmw16.and_u     ) 

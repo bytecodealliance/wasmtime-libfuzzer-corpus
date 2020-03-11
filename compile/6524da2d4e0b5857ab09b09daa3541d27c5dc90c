@@ -1,0 +1,15 @@
+(func 
+
+
+f64.sub
+
+f32.add
+
+
+
+
+i32x4.all_true
+
+i32x4.all_true
+
+i32x4.all_true )

@@ -1,0 +1,6 @@
+				(func	$nI''ot;;r	(2. n	fa7gt
+f32x4.extract_lane 0 i32.load;;r	(fa7gti32.load;;	2fa7gt
+f32x4.replace_lane 0 i32.load;;
+f32x4.replace_lane 0 i32.load;;	2fa7gt
+f32x4.replace_lane 0 i32.load;;	
+)

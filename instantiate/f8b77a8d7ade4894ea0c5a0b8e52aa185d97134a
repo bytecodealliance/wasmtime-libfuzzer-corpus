@@ -1,0 +1,6 @@
+		(func	$'''''e
+	i64.load16_s;;;	dr		
+	i64.load16_s;;	.a0eq
+return;;t;4440.;	
+	i64.load16_s;;	dr2.!e
+)

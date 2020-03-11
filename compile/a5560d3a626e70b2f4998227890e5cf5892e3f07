@@ -1,0 +1,7 @@
+(func       i8x16.shl 
+
+
+
+f64.promote_f32
+
+ ) 

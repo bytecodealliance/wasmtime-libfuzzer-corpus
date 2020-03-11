@@ -1,0 +1,6 @@
+		(func	f32.gt;;	drna    0 1q
+i64.load;;	dropn
+current_memory;;
+current_memory;;	drc		%`;;			%`		c" x		` 5	%`x		aaaaa
+current_memory;;
+)

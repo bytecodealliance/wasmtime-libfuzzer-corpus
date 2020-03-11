@@ -1,0 +1,7 @@
+(func $o
+
+
+f64x2.ne
+i64.extend_i32_s;;p
+
+)

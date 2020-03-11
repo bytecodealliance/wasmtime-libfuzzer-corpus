@@ -1,0 +1,30 @@
+(func $'l$@@le_u
+
+
+
+;;u
+f64x2.add
+
+i8x16.splat
+
+;;
+
+i8x16.splat
+
+;;%)(fnc $'lu
+f64x2.add
+
+i8x16.splat
+
+;;
+
+i8x16.splat
+
+;;$)lid
+i8x16.splat
+
+;;%)i$flil
+
+
+
+);;-%

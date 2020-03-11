@@ -1,0 +1,4 @@
+		(func	f32.gt;;i06x; %`1q
+i64.atomic.rmw32.sub_u;;	0	%`1q
+i64.atomic.rmw32.sub_u;;
+)

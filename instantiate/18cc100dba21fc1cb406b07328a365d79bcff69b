@@ -1,0 +1,3 @@
+				(func	$lz;;	dr
+i32.atomic.store16;nd
+)

@@ -1,0 +1,5 @@
+				(func	$nI''''''ja
+f32.gt;;	dr32.64ull
+f32.gt;;	a
+i64.extend16_s;;	bitselomect;
+)

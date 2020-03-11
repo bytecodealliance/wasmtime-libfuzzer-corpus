@@ -1,0 +1,1 @@
+(func    f32.add drop      drop  drop  f32.add  i32x4.gt_s   f32.add  i32x4.gt_s     drop  drop  f32.add  i32x4.gt_s   f32.add  i32x4.gt_s   )         

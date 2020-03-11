@@ -1,0 +1,1 @@
+(func f32.const 700.3000004502 i64.trunc_s:sat/f32 f32.const 00502 f64.const 00002 i64.trunc_s:sat/f64 f32.const 00502 f64.const 000000000000000002 i64.trunc_s:sat/f64 f32.const 00502 f64.const 00000000000002 i64.trunc_s:sat/f64 f32.const 0050000000000000000200000000000   return         ) ;;onsf.%

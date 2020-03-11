@@ -1,0 +1,4 @@
+		(func	return;;	 
+i32.rotl;;	dro 
+i32.rotl;;	dem_s;;	dr
+)

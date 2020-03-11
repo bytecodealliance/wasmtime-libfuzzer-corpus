@@ -1,0 +1,3 @@
+				(func	$nt_s
+i32.load;;op'_s
+i32.load)

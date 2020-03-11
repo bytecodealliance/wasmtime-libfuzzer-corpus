@@ -1,0 +1,1 @@
+(func     i16x8.neg   i32.load8_s      i32.load8_s    i32.load8_s  )     

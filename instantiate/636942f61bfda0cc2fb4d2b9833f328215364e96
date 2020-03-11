@@ -1,0 +1,13 @@
+		(func	f32.gt;;	  rop.gt;;	  roplrop	(\ (e63f   20 1q
+i32.trunc_s/f32;;	lr;	lroplrooplrop	(fq
+i32.trunc_s/f32;;	lrop\\\\\\\\\\\\\\\\\ (f31f   0 1q
+i32.trunc_s/f32;;	lrop\\\\\\\\\\\\\\\\\\\\\\\`\\\\ (f63f   0 1q
+i32.trunc_s/f32;;	lrop\\\\\\\\\\f64x2.ge\\\\\`\\\\ (f63f   0 1q
+i32.trunc_s/f32;;h\\\\ (f6ffa4x6+   \\\\\\\\\\\\\\\\\\\\\\\\`\\\\ (e63f   20 1q
+i32.trunc_s/f32;;	lr;	lrop
+i32.trunc_s/f32;;	lrop\\\\\\\\\\\\\\\\\ (f32f   0 1q
+i32.trunc_s/f32;;	lroplr 4 1q
+i32.trunc_s/f32;;	lrop\\\\\\\\\\f64x2.ge\\\\\`\\\\ (f63f   0 1q
+i32.trunc_s/f32;;`\\\\ (f63f   0 1q
+i32.trunc_s/f32;;	lroplrop	(fa4lr63y6		c
+)

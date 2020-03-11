@@ -1,0 +1,18 @@
+(func $@;;low_i7x16w_i8x_s
+
+i64.rotl
+
+i16x8.widen_low_i8x16_s
+
+;;%
+
+
+
+i64.rotl
+
+i16x8.widen_low_i8x16_s
+
+i64.rotl
+
+i16x8.widen_low_i8x16_s
+);;-%

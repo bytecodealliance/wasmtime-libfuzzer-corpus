@@ -1,0 +1,5 @@
+	(func	$'
+i32.popcnt;;'
+i32.popcnt;;
+i64.popcnt;;)	''''n
+)

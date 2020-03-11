@@ -1,0 +1,5 @@
+(func 
+i32.atomic.rmw16.or_u
+)(func 
+i32.atomic.rmw16.or_u
+) 

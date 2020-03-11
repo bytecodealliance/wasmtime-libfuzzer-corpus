@@ -1,0 +1,9 @@
+				(func	$s5s
+i32x4.max_u;;*
+
+i32x4.max_u;;	r
+i32x4.max_u;;	rc	$	4.ctg_s5s
+i32x4.max_u;;sx_u;	r
+i32x4.max_u;;	4.ctg_
+i32x4.max_u;;sx_u;c
+)

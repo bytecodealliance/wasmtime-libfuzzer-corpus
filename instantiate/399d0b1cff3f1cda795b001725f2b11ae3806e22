@@ -1,0 +1,10 @@
+	(func		$n'i	
+i64.trunc_f32_u;;+2([
+i64.trunc_f32_u;;+4(
+i64.trunc_f32_u;;+4([
+i64.trunc_f32_u;;+4([c	$64x2.mul'''	;;'	
+i64.trunc_f32_u;;+2([
+i64.trunc_f32_u;;+4([c	$n&&.64x2.mul'''	;;'	
+i64.trunc_f32_u;;+4([
+i64.trunc_f32_u;;+4([c	$n&&.mul;;+"\0;+#@
+)

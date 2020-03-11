@@ -1,0 +1,4 @@
+	(func	$nI
+atomic.fence;;	+ic
+atomic.fence;;	+ic
+)

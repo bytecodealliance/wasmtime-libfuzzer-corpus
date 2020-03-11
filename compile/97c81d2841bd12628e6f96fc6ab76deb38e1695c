@@ -1,0 +1,6 @@
+(func       return  i32.rem_u
+
+return  i32.rem_u
+
+return
+return ) 

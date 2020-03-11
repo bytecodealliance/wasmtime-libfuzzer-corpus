@@ -1,0 +1,7 @@
+		(func	return
+f32.ne;;;	dro0%	y	
+f32x4.convert_i32x4_s
+i32.or;;11 :  1( 	dg	c	
+f32x4.convert_i32x4_s
+i32.or;;11 :  1( rt_i32xr;;11 :  2   1) %`	4" 
+)

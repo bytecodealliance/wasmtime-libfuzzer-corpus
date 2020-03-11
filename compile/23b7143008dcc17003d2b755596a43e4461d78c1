@@ -1,0 +1,11 @@
+(func $'le89f65%u
+i16x8.ge_u
+i64.ge_s
+
+
+
+;;l
+i16x8.ge_u
+i64.ge_s
+
+);;-%

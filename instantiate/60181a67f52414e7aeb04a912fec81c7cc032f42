@@ -1,0 +1,70 @@
+		(func;;:q;	*64i64.trunc_u/d@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	6;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	64.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;4.	f3	f3	f3f3	;:q;	64.	:q;	64.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;4.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;	64.
+i64.load16_u;;:q;	64.	f3	load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	6;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	64.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;4.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;4.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(fuf3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;	64.
+i64.load16_u;;:q;	64.	f3	load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	6;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	64.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;4.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	64.	f3	f3f3`	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;4.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.		(func;;:q;	64.
+i64.load16_u;;:q;	64.	f3	load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	6;;:q;	64.	f3	f3f3	
+i32.load16_u;;:q;;	64.
+i32.load16_s;;:q;	32.		(func:q;;	64.
+i32.load16_s;;:q;	32.f(	u	nc;;:q;	64.
+i64.load16_u;;:q;	64.	f3	f3f3	;:q;	64.	:q;	64.	f3	f3f3	;:q;	64f64;:q;	64.		(func;;:q;	64.		(func;;:qd@6_u;;:q;	64.	f3	f3f3	
+i32.load16_u;;64.	:q;	64.	f3f3	;:q;	64.	:q;	64.	f3	f3f3	;:q;	64.	f3	f3f3	f33.
+)

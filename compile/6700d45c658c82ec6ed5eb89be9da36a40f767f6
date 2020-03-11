@@ -1,0 +1,9 @@
+(func i32.atomic.store8
+
+  )(func i32.atomic.store8
+
+
+ i32.atomic.store8
+
+
+  ) 

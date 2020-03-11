@@ -1,0 +1,4 @@
+		(func	(select(result
+f32;;lt
+f32;;(f{l*
+i32;;{2))

@@ -1,0 +1,5 @@
+	(func	$d;;	
+i16x8.add;;	hr	
+i16x8.add;;;	
+i16x8.add;;	dropnv1`	c
+)

@@ -1,0 +1,10 @@
+								(func
+f32.trunc;;	cnunc
+f32.trunc;;	cnc
+i32.shr_u;;	unc
+f32.trunc;;c
+f32.trunc;;	drpn		c
+i32.shr_u;;	unc
+f32.trunc;;c
+f32.trunc;;	drpn		c
+)

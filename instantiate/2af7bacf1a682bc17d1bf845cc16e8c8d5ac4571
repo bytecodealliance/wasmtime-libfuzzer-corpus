@@ -1,0 +1,36 @@
+		(func	return;;	_1		(func	return;;f32;f32.abs;; 
+f32.abs;;11 :  e :_ 
+f32.abs;; 
+f32.abs;;11 :(fun :_ 
+f32.abs;; 
+f32.abs;;11 :  e :_ 
+f32.abs;; 
+f32.abs;;1 :(fun 1 :  e :_ 
+f32.abs;; 
+f32.abs;;11 :(fun :_ 
+f32.abs;; 
+f32.abs;;11 :  e :_ 
+f32.abs;; 
+f32.abs;;11 :(fun :_ 
+f32.abs;; 
+f32.abs;;11 :  e :_ 
+f32.abs;; 
+f32.abs;;11 :  e:_ .abs;; 
+f32.abs;;11 :  e :_ 
+f32.abs;; 
+f32.abs;;11 :(fun :_ 
+f32.abs;; 
+f32.abs;;11 :  e :_ 
+f32.abs;; 
+f32.abs;;11 :(fun 1 :  e :_ 
+f32.abs;; 
+f32.abs;;11 :(fun :_ 
+f32.abs;; 
+f32.abs;;11 :  e :_ 
+f32.abs;; 
+f32.abs;; 
+f32.abs;;11 :  e:_ 
+f32.abs;; 
+f32.abs;;11 
+f32.abs;;1:  e$ e  1%`	4" 4" 
+)

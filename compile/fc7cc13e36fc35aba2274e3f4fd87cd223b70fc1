@@ -1,0 +1,1 @@
+(elem  (   i32.extend8_s          i64.trunc_u/f32   return   i32.atomic.rmw.add            i32.atomic.rmw.add           )        ) 

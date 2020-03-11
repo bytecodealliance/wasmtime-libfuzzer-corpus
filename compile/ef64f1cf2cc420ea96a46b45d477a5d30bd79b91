@@ -1,0 +1,16 @@
+(func;;;c;;
+nop
+
+i64.rotr;;4
+i64.rotr;;;;imin
+
+
+
+nop
+
+i64.rotr;;4.m64x4p
+
+i64.rotr;;;;p
+
+
+) 

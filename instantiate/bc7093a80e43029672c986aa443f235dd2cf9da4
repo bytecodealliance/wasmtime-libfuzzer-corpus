@@ -1,0 +1,5 @@
+				(func	$'nac.wait;;
+return
+i32.atomic.wait;;;vt
+i64.atomic.rmw8.and_u;;;
+)

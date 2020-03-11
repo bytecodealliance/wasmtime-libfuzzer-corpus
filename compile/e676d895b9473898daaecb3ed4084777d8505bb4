@@ -1,0 +1,3 @@
+(func
+  i8x16.ne i32.div_s    i8x16.neg    i32.div_s  i32.div_s
+)

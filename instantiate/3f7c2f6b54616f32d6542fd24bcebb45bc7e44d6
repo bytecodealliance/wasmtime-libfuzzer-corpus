@@ -1,0 +1,14 @@
+		(func;;abs;q;;(;q4.abs64..eq
+f32.sub;;;#;q(s6+..eq
+f32.sub;;q;;(abs;q
+f32.sub;;#q~~~	(func;;abs;;q;;(;q4.a6sb4..eq
+f32.sub;;#q;;(s64*.eq
+f32.sub;;q;;bs;;q;;(;+4.abs64..eq
+f32.sub;;#q;;(s6+..eq
+f32.sub;;q;;(abs;q
+f32.sub;;#q;;~~~~~~~~~~		(func;;abs;;q;;(;q4.abs64..eq
+f32.sub;;#q;;(s64..eq
+f32.sub;;q;;(abs;q
+f32.sub;;nan:0x~~~~~~~(abs;q
+f32.sub;;#q;;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~3.
+)

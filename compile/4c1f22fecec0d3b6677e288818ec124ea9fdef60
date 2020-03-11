@@ -1,0 +1,11 @@
+(func
+
+
+   i8x16.ne
+  f32.max
+i8x16.ne
+ i8x16.ne
+ i8x16.ne
+  
+i8x16.ne
+) 

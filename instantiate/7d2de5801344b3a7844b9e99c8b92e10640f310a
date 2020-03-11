@@ -1,0 +1,6 @@
+				(func	$'q
+i32.atomic.rmw.xchg
+;;''eq
+i32.atomic.rmw.xchg
+f32.ne;; b''''''		(f
+)

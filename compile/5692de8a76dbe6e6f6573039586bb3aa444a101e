@@ -1,0 +1,37 @@
+(func $'l$
+
+
+
+;;;% $% @@%@@
+
+i64x2.replace_lane
+
+2
+
+;;%_u;;;% $% @@%@@?
+
+i64x2.replace_lane
+
+2
+
+;;%_ui32.ne
+
+
+
+;;64
+i16x8.eq
+
+;;;%%@@
+
+i64x2.replace_lane
+
+2
+
+;;% @@%@@
+
+i64x2.replace_lane
+
+2
+
+
+);;-%

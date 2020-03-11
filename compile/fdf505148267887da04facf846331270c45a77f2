@@ -1,0 +1,1 @@
+(func          f64x2.neg   i64.load    f64x2.neg   i64.load  f64x2.neg) 

@@ -1,0 +1,1 @@
+(func         i32.or   i16x8.ne   i16x8.ne   i64.ne    i64.or   i16x8.ne   i64.or   i16x8.ne       i16x8.ne   i64.or   i16x8.ne    i64.or       ) ;;  

@@ -1,0 +1,6 @@
+		(func	(select(result
+f32;;resf64t
+f32;;(!
+f32))	select(result
+f32;;(!
+f32))

@@ -1,0 +1,1 @@
+(func    return f64x2.abs i64.eqz    f32x4.neg  return i64.eqz   return i64.eqz  return i64.eqz  ) 

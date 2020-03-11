@@ -1,0 +1,11 @@
+				(func	$''''''''''
+i16x8.sub_saturate_s;;	p.
+i16x8.sub_saturate_s;;	pd{oi32.idfunc	$''''''''''
+i16x8.sub_saturate_s;;	p.
+i16x8.sub_saturate_s;;	pd3{o2i.idv_i28.extendnd32_s	$'
+i16x8.sub_saturate_s;;	p	$'
+i16x8.sub_saturate_s;;	pd{s	$'
+i16x8.sub_saturate_s;;	p	$'
+i16x8.sub_saturate_s;;	pd{oi32.idvv_i28.extend32_s	$'
+i16x8.sub_saturate_s;;u]i8x1o;c
+)

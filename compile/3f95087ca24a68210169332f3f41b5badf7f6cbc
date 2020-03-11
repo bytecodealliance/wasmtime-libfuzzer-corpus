@@ -1,0 +1,1 @@
+(func     return drop           return    f64.abs i8x16.sub_saturate_u               return    f64.abs i8x16.sub_saturate_u  drop f64.abs i8x16.sub_saturate_u               return    f64.abs i8x16.sub_saturate_u  drop       return          return)                  

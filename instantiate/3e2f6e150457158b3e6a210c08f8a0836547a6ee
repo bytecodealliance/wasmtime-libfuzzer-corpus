@@ -1,0 +1,11 @@
+				(func	$nI''no|;;r	(ba32x4.rhlace_lane 2 i32#.load;;	a   @8 ifa6+  	1x>2. nx	7gt
+i16x8.replace_lane 1 i32.load;;	a  1x>2.il%2.gt
+i16x8.replace_lane 0 i32.load;;	a   @9 il%2   @4 8.replace_lane 1 i32.load;;	a  1x>2.il%2.gt
+i16x8.replace_lane 0 i32.load;;	a   @9 il%2@ 32x4.rhlace_lane 2 i32#.load;;	a   @8 ifa6+  	1x>2. nx	7gt
+i16x8.replace_lane 1 i32.load;;	a  1x>2.il%2.gt
+i16x8.replace_lane 0 i32.load;;	a   @9 il%2   @4 8.re.i32.load;;	a  1x>2.il%2.gt
+i16x8.replace_lane 0 i32.load;;	a   @9 il%2   @4 8.replace_lane 1 i32.load;;	a  1x>2.il%2.gt
+i16x8.replace_lane 0 i32.load;;	a   @9 il%2@   4 il%2.gt
+i16x8.replace_lane 1 i32.load;;	a   @9ace_lane 1 i32.load;;	a  1il%2.gt
+i16x8.repla_lane 1 i32.load;;	a  1il%2.gt
+i16x8.replace_lane 1 i32.lo

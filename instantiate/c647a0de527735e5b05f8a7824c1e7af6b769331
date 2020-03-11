@@ -1,0 +1,7 @@
+		(func	$'';;na1eq
+return;;t64.atomic.wait;;pqrt
+i64.trunc_f32_s;;P0eq
+return;;t	pqrt
+i64.trunc_f32_s;;	
+i64.trunc_f32_s;;	pr		c
+)

@@ -1,0 +1,12 @@
+(func $o
+
+
+i8x16.all_true
+
+
+i8x16.all_true
+
+;;e
+)
+
+;;-%

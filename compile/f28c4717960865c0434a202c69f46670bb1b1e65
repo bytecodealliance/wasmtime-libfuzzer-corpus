@@ -1,0 +1,1 @@
+(func             )    (func           return              i16x8.load8x8_u      )    (func           return             i16x8.load8x8_u      f32.add                           return    )    (func           return              i16x8.load8x8_u                ) 

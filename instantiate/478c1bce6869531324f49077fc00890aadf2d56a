@@ -1,0 +1,4 @@
+			(func;;	d
+f32.load
+f32.load;;	drc
+)

@@ -1,0 +1,3 @@
+				(func	;;"b"'I'			c
+i64.atomic.rmw32.xor_u;;c
+)

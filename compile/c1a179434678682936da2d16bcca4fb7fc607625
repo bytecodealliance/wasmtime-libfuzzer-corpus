@@ -1,0 +1,9 @@
+(func  
+
+ 
+i32.atomic.store 
+ 
+
+ 
+i32.atomic.store 
+) 

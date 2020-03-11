@@ -1,0 +1,7 @@
+						(func	$_saturate_u;;stuara'';;	pdropna5eq
+f32.ne;;	p	(s;;I''''''''n		'	;;	%`nCa.ge
+i32.atomic.rmw8.or_u;;o$e_u;pna.ge
+i32.atomic.rmw8.or_u;;	pdro$ete_u;;'';	prnoadxf	c	3
+i32.atomic.rmw8.or_u;;	pdro$ef	c	3
+i32.atomic.rmw8.or_u;;	pdro$e_u;;stu	c
+)

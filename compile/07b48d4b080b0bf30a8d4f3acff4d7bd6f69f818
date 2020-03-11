@@ -1,0 +1,17 @@
+(func    
+
+i32.atomic.rmw.xor
+
+
+
+i32.store
+
+
+ 
+ i64.atomic.rmw.xor  i32.div_s 
+ i64.atomic.rmw.xor
+
+
+
+
+  ) 

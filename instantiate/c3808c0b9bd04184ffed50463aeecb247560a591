@@ -1,0 +1,4 @@
+				(func	$e
+v128.store;;	'	.fld3;e
+v128.store;;	'	.fldro
+)

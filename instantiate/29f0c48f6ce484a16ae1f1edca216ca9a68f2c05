@@ -1,0 +1,4 @@
+				(func	$8.not;;  gt
+i8x16.replace_lane 0 i32.load;;	
+i8x16.replace_lane 0 i32.load;;	a
+)

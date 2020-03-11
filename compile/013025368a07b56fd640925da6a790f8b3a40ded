@@ -1,0 +1,3 @@
+(func $u
+v32x4.load_splat
+i64.atomic.rmw16.sub_u);;-rr%%

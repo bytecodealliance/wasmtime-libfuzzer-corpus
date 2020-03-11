@@ -1,0 +1,16 @@
+(func i64.ge_u
+i64x2.load32x2_u
+
+i64.ge_u
+i64x2.load32x2_u
+
+
+
+;;.de_u
+i64x2.load32x2_u
+
+
+
+
+
+);;:%

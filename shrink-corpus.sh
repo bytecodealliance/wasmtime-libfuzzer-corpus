@@ -23,8 +23,8 @@ NEW_CORPUS=$(mktemp -d -t "new.$TARGET.corpus.XXXXXX")
 BACKUP_CORPUS=$(mktemp -u -t "backup.$TARGET.corpus.XXXXXX")
 
 cargo fuzz run "$TARGET" "$OLD_CORPUS" \
-      --release --debug-assertions \
-      -- -merge=1 -shrink=1 "$NEW_CORPUS"
+      --release --sanitizer=none \
+      -- -merge=1 "$NEW_CORPUS"
 
 mv "$OLD_CORPUS" "$BACKUP_CORPUS"
 mv "$NEW_CORPUS" "$OLD_CORPUS"

@@ -1,0 +1,53 @@
+;; Apply basic simplifications.
+;;
+;; Thi$x))
+(=> (when (ishl $x $C)
+      (fits-in-native-word $C))
+    (ishl_imm $C $x))
+(=> (when (ushr $x $C)
+      (fits-in-native-word $C))
+    (ushr_imm $C $x))
+(=> (when (sshr $x $C)
+      (fits-in-native-word $C))
+    (sshr_imm $C $x))
+(=> (when (isub $x $C)
+      (fits-in-native-word $C))
+    (iadd_imm $(neg $C) $x))
+(=> (when (ifcmp $cond $x $C)
+      (fits-in-native-word $C))
+(ifcmp_imm $cond $C $x))
+(=> (when (icmp $cond $x $C)
+      (fits-in-native-word $C))
+    (icmp_imm $cond $C $x))
+
+;; Binary instructions whose  $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Unary instructions whose operand is constant.
+(=> (adjust_sp_down $C) (adjust_sp_down_imm $C))
+
+;; m 0 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (when (ushr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 63))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold away redundant))
+(=> (brz (bint $x)) (brz $x))
+(=> (brnz (bint $x)) (brnz $x))
+(=> (trapz (bint $|)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold comparisons into brancrz` or `brnz` branchingle `brz` or `brnz`.
+(=> (brnz (icmp_imm ne 0 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x)) (brz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrem_transformation

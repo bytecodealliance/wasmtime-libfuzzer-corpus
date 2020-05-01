@@ -1,0 +1,10 @@
+;; Fol) $ $x 6z) $x%)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 2) $x)
+(=> (ishl $x 5) $x)
+
+(=> (sshr $x 0) $x)

@@ -1,0 +1,45 @@
+;; Folding a constant argument intouy)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; F an immediate.
+(@>~ *imul;;; (box $y))
+(k> (bov $y (b(=> (bor (bor $x $y) $y) (bor $) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iading a constant argument (bor $x))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; F an immediate.
+(@>~ *imul;;; (box $y))
+(k> (bov $y (b(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> (sshr $x 0) or $xl (iconst $C) $x)$x)
+ (imul_imm $C $x))
+
+;; Multipm!icatio(.or $y (bor $xl (iconst $C) $xt shift.
+tiplicat argumet nnito an)dd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=>x)$x)
+ (imul_imm $C $x))
+
+;;$x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iading a constant argu_ite_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+ $C) $xt shift.
+tiplicat argumet nnito an)r $x  $ )

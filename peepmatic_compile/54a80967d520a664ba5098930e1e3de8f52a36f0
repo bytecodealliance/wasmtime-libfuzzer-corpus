@@ -1,0 +1,12 @@
+;; F=> (i$  iadimm$; nan:t
+)=((m$; nan:0xF; nan:0xF);ad; (mm$; nan:0xF); n
+>i$  iad_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF); n
+>i$ $; nan:0xF); n
+>i$  ; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF) id;a(m m$; nan:0xF); n
+>i$  ia iad=; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF)nan:0x$  iadd;_imm$; nan:0xF)nan:0xF); nan:0xF))
+(=

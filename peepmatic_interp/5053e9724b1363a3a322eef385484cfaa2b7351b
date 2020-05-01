@@ -1,0 +1,4 @@
+;; Foldnx)) (b
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $')  5) $x)

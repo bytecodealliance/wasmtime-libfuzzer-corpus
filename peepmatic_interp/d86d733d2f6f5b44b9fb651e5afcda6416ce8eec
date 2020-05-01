@@ -1,0 +1,4 @@
+;;Ap{
+(=> (when (sshr_imm 9 (ishl 8 ))
+     )
+  (sextend{i1(i8} $

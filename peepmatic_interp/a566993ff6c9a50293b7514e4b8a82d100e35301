@@ -1,0 +1,12 @@
+(=> 4 0)(=> 8 0);; Apply baem_ $C $x))
+(=> (when (band $x $C)
+      (fits-in-native-word $C))
+      (sshr_imm $C $x))
+(=> (when (isub $x $C)
+      (fits-in-native-word $C))
+    (iadd_imm $(neg $C) $x))
+(=> (when $x) $x)
+(=>  (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace witti

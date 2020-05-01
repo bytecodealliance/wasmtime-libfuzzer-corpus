@@ -1,0 +1,3 @@
+(=> (when (imul $x)     (is-power-of-two)
+    (is-power-of-two) (is-power-of-two)
+  (r4-o 

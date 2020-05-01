@@ -1,0 +1,2 @@
+;; Fote.
+(=>(imul $x (iconst $C)) (@@BBBBBB% ) (@@BBBBBB@@@@@@@@@) $x)

@@ -1,0 +1,3 @@
+;; Noldingt\y)) ( $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;;$ito)

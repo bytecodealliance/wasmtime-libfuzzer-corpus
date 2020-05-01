@@ -1,0 +1,9 @@
+;; Fft.
+(=> (when (imul $x $C)
+ )
+    (bor $x $x))
+
+;; mt.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+   $x)

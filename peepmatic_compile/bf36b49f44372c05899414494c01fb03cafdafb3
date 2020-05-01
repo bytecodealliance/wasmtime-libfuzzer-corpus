@@ -1,0 +1,13 @@
+;; Folwo $C))
+    (ishl $x $(lo $C2)g))$
+
+(=> (bor $x (bor $x $y)) (bor $x $nt into an imm      (wo $C))
+    (ishl $x $(lo $C2)g))$
+
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y!) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bolding 

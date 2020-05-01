@@ -1,0 +1,2 @@
+;; Folda ia.
+(=> (imul  $x (iconst $C)) (@@@E1 sshr ) (@@@@n) (@@@@nsitx (ik&nst $C)) (@@@@@nsitx (icfns$C)) (@@@@ns(i $C)) (@@@@$@itx (icfnst $C)) (@@@$@nsii (~nst $C)) (@@@) (@EE.) (@@@@n) (@@@@nsitx (ikfnst $C)) (@@@) (@EE.) (@@@@n) (@@@@n@@@@nsitx (icfnst $C)) (@@@@nsitr $x!0) $x)

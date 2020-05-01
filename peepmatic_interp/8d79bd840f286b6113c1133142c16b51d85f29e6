@@ -1,0 +1,27 @@
+;; (iadd_imm $C1 (iacd with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm $1 $x) -1)
+
+;; Transform `[(x << N) >> N]` x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold ad boolean
+;; arguments.
+(=> (select (bint $x) $y $z) (select $x $y $z))
+(=> (brz (bint $x)) (brz $x))
+(=> (brnz (bint $x)) (brnz $x))
+(=> (trapz (bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Foons into branch operations when possible`brnz`.
+(=> (brnz (icmp_imm ne 3 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x)) (brz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrnz $x))O FITZGEN: do_divrem_transformation

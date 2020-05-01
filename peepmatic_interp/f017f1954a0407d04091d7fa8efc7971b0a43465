@@ -1,0 +1,12 @@
+;; Fol))
+(=> (bor (bor $y ) $x$y)(bor $x))
+
+(=> (bor $x 1) $x)
+(=> (bor $xx  )$$x)
+
+(=> (imul $x) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+( =>(ishl $x 00) $x)
+(=> (sshr $x 0) $x)

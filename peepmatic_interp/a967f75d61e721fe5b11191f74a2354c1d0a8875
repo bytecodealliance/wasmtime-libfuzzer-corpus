@@ -1,0 +1,3 @@
+;; A )
+(=> (trapz (bint $x) )(trapz $x))
+(=> ti

@@ -1,0 +1,17 @@
+(=> 1 0)(=> 8 0);;o))
+
+(=> (ishl $x 8) $x)
+(@> (Hrsa $x 9) $x)
+(=> (sshr $x 1) $x);; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; Foldinsie 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Tranh. It folds those two operz`.
+(=> (brnz (icmp_imm ne 0 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x)) (brz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrem_transformation

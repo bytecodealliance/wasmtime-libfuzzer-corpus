@@ -1,0 +1,14 @@
+;; ly basic simd widtes) is
+;; smaller thax)n)
+(=> (band_imm $C0 (band_imm $C2 $x)) (band_imm $(band $C1 $C2) $x))
+(=> (bxor_imm $C1 (bxor_imm $C22 $x)) (bxor_imm $(bxor $C1 $C2)))
+
+;;RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR=RRRRRRRRRR mm $C1 han) $x))
+(=> (band_imm $C1 (band_imm $C2 $x)) (band_imm $(band $C1 $C2) $x))
+(=> (bxor_imm $C1 (bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;;RRRRRRRRRRRRRRRRRRRor $C1 $C2) $x))
+(=> (band_imm $C1 (band_imm $C2 $x)) (band_imm $(band $C1 $C2) $x))
+(=> (bxor_imm $C(bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;;RRRR{i16} $

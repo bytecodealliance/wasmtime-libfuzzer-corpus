@@ -1,0 +1,24 @@
+;; Apply b$)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x)     (uextend{i64} (ireduce{i8} $x)))
+(=> (when (sshr_imm 56 (ishl_imm 56 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i8} $x)))
+;; i64 -> i16 -> i64
+(=> (when (ushr_imm 48 (ishl_imm 48 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i16} $x)))
+(=> (when (sshr_imm 48 (ishl_imm 48 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i16} $x)))
+;; i64 -> i32 -> i64
+(=> (when (ushr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Foation

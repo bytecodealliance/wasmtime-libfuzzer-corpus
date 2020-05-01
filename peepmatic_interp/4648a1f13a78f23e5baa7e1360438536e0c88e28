@@ -1,0 +1,59 @@
+; $C)) (ciconst $C)) (nstay po 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x)c ($(imul_iwm $@@@@@@@@@$x 0)  0_im$C) $x) (cicon (ciconst $C))tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C)) (nstay po 0_im 0_imul_imm $C $x) (nstay po 0_im 0_imul_imm $C $x)+
+io 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x) (ciconscic $C $x)+
+> (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm r $x 0)  0_im$C) $x) (cicon (ciconst $C))tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C)) (nstay po 0_im 0_imul_imm $$C 
+hr $x 0)  1_i0)  0_im$C) $x) (ciconscic $C $x)+
+> (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_im@@@@@C $x)+
+> (ishl $x 0_im$C) $x)tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C) $x) (cicon (ciconst $C))_imm $C $x)+
+io 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x) (ciconscic $C $x)+
+> (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0)  0_im$C) $x) (cicon (ciconst $C))tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C)) (nstay po 0_im 0_imul_imm $C $x)+
+io 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x)  (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_$C)) (nstay po 0_im 0_imul_imm $C $x)+
+io 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x)  (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0) m $C 
+hr $x 0)  0_im$C) $x) (cicon (ciconst $C))tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C)) (nstay po 0_im 0_imul_imm $C $x) (nstay po 0_im 0_imul_imm $C $x)+
+i~ 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x) (ciconscic $C $x)+
+> (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0) tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C)) (nstay po 0_im 0_imul_imm $C $x)+
+io 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x)  (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0tay po 0_im 0_imul_imm $C+
+i$x)+
+io 0_ $x 0)  00_imul_imm $C $x)+
+io 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x)  (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0) m $C 
+hr $x 0)  0_im$C) $x) (cicon (ciconst $C))tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C)) (nstay po 0_im 0_imul_imm $C $x) (nstay po 0_im 0_imul_imm $C $x)+
+i~ 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x) (ciconscic $C $x)+
+> (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0) tay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C)) (nstay po 0_im 0_imul_imm $C $x)+
+io 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x)  (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0tay po 0_im 0_imul_imm $C+
+i$x)+
+io 0_ $x 0)  0_im$C) $x)  (ishl $x 0_im$C) $ $C)) (nstay po 0_im 0_imm $C 
+hr $x 0)  0_im$C) $x) (cicon$(ciconst $C)) (nstay po 0_im 0_imul_iim $C x)+
+im@m $C 
+hr $@  0_im$C) $x) sngti  a cnstay po 0_imm $

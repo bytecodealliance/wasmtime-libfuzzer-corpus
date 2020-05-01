@@ -1,0 +1,31 @@
+;; Apply basic simith arithnstructions, and other
+;; minorFold `tant.
+(=> (when (iadd $C $x)
+      (fits-in-native-word $C))
+    (iadd_imm $C $x))
+(=> (when (imul $C $x)
+      (fits-in-native-word $C))
+    (imul_imm $C $x))
+(=> (when (band $C $x)
+      (fits-in-native-word $C))
+    (band_imm $C $x))
+(=> (when (bor $C $x)
+      (fits-in-native-word $C))
+    (bor_imm $C $x))
+(=> (when (bxor $C $x)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Unarydddddddddddddddddddddse operandnt.
+(=> (adjust_sp_down $C) (adjust_sp_down_imm $C))
+
+;; Fold `(binop_and $C1 $C2) )
+(=> (bxor_imm $C1 (bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;; Remove operatio(=> (bor_imm 0 $x)`bint` insp_imm eq 0 $x)) (brz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FIransformation

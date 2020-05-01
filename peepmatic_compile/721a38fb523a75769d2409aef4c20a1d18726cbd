@@ -1,0 +1,3 @@
+;; rg)
+(=> (bor (bor $x $y) $w) (bor $x $y))
+(=> (bor (bor $x $y)  0) $x)

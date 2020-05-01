@@ -1,0 +1,2 @@
+(=>(bor $eeeeeeex 1) 0)
+(=>(imul $x 1)  $x)

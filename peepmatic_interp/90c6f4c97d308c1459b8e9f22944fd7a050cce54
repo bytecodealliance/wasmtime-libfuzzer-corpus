@@ -1,0 +1,5 @@
+;; Appl)by -a)k
+(=> (when (sshr_imm 8 (ishl_imm 8 $x))
+     (bit-width $x 16))
+    (sshr_imm 8 (ishl_imm {i8} $x)))
+;; i3im{i16}

@@ -1,0 +1,2 @@
+;;a=ate.
+(=>(imul $x (iconst $C)) (@A@@@@ (ico)) (iconst $C)) (@ai(@@) $x)

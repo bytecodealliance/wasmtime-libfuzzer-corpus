@@ -1,0 +1,24 @@
+; (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y)=> (bor $x $x) $x)
+
+(=hift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bo(bor $x $y) $y) (bor $x $en (imul (bor $x 0) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> (sshr $x 0) $x
+(9> (sshr $x 0) $x)

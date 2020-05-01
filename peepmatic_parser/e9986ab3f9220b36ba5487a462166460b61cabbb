@@ -1,0 +1,4 @@
+(=> (when (imul $x $C)
+ )
+    (ishl $x $(log2 $x $(log2  $x $C)
+ )))

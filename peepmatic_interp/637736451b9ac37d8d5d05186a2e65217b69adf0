@@ -1,0 +1,3 @@
+;;
+(=> (when (imul $L)  (is-power-of-two $x $C) (is-power-of-two $C!'
+)    (i 

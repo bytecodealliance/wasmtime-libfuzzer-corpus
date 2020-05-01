@@ -1,0 +1,11 @@
+
+(=> (iadd $x0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $xiadd) $x)
+(=> (ishl $x 0) $$x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)

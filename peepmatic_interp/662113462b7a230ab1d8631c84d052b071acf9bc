@@ -1,0 +1,5 @@
+(=> 4 0)(=>  (ishl $x 8) $x);; i64 - (brnt $x))
+(=> (trapz (bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapz $x))
+
+;; ration

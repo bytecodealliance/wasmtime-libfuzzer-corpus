@@ -1,0 +1,3 @@
+;; 
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor( bor $x- $y)  (bor $x $\y)) (bor $x $y))

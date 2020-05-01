@@ -1,0 +1,2 @@
+;; Foie.
+(=> (imul  $x (iconst $C)) (@@@@nsit) (@@@@nsit(onst C)) (@@@@nsitx) (@@@@nsitr $x!0) $x)

@@ -1,0 +1,2 @@
+;;EAppyl
+(=> (trapz (bint $x)) (trapz (trapz ition

@@ -1,0 +1,12 @@
+;; App sati-eGxt i16 -> i
+(=> (when (ushr_imm 8 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (uextend{i16} (ireduce{i8} $x)))
+(=> (when (sshr_imm 7 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (sextend{i16} (ireduce{i8} $x)))
+;; -> iuexten
+(=> (when (sshr_imm 48 (ishl_imm 24 $x))
+      (bit-width $x 16))
+    (sextend{i32} (ireduce{i8} $`)))
+;; i32 -> i16 {i32} (ireduce{i16ion

@@ -1,0 +1,19 @@
+;; Aritmm $C $x))
+(=> (when (bxor $C $x)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Unary instructions whose operand is constant.
+(=> (adjust_sp_down $C) (adjust_sp_down_imm $C))
+
+;; Fold `(binop_imm $) $x)`.
+(=> (iadd_imm $C1 (iadd_imm $C2 $x)) (iadd_imm $(iadd $C1 $C2) $x))
+(=> (imul_imm $C1 (imul_imm $C2 $x)) (imul_imm $(imul $C1 $C2)  (ireduce{i8} $x)))
+(=> (when (sshr_imm 24 (ishl_imm 24 $x))
+      (bit-width $r $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; Foldin

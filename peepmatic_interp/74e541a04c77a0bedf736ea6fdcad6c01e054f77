@@ -1,0 +1,2 @@
+;; F.
+(=>(imul $x(iconst $b)) $x)

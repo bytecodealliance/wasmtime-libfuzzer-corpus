@@ -1,0 +1,4 @@
+(=> 4 5)
+(=> (imul $x (iconst )) (imul_imm $~x))
+(=> (imul (iconst )) (imul_imm))
+(=> (imul (iconst $C)$x 0) $x)

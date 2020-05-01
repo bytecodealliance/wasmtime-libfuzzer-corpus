@@ -1,0 +1,5 @@
+
+(=>(when (imul $x $C)
+ (is-power-of-two $C))   (imul $x $(log2 $C)
+))
+(=> (sshr $x 5) $x)

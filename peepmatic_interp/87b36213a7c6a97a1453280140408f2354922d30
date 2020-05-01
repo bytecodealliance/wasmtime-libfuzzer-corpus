@@ -1,0 +1,4 @@
+;; Appltan)
+(=> (when (ishl $x $C) (fits-in-native-word $C)  (fits-in-native-word $C)
+     (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)));; T

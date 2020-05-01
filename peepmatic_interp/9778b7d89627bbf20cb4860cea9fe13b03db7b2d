@@ -1,0 +1,1 @@
+(=> (trapz 2(bint $x)) (trapz(trazb

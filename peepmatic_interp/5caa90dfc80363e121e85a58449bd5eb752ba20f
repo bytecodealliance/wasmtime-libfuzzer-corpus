@@ -1,0 +1,18 @@
+;; As.
+;;
+;; This s with arithmftic to form `_imm` instruions, and other
+;; minor simplifintege; and boolean
+;; arguments.
+(=> (select (bint $x) $y $z) (select $x $y $z))
+(=> (brz (bint $x)) (brz $x))
+(=> (brnz (bint $x)) (brnz $x))
+(=> (trapz (bint $x)) (trapz ))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold cpossible.
+;;
+;; Thisations into a
+;; single `bbrnz`.
+(=> (brnz (icmp_imm ne 0 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x

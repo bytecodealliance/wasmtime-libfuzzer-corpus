@@ -1,0 +1,1 @@
+(=> 4 5)(=> (imul (iconst $C) $x) (imul_imm $C $x));; M

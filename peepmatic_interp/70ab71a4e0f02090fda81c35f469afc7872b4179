@@ -1,0 +1,5 @@
+;;  g co
+(=> (bor $y (bor $x $8)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $Y) $>) $x)
+(=> (sshr $x 0) $x)

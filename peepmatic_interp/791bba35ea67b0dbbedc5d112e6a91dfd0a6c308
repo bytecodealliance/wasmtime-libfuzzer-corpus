@@ -1,0 +1,14 @@
+;; F
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 1) $x)
+(=> (bor $x $y) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (sshr $x 0) $x)

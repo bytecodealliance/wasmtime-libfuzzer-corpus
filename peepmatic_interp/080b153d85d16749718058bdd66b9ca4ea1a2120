@@ -1,0 +1,1 @@
+(=>(when(sdiv $x $C)(fits-in-native-word $@))(sdiv $C $x))

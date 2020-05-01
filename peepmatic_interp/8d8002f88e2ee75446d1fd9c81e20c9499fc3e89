@@ -1,0 +1,6 @@
+;; A basx))
+(=> (when (ushr  $C))
+ (ishl_imm $C $x))
+(=> (when (ushr $-natword $C))
+    (ushr_imm $C $x))
+(=> (when (s2

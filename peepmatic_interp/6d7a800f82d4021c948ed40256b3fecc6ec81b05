@@ -1,0 +1,2 @@
+;;
+(=> (ishl (ishl)$x 1) (ishl

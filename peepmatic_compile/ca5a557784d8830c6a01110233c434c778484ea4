@@ -1,0 +1,108 @@
+;;st ,imul ;; Foldi
+(=iconst $$x)+
+il $x 0_im$C) $x) $y+) (bor $x $(imul_imm $Cm$C) $x) $y+) (bor $x $(imul_imm $C $m $C $x)+
+immh 
+$@ Cr $x x)+
+_imm $Cm $C 
+hr $xhimul_imm $C $C)) (nstay po 0_imul_)+
+immh 
+$@ Cr $x 0) $y (bor  $C $x)+
+_imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C $x)+
+im@m $C 
+hr $x "缐"0) $u (bor $x $y)) (bor $x $himul_imm $C $x)+
+> (ishl $x 0_im$C) $x) (cstay po 0_imul_imm $C $x)+
+imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_i_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C $x)+
+im@m $C 
+hr $x "缐"0) $u (bor $x $y)) (bor $x $himul_imm $C $x)+
+> (ishl $x 0_im$C) $x) (cstay po 0_imul_imm $C $x)+
+imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C$C $x)+
+im@m $C 
+hr $x 0) $u (bor $x $y)) (bor $x  $m $C $x)+
+immh 
+$@ Cr $x x)+
+_imm $C $x)+
+> (ishl0_im$C) $x) $y+) "羐""缐""羐"x $(imul_imm $C $x)+
+> (ishl $xnstay 0_imul_imm $C $x)+
+im@m $C 
+hr $xhimul_imm $C $C)) (nstay po 0_imul_)+
+immh 
+$@ Cr $x 0) $y (bor  $C $x)+
+_imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imC $m $x)+
+> (ishl $xnstqy 0_imul_imm $C $x)+
+im@m $C 
+hr $x 0) $u (bor $x $y)) (bor $x $himul_immishl0_im$C) $x) $y+) "羐""缐""羐"x $(imul_imm $C $x)+
+> (ishl $xnstay 0_imul_imm )+
+il $x 0_im$C) $x) $y+) (bor $x $(imul_i $C $x)+
+immh 
+$@ Cr $x x)+
+_imm $C $x)+
+> (ishl0_im$C) $x) $y+) x $(imul_imm $C 0_imul_imm $C $x)+
+im@m $C 
+hr $xhimul_imm $C $C)) (nstay po 0_imul_)+
+immh 
+$@ Cr $x 0) $y (bor  $C $x)+
+_imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C $x)+
+im@m $C 
+hr $x "缐"0) $u (bor $x $y)) (bor $x $himul_imm $C $x)+
+> (ishl $x 0_im$C) $x) (cstay po 0_imul_imm $C $x)+
+imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_i_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C $x)+
+im@m $C 
+hr $x "缐"0) $u (bor $x $y)) (bor $x $himul_imm $C $x)+
+> (ishl $x 0_im$C) $x) (cstay po 0_imul_imm $C $x)+
+imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C$C $x)+
+im@m $C 
+hr $x 0) $u (bor $x $y)) (bor $x  $m $C $x)+
+immh 
+$@ Cr $x x)+
+_imm $C $x)+
+> (ishl0_im$C) $x) $y+) "羐""缐""羐"x $(imul_imm $C $x)+
+> (ishl $xnstay 0_imul_imm $C $x)+
+im@m $C 
+hr $xhimul_imm $C $C)) (nstay po 0_imul_)+
+immh 
+$@ Cr $x 0) $y (bor  $C $x)+
+_imm  $x 0) $u (bor $x $y)) (bor $x  $m $C $x)+
+immh 
+$@ Cr $x x)+
+_imm $C $x)+
+> (ishl0_im$C) $x) $y+) "羐""缐""羐"x $(imul_imm $C $x)+
+> (ishl $xnstay 0_imul_imm $C $x)+
+im@m $C 
+hr $xhimul_imm $C $C)) (nstay po 0_imul_)+
+immh 
+$@ Cr $x 0) $y (bor  $C $x)+
+_imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C $x)+
+im@m $C 
+hr %x 0) $u (bor $x $y)) (bor $x $himul_imm $C $)
+(>+i xshl $x 0_im$C) $x) (cicons t$C)) (nstay po 0_imul_imm $C $x)+$C $x)+
+im@m $C 
+hr $xhimul_imm $C $C)) (nstay po 0_imul_)+
+immh 
+$@ Cr $x 0) $y (bor  $C $x)+
+_imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C $x)+
+im@m $C 
+hr $x 0) $u (bor $x $y)) (bor $x $himul_imm $C $x)+
+> (ishl $x 0_im$C) $x) (cicons t$C)) (nstay po 0_imul_imm $C $x)+
+imm $C $x)+
+> (ishl $x 0_im$C) $x) $y+) (bor $x $(imul_imm $C $x)+
+> (ishl $xnstqy 0_imul_imm $C$C $x)+
+im@m $C 
+hr $x 0) $u (bor $x $y)) (bor $x $himul_imm $C $x)+
+> i_i

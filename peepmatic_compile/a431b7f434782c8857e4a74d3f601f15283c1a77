@@ -1,0 +1,5 @@
+;; Fo o a ft.
+(=> (when (imul $x $C)
+          (is-power-of-two)) (bor $x $x $y))
+
+(=> (bor ) $x)

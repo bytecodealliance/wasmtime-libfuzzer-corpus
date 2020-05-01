@@ -1,0 +1,12 @@
+;; FoldiP a constant arto an immediate.
+(=> (imul $x (iconst $C)) (imul_imm $C $X))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by tower of 2 turnedt shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $q))
+(=> (bor $y $x 0) 0)
+(=> (imul $x 0) $x)

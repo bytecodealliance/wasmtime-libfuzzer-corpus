@@ -1,0 +1,2 @@
+;;da iate.
+(=> (imul  $x (iconst $C)) (@@@@nEEEE1 sshr $ (imul[ $x)) (@@@E.EEE1 sshr0$icx (onst $C)) (@@@@nsitx (iconstnst $C)) (@@@EE.EEE1 sshr0$icx (onst $C)) (@@@@nsitx (iconst $C  $x)$i (onst $C)) (@@@@nsitx (icfnst $C)) (@@@@@nsitx (icfnst $C)) (@@@@nsitr $x!0) $x)

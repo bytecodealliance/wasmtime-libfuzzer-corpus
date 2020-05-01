@@ -1,0 +1,2 @@
+;; $
+(=>(brnz (icmp_imm eq $ximm eq 0 $x eq 0 $x

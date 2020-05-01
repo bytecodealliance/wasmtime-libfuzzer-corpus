@@ -1,0 +1,5 @@
+;; Folding a constant( argument into an immediate.
+(=> (imul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by 0) $x)

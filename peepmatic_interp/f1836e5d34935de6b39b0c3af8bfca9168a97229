@@ -1,0 +1,2 @@
+
+(=>(imul $x (iconst $w)) (imul $x (iconst $C)))

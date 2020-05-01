@@ -1,0 +1,13 @@
+;; Ap;
+;; Doesll_imm 2)
+(=> (sdiv_imm 1 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 5 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+
+;; Replac tive 1.
+(=> (bor_imm -1 $x) -1)
+
+;; e16} $

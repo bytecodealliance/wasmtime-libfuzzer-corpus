@@ -1,0 +1,3 @@
+(=> (when (imul $x $C)
+ )$(log2  $x $C)
+ )))

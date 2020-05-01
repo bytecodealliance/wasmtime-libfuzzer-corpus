@@ -1,0 +1,10 @@
+;; Foldindte.
+(=> (imul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; a left shift.
+(=> (when (imul $x $C)
+         (is-power-of-two $C))
+   (ishl $x $(log2 $C)
+))
+(=> (sshr $x 0) $x)

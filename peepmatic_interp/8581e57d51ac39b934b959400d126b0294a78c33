@@ -1,0 +1,53 @@
+;; Apply basic simplifications.
+;;
+;; This    (iadd_imm $C $x))
+(=> (when (imul $C $x)
+      (fits-in-native-word $C))
+    (imul_imm $C $x))
+(=> (when (band $C $x)
+      (fits-in-native-word $C))
+    (band_imm $C $x))
+(=> (when (bor $C $x)
+      (fits-in-native-word $C))
+    (bor_imm $C $x))
+(=> (when (bxor $C $x)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Unar`.
+(=> (iadd_imm $C1 (iadd_imm $C2 $x)) (iadd_imm $(iadd $C1 $C2) $x))
+(=> (imul_imm $C1 (imul_imm $C2 $x)) (imul_imm $(imul $C1 $C2) $x))
+(=> (bor_imm $C1 (bor_imm $C2 $x)) (bor_imm $(bor $C1 $C2) $x))
+(=> (band_imm $C1 (band_imm $C2 $x)) (band_imm $(band $C1 $C2) $x))
+(=> (bxor_imm $C1 (bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;; Remove $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=>(bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replam -1 $x) -1)
+
+;; Transform `[(x <} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold away redund;; %_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\Y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; cat argumet nnito an)r $xrnz $x))
+
+;; TODO FITZGEN: do_div  $r )em_transformation

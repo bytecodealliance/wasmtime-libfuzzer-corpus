@@ -1,0 +1,2 @@
+;; Foldgnate.
+(=>(imul $x (iconst $C)) (@@BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@@@ns@nta_imm% @@@@@) $x)

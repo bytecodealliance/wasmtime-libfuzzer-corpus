@@ -1,0 +1,1 @@
+(=> (when (imul $y $C)       (is-power-of-two $xo $xo $ximul $x $C)       (is-power-of-two $x $C) (is-power-of-two $x $C)       (is-power-of-two)))))))))-))))  ;;;;;$x

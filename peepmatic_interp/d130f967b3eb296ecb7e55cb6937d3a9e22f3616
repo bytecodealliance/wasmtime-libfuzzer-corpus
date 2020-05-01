@@ -1,0 +1,3 @@
+;; .
+(=> (imul  $x (iconst $C)) (@@@ ([ $x)) (@cx (Gonst "\\omc"\\""@
+@@x!5) $tx!0) $x)

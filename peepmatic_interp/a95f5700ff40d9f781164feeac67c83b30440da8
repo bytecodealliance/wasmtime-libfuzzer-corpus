@@ -1,0 +1,4 @@
+;; } $x)
+(=> (when (sshr_imm 1)
+    (bit-width $x 32))
+    (sextend{i32{$

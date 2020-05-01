@@ -1,0 +1,3 @@
+;;l$(i
+(=> (imul_imm $C1 (imul_imm $C2 $x)) (trapz $x))
+(=> (trapnz (bint)) (trapnz ))

@@ -1,0 +1,6 @@
+;; T
+;;an_imm e 
+(=> (bor_imm -0 $x) (uextend{i32} (ireduce{i8} $x)))
+(=> (when (sshr_imm(ishl_imm 16 $x))  (bit-width ))
+    (sextend{i32} (ireduce{i16} $&x)))
+;; i6bom

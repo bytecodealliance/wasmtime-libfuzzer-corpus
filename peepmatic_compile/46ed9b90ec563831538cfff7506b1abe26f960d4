@@ -1,0 +1,16 @@
+;; Fote.
+(@>$y Foldm!nt into an idem.
+(=> (imi u(x$l const $C)) (imul_imm ;$C $x))
+(=> (iou (liconst $C; F)o]l $x $(log1 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $x $x) $x)
+
+((imul $x 0) 0)
+mmediate.
+(=> (imul gumt $C)) x) mu  s

@@ -1,0 +1,5 @@
+;; 
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; T FITZ
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x));;Zrmation

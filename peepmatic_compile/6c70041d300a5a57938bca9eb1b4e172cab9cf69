@@ -1,0 +1,4 @@
+;; Foldt.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2  $x 0) 0 $x 0) $x)

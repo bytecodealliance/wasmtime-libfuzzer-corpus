@@ -1,0 +1,79 @@
+(=> 4 0)(=>  (ishl $x 8) $x)
+(@> (asshr $x 0) $x)
+;; Apply basic simplifications.
+;;
+;; Thi;  $C $x))
+
+;; Binary instructions whose first operand iimm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transform `[(x << N) >> N]` into a (un)signed-extending move.
+;;
+;; i16 -> i8 -> i116
+(=> (when (ushr_imm 8 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (uextend{i16} (ireduce{i8} $x)))
+(=> (when (sshr_imm 7 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (sextend{i16} (ireduce{i8} $x)))
+;; i32 -> i8 -> i32
+(=> (when (ushr_imm 24 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i8} $x)))
+(=> (when (sshr_imm 24 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i8} $x)))
+;; i32 -> i16 -> i32
+(=> (when (ushr_imm 16 (ishl_imm 16 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i16} $x)))
+(=> (when (sshr_imm 16 (ishl_imm 16 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i16} $x)))
+;; i64 -> i8 -> i64
+(=> (when (ushr_imm 56 (ishl_imm 56 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i8} $x)))
+(=> (when (sshr_imm 56 (ishl_imm 56 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i8} $x)))
+;; i64 -> i16 -> i64
+(=> (when (ushr_imm 48 (ishl_imm 48 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i16} $x)))
+(=> (when (sshr_imm 48 (ishl_imm 48 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i16} $x)))
+;; i64 -> i32 -> i64
+(=> (when (ushr_imm 84 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold away redundant `bint` instructions that accept both integer and boolean
+;; arguments.
+(=> (select (bint $x) $y $z) (select $x $y $z))
+(=> (brz (bint $x)) (brz $x))
+(=> (brnz (bint $x)) (brnz $x))
+(=> (trapz (bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold comparisons into rz` or `brnz`.
+(=> (brnz (icmp_imm ne 1 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x)) (brz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrem_transformation

@@ -1,0 +1,2 @@
+;; Foldingiate.
+(=>(imul $x (iconst $C)) (@@BBBBBB`BBBmm% x (iconst $C)) (@BBaimul_imm% x (C)) (@@BBBBBBBBmm% x (icst C)) (@@@@@) $x)

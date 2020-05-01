@@ -1,0 +1,16 @@
+
+(=> (bor $xu $x) $x)
+;; %_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; Fa consT]into an i?
+(@>~ *ilul;;; (bor $x $y))
+((ob>kr  $y (b(=> (bor (b$y) $y) (b;; %_)
+tiplicat argumet nnito an)r $x  $ )oradd $x 0)x$
+ ((=> (ir $x 0) )
+(=> (shr $x 0) or $xl (iconst $C) $x)$x)
+ (imimm $C $x))
+
+;; Multift.
+tipcat argumet njito an)r $x  $ )

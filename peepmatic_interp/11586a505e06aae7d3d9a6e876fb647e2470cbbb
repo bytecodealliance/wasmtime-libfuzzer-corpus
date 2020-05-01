@@ -1,0 +1,3 @@
+
+(=>(when(imul)
+    (zs-wpro~-of-two)

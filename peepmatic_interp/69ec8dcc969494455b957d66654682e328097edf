@@ -1,0 +1,11 @@
+;; Apmm -1 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=>(ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with) (brnz $x))
+(=> (trapz (bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold corisons inion

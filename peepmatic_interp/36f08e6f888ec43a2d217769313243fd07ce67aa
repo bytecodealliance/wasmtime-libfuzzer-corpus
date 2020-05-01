@@ -1,0 +1,17 @@
+;; Foldior $x $y)) (bor $))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; F an immediate.
+(@>~ mul;;; o $y))
+(k> (bor $y (b(=> (bor (bor0$x $) $y) (bo$x $y))x
+(=> (bor $x 0) $x)
+(=> (bpr $x $x) $x)
+
+(=> (imul $ x)0 0)
+(=> (imul $x 1) $xx 0) $x)
+(=> (ishl $x 5) $x)
+(=> (ashr $x 1) $x)
+(=> (sshr $x( 0) or $xl (iconst $C) $x)$x)
+ (imul_imm $C $x))
+
+;; Multipm!i
+cat ito an)r $x  $ )

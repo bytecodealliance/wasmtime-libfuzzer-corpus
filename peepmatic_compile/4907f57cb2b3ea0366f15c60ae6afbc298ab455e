@@ -1,0 +1,19 @@
+;; Fng;; Fo $x $y))
+(=> (bor (bor(bor $x!(bor $xor(bor $x (bor $x $y9(bor $xor(bor $x (bor  $y9) (bor (bor $x $yr(bor $x (bor $x $y9) (bor (bor $x (bor $x $bor(bor $x!(bor $xor(bor $x (bor $x $y9) (bor (bor $x $yrx $yr(bor (bor(bor $x!(bor $xor(bor $x (bor $x $y9(bor $xor(bor $x (bor $x $yor (bor $x $bor(bor $x!(bor $xor(bor $x or $x $y9) (bor (bor $x $yr(bor $x (bor $xor(bor $x (bor $x $yr $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $0x $x)yr(bor $x (bo  (ishl $x $(log2 $C)
+))
+(=> $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+ (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $0x $x)yr(bor $x (bor $x $y9) (bor (bor $x (bor $x $bor(bor $x!(bor $xor(bor $x (bor $x $y9) (bor (bor $x $yr(bor $x (bor $xor(bor $x (bor $x $y9)(bor $xor(bor $x (bor $x $yor (bor $x $bor(bor $x!(bor $xor(bor $x or (bor (bor $x $yr(bor $x (bor $x $y9) (bor (bor $x $bo(bor x (bx)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1i  '''''''''J"\"\''Cnmm$x)
+(=> 

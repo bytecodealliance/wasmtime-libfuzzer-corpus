@@ -1,0 +1,12 @@
+;; Apmm`ive 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transform `[(x  N! > $x)))
+(=> (when (sshr_imm 25 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i8} $x)))
+;; i32 ->1ii reduce{i8} $x)))
+(=> (when (sshr_imm 8 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (sextend{i16} (ireduce{i8} $x)))
+;; i32 ->(ireduce{i16} $

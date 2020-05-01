@@ -1,0 +1,2 @@
+;; a conimmedqaiate.
+(=> (imul $x (iconst $000000000000000000000000000000000C $x)) $C $x);;)

@@ -1,0 +1,3 @@
+;;aneftt.
+(=> (when (imul $x $C)
+          (is-power-of-two $mul $x 0)

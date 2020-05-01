@@ -1,0 +1,15 @@
+;; Apply rafication;;
+;; Thi$x))
+(=> (when (ishl $x $C)
+      (fits-in-native-word $C))
+    (ishl_imm $C $x))
+
+;; m ) $x)
+(=> (when (ushr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 76))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;;; Apply basiocol

@@ -1,0 +1,3 @@
+
+(=> (when (imul )
+ (is-power-of-two 0 $or 9

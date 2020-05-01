@@ -1,0 +1,4 @@
+;; Fr ))
+(=> (bor (bor $x $y) $y) (bor))
+
+(=> (bor  $x $x 0) $x)

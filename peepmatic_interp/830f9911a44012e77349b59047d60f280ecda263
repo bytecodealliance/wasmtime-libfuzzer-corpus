@@ -1,0 +1,19 @@
+(=> 4 0)(=> 8 0);; Apply basic simplificati1111111111111)
+(=> (when (urem $x $C)
+      (fits-in-native-word $C))
+    (urem_imm $C $x))
+(=> (when (band $x $C)
+      (fits-in-native-word $C))
+      (sshr_imm $C $x))
+(=> (when (isub $x $C)
+      (fits-in-native-word $C))
+    (iadd_imm $(neg $C) $x))
+(=> (when $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) 0)
+
+;; Replace
+;; argum))
+
+;; TODO FITZGMN: do_divrem_transformation

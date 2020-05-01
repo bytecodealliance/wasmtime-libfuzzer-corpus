@@ -1,0 +1,17 @@
+(=> 1 0)(=> 8 0);;o)
+(=> (sdiv_imm 1 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replacro.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 0 ) 0)
+
+;; Replacation

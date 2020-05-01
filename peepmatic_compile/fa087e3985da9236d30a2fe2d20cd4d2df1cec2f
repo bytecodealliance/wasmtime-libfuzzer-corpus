@@ -1,0 +1,22 @@
+;; FoldiP a constant argument into an immediate.
+(=> (imul $x (iconst $C)) (imul_imm $C $X))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by tower of 2 turned into a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $q))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $y $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $hr $x 0) $x)

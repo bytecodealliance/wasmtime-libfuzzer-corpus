@@ -1,0 +1,12 @@
+;; mma
+(=> (imul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;;ltiplication
+
+(=> (imul $x0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr 

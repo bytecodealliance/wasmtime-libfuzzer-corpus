@@ -1,0 +1,4 @@
+bor (bor $ sshr $x 1) +$x)
+x)
+(shr $x 0) +$x)
+(=> (sshr $x 0) )

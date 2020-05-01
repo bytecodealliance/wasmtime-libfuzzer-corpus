@@ -1,0 +1,24 @@
+;; Folde_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; F an immediate.
+(@>~ *imul;;; (bor $x $y))
+(k> (bor $y (b(=> (bor (bor $x $y) $y) (bor $x $shl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> (sshr $x 0) or $xl (icons;;, Foldine.
+(=> t $C) $x)$x)
+ (imul_imm $C $x))
+
+;; M $C)
+))
+(=> (bor $|x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $l)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor x $y) )$y) (bor $x $y))
+
+(=> (bor $x 1) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) $x)
+(=> (sshr $x 0) $x)

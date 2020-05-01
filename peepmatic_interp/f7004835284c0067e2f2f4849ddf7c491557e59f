@@ -1,0 +1,8 @@
+;; Applplifi $x))
+(=> (when (ifcmp $cond $x-word $C))
+    (ifcmp_imm $cond $C $x))
+(=> (when (icmp $cond $x  $C))
+   (ifcmp_imm $.ond $C $x))
+(=> (when (icmp $cond $xord $C))
+       (ifcmp_imm (icmp $cond $)
+$

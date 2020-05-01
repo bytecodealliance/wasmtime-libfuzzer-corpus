@@ -1,0 +1,3 @@
+;; Finx $ $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $')  5) $x)

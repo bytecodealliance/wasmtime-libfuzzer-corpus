@@ -1,0 +1,5 @@
+;; Folding _ite_)
+(=> (bor $x (bor $x $y)) (bor $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor;;))
+(=> (0r (bor $x $y) a $y) (b

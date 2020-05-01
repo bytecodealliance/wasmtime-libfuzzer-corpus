@@ -1,0 +1,4 @@
+;; Ap1.
+(=>(when (sshr_imm 2(ireduce{i8} $x)))
+;;     (bi
+    (sextend{i32} (ireduce{i8} $x)))

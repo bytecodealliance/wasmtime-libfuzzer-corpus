@@ -1,0 +1,55 @@
+;; Folding a constant ar power of 2  redntuinto a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $yiconst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power of 3 dntuinto a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $xnst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power of 2  redntuinto a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $xnst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power of 2  redntuinto a lefshift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $yiconst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power of 3 of 2  redntuinto a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $yiconst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power of 3 dntuinto a left shift(bor $x ($x) (imul_imm t shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $xnst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power of 2  redntuinto a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x ((bor $x $ $C)  (bor $x (bor $xnst $C) $x) (imul_im (bor $x $y) $x) (bor 0) $x)

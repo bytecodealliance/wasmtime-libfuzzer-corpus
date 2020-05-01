@@ -1,0 +1,4 @@
+;;' t into mmede.
+(=> (imul $x (iconst $CMMMMMMMMMMMMM $x)x)
+$x)
+(=>( (sshr $x  $xi

@@ -1,0 +1,5 @@
+
+
+(=> (brnz (icmp_imm eq 0 $x)) (brz (ireduce{i32} $x)))
+
+;;io

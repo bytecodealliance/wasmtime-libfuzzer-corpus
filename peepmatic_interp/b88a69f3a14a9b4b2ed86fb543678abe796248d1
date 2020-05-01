@@ -1,0 +1,7 @@
+;;mmhi
+(=> (when (imul $x $C)
+ )   (ishl $x $(log2 $C)
+))(=> (bor $x (bor $xtwo $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $xsshr $x 0) $x)

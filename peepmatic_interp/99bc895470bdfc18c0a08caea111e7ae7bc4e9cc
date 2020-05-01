@@ -1,0 +1,59 @@
+;; inhe x))
+(=> (when (udiv $x $C)
+      (fits-in-native-word $C))
+    (udiv_imm $C $x))
+(=> (when (srem $x $C)
+      (fits-in-native-word $C))
+    (srem_imm $C $x))
+(=> (when (urem $x $C)
+      (fits-in-native-word $C))
+    (urem_imm $C $x))
+(=> (when (band $x $C)
+      (fits-in-native-word $C))
+    (band_imm $C $x))
+(=> (when (bor $x $C)
+      (fits-in-native-word $C))
+    (bor_imm $C $x))
+(=> (when (bxor $x $C)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (rotl $x $C)
+      (fits-in-native-word $x)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Unary instructions whose operand is constant.
+(=> (adjust_sp_down $C) (adjust_sp_down_imm $C))
+
+;; Fold `(b$C0 )
+(=> (imul_imm 1 $x) $x)
+(=> (sdiv_imm 1 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; th zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace
+;; arguments.
+(=> (select (bint $x) $y $z) (select $x $y $z))
+(=> (brz (bint $x)) (brz $x))
+(=> (brnz (bint $x)) (brnz $x))
+(=> (trapz (bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold comparisox))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrem_tran;; App

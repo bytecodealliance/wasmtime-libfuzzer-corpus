@@ -1,0 +1,7 @@
+;; Apply basfc simplificatim $C $x))
+(=> (when (band $-in-native-word $C))
+    (band_imm $m $C $x))
+(=> (when (band $C $xive-word $C))
+    (iadd_imm $(neg $C) $xm $C $x))
+(=> (when (band $C $x)
+      (fittivh

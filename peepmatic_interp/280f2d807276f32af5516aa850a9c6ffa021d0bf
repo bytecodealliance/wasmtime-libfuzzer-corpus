@@ -1,0 +1,9 @@
+;; Folding  $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; F an immediate.
+(@>~ *imul;;; (
+(k> (b $y (b(=> (bor (bor $x $y) r $x x 1) $x)
+
+(=> (iading a co $x 4) $)
+(=x)""""""""""""""""""""""""""@""""""""""""""""""""""""""""""""""""""x)
+ito an)$xx   0)r ($Bor add ))

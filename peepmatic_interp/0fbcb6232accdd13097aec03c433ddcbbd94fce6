@@ -1,0 +1,2 @@
+;; Go a
+(=> (imul  $x=(imul  $x (iconst $C)) (@!n)) $x)

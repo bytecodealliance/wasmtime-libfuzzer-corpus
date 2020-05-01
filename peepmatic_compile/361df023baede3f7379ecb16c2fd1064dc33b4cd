@@ -1,0 +1,2 @@
+;; a constant argument into an immediaiate.
+(=> (imul $x (iconst $C)) (imul_imm $C $x));; > $C $x);;)

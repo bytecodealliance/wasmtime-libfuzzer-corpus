@@ -1,0 +1,19 @@
+(=> 4 0)(=> 8 0);; Apply basic simplifications.;$x))
+(=> (when (isub $x $C)
+      (fits-in-native-word $C))
+    (iadd_imm $(neg $C) $x))
+(=> (when $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Rx)) (brz $x))
+(=> (brnz(bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold

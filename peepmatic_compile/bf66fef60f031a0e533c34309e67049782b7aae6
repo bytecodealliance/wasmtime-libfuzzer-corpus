@@ -1,0 +1,33 @@
+; Multiplication by power o$x $y))
+(=> (bor $y (bor $x$x (bor $x $y)) (bor $x $y))
+(=> (bor $` (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) nan:0xF555555555555555555555555)(=&-- (|shl         (is-power-orx $ $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))xn1 g) -----------;9  Fdi$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(= Multiplication by power o$x $y))
+mm xn)an:0xF); nan:0xF555555555555555555555555)(=&-- (|shl         (is-power-of-two $C))
+    (ishl $x $(log2  $x $y))
+(=> (bor $y (bor $x $y)) b(or $x $y))xn1 g) --------=---;9  'di$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(=&-- (|shl $---0--;9 Foldi$xn0--0----(-(-!9o- F-;ldi$xn0--0 ::*:&::: -----5----(---&-- (|shl $---0--;9 Foldi$xn0--0----( $x!(bor $xor(bor $x (bor $x $y0) (bor (r $x (bor $x $y9) (bor (bor $x $bo(bor  $borF); nan:0xF555555555555555555555555)(=-))
+(=> (bor $` (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=>  (x (bor $x $y)) (bor $x $y))
+(=> (bor $` (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor  Fdan:0xF); nan:0xF555555555555555555555555)(=&-- (|shl         (is-power-orx $ $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))xn1 g) -----------;9  Fdi$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(= Multiplication by power o$x $y))
+(=> (bor $y (bor $x$x (bor $x $y)) (bor $x $y))
+(=> (bor $` (bor $x $y)) (bor $x $y))
+(  Fdi$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(=&-- (|shl         (is-power-of-two $C))
+    (ishl $x $(log2  $x $y))
+(=> (bor $y (bor $x $y)) b(or $x $y))xn1 g) --------=---;9  'di$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(=&-- (|shl $---0-- (bor (bor $x $bo(bor  $borF); nan:0xF555555555555555555555555)(=-!-----  0) z--0--;9 Fold$inx0 g) --------------(-(------  0) --0--or $x $y9) (bor (bor $x $yr(bor $x (bor $xor(bor $x (bor $x $y9) (bor (bor $x $yr(bor $x (bor $x $y9) (bor (bor $x $bo(bor  $borF); nan:0xF555555555555555555555555)(=-!-----  0) z--0--;9 Foldi$xn0 g) --------------(-(------  0) --0--;bor (bor $x (bor $x $b;ldi$xn0--0 ::*:&::: -----5----(---&-- (|shl $---0--;9 Foldi$xn0--0----( $x!(bor $xor(bor $x (bor $x $y0) (bor (r $x (bor $x $y9) (bor (bor $x $bo(bor  $borF); nan:0xF555555555555555555555555)(=-))
+(=> (bor $` (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=>  (x (bor $x $y)) (bor $x $y))
+(=> (bor $` (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor  Fdan:0xF); nan:0xF555555555555555555555555)(=&-- (|shl         (is-power-orx $ $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))xn1 g) -----------;9  Fdi$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(= Multiplication by power o$x $y))
+(=> (bor $y (bor $x$x (bor $x $y)) (bor $x $y))
+(=> (bor $` (bor $x $y)) (bor $x $y))
+(  Fdi$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(=&-- (|shl         (is-power-of-two $C))
+ 0xF555555555555555555555555)(=-!-----  0) z--0--;9 Foldi$xn0 g) --------------(-(------  0) -n0--0----(-(-!9o- F-;ldi$xn0)xn1 g) -----------;9  Fdi$xn0 g) ---------n0 g) mm xn)an:0xF); nan:0xF555555555555555555555555)(=&-- (|shl $---0--;9 Foldi$xn0--0----(-(-!9o- F-;ldi$xn0--0 ::*:555555)(=-!---  0-)- z--0--;9 Foldi-of-two $x $C)z
+         x (bor $x $; Folding a c t;ft.
+(=> (

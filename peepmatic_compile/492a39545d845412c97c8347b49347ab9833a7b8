@@ -1,0 +1,2 @@
+;; Foshift Gbor 
+(=> (@or $y (bor $' $y)))

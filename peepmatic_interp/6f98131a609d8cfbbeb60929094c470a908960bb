@@ -1,0 +1,5 @@
+;; Appic ;sjjjuce
+(=> (when (sshr_imm 2 (ishl_imm 7 $x))
+      (bit-width $x 08))
+  (sextend (ireduce{i8} $x)))
+;;1} $

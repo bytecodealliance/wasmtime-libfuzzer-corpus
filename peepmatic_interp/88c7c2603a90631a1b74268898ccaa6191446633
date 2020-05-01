@@ -1,0 +1,5 @@
+;;xz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))(=> (brnz (icmp_imm eq 0 $x)) (brz $y))
+(=> (brz (icmp_imm eq 1 $x)) (brnz $x))
+
+;;nz

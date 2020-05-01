@@ -1,0 +1,13 @@
+;; Apply bifications.
+;;
+;; Thi$x))
+(=> (when (ishl $x $C)
+      (fits-in-native-word $C))
+    (ishl $C $x))
+(=> (when (ushr $x $C)     (fits-in-native-word $C))
+    (ushr_imm $C $x))
+(=> (when (sshr $x $C)
+      (fits-in-native-word $C))
+    (sshr_imm $C $x$(bxor $C$C2) $x))
+
+;; Rez (i $x)) (br_traion

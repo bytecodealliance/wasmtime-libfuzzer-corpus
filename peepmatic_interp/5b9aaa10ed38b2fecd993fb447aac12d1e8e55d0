@@ -1,0 +1,33 @@
+
+(=>(imul $x (iconst $C)) (imul $x (iconst $C)))
+;; F %)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=>(bor $x 0) $x);; %_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $x1 $y) $x) (bor $x $y))
+;; Folding a con
+(=> (bor $x $y) 5)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (sshr $x 0) $x)
+;; Apply basic rithmetic to form `_imm` instructions, and oth;; > (bor  )
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; Foldin i.
+(@>*7;;.)
+(=> -6.77_77777)licer
+;; $C $x))
+(=> (when (isishl_imm 31 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (
+ireduce{i32} $x)))
+
+;; Fold awa

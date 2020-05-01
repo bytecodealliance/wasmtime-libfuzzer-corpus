@@ -1,0 +1,2 @@
+;; ul_imm $C $x))
+(=> (imul (iconst $C) $pppppppppppppppxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|xxxxxxxxxxxxxxxxxxxwwwwwwwwwwwwww oof

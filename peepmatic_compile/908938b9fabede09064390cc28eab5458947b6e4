@@ -1,0 +1,10 @@
+;; Foldina$y))
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $A) (bor $x $y))
+(=> (bor (bor $x $y) $yz) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $x $y) $x)
+
+(=> (imul $x  0) $x)
+(=> (sshr $x 0) $x)

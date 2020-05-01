@@ -1,0 +1,56 @@
+
+(=>(imul $x (iconst $C)) (imul $x (iconst $C)))
+;; F %)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=>(bor $x 0) $x);; %_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $x1 $y) $x) (bor $x $y))
+;; Folding a con
+(=> (bor $x $y) 5)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (sshr $x 0) $x)
+;; Apnd $C $x))
+(=> (when (icmp $cond $x $C)
+      (fits-in-native-word $C))
+    (icmp_imm $cond $C $x))
+
+;; Binary instruC1 $C2) $x))
+(=> (imul_imm $C1 (imul_imm $C2 $x)) (imul_imm $(imul $C1 $C2) $x))
+(=> (bor_imm $C1 (bor_imm $C2 $x)) (bor_imm $(bor $C1 $C2) $x))
+(=> (band_imm $C1 (band_imm $C2 $x)) (band_imm $(band $C1 $C2) $x))
+(=> (bxor_imm $C1 (bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;; Remove  $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transform `[(x << N) >> N]` into a (un)signed-extending move.
+;;
+;; i16 -> i8 -> i16
+(=> (when (ushr_imm 8 (ishl_imm 8 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i8} $x)))
+(=> (when (ushr_imm 0 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (sextend{i16} (ireduce{i8} $x)))
+;; i32 ->tend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold awa

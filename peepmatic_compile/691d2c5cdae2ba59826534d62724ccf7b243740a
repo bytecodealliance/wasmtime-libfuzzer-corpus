@@ -1,0 +1,2 @@
+;; Faent intoiate.
+(=> (imul $x (iconst $C (imul $x (bo

@@ -1,0 +1,3 @@
+;; a constadiaia.
+(=> (imul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul $xcr(f

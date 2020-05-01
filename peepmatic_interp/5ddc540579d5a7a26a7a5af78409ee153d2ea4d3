@@ -1,0 +1,7 @@
+;; Ap $x))
+(=> (when (icmp $cond $x $C)
+    (fits-in-native-word $C))  (uextend{i32}0(ireduce{i32} $x)))
+(=> (when (sshr_imm 364))
+    (sextend{i64} (ireduce{i32} $x))5)!
+
+;; 

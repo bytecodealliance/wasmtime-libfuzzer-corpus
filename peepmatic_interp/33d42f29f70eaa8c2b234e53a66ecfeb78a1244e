@@ -1,0 +1,141 @@
+hl $x $(log2 $C)
+))
+(=> (b$x_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF); n
+>i$  ia (m ;m $nnan:0d(mm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  i$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I;; Vo
+$  iad; (mm$; nan:0xF); n
+>i$  ia iad; (mmm$; nan: nan:0xF); n
+>i$  ia iad; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF); n
+>i$  iamm$; nan:0xF); n
+>i$  ia iad; (mm$; nan:0xF); n
+>i$  iadn:0xFt0xFt
+)=((mi$  iadd;_imm$; nan:0xF); nan:0xF)b)
+(@@@$0xF); n
+>i$  i(=> (ashr $x 1) a iad; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF $dimm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  (mm$; nan:0xF); n
+>i$  ia iad; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF); n
+>i$  ia (m ;m $nnan:0d(mm$; nan:0xFt(m$; nan:0xFt
+)=((
+>i$  i$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0; Fo
+$  iad; (mm$; nan:0xF); n
+>i$  ia iad; (mm$; n nan:0dimm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  id;a (mm$; nan:0xF); n
+>i$  ia iad; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF)adimm$; nan:0xFt
+)=((m$;   iadd;_imm$; nan:0xF); nan:0xF)b
+>i$  i(m$; nan:0xFt
+)=((
+>i$ ; (mm$; nan:0xF); n
+;i$  ia iad; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF); n
+~i$  ia (m ;m $nnan:0d(mm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  i$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I;; Fo
+$  dd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I;; Fo
+$  iad; (mm$; nan:0xF); n
+>i$  ia iad; (mm$; n nan:0dimm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  id;a (mm$; nan:0xF); n
+>i$  ia iad; kmm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF)adimm$; nan:0xFt
+)=((m$; nan:0xF; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); )=((mi$  iadd;iadd;_imm$; nan:0xF $dimm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$ ; (mm$; nan:0xF); n
+>i$  ia iad; (mm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF); n
+~i$  ia (m ;m $nnan:0d(mm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  i$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I;; Fo
+$  iad; (mm$; nan:0xF); n
+>i$  ia iad; (mm$; n nan:0dimm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  id;a (mm$; nan:0xF); n
+>i$  ia iad; kmm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF)adimm$; nan:0xFt
+)=((m$; nan:0xF; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); naa iad; (mm$; n nan:0xFt0xFt
+)=((mi$  iadd;_imm$; nan:0xF); an:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF);((m$; nan:0xFt
+)=((
+>i$  i$; ; nan:0xFtnan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I;; Fo
+$  dd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I;; Fo
+$  iad; (mm$; nan:0xF); n
+>i$  ia iad; (mm$; n nan:0dimm$; nan:0xFt
+)=((m$; nan:0xFt
+)=((
+>i$  id;a (mm$; nan:0xF); n
+>i$  ia iad; kmm$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF) by r $$; nan:  Ia iadd;a (mm$; nan:0xF); n
+F); n
+>i$  iadd;_imm$; nan:0xF $dimm$; nan:0xFt
+)=an:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I$  iad; (mm$; nan:0xF); n
+~i$  ia (m ;m $nnan:0d(mm$; nan:0xFt
+)=((m$; nan:0xFt
+=)=((
+>i$  i$; nan:0xF); n
+>i$  iadd;_imm$; nan:0xF); nan:0xF))
+; nan:0xFt
+)=((
+>I;; Fo
+$  iad; (mm$; na0xF); n
+>i$  0xFt0xFt
+)=((mi$  iadd;_imm$; nan:0xF); nan:0xF)b)
+(@@@$x)(=> (sshr $x 5) 1@@ $x 1) $x )  (bor $x 0) $x

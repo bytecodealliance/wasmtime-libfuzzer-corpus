@@ -1,0 +1,8 @@
+;; 
+(=> (when (ifcmp $cond $x $C)
+      (fits-in-native-word $C))
+    (ifcmp_imm $cond $C $x))
+(=> (when (icmp $cond $x $C)
+      (fits-in-native-word $C))
+     $x)
+

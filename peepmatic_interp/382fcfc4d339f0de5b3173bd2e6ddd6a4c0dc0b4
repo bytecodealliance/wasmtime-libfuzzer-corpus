@@ -1,0 +1,4 @@
+;;g i16
+(=> (when (ushr_imm 8(ishl_imm 8 $x))
+   )
+    (uextend{i16} (iredul_x)()

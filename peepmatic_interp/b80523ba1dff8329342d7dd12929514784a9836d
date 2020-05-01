@@ -1,0 +1,83 @@
+
+(=>(imul $x (iconst $C)) (imul $x (iconst $C)))
+;; F %)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=>(bor $x 0) $x);; %_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $x1 $y) $x) (bor $x $y))
+;; Folding a con
+(=> (bor $x $y) 5)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (sshr $x 0) $x)
+;; And $C $x))
+(=> (when (icmp $cond $x $C)
+      (fits-in-native-word $C))
+    (icmp_imm $cond $C $x))
+
+;; Binarbxor $C1 $C2) $x))
+
+;; Remove  $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transform `[(x << N) >> N]` into a (un)signed-extending move.
+;;
+;; i16 -> i8 -> i16
+(=> (when (ushr_imm 8 (ishl_imm 8 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i8} $x)))
+(=> (when (ushr_imm 0 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (sextend{i16} (ireduce{i8} $x)))
+;; i32 -> i8 -> i32
+(=> (when (ushr_imm 24 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i8} $x)))
+(=> (when (sshr_imm 24 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i8} $x)))
+;; i32 -> i16 -> i32
+(=> (when (ushr_imm 16 (ishl_imm 16 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i16} $x)))
+(=> (when (sshr_imm 16 (ishl_imm 16 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i16} $x)))
+;; i64 -> i8 -> i64
+(=> (when (ushr_imm 56 (ishl_imm 56 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i8} $x)))
+(=> (when (sshr_imm 56 (ishl_imm 56 $x))
+      (bit-width $x 32))
+    (sextend{i64} (ireduce{i8} $x)))
+;; i64 -> i16 -> i64
+(=> (when (ushr_imm 48 (ishl_imm 48 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i16} $x)))
+(=> (when (sshr_imm 48 (ishl_imm 48 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i16} $x)))
+;; i64 -> i32 -> i64
+(=> (when (ushr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold awa

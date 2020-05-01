@@ -1,0 +1,10 @@
+;; mmhift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $xof-two $C))
+    (ishl $x $(log2 $C)
+))
+(=>  (bor $x $hr $x 0) $x)
+(=> (sshr $x 0) $x)

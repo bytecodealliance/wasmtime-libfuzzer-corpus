@@ -1,0 +1,37 @@
+;; Apply basic simplifications.
+;;
+;; Thi$x))
+(=> (when (ishl $x $s-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Unary instructions w(neg $C) $x))
+(=> (when (ifcmp $cond $x $C)
+      (fits-in-native-word $C))
+    (ifcmp_imm $cond $C $x))
+(=> (when (icmp $cond $x $C)
+      (fits-in-native-word $C))
+   (irsub_imm $C $x))
+
+;; Unary instructions)
+(=> (when (ifcmp $cond $x $C)
+      (fits-in-native-word $C))
+    (ifcmp_imm $cond $C $x))
+(=> (when (icmp $cond $C)
+      (fits-in-native-word $C$C $ive-word $C))
+    (irsub_imm $C $x))
+
+;; Unary instructions w(neg $C) $x))
+(=> (when (ifcmp $cond $x $C)
+      (fits-in-native-word $C))
+    (ifcmp_imm $cond $C $x))
+(=> (when (icmp $cond $x $C)
+      (fits-in-native-word $C))
+   (irsub_imm $C $x))
+
+;; Unary instructions w(neg $C) $x))
+(=> (when (ifcmp $cond $x $C)
+      (fits-in-native-word $C))
+    (ifcmp_imm $cond $C $x))
+(=> (when x))
+(=> (when (imul $C $x)
+      (fits-in-native-

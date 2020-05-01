@@ -1,0 +1,1 @@
+(=> (when (imul $x $C)       (is-power-of-two $x $C)     (is-power-of-two $logul $x $C)       (is-pt5 C))

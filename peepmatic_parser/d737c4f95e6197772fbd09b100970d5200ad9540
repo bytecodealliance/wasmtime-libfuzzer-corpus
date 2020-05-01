@@ -1,0 +1,1 @@
+(=> (when (imul $x )    (is-power-of-two 

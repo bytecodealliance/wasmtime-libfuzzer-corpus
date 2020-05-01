@@ -1,0 +1,17 @@
+; $C) $x) (immul $x (iciconst $C)) (nsta)  (iciconst $B)) (nstay po 0_imu$C) $x) (ciconst $C)) (nstay po 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x)c ($(imul_iwm $C $x)+
+> (ishl $x 0_im$C) $x) (ciconst $C)) (nstay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  1_im$C) $x) (cicon (ciconst $C)) (nstay po 0_im 0_imul_imm $C $x)+
+im@ $x 0)  0_im$C) $x) (ciconst $C)) ( $x $,imul_im} $C $x)+
+> (ish| $x 0_im$C) $x) (b st ing a c 0_im$C) $x) (ciconst $C)tay po 0_im 0_imul_iim $C $x)+
+im@m $C 
+hr $x  0_im$C)y po 0_imul_iim$C) $x) (ciconst $C)) (nstay po 0_im 0_imul_imm $
+hr $x 0)  0_im$C) $x) (cicons (bor $x $y)) (bor $x $(imul_iwm $C $x)+
+> (ishl $x 0_im$C) $x) (ciconst $C)) (nstay po 0_im 0_imul_imm $C+
+im@m $C 
+hr $x 0)  0_im$C) $x) (cicon (ciconst $C)) (nstay po 0_im 0_imul_imm $C $x)+
+im@m $C 
+hr $x0 )  0_im$C) $x) (cx) (b st ing a c 0_im$C) $x) (ciconst $C)) (nstay po 0_im 0_imul_iim $C $x)+
+im@m $C 
+hr $x  0_im$C) $x) (b sngti  a coimm $b st ing a constay po 0_imm $

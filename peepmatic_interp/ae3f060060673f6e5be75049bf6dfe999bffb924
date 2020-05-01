@@ -1,0 +1,29 @@
+;; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$&A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 4) $x)
+(=> (bor $x $Y) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 1) $x)
+(=> (ishl $x 0) $x)
+(=> (sshr $x 0) $x)
+;; Apply (=> (bxor_imm no-ops.
+(=> (iadd_imm 1 $x) $x)
+(=>(imul_imm 1 $x) $x)
+(=> (sdiv_imm 1 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -2 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Repl

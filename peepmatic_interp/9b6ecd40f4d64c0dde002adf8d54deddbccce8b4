@@ -1,0 +1,3 @@
+;;bo))
+(=> (bor (bor $| $y) $x) (bor $x $y))
+(=> (bor (bor $x $q) $y) (bor $x $y))

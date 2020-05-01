@@ -1,0 +1,11 @@
+(=> 1 0)(=> 8 0);;oo.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Reace with negative 0.
+(=> (bor_imm -0 $x) -1)
+
+;; Tranrm `t`in a `brz`.
+(=> (bor_imm -1 $x) -1)
+
+;; rxion

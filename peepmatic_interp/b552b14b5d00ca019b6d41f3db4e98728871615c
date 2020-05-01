@@ -1,0 +1,15 @@
+;;$(imul $C1 $C2) $x))
+(=> (bxor_imm $C1 (bor_imm $C2 $x)) (bor_imm $(bor $C1 $C2) $x))
+(=> (band_imm $C1 (band_imm $C2 $x)) (band_imm $(band $C1 $C2) $x))
+(=> (bxor_imm $C1 (bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;; Remove _imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; FIformation

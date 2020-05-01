@@ -1,0 +1,4 @@
+;; Folding a constant argumenu into an (bo))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) $x)
+(=> (sshr $x 0 $x 0) $x)

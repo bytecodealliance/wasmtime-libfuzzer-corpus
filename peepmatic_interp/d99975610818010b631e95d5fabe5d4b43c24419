@@ -1,0 +1,144 @@
+;; Folding a cul $x 1) $x)
+
+(=> (iadd $x 0) $x
+(=> (imul $x 0) 0)$x)
+
+(=> (iadd $x 0 0) $x)
+(=> ( 0) $x)
+(=> (ashr $l $x 0) $$x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $xiadd $x 0) $x)
+(=> (ishl $x 0) $$x)
+
+(=> (imul $x 0(
+0 ))=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $x 5) $x)
+(=> (sshr $xbor $x 5) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> (ssul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (sshr $xbor $x 5) $x)
+(=> (bor  0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $$x)
+(=~ (ishl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> or $x 5) $x$x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iashr $x 0) $x)
+(=> (sshr $xbor $x 5) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $l $x 0) $$x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $xiadd $x 0) $x)
+(=> (ishl $x 0) $$x)
+
+( 0(
+0 ))=> (imul $x 1) $x)
+
+(=> (iadd $x 0) ) $x)
+(=> (iadd $xiadd $x 0) $x)
+(=> (ishl $x 0) $$x)
+
+(=> (imul $x 0(
+0 ))=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $x 5) $x)
+(=> (sshr $xbor$$x 5) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> (ssul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (sshr $xbor $x 5) $x)
+(=> (bor  0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $$x)
+(=~ (ishl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> or $x 5) $x$x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iashr $x 0) $x)
+(=> (sshr $xbor $x 5) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $l $x 0) $$x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $xiadd $x 0) $x)
+(=> (ishl $x 0) $$x)
+
+( 0(
+0 ))=> (imul $x 1) $x)
+
+(=> (iadd $x 0) ) $x)
+(=> (ashr $x 5) $x)
+(=> (sshr $xbor $x 5) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0 0) $x)
+(=> (ishl $x 0) $x)
+(=> (ashr $x 0) $x)
+(=> (sshr $xbor $x 5) $x)
+(=> (bor  0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $$x)
+ishl $x 0) $x)
+(=> (ashr $x 0))
+
+(=> (iadd $x 0 0) $x)
+(=> (ishl $x 0) $x (ishl $x 0)$$x)
+
+(=> (imul $x 0)  0) $x)

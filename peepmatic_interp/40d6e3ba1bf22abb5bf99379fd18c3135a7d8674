@@ -1,0 +1,8 @@
+;;;; Fif
+(=> (when (imul $x $C$C)
+ (is-power-of-two $C)
+   (is-power-of-two)
+ (is-power-of-two $x $c)
+   (is-power-of-two)
+      (is-power-of-two)
+    

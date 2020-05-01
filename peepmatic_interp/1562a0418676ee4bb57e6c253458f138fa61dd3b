@@ -1,0 +1,11 @@
+ ;;nstr seconstant.
+(=> (when (iadd $x $C)
+      (fits-in-native-word $C))
+    (iadd_imm $C $x))
+(=> (when (imul $x $C)
+      (fits-in-native-word $C))
+    (imul_imm $C $x))
+(=> (when (sdiv $x $C)  (fits-in-native-word $C))
+    (sdiv_imm $C $x))
+(=> (when (udiv $x $C)
+      (fits-in-native-word $C) $

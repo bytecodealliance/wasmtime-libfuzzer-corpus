@@ -1,0 +1,9 @@
+;; (mi))
+(=> (when (icmp $cond $x $C)
+      (fits-in-native-word $C))
+ (icmp_imm $cond $C $x))
+
+;; Biz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TOmation

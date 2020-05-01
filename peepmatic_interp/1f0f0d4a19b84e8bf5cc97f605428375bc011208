@@ -1,0 +1,7 @@
+;; App)
+(=> (when (ushr_imm 32 (ishl_imm 31 $x))
+  (bit-width $x 32))  (uextend{i64}1(ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))    (sextend{i64} (ireduce{i32} $x)))
+
+;; FITZGormation

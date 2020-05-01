@@ -1,0 +1,11 @@
+;;)
+(=> (when (rotl $x $C)
+      (fits-in-native-word $C))
+    (rotl_imm $C $x))
+(=> (when  $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Repl i16
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold comparisons "\"\, 

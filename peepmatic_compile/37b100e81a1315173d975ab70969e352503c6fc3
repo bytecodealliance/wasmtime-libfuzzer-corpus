@@ -1,0 +1,13 @@
+4; Fold;2; Fold=mu;wheul $x $C)
+       y (r $xU;0xEEEEPr $xU;0xEEEEP;> (bx $l $x (i iadd_ibx $l $x ((bx $l $x (i iadd_ibx $lr $xU;0xEEEEP;>  $x $y))
+(=> (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;> (bor (bor $y $y) $x) (bor $x $y))
+(=> (bor x $y) $y (i iadd_imm (bor $x $y)) (b  $xU;0xEEEEP;> ( $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;> ( $x) (bor $x $y))
+(=> (bor x $y) $y) (bor $x $l $x (i iadd_imm (bor $x $y)) (bor $x (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;>  $xU;0xEEEEP;) (bor $x $l $x (i iadd_imm (bor $x $y)) (bor $x (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;>  $xU;)) (bor $x (bor $y (r $xU;0xEEEEPr$ xU;0xEEEEP;>  $xU;0xEEEEP;> ( $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bo(=> (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;> ( $x) (bor $x $y))
+(=> (bor x $y) $y) (bor $x $l $x (i iadd_imm (bor $x $y)) (bor $x (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;>  $xU;0xEEEEP;> ( $(or $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;> (bor (bOrm (bor $x $y (r $xU;0xEEEEPr $xU;0xEEEEP;> (bx $l $x (i iadd_ibx $l $x ((bx $l $x (i iadbor $x $y))
+(=> (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;> (bor (bOrm (bor $x $y (r $xU;0xEEEEPr $xU;0xEEEEP;> (bx $l $x (i iadd_ibx $l $x ((bx $l $x (i iadd_ibx $lr $xU;0xEEEEP;> (bor (bor $y $y) $x)$y) $y) (bor $x $l $x (i iadd_imm (bor $x $y)) (bor $y (r $xU;0xEEEEPr $xU;0xEEEEP;> (bx $l $x (i iadd_ibx $l $x ((bx $l $x (i i+add_ibx $l $x (i iadd_imm (imu' $

@@ -1,0 +1,26 @@
+a consTainto an immediat(.
+(@>~ *imul;;;gn i):; 
+(=---
+* (|shl $x 0_0_1) $e)e.
+(=> (im}}}}}}}}}}}}}}}} $x (iconst imulul}}}}}}}}}}}}}}}}}}}}}}}}}}.}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} (im nan:ul0xF) $)
+(=;;;; gume (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 5) 0)
+(=> (imul $x 1) $x $C)
+
+(=> (b$sshr $<<<<<<<<<<<<<<<<<<<<<<<<)
+
+mul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power rewrite_patterto a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $ym

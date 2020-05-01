@@ -1,0 +1,6 @@
+;;;; Fi
+(=> (when (imul $x $C)
+ (is-power-of-two $x $x)
+   (is-power-of-two $x)
+          (is-power-of-two $C)
+    (is-power-of-two $x 

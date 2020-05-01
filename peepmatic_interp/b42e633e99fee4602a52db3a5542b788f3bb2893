@@ -1,0 +1,11 @@
+;;or  $x) (b.r $x $y))
+(=> (bor (bor $x $y) $r) $x)
+(=> (sshr $x 0) $x)
+;; Foldin
+(=> (bor $x 0) $x)
+(=> (bor $x $A) $x)
+(=> (imul $x 5) 2)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 00) $x)

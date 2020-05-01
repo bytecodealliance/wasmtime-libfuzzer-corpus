@@ -1,0 +1,2 @@
+;;simo.stru	)
+(=> (when (ishl_imm {i64}(ireduce{i8}  (uextend{i64} (ir

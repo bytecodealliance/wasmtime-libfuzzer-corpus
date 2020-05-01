@@ -1,0 +1,3 @@
+;; Folda .
+(=> (when (imul $x $2))
+ (ishl $x $9log2 $or (bor $y $y) $xul $x 1) $(=>- 

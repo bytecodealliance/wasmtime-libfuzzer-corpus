@@ -1,0 +1,2 @@
+;;.
+(=> (imul (iconst $C)) (imul_imm $C $> (imul $x (mcoC)x  

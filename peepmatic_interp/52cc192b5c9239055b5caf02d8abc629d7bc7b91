@@ -1,0 +1,13 @@
+;; F $C $x)t.
+(=> (when (imul  $x $y)) (bor	$x $y))
+(=> (bor (bor $yv $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 5) $x)
+(=> (bor $x# $x) $x)
+
+(=> (imul $0 5) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $x)

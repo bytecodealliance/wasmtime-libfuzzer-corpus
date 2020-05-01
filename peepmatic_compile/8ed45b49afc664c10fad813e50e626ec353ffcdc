@@ -1,0 +1,10 @@
+$y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor  (bor $x $x(;;)) $x)
+
+FD&DDD&&D"\FD&D3DD&DDFD&DDD&D3DDFD&DD&D"\FD&D1DDDD&F&D#DD3(((((((((((((((((((((((((&D3DDFD&DDDDD&&D"\FD&D3DD&DDFD&DDDDD&F&D#DD3(((((((((((((((((((((((*(((((((((((((((((((((((((DDFD&DD&"D\FD&D1DD&DDFDD&&FD&D1DDDD&F&((((((((((((((((DDFD(=> (imul $x 1) $x)
+
+ $; Folb-two
+ ---(=> (iadd $x 0) $x)
+(="\FD&D3DDFD&DD&D"&DD&D"\FD&D3DD&DD"\(((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&DD&F&((((((((((((((((DDFD(x 0) $x)
+(="\FD&D3DDFD&DD&D"&DD&D"\FD&D3DD&DDFD&DDD&&D"\FD&D3DD&DD=D&DDD&D3DDFD&DD&D"\FD&D1DDDD&F&(((((((((((((((((((((((((((((((((((((((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD&D&D"\(((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD &DDD&D3DDFD&DD&D"\FD&D1DDDD&F&D#DD3(((((((((((((((((((((((((((((((((((((((((((((((((DDFD&DD&"D\FD&D1DD&DDFDD&&FD&D1DDDD((&F&((((((((((((((DDFD&DD&"\FD&D3DD&DDFD&DDDDDD&F&(((((((((((((((((((((((((((((((((((((((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD&D&D"\(((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD &DDD&D3DDFD&DD&D"\FD&D1DDDD&F&D#DFD&DDD&&D"\FD&D3DD&DD=D&DDD&D3DDFD&DD&D"\FD&D1DD&DDFD&DDD&&D"\FD&D3DD&DD=D&DDD&D3DDFD&DD&D"\FD&D1DDDD&F&(((((((((((((((((((((((((((((((((((((((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD&DDD&D3DDFD&DD&D"\FD&D1DDDD&F&D#DD3(((((((((((((((((((((((((&D3DDFD&DDDDD&&D"\FD&D3DD&DDFD&DDD&D3DDFD&DD&D"((((((((((((((((((((((DDFD&DD&"D\FD&D1DD&DDF&D#DDDl$(((((((((((((h(((((((DFD&DD&"\FD&D8DD&DDFD&DDD&&D"\FD&D3DD&DDFD&DDD&D3DDFD&DD&D"\(((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&DD&F&((((((((((((((((DDFD(x 0) $x)
+(="\FD&D3DDFD&DD&D"&DD&D"\FD&D3DD&DDFD&DDD&&D"\FD&D3DD&DD=D&DDD&D3DDFD&DD&D"\FD&D1DDDD&F&(((((((((((((((((((((((((((((((((((((((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD&D&D"\(((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD &DDD&D3DDFD&DD&D"\FD&D(((((((((((((((((((((((((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD&D&D"\(((((((DDFD&DD&"\FD&D4DD&DDFD&DDD&&D"\FD&D3DD&DDFD &DDD&D3DDFD&DD&D"\FD&D1DDDD&F&D#DD3(((((((((((((((((((((((((((((((((((((((((((((((((DDFD&DD&"D\FD&D1DD&DDFDD&&FD&D1DDDD((&F&((((((((((((((DDFD&DD&"\FD&D3DD&DDFD&DDD

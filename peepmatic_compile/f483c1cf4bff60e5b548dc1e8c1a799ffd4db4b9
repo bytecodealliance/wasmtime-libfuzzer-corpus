@@ -1,0 +1,2 @@
+;; Fol))
+(=> (imul (iconst $C) $x) (imul_imm $C $x)(

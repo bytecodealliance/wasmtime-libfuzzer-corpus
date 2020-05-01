@@ -1,0 +1,13 @@
+;; Foldin=< ()
+(=>r (b oof 2 tu$x ;0xEEEEEEEEEEEEEpppppo$x ;0xEEEEppppppppppppppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpg a constant argument intonstEpppppo$x ;0xEEEEppppppppp$x ;0xEEEEEEEEEEEEEpppppppppppppppppppppo$x ;0xEEEEppppppppppppppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpg a constant argument intonst;; Folding a te.
+(=> 
+(=>r (b oof 1 tu$x ;0xEEEEEEEEEEEEEpppppppppp?pppb oof 2 tu$x ;0xEEEEEEEEEEEEEpppppo$x ;0xEEEEppppppppppppppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpg a constant argument intonstEpppppo$x ;0xEEEEppppppppp$x ;0xEEEEEEEEEEEEEpppppppppppppppppppppo$x ;0xEEEEppppppppppppppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpg a coqstant argument intonst;; Folding a te.
+(pppppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpg a constant argument intonst;; Foldinga  te.
+(=> 
+(=>r (b oof 1 tu$x ;0xEEEEEEEEEEEEEpppppppppp?pppppppppppo$x ;0;; Folding a te.
+(=> 
+(=>r (b oof 2 tu$x ;0xEEEEEEEEEEEEEpppppppppppppppppppppo$x ;0xEEEEppppppppppppppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpg a coqstant argument intonst;; Folding a te.
+(=>(imul $x (iconst=>  $Cppppp;; Folding a te.
+(=> 
+(=>r (b oof 2 tu$x ;0xEEEEEEEEEEEEEpppppppppppppppppppppo$x ;0xEEEEppppppppppppppppo$x ;0xEEEEEEEEEEEEEEEEEpg a constant argument into an immeppppppo$x ;0xEEEEEEEEEEEEEEEppppEEEEpg a coqstant argument intonst;; Folding a te.
+(=>(imul $x (iconst=>  $C))

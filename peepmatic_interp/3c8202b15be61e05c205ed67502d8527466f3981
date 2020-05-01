@@ -1,0 +1,3 @@
+;; Fodi
+(=> (when (imul $K)   (is-power-of-two $C)       (is-power-of-two $C) (is-power-of-two $C  )
+)   $x)

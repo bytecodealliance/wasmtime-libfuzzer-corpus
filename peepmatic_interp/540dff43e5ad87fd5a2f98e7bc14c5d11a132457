@@ -1,0 +1,18 @@
+;;, Foldioimmediate.
+(=> (imul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; Multipiclation by pow
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $|x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $X) (bor $X $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+
+(=> (imul $x 0) $x)
+(=> (sshr $x 0) $x)

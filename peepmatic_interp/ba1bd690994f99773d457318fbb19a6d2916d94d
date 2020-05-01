@@ -1,0 +1,6 @@
+;;f
+(=> (when (imul $x $C)
+  )
+   (ishl $x $(log2 $=)
+))
+(=> (bor  1)$x)

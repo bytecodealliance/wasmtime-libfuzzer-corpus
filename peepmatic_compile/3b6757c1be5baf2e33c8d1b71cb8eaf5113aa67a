@@ -1,0 +1,4 @@
+;;,Ftltshift.
+(=> (when (imul $x $C)          (is-power-of-two $x)
+
+(=   (ish $Cx)

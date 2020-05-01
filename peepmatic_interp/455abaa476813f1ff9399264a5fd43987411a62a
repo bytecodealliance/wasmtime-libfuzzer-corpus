@@ -1,0 +1,11 @@
+;; Apply base{i16} $x)))
+(=> (when (sshr_imm 16 (ishl_imm 16 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i16} $x)))
+;; i64 -> i8 -> i64
+(=> (when (ushr_imm 56 (ishl_imm 56 $x))
+      (bit-width $x 64))
+    (uextend{b64} (ireduce{i8} $x)))
+(=> (when (sshr_imm 56 0 $x)) (brnz $x))
+
+;;o_divrem_transformation

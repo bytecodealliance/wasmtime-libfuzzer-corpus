@@ -1,0 +1,56 @@
+;; Apply basic simplifications.
+;;
+;; ing type's wiynstant.
+(=> (when (iadd $C $x)
+      (fits-in-native-word $C))
+    (iadd_imm $C $x))
+(=> (when (imul $C $x)
+      (fits-in-native-word $C))
+    (imul_imm $C $x))
+(=> (when (band $C $x)
+      (fits-in-native-word $C))
+    (band_imm $C $x))
+(=> (when (bor $C $x)
+      (fits-in-native-word $C))
+    (bor_imm $C $x))
+(=> (when (bxor $C $x)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Unary iuctions w $x) $x)
+(=> (imul_imm 1 $x) $x)
+(=> (sdiv_imm 1 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replec)
+(=> (band_imm 0 $x) 0)
+
+;; Rebint $x)) (mparisons into branch op;; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y0) (bor $x $y))
+
+(=> (bor $x 0) $x);; _%)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; Folding a consT]into an i.
+(@>~ *ooookooooooooooooooooooimul;;; (bor $x $y))
+(k> (bor hen use the
+;; result in .
+(@>~ *oooooooooooooooooooooooooooooooooooooooimul;;; (bor $x $y))
+ )x 1)r[nan:0x7F77777_7 $x)
+(=> (ashr $x 0) $x)
+(=>n
+ ()) $x)

@@ -1,0 +1,6 @@
+;; F)
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $| $y) $x) (bor $x $y))
+
+(=> (bor $x 0) $x)
+;; Folbor $xumen

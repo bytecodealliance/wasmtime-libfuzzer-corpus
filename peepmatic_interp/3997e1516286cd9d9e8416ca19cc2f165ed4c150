@@ -1,0 +1,16 @@
+(=> 1 0)(=> 8 0)
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;;Fi;;, Folding a coimmediate.
+(=> (imul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; Multipliction by ws;; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x);; %_)
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $y $y) $x) (bor $x $y))
+;; Foldl 0) $x)

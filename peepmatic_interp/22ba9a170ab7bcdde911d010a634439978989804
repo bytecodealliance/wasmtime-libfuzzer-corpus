@@ -1,0 +1,12 @@
+
+(=>(imul $x (iconst $C)) (imul $x (iconst $C)))
+;; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=>(bor $x 0) $x);; %_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; Folding a $x)

@@ -1,0 +1,2 @@
+
+(=> (brz (icmp_imm $E 0 $x))(brnz $x))

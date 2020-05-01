@@ -1,0 +1,7 @@
+;;)
+
+;; MultQift.
+(=> (when (imul $C)
+     (is-power-of-two )C$ )
+))
+(TT

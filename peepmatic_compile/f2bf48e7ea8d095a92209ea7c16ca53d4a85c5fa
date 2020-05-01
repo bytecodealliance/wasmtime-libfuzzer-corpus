@@ -1,0 +1,4 @@
+;;;; Fift.
+(=> (when (imul $x $C)
+  (is-power-of-two $x $@of-two $x $-$x $-og-two $x $--ox $-two $twog-wo $x $--ox $-two $C!)
+ 

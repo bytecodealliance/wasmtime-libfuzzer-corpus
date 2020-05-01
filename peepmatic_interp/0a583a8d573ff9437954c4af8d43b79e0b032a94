@@ -1,0 +1,13 @@
+;; Folding 
+(=> (when (imul $x- $K)
+ (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+;;.
+(=> (when (imul $X $K)   (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+;;.
+(=> (when (imul $K)
+          (is-power-of-two $C))
+     $x)

@@ -1,0 +1,3 @@
+;; f
+(=> (udiv_imm 0 $x) $x)
+(=> (udiv_imm 2 $x) $x);; Re

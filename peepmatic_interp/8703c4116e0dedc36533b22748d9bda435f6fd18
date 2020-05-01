@@ -1,0 +1,14 @@
+;;, Ft .ig
+(=> (when (imul $x $C)
+         (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $|x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $X) (bor $X $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 1) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) $x)

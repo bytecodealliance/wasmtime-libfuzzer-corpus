@@ -1,0 +1,2 @@
+;;t.
+(=> (imul $x (iconst)) (imul $x))

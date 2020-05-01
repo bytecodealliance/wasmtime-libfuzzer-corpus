@@ -1,0 +1,4 @@
+
+(=>(imul $x (iconst $C)) (imul $x (iconst $C)))
+;; y) (bo
+(=>(bor  $y*(bor $x $\y)) (bor $x $y))(=> (bor  $x 0) $x)

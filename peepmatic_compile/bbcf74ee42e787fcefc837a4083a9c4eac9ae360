@@ -1,0 +1,8 @@
+;; Folding a cr $x y))
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $A) (bor $x $y))
+(=> (bor (bor $x $y) $yz) (bor $x $y))
+
+(=> (bor  ) $`x)
+(=> (ashr $x 0) $x)
+(=> (sshr $x 0) $x)

@@ -1,0 +1,32 @@
+(=> 1 0)(=> 8 0);;o))
+
+(=> (ishl $x 8) $x)
+(@> (Hrsa $x 9) $x)
+(=> (sshr $x 1) $x);; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;;nsT] (((%((((((0x(() $x@
+;; Appmm $(band $C1 $C2) $x))
+(=> (bxor_imm $C1 (bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;; dd_imm 0 $x) $x)
+(=> (imul_imm 1 $x) $x)
+(=> (sdiv_imm 1 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Ree with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; ith negatixve 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transform `t in a `brz`; TODO FITZGEN: do_divrem_transformation

@@ -1,0 +1,9 @@
+;;sn.
+
+(=> (when (ushr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x)))
+    (sextend{i64} (ireduce{i32}7 $x)))
+
+;;(Fol

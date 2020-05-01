@@ -1,0 +1,2 @@
+(=> (when (imul $-power-o))
+    (ishl $x $(log2 $(log2

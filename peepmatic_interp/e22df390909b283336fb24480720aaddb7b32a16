@@ -1,0 +1,9 @@
+;; Fo
+(=> (when (imul $X $K)
+          (is-power-of-two $C))
+ (ishl $x $(log2 $C)
+))
+;; Multft.
+(=> (when (imul $X $K)   (is-power-of-two $C))
+    (ishl $x ))
+(=> (bor(bor $x $y)) $x)

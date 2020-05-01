@@ -1,0 +1,6 @@
+;; ))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 4) $x)
+(=> (bor $h $x) $x)

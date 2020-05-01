@@ -1,0 +1,18 @@
+;; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;; Folding a consT]into an i.
+(@>v *ooooooooooooimul;;; (bor $x $y))
+(k> `(bor $y (**********************(
+=> (bor $x $y) $x*************************(********************; (bor $x $y))
+(k> (bor $y (*****************************(
+=> (bor $x $y**********b(=> (bor (bor $x $y)x 0)r[nan:0x7F7)
+b(=> (bor (b  x$$roy)x 0)r[nan:0x7F7777_7 $$x 0) or $xl (iconst $C) $x)$x)
+ (imx))
+
+;; 0xF77*77_7) oooooooooooo$x)
+ (bimimm $C $x))
+
+;; 0xF7777_7)catishift.
+tiplicat argumet nnito an)r $x  $ )(i 5) $x)cat argumet nnito an)r $x  $ )(ishsh r $x 5) $x)

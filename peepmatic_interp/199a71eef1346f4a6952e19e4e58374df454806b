@@ -1,0 +1,29 @@
+;; A$C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;;axtending move.
+;;
+;; i16 ->-> i16
+(=> (when (ushr_imm 8 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (uextend{i16} (ireduce{i8} $x)))
+(=> (when (sshr_imm 7 (ishl_imm 8 $x))
+      (bit-width $x 16))
+    (sextend{i16} (ireduce{i8} $x)))
+;; i32 -> i8 -> i32
+(=> (when (ushr_imm 24 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i8} $x)))
+(=> (when (sshr_imm 48 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i8} $x)))
+;; i32 -> i16 -> i32
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i16} $x)))
+(=> (when (sshr_imm 16 (ishl_imm 16 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i16} $x)))
+;; i64 -> 

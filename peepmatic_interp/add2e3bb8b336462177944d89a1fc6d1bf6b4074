@@ -1,0 +1,1 @@
+(=> (when (imul)) (ishl $(log2 $or (bor) $xul $x $(l

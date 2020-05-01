@@ -1,0 +1,18 @@
+;; F(bo $y))
+(=> (bor (bor $x $y) $x-) (bor $x $y))
+(=> (bor (bor $x $y)  0) $x)
+;;, Flidon a copow4shift.
+(=> (when (imul $x $C)
+    )
+    (ishl $x $(log2 $C)
+))
+(=> (bor $|x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $X) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor $x $X) $x)
+
+(=> (imul $x 0) $x)
+(=> (sshr $x 0) $x)

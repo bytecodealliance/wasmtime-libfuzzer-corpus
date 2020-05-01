@@ -1,0 +1,13 @@
+(=> (iadd $x (iconst $C))
+    (iadd_imm $C $x))
+
+(=> (iadd (iconst $o $C))
+    (iadd_imm $C $x))
+
+(=> (iadd (iconst $C/) $x=> (iadd $x $C))
+    (iadd_imm $C $x))
+
+(=> (iadd (iconst $o $C))
+    (iadd_imm $C $x))
+
+(=> (mm $C $x))

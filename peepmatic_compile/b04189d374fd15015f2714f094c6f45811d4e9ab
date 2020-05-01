@@ -1,0 +1,6 @@
+;; Fo o .
+(=> (when (imul $x $C)
+        (is-power-of-two)) (bor $x $x $y))
+
+(=> (bor $x 0) $x)
+(=> (bor  $x 0) $x)

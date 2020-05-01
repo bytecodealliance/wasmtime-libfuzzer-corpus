@@ -1,0 +1,5 @@
+;; Fo))
+(=> (bor $y (bor $x $9)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+(=> (bor (bor $' $y) $y) $x)
+(=>(sshr $x 0) $x)

@@ -1,0 +1,5 @@
+;; ).
+(=> (when (imul $x $K)
+     (is-power-of-two $C))
+  $x)
+(=> (sshr 0) $x)

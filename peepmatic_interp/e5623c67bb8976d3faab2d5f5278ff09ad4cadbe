@@ -1,0 +1,1 @@
+(=>(bor $x (bor $H $y)) (bor $x $y))

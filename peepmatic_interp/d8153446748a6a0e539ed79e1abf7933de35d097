@@ -1,0 +1,36 @@
+;; Apply basic simp
+;; to form `_imm` instructions, and other
+;; $C $x))
+(=> (when (ishl $x $C)
+      (fits-in-native-word $C)  (fits-in-native-word $C)
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fo; Fold comparisons into branch operations when poch compare agam with ahithmetic to form `_imm` instructions, and other
+;; $C $x))
+(=> (when (ishl $x $C)
+      (fits-in-native-word $C)  (fits-in-native-word $C)
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when(bint $x)) (trapnz $x))
+
+;; Fold comparisons into bra`_imm` instructions, and other
+;; $C $x))
+(=> (when (ishl $x $C)
+      (fits-in-native-word $C)  (fits-in-native-word $C)
+  (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold instructions, and other
+;; $C $x))
+(=> (when (ishl $x $C)
+      (fits-in-native-word $C)  (fits-in-native-word $C)
+      (bit-width $x ))
+
+;; Fold away redundant `binn

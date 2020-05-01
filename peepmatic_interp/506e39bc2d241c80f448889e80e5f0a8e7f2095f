@@ -1,0 +1,5 @@
+;; AppC $x))
+(=> (when (band $x $C)
+      (fits-in-native-word $C))(band_imm $C $x))
+(;; 
+( $C;;)

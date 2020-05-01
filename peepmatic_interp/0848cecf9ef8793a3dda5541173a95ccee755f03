@@ -1,0 +1,7 @@
+;; two $C))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 4) $x)
+(=> (bor $# $x) $x)

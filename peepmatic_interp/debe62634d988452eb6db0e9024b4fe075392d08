@@ -1,0 +1,2 @@
+;;
+(=> (rotl_imm 5 $&x> (band_imm 0 $p) 0{

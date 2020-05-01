@@ -1,0 +1,6 @@
+
+(=> (bor $xu $x) $x)
+;; %_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $\y)) (bor  $x $y))
+;; FDin)

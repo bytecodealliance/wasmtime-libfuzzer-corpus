@@ -1,0 +1,99 @@
+;; Apply basic simplifications.
+;;
+;; This foc #####################(bor_imm -1 $x) -1)
+
+;; Transform `[(x <<ons.
+;;
+;; This folds con)
+(=> (band_imm 0 $x) 0)
+
+;; Rep $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with neg@tive 1.
+(=> (bor_imm -1 $x) -1)
+
+;; )
+
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Rep $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm -1 $x) -1)
+
+;;  (brz (icmp_imm  do)
+(=> (sshr_imm 0 $x) $x)
+
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Rep $x) $x)
+
+;; Replace whth zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; nt) $x)
+(=> (sshr_imm 0 $x) $x)
+
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Rep $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transform `[(x << N) >> N]`)
+(=> (sshr_imm 0 $x) $x)
+
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transfor=> (sshr_imm 0 $x) $x)
+
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Rep $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Transform `[(x << N) >> N]`)
+(=> (sshr_imm 0 $x) $x)
+
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Rep $x) $x)
+
+;; Repce with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replacvrem_transformation

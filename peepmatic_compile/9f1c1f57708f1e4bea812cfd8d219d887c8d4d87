@@ -1,0 +1,23 @@
+;; Folding at.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $const $C) $x) (imul_imm $C $x))
+
+;; Multiplication by powentuinto a left shift.
+(=> (when (imul $x $x $y)) (bor $x $y))
+(=> (bor $y (bor $x $yiconst $C) $x) (imul_imm $C $x))
+
+;; Multiplicatiuinto a left shift.
+(=> (when (imul $x $C)
+          (is-power-of-two $C))
+    (ishl $x $(log2 $C)
+))
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(=> (bor $y (bor $const $C) $x) (imul_imm $C $x))
+
+;; Multiplication by power of 2 redntuinto a left shift.
+(=> (when (imul $x $x $y)) 
+(=> <<<<<<<<<<<)

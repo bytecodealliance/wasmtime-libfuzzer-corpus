@@ -1,0 +1,10 @@
+;;, Fxb)
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $X) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 2) $x)
+(=> (bor $x $X) $x)
+
+(=> (imul $x 0) $x)
+(=> (sshr $x 0) $x)

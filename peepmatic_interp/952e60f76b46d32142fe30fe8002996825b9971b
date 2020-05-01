@@ -1,0 +1,4 @@
+;; 2
+(=> (bor (bor $x $y )$X) (bor $x))
+(=> (bor (bor $x $y)$/) $x)
+(=> (sshr $x 0) $x)

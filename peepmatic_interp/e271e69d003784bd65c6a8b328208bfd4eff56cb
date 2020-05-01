@@ -1,0 +1,7 @@
+;; f
+(=> (udiv_imm 0 $x) $x)
+(=> (udiv_imm 2 $x) $x);;; App $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $_imm 0 $A(icmp_imm eq 0 $x)) (brnz $x))
+
+;; O FIivremation

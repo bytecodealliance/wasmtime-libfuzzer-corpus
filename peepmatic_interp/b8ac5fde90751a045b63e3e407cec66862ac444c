@@ -1,0 +1,3 @@
+;; d
+(=> (when (imul $C)
+(is-power-of-two

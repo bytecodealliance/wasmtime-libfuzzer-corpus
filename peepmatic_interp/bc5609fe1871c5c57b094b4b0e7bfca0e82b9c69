@@ -1,0 +1,7 @@
+
+(=> (bor $y (bor $x $yt $C) $x) (imul_imm $C $x))
+
+;; $y))
+(=> (bor $y (bor $x $yiconst $C) $x) (imul_imm $C $x))
+
+;; 

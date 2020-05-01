@@ -1,0 +1,5 @@
+(=> (bor (bor $x $y) $A) (bor $x $y))
+(=> (bor $x $y) $x)
+
+(=> (imul $x 1) 0)
+(=> (sshr $x 0) $x)

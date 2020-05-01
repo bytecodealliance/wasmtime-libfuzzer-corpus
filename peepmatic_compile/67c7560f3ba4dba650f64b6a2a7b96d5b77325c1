@@ -1,0 +1,2 @@
+;; tnt.
+(=> (imul $x! (iconst $C)) (imul_imm) (imul

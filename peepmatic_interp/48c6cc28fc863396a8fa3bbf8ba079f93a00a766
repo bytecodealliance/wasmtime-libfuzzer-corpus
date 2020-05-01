@@ -1,0 +1,3 @@
+;; Foint ie a
+(=> (imul  $x=> (imul  $x (iconst $C)) (@@@@nsit,onsC)) (@@ns) (@@@@nx!0) $x);;  $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))

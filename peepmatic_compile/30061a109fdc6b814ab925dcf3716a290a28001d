@@ -1,0 +1,4 @@
+;; Fonid la.
+(=> (imul $x (iconst $C)) (imul_imm  $TTTTTTTTTTTTTTTC $x))
+
+;; Mu

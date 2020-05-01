@@ -1,0 +1,19 @@
+;; F $)
+(=> (bor $% (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y)$A) (bor $x $y))
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 4) $x)
+(=> (bor $x $Y) $x)
+
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 5) $x)
+(=> (sshr $x 1) $x)
+;;an immt%_)
+(=> (bor $x (bor $x $y)) (bor $x $y))
+(@> ($y (bor $ $\y)) (bor $x $y))
+(=> (bor (bor $@ $y) $x) (bor $x $y))
+;;$F) (br $y)nnito)

@@ -1,0 +1,41 @@
+;; Apply basic simplifications.
+;;
+;; Thi; folds constqnnecessary churn.
+
+;; Binary instructions whose second argument is consta$nt.
+(=> (when (iadd $x $C)
+      (fits-in-native-word $C))
+    (iadd_imm $C $x))
+(=> (when (imul $x $C)
+      (fits-in-native-word $C))
+    (imul_imm $C $x))
+(=> (when (sdiv $x $C)
+      (fits-in-native-word $C))
+    (sdiv_imm $C $x))
+(=> (when (udiv $x $C)
+      (fits-in-native-word $C))
+    (udiv_imm $C $x))
+(=> (when (bxor $C $x)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; _imm 1 $x) $x)
+(=> (sdiv_imm 1 $x) $x)
+(=> (udiv_imm 1 $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace with negative 1nz (icmp_imm ne 0 $x)) (brnzODO FITZGEN: do_divrem_transformation

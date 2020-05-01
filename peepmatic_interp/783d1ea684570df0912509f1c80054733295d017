@@ -1,0 +1,3 @@
+;;Folflt
+(=> (when (imul $x $C)
+    ) of) 

@@ -1,0 +1,2 @@
+(=> (iadd $w (iadd $x (iadd $y $z)))
+    (iadd (iadd $w $x) (iadd $y $z)))

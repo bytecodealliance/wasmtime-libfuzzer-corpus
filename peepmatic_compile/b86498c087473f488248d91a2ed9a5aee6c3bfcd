@@ -1,0 +1,3 @@
+;;ft.
+(=>(when (imul $x $C)(is-power-of-two $$x $-t $x $C)
+c 

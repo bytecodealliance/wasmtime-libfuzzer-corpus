@@ -1,0 +1,11 @@
+;; Foldi_ite_)
+(=> (bor $8 (bor $x $y)) (bor $x $y))
+(=>(bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $x $y) $x) (bor $x $y))
+;;im)
+
+(=> (bor $x 0) $x)
+(=> (bor $x $x) $x)
+
+(=> (imul $x 0) $x)
+(=> (sshr $x 0) $x)

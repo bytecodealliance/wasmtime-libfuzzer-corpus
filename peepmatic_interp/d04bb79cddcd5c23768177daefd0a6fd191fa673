@@ -1,0 +1,2 @@
+;; Fte
+(=> (imul)(imul_imm $C $x $C $ximm $C $x

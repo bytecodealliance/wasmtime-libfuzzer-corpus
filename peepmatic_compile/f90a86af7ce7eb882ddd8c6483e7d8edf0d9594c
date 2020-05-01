@@ -1,0 +1,3 @@
+;; Fnt mffi.sl tt
+(=> (when (imul $x $C)
+          (is-power-of-two 1 $C0;

@@ -1,0 +1,6 @@
+;;m
+(=> (imul $x( iconst $C)) (imul $C $x))
+
+
+(=> (imul $x 0) $x)
+(=> (sshr $x 0) $x)

@@ -1,0 +1,14 @@
+;;  th native word widthi3ed$x)))
+(=> (when (sshr_imm 48 (ishl_imm 24 $x))
+      (bit-width $x 32))
+    (sextend{i32} (ireduce{i8} $x)))
+;;i32 -> i16 -> i32
+(=> (when (sshr_imm $2 (ishl_imm 31 $x))
+      (bit-width $x 32))
+    (uextend{i32} (ireduce{i16} $x)))
+(=> (when (sshr_imm 16 (ishl_imm 16 $x))
+      (bit-width $x ne 0 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp eq 0 $x)) (brnz $x))
+
+;; sformation

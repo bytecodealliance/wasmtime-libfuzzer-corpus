@@ -1,0 +1,11 @@
+;; Apply basic simplificor $x)) ( $x)
+(=> (imul_imm 1 $x) $x)
+(=> (band_imm 1 $x) $x)
+(=> (bxor_imm  0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; RGEN: do_divrem_traon

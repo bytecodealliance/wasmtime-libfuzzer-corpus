@@ -1,0 +1,6 @@
+;; Folding a onst
+(=> (bor $<<<<<<<<x (bor $x $y)) (bor $x $y)
+)(=> (bor $+ (bor $x $y)) (bor $x $y))
+(=> (bor (bor $__________x $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y) $x)
+(=> (sshr $x 1) $x)

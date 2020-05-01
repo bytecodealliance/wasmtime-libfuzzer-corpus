@@ -1,0 +1,2 @@
+;;
+(=> (when (imul $F	)) (ishl $(log2 $or (bor $y)$(log2 $o $)

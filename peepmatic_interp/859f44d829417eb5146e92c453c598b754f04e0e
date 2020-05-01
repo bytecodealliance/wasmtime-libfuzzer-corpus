@@ -1,0 +1,5 @@
+;; A) $x))
+(=> (band $C1 (band_imm $C1 $x)) (band_imm $(band $C1 $C1)$x))
+(=>(bxor_imm $C1 (bxor_imm $C2 $x)) (bxor_imm $(bxor $C1 $C2) $x))
+
+;; Rion

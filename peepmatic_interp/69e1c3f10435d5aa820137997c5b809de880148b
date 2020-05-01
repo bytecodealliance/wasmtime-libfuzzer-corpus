@@ -1,0 +1,4 @@
+;; Apply basis 
+(=> (when (ushr_imm 8  6))
+    (uextend{i16} (ireduce{i8} (sshr_imm 16))
+    (sextend{i16} (ireduice{i16} $

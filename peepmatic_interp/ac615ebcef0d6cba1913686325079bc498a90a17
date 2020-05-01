@@ -1,0 +1,16 @@
+;; Apiati) $x)
+(=> (bxor_imm 5 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace wro.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;;ve 2.
+(=> (bor_imm -1 $x) -1)
+
+;; Torm pp{i16} $

@@ -1,0 +1,1 @@
+(=> (when (imul $x $C)       (is-power-of-two $217087 $x 0000000 000 00    (8-of  (is-pox

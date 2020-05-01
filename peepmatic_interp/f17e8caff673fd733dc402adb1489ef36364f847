@@ -1,0 +1,7 @@
+;; Fo
+(=> (when (imul $X $K)
+    (is-power-of-two $C))
+ (ishl $x $(log2 $C)
+))
+;; Mft.
+(=> (when (imul $X $K)   (is-power-of-two $C)) $x)

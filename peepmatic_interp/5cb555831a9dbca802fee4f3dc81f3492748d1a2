@@ -1,0 +1,7 @@
+
+(=>(imul $x (iconst $C)) (imul $x (iconst $C)))
+;; F %)bA) (bor $x $
+(=> (adjust_sp_down $C) (adjust_sp_down_imm $C))
+;;
+
+;; Ree wiawa

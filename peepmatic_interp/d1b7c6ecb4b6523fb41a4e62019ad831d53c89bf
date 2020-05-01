@@ -1,0 +1,7 @@
+;; Aive 1.
+(=> (bor_imm -1 $x) -1)
+
+;; T << N)e{i8} $x)))
+(=> (when (sshr_imm 24 (ishl_imm 24 $x))
+      (bit-width $x 64))
+    (sextend{i32} (ireduce{i8} $x)))

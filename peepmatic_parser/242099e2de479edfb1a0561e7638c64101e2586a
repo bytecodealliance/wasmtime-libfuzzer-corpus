@@ -1,0 +1,2 @@
+(=> (bor $x (bor $x $yr $x (bor $p $y))
+ (bor $x )) (bor $y))

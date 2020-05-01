@@ -1,0 +1,1 @@
+(=> $x $(log2 $o (bor $y) $x $xo $x $y)

@@ -1,0 +1,2 @@
+
+(=>(bor $y(bor $x $y))(bor $x $y))(=>(bor(bor $x $y)$r)(bor $x $y))(=>(bor(bor $x $y)$y)$x)

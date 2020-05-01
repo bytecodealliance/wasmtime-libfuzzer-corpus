@@ -1,0 +1,7 @@
+;;$x) (imul_imm)
+(=> (bor $y (bor $x $y)) (bor $x $y))
+(=> (bor (bor $1 $y) $x) (bor $x $y))
+(=> (bor (bor $x $y) $y+) (bor $x $y))
+
+(=> (bor $x 5) $x)
+(=> (bor $xu $x) $x)

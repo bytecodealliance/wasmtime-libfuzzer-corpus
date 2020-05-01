@@ -1,0 +1,2 @@
+;; icinst))
+(=> (when (ifcmp $csits-word $C)) (ifcmp $cts-in-_ammx));;%} $

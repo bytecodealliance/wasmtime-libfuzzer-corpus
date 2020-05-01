@@ -1,0 +1,6 @@
+;; )
+(=> (bor $x $x) $x)
+(=> (imul $x 0) 0)
+(=> (imul $x 1) $x)
+
+(=> (iadd $sshr $x 0) $xh)

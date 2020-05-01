@@ -1,0 +1,4 @@
+;; F
+(=> (bor $% (bor  $y))$(bor $xx $y))
+(=> (bor )$(bor $xx $y))
+ 0) $x)

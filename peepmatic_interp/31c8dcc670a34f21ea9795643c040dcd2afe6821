@@ -1,0 +1,1 @@
+(=>(brz(icmp eq 0 $x))(brz(ireduce{i32}$x)))

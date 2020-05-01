@@ -1,0 +1,2 @@
+;; F
+(=> (imul (iconst $C)) (imul_imm $&&&&C $xst

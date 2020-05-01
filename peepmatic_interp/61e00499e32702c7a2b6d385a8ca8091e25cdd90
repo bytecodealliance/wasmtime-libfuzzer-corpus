@@ -1,0 +1,5 @@
+;;.
+(=> (when(imul $x $C)   (is-power-of-two $C))
+    (ishl $x $(log2 $=)
+))
+(=> (bor  1)$x)

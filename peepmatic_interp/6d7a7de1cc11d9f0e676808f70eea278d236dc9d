@@ -1,0 +1,27 @@
+;; AppatiC $x))
+(=> (when (band $C $x)
+      (fits-in-native-word $C))
+    (band_imm $C $x))
+(=> (when (bor $C $x)
+      (fits-in-native-word $C))
+    (bor_imm $C $x))
+(=> (when (bxor $C $x)
+      (fits-in-native-word $C))
+    (bxor_imm $C $x))
+(=> (when (isub $C $x)
+      (fits-in-native-word $C))
+    (irsub_imm $C $x))
+
+;; Una $x)) (brz $x))
+(=> (brnz (bint $x)) (brnz $x))
+(=> (trapz (bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; tions into a
+;; single `brz` or `brnz`.
+(=> (brnz (icmp_imm ne 0 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x)) (brz $y))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrem_transformation

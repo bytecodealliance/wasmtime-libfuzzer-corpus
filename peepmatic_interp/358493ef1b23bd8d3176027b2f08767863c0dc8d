@@ -1,0 +1,5 @@
+;;ilod)
+(=> (bor (bor $x $y) $y) (bor $x $y))
+
+(=> (bor $x 0) $x)
+(=> (ishl $x 0) $x)

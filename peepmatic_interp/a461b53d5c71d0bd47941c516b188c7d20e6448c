@@ -1,0 +1,4 @@
+;; F.
+(=>(when(imul))
+   $(log2 $or (bor $y $y) $xu $x $xx $wo $F
+$y	 

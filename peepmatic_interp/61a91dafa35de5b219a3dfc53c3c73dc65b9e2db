@@ -1,0 +1,4 @@
+;;
+(=> (when $x) $x)
+(=>(bor_imm 0 $x) $x)
+(=>(trapnz (bint $x))(trapnz $x));; 

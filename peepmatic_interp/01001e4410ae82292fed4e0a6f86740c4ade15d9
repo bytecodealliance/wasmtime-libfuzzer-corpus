@@ -1,0 +1,5 @@
+;;  $
+(=>(brnz (icmp_imm 5 eq $x) )(brz $x))
+(=>(brz (icmp_imm eq $x)0) (brnz $x))
+
+;; Tt

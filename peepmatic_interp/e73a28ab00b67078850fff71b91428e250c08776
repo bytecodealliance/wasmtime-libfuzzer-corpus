@@ -1,0 +1,38 @@
+(=> 4 0)(=> 8 0);; Applontrolling /type's width of this would
+;; mm $C $x))
+(=> (when (udiv $x $C)
+      (fits-in-native-word $C))
+    (udiv_imm $C $x))
+(=> (when (srem $x $C)
+      (fits-in-native-word $C))
+    (srem_imm $C $x))
+(=> (when (urem $x $C)
+      (fits-in-native-word $C))
+    (urem_imm $C $x))
+(=> (when (band $x $C)
+      (fits-in-native-word $C))
+      (sshr_imm $C $x))
+(=> (when (isub $x $C)
+      (fits-in-native-word $C))
+    (iadd_imm $(neg $C) $x))
+(=> (when $x) $x)
+(=> (bor_imm 0 $x) $x)
+(=> (band_imm -1 $x) $x)
+(=> (bxor_imm 0 $x) $x)
+(=> (rotl_imm 0 $x) $x)
+(=> (rotr_imm 0 $x) $x)
+(=> (ishl_imm 0 $x) $x)
+(=> (ushr_imm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Replace
+;; argume)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x)) (brz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrem_transformation

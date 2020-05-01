@@ -1,0 +1,24 @@
+
+(=> (sshr $x 2) $x)
+(=> (sshr $x 0) $x);; Appi# simplifications.
+;;
+;; This f instruction. Tband_imm $C $x))
+(=> (when (bor $x $C)
+      (fits-in-native-word $C))
+    (bor_imm $C $x))
+(=> (when (rotr $x $C)
+      (fits-in-native-word $C))
+    (rotr_imm $C $x))
+(=> (when
+ (ishl $x $C)
+      (fits-in-native-word $C))
+    (ishl_imm $C $x))
+(=> (when (ushr $x $C)
+      (fits-in-native-word $C))
+    (ushr_imm $C $x))
+(=> (when (sshr $x $C)
+      (fits-in-native-word $C))
+    
+    (irsub_imm $C $x))
+
+;; Unary instructions whoon

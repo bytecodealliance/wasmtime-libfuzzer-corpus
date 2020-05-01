@@ -1,0 +1,9 @@
+;; Folding a constant argument into an immediate.
+(=> (imul $x (iconst $C)) (imul_imm $C $x))
+(=> (imul (iconst $C) $x) (imul_imm $C $x))
+
+;; y))
+
+(=> (bor $x 1) $x)
+(=> (bor $x $x) $x)
+(=> (sshr $x 0) $x)

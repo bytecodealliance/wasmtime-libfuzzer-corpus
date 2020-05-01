@@ -1,0 +1,10 @@
+;; Apply' `.
+(=> (iadd_imm $C1 (iadd_imm $C2 $x)) (iadd_imm $(iadd $$C2) $x))
+(=> (bor_imm $mm 0 $x) $x)
+(=> (sshr_imm 0 $x) $x)
+
+;; Replac.
+(=> (iadd_imm $C1 (iadd_imm $C2 $x)) (iadd_imm $(iadd $F1 $C2) $x))
+(=> (imul_imm $C1 (imul_imm $C2 $x)) (imul_imm $(imul $C1 $C2) $x))
+(=> (bor_imm $C(iadd_imm $C0 $x)) (iadd_imm $(iadd $C1 $C2) $x))
+(=>&ion

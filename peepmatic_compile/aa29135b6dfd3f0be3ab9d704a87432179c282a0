@@ -1,0 +1,2 @@
+;;or)
+(=> (bor (bor $x $y) $x) (bor $x $y))(=> (bor (bor $x $y) $`y) $x)

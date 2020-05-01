@@ -1,0 +1,24 @@
+;; Am 0 $x) 8)
+
+;; 
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 2 $x) 0)
+
+;;m$x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Rlp;nati $x)
+
+(=> (imul_imm 6 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; $x) $x)
+
+;; Replace with zero.
+(=> (imul_imm 0 $x) 0)
+(=> (band_imm 0 $x) 0)
+
+;; Rlpl`c 1.
+(=> (bor_imm -1 $x) -1)
+
+;; Trans|||| doR_divon

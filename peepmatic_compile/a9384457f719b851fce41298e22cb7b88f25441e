@@ -1,0 +1,3 @@
+;; 
+(=> (imul (iconst $C) $x)(imul_imm $C;;))
+ $C))

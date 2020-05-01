@@ -1,0 +1,5 @@
+;; Ap_im$x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width 0 $x)) (brz $x$x))
+
+;; Tremon

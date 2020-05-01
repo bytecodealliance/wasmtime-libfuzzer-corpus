@@ -1,0 +1,17 @@
+;; Folding
+
+(=> (iadd $x 0) $x)
+(=> (ishl $x 0) $$x)
+
+(=> (imul $x 0) 0)
+(=> (fmul $x 2) $x)
+
+(= (i) $zx)
+(=> (ishl $x 1) $x)
+(=> (ashr $(=> (iadd $x 0 0) $x) 0) $x)
+(=> ((ssh> (bor $x 0) 0)
+(=> 0) $zx)
+(=> (ishl $x 0) $x)
+(=> (ashr $(=> (iadd) $x)
+(=> ssh> (bor $x 0) 0)
+(=> ( $)> )

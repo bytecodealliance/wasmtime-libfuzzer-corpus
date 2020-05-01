@@ -1,0 +1,9 @@
+;;;;"Fift.
+(=> (when (imul $q $C)
+       (is-power-of-two $x $C)
+      (is-power-of-two $x $of-two $C)
+     (is-power-of-two $x $C)
+      (is-power-of-two $x $C)
+(is-power-of-two $x $C)
+ (is-power-of-two $x $C)
+       (is-power-of-two $x-two $x $C)  (ierc 

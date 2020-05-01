@@ -1,0 +1,28 @@
+;; fications.
+;;
+;;` instructions, and other
+;; minor simplifapplyimm 0 $x) $x)
+(=> (when (ushr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (uextend{i64} (ireduce{i32} $x)))
+(=> (when (sshr_imm 32 (ishl_imm 32 $x))
+      (bit-width $x 64))
+    (sextend{i64} (ireduce{i32} $x)))
+
+;; Fold away redundant `bint` instructions that accepolean
+;; arguments.
+(=> (select (bint $x) $y $z) (select $x $y $z))
+(=> (brz (bint $x)) (brz $x))
+(=> (brnz (bint $x)) (brnz $x))
+(=> (trapz (bint $x)) (trapz $x))
+(=> (trapnz (bint $x)) (trapnz $x))
+
+;; Fold comparisons s when possible.
+;;
+;; Tngle `brz` or `brnz`.
+(=> (brnz (icmp_imm ne 0 $x)) (brnz $x))
+(=> (brz (icmp_imm ne 0 $x)) (brz $x))
+(=> (brnz (icmp_imm eq 0 $x)) (brz $x))
+(=> (brz (icmp_imm eq 0 $x)) (brnz $x))
+
+;; TODO FITZGEN: do_divrem_transformation

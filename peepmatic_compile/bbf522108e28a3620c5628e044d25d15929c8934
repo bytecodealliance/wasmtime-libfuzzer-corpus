@@ -1,4 +1,0 @@
-;; Folding x $y))
-
-(=> (bor $x (bor $` $000000000
-;; oniglFd a

@@ -1,2 +1,0 @@
-;;a consta
-(=> (imul $x (iconst  (imul_imm $0000DDDDDDDDDDDDDDDDDDDDDD=DDDDDDDDDDDDD000000000000000200000000C $x)) $C $x);;)

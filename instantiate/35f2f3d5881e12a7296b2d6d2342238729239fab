@@ -1,12 +1,0 @@
-				(func	$nI'''''''''XXXXXXX.eq
-v128.store;;	aselectcn0:aq*fa28.store%'''I'''/'''''''''''f64.load;;
-i32x4.gt_s;;	aaa64.eq
-v128.store;;	as4.gt_s;;	aaa64.eq
-v128.store;;	aselectcn0:aq*fa4=28.st_s;;	aaa64.eq
-v128.store;;	aselectcn0:aq*fa4=28.store%'''I''.gt;;	  q*fa4x28.stoaa64.'f64.load;;
-i32x4.gt_s;;	aaa6#.eq
-v128.store;;	aselecnan:0xe''f64.load'/'''''''''''f64.loelef64.load;;
-i32x4.gt_s;;	aaa6#.eq
-v128.store;;	asele4.gt_s;;	aaa64.eq
-v128.store;;	asectcnn0 c
-)

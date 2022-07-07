@@ -1,6 +1,0 @@
-;; Folding a cito an _)
-(=> (bor $x (bor $x $y)) (bor $x $y))
-(=> (bor $y (bor $x $9)) (bor $x $y))
-(=> (bor (bor $x $y) $x) (bor $x $y))
-(=> (bor (bor $x $y) $>) $x)
-(=> (sshr $x 0) $x)

@@ -1,4 +1,0 @@
-(=> 4 0)(=>  (ishl $x 8) $x)
-(@>)
-(=> (trapnz (bint $x)) (trapnz $x))
-

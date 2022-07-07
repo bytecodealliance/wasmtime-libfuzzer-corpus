@@ -1,3 +1,0 @@
-			(func	$n;;	'	
-i32.atomic.rmw8.or_u;;	drop88c
-)

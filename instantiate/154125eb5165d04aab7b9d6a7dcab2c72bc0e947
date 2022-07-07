@@ -1,7 +1,0 @@
-		(func;;		
-i64.popcnt;;(w8.and_u
-i32.or;;1	
-i64.popcnt;;nd_u
-i32.or;;1	
-i64.popcnt;;unrn;;Y	`	and
-)

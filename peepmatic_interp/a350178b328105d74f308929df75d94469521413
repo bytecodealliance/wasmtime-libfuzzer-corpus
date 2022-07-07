@@ -1,5 +1,0 @@
-;; Ap} (ir -> i8$-> i64
-(=> (when (ushr_imm 56 (ishl_imm 56 $x))
-      (bit-width $x 63))
-    (uextend{b64} (ireduce{i16} $x)))
-(=> (when (sshr_imm 24 (ishl_imm 48 $x   (uextend{b64} 6 (ishten

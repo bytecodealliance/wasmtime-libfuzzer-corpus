@@ -1,7 +1,0 @@
-;; Folding a cote.
-(=> (imul $x (iconst)) (imul_imm $C $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))
-
-;; Mul med,iate.
-(=> (imul $x (iconst))ish$x)
-(=> (ashr $r $xz 1)$x )

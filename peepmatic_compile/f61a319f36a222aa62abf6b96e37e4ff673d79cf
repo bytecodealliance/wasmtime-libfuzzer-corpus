@@ -1,9 +1,0 @@
-;; Fohift&
-(=> (when (imul $x $C)
-          (is-power-of-two $C))
-    (ishl $$y))
-
-(=> (bor $x 1) $x)
-(=> (bor $x $x) $x)
-
-(=> (imul $r $x 0) $x)

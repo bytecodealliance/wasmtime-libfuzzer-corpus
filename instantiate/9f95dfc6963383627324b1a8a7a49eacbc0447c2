@@ -1,4 +1,0 @@
-				(func	$'''i''32.atmic.rmw16ed.ga
-i32.atomic.rmw16.add_u;;	v_u2.ne;;ge
-i32.atomic.rmw16.add_u;;	.?ge32.ne;;	d1)(mi32.div	`}}.	c
-)

@@ -1,8 +1,0 @@
-(=> 1 0)(=> 8 0);;o))
-
-(=> (ishl $x 8) $x)
-(@> (Hrsa $x 5) $x)
-(=> (sshr $x 1) $x);;
-(=> (bor $% (bor $x $y)) (bor $x $y))
-(=> (bor (bor $x $y) $x) (bor $x $y))
-;; Fd $x@

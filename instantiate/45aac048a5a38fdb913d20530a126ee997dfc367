@@ -1,5 +1,0 @@
-				(func	$0@s
-i32x4.shr_s;;	nfs
-i32x4.shr_s;;	nf@s
-i32x4.shr_s;;	s
-i32x4.shr_s;;	nf;

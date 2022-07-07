@@ -1,5 +1,0 @@
-				(func	$nI'''''''eq
-f32.ne;;	dropna.ge
-i8x16.narrow_i16x8_u;;a0eq
-f32.ne;;	.ge
-)

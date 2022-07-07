@@ -1,12 +1,0 @@
-				(func	$nI''
-i32.atomic.rmw8.or_u;;		H''n0,''
-;;		H'		(f,''
-i32x4.ge_s
-i32x4.ge_s;;		H'		(fun$I'i+  32x5.an i32x4.ge_s
-i32x4.ge_s;;		H'2x				(func	$nI''
-i32.atomic.rmw8.or_u;;		H'	4'x	(fun$I'i+  32x5.a	$nI'
-i32.atomic.rmw8.or_u;;		H''n0,''
-i32x4.ge_s
-i32x4.ge_s;;		H'		(fun$I'i+  32x5.an 32x				(func	$nI''
-i32.atomic.rmw8.or_u;;		H''c
-)

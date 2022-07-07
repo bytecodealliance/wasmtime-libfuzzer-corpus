@@ -1,5 +1,0 @@
-(				func	;;d65.Eq
-i64x2.neg;;	drop;&eq
-i64x2.neg;;	d'?q
-i64x2.neg;;	drop;;''''?''&if
-)

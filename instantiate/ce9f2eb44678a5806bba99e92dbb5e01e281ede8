@@ -1,3 +1,0 @@
-				(func	$''.ge
-i8x16.sub_saturate_u;;.s
-i32.le_s)

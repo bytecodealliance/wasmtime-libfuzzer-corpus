@@ -1,9 +1,0 @@
-;;) (imu $C $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))
-
-;;ift.
-(=> (when (imul $x $C)
-          (is-power-of-two $C))
-  (ishl $x $(log2 $C)
-))
-(=> (sshr $x 5) $x)

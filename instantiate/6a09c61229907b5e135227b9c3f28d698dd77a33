@@ -1,8 +1,0 @@
-				(func	$nIf32.nee~;;	.or
-i32.sub;;
-i64.sub;;
-i64.sub;;' $n'r
-i32.sub;;
-i64.sub;;
-i64.sub;;.sub;;'  :::c
-)

@@ -1,10 +1,0 @@
-				(func	$x9f6floor;;	
-
-v128.not;;V0 uor;;	
-
-v128.not;;V0 uza
-
-v128.not;;V0 za
-
-v128.not;;V0 
-)

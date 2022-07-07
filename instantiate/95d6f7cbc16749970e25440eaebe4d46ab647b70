@@ -1,4 +1,0 @@
-				(func	$n1'
-i32x4.neg;;o			u
-i64.rem_u
-)

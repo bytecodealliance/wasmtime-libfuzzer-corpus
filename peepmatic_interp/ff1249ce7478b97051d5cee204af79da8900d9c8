@@ -1,1 +1,0 @@
-(=>(imul $x (iconst $C)) (@BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@) $x)

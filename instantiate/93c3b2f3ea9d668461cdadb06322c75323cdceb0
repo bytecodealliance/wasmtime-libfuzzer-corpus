@@ -1,5 +1,0 @@
-		(func	(f64.eq
-i64.add ;;	droq
-f64.eq
-f64.abs);;ic	(f64.eq
-f64.abs);;#B

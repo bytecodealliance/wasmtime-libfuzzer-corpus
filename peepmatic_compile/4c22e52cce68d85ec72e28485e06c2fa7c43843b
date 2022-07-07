@@ -1,3 +1,0 @@
-;; F
-(=> (when (imul $F))
-$(log2 $or (bor $y $y) $,xx 1)

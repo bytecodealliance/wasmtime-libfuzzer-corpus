@@ -1,15 +1,0 @@
-		(func	$nmul;;	'''''(''
-i64.load;;	dt;;	dropna	
-i16x8.mul;;	
-i16x8.mul;;	dropn'ounc	$nmul;;	mul;;	'''''(''
-i64.load;;	dt;;	dropna	
-i16x8.mul;;	
-i16x8.mul;;	dropn'oa8888888'88888`c
-)		(func	$nmul;;	'''''(''
-i64.load;;	dt;;	dropna	
-i16x8.mul;;	
-i16x8.mul;;	dropn'oa8(''
-i64.load;;	dt;;	dropna	
-i16x8.mul;;	
-i16x8.mul;;	dropn'oa8888888'88888`c
-)

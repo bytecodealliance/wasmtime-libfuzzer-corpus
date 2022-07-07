@@ -1,4 +1,0 @@
-				(func	$t
-i16x8.replace_lane 1 i32.load
-i16x8.replace_lane 3 i32.load;;	$nI''
-)

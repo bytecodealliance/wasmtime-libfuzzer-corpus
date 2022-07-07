@@ -1,9 +1,0 @@
-			(	func	$x4.'c8:
-)			(func	i64.and
-)				(	func	$x8.'.'c6
-)			(func	i64.and
-)				(	func	$x8.'c8
-)			(func	)			(func	i64.and
-)				(	func	$x8.8
-)			;;;		(	fun	-!
-			

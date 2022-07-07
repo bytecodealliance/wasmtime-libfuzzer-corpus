@@ -1,3 +1,0 @@
-;; Ap))
-(=> (when (ishl $word $C)  (fits-in-native-word 32))
-    (uextend{i64} (ireduce{i32} $x)));; TOD

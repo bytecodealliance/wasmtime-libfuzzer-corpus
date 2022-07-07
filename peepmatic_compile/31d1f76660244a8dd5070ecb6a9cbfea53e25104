@@ -1,7 +1,0 @@
-;;ft.
-(=> (when (imul $x $C)
-          (is-power-of-two $x $C)
-          (is-power-of-two $C!)
-    (is(log2 $C)
-))
-(=> r c 

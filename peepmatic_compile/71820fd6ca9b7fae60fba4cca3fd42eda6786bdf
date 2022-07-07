@@ -1,2 +1,0 @@
-;; Folda iate.
-(=> (imul  $x (iconst $C)) (@@@@nEEEE1 sshr $ (imul[ $x)) (@cx (onst $C)) (@@@@nsitx (iconst $C  $x)$i (onst $C)) (@@@aEE.EEE1 sshr0$icx (onst $C)) (@@@@nsitx (iconst $C  $x)$icx (onst $C)) (@@@@nsitx (iconst $C  $x)$i (onst $C)) (@@@@[nsitx (icfnst $C)) (@@@@@nsitx (icfnst $C)) (@@@@nsii (onst $C)) (@@@EE.EEE1 sshr0$icx (onst )) (@@@@nsii (onst $C)) (@@@EE.EEE1 sshr0$icx (ons4 $C)) (@@@@+nsitx (iconst $C  $x)$i (onst $C)) (@@@@nsitx (icfnst $C)) (@@@@@nsitx (icfnst $C)) (@@@@nsitr $x!0) $x)

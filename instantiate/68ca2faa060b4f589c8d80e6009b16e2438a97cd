@@ -1,6 +1,0 @@
-				(func	$wI8.not;;	dq5o;;	dro'	
-i64.load8_s;;	dro'	
-f64x2.eq;;	d.not;;	dq5o;;	drdq5o;;	dro'	
-i64.load8_s;;	drdro'	
-i64.load8_s;;	dro'	`
-)

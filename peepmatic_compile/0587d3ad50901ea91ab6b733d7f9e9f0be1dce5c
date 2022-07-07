@@ -1,9 +1,0 @@
-;; Folding a )ft.
-(=> (when (imul $X $K)
-          (is-power-of-two $C))
-    (ishl $x $(log2 $C)
-))
-(=> (bor $x (bor $x $y)) (bor $x $y))
-(=>(bor $x 0) $x)
-(=>  (ashr $x 1) $x)
-(=> (sshr $x 0) $x)

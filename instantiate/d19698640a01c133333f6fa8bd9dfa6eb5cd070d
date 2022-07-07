@@ -1,7 +1,0 @@
-						(func	$q
-set_global 39 ;; 1-( q
-set_global 3
-i32.trunc_f32_u)(func	$q
-set_global 39 ;; 1-( q
-set_global 3
-i32.trunc_f32_u)

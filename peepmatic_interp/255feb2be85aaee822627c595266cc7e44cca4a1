@@ -1,6 +1,0 @@
-;;ce with zero.
-(=> (imul_imm 0 $x)     (uextend{i64} (ireduce{i8} $x)))
-(=> (when (sshr_imm 56 (ishl_imm 56 $x))
-      (bit-width $x 64))
-    (sextend{i32} (ireduce{i8} $x)))
-;; i64 -> 64oation

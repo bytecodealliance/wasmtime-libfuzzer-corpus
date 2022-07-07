@@ -1,10 +1,0 @@
-		(func	return;;		%`	4.d;	c	
-i64.atomic.rmw16.or_u
-i32.or;;11 : (	$  1dgand_u
-i64.atomic.rmw16.or_u
-i32.or;;11 : (	  x	`		yY	c	
-i64.atomic.rmw16.or_u
-i32.or;;16 : (	$  1dgand_u
-i64.atomic.rmw16.or_u
-i32.or;;11 : (	  1dgomic.rm" 
-)

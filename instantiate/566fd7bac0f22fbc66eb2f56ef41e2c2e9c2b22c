@@ -1,7 +1,0 @@
-		(func	$'';;	pdropna1eq
-return;;pqrt
-i32.trunc_f32_s;;	p0eq
-return;;t64.atomi
-i32.trunc_f32_s;;	it;;	pqrt
-i32.trunc_f32_s;;	d
-)

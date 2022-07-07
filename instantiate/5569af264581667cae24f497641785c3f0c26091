@@ -1,6 +1,0 @@
-				(func	$vI'''''''
-v32x4.load_splat
-f32.ne;;	;"
-v32x4.load_splat
-f32.ne;;	%`			c
-)

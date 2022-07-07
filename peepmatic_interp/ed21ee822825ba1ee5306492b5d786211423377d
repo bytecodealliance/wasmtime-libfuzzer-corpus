@@ -1,7 +1,0 @@
-;;% ion
-(=> (when (urem $x $C)
-      (fits-in-native-word $C))
-    (ishl_imm $C $x))
-(=> (when (ushr $x $C)
-      (fits-in-native-word $C))
-    (ushr(0e-0dadm) xx) $x $0

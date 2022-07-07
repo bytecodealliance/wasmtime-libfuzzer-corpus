@@ -1,3 +1,0 @@
-				(func	$_saturate_u;;	punc	$'ge
-i64.atomic.rmw8.add_u;;f	c	Cc
-)

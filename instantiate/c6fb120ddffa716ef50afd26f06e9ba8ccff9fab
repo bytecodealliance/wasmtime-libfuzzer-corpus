@@ -1,6 +1,0 @@
-		(func	(f64.eq
-f32.gt;;	Dcq
-f64.ge	(f64.eq
-f32.gt;;	dropcq
-f64.ge	(f64.eq
-f32.0x		(f64a

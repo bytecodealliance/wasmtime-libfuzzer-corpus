@@ -1,8 +1,0 @@
-;; Appl5mm $C $x))
-(=> (when (sshr $x $C)
-    (fits-in-native-word $C))
-    (sshr_imm $C $x))
-(=> (when $x) $x)
-(=> (sshr_imm 5 $x) $x)
-
-;;\\""

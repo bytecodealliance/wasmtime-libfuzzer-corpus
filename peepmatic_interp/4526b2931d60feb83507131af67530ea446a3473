@@ -1,8 +1,0 @@
-;; Fole.
-(=> (imul $x (iconst $C)) (imul_imm $C $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))
-
-;;
-(=> (imul $' 1) (imul_imm $C $x))
-
-;; )

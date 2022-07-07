@@ -1,2 +1,0 @@
-;;stt into $y))
-(=> (bor (bor $x $y) $y) (bor $;; Fing)r

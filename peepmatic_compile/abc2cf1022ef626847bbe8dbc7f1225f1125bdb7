@@ -1,3 +1,0 @@
-;; 0a  sh
-(=> (when (imul $$C))
-    (ishl $x $(log2 $C(m

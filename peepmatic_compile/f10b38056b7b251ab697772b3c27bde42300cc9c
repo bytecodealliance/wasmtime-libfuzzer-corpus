@@ -1,2 +1,0 @@
-;; Focoiate.
-(=>(imul $x (iconst $C)) (@@BBBBBBBBBBBBBBBBBBBBBBBBB@@@BBB@@_imm% i x (iconst)) (@@BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@mm% x (icst $C)) (@@@@@) $x)

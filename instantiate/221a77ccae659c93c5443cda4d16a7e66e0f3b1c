@@ -1,4 +1,0 @@
-		(func	return;;	uncq
-i64.add ;;cx4...
-i64.add ;;	dr$
-)

@@ -1,3 +1,0 @@
-
-(=> (when (ushr))
-   (uextend{i64 ->j76

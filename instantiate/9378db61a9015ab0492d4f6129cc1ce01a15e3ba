@@ -1,5 +1,0 @@
-				(func	$7n.mul;;	pl
-i8x16.min_s	
-i8x16.splat;;b	l%	x8.	x8.su	
-i8x16.splat;;b	(f;
-)

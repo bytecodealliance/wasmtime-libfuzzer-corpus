@@ -1,5 +1,0 @@
-;; Fol.
-(=> (imul $x (iconst $C)) (@@@nEEEE0 (imum 
-"\\om" "\\o"
-"\\"c
-"\\om"$C)@@n0) $x)

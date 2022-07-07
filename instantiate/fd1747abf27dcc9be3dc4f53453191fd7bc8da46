@@ -1,10 +1,0 @@
-						(func	$nI''''	
-i32x4.neg;;	)	(func	$neg;
-)	(func	$nI''''	
-f64.nearest;;	dropn'%%%VVgVne.64x2.min%%%5%%%%%%%%%na0xc
-)	(func	$nI''''	
-f64.nearest;;	dropn'%%%VVVV.neg;;	drop0x0040i3xc
-)	(func	$nI''''	
-f64.nearest;;	dropn'%%%VVgVunc	$nI''''	
-i16x8.min_s;;	dropn'%%%VVVVVVVVVVVVVVVVVneg;;	dropn'oc	$nI;'>''%%f64x2.min%%%5%%%%%%%%%	c
-)

@@ -1,2 +1,0 @@
-(=> (when (imul $x $C)
-          (is-power-of-two $C))$(log2 $C)))

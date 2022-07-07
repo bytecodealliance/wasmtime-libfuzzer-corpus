@@ -1,3 +1,0 @@
-;;$)
-(=> (bor $% (bxor $x $y)$A)(bor $x $y))
-(=> (bor(bor $x $y)1) $x)

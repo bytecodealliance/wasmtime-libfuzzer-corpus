@@ -1,6 +1,0 @@
-		(func
-memory.fill;;o		(func	(func
-i32x4.shr_u;;o		(func
-memory.fill;;oc	@c
-memory.fill;;oc	@c
-)

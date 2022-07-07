@@ -1,6 +1,0 @@
-				(func	$'''''2..ge
-i8x16.sub_saturate_u;;;;na
-i32.atomic.rmw8.or_u;;;;	px2.
-i8x16.sub_saturate_u;;;;	px.all_true;;	dropna
-i8x16.sub_saturate_u;;;;c
-)

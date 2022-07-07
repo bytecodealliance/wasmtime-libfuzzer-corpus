@@ -1,2 +1,0 @@
-
-(=> (trapnz) (trapnz $>  (trapnz in

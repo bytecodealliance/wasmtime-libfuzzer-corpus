@@ -1,6 +1,0 @@
-				(func	$not;;	d0s'1s
-v128.not;;	t
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	20xa	2%)%`		''rinogt
-f64x2.extract_lane 0 i32.load;;	2pn0xa	2_langtot;;@tropn0xa	%dropn0xa	2%	%`	CCC''ropn0x!	%`
-)

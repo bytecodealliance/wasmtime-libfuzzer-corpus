@@ -1,3 +1,0 @@
-;;mmedi.ate
-(=> (imul $x (iconst $C(imul (iconst $C) $xior:x!0) $x)
-(=> 

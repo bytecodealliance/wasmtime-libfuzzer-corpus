@@ -1,6 +1,0 @@
-		(func	$n
-i32x4.load16x4_u;;dr	(f6;a0 1q
-f32x4.lt;;		$n
-i32x4.load16x4_u;;d0 1q
-i32x4.load16x4_u;;	
-)

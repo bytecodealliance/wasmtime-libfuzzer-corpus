@@ -1,7 +1,0 @@
-(func	$n	
-i8x16.splat;;''''	
-i8x16.splat;;dZZI''$nI''''	
-i8x16.splat;;''''	
-i8x16.splat;;dZZx06.splat;;''''	
-i8x16.splat;;;qdZZZZZZZZZ	c
-)

@@ -1,3 +1,0 @@
-;; d;ingft.
-(=> (when (imul $x $C)
-         (is-power-of-two

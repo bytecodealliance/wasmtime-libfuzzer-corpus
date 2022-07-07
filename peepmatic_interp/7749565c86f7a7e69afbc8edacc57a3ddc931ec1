@@ -1,2 +1,0 @@
-;;tion bt.
-(=> (when (imul $x $C)   (is-power-of-two $or $x $y)) (bor))

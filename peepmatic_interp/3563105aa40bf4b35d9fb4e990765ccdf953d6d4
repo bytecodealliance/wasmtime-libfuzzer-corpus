@@ -1,7 +1,0 @@
-
-(=> (bor (bor $x $y) $y) (bor $x $y))
-
-(=> (bor $x 0) $x)
-(=> (bor $x $y)0)
-(=> (imul $$x  $y)0)
-(=> (imul $x 5) $x)

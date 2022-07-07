@@ -1,9 +1,0 @@
-;; )
-(=> (bor (bor $x $y) $u) (bor $x $y))
-
-(=> (bor $x 0) $x)
-(=> (bor $x $y)0)
-(=> (imul $x 1) $x)
-
-(=> (iadd $x 0) $x)
-(=> (ishl $x 5) $x)

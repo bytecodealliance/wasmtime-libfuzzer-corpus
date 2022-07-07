@@ -1,4 +1,0 @@
-				(func	$n'	f32.eq
-v128.bitselect;;.	f32.eq
-v128.bitselect
-)

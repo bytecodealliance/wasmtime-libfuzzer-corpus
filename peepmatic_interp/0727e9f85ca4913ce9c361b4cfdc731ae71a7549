@@ -1,7 +1,0 @@
-;; si)
-(=> (rotr_imm 2 $x) $x)
-(=> (ishl_imm 2 $x) $x)
-(=> (ushr_imm 0 $x) $x)
-(=> (sshr_imm 0 $?x) $x)
-
-;; e) $

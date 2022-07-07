@@ -1,2 +1,0 @@
-;;
-(=>(imul $x (iconst $C)) (iconst $2))

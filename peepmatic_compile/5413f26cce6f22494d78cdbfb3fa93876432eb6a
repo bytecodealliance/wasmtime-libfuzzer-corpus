@@ -1,2 +1,0 @@
-;; aR.
-(=> (imul $x (iconst $C)) $Ciplication b

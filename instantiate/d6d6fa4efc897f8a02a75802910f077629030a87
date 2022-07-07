@@ -1,3 +1,0 @@
-(func	$n;;c
-i64.load;;]'c
-i64.load)

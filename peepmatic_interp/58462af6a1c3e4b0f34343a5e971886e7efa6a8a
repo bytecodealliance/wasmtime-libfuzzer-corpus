@@ -1,2 +1,0 @@
-;; e.
-(=> (imul  $x (iconst $C)) (@@@@nEEEE0 ss @nsitcx @@nsitx (ico*nrt $C )) (@@nsitx (igfnst% $C)) (@@@@nsitr) $x)

@@ -1,2 +1,0 @@
-		(func	f64.eq;;q
-i64.atomic.rmw32.and_u)

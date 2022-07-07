@@ -1,5 +1,0 @@
-		(func	f32.gt;;	r0 1
-i64x2.shl;;	ddrunc	r0 1
-i64x2.shl;;	;	r0 1	ddrunc	r0 1
-i64x2.shl;;	;	r0 1
-i64x2.shl;;

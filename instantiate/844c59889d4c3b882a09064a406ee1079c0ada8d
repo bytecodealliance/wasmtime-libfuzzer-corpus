@@ -1,7 +1,0 @@
-		(func	(
-f32.ne;;cn	0%` 0i%id)}  0 1q
-i64x2.add;;l;	%	d)}  0 1q
-i64x2.add;;l;	%	d)}  0 %1q
-i64x2.add);;cn	0%` 0i64		1q
-i64x2.add
-)

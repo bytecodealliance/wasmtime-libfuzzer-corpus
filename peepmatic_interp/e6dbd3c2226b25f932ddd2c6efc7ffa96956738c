@@ -1,7 +1,0 @@
-;; $asic simflciipations.
-;;
-;; $x))
-(=> (when (ifcmp $co $C))
-    (icmp_imm $cond $C $x))
-
-;; Bin{i15} $

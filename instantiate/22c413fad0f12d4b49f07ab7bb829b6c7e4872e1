@@ -1,3 +1,0 @@
-								(func$.nec
-i32.atomic.load)						(func$.nec
-i32.atomic.load)

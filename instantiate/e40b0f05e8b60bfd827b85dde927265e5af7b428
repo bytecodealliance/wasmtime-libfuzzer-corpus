@@ -1,9 +1,0 @@
-		(func	
-i32.atomic.load;;	(f64f64.eq
-i32.atomic.load;;	2.equ	xxxxAxxeq
-i64.atomic.load;;	2.eq
-i32.atomic.load;;	2.eq;;dDddd	
-i32.atomic.load;;	(f64f64.eq
-i32.atomic.load;;	2.eq;;dDddd:dddddddq
-i32.atomic.load;;	2.eq;;dDddd	
-i33.atomic.load;;	(	%`			c	(f6"

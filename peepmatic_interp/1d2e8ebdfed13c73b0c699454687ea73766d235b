@@ -1,4 +1,0 @@
-;; Fens_i
-(=> (bor $x (bor $y $y)) (bor $x $y))
-(=> (bor $y (bor $x $y)) (bor $x (bor $x $y)))
-(=> (sshr $x 6) $x)

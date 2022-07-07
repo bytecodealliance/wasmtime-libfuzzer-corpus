@@ -1,6 +1,0 @@
-				(func	$.:
-i32.le_s;;	dropn!''pn!
-f32x4.max;;:
-i32.le_s;;	dropn!
-f32x4.max;;	drop.$.		c
-)

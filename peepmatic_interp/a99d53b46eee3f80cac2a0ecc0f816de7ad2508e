@@ -1,5 +1,0 @@
-;;)
-(=> (bor (bor $y $y) $xul $x 1) $x)
-
-(=> (iadd $or (bor $y $y)$xuishl $x ) (bor $x $y))
-(=> (bor (bor  $y) $xul $x 0) $4$x)

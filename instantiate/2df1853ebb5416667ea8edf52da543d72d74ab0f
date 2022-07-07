@@ -1,43 +1,0 @@
-				(func	$nI''''	
-f32.floor;;	]ro''''s
-v128.not;;	dr''1sv128.not;;	d1s'1s
-v128.not;;	dro	d1s'1s
-v128.not;;	dropn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2pn0xa	2%	%`	
-v128.not;;	dropn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2pn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2.gtot;;@tropn0xa	%`	lreturnd_lane 0 i32.load;;	2.gtot;;@tropn0xa	%`	loor;;	tomic.rot;;	d1s'1s
-v128.not;;	dro	d1s'1s
-v128.not;;	dropn0xa	2%	%`		''ro  @5i inogt
-f64x2.extract_lane 0 i32.load;;	2pn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2.gtot;;mw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	s
-v128.not;;	dro	d1s'1s
-v128.not;;	dropn0xa	2%	%`		''ro  @5i ino*t;	''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2.gtot;;@tropn0xa	%`	lreturnd_lane 0 i32.load;;	2.gtot;;@tropn0xa	%`	loor;;	tomic.rot;;	d1s'1s
-v128.not;;	dro	d1s'1s
-v128.not;;	dropn0xa	2%	%`		''ro  @5i inogt
-f64x2.extract_lane 0 i32.load;;	2pn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2.gtot;;mw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	s
-v128.not;;	dro	d1s'1s
-v128.not;;	dropn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2pn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2.gt;;	tomic.rot;;	d1s'1s
-v128.not;;	dro	d1s'1s
-v128.not;;	dropn0xa	2%	%`		''ro  @5i inogt
-f64x2.extract_lane 0 i32.load;;	2pn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2.gtot;;mw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2pn0xa2pn0xa	2%	%`		''ro  @5i ino*t;;r	t;;x--2.gt;;(fa7gt
-i64.atomic.rmw.or;;(fa7gt
-f64x2.extract_lane 0 i32.load;;	2.gtot;;@tropn0xa	%dropn0xa	2%	%`	''ropn0x!	%`
-)

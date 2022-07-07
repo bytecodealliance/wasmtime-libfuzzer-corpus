@@ -1,5 +1,0 @@
-		(func	(i64.load16_u
-select;;u
-select;;(i64d16_u
-select;;4.load16_u
-select;;DDD

@@ -1,4 +1,0 @@
-;;$)
-(=> (when (ifcmp $C))(icmp_imm ))
-
-;;

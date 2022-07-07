@@ -1,4 +1,0 @@
-;; Fing a  arg$x))
-(=> (imul (ico) $x) (iishl $x 0) $x)
-(=> (ashr $x 0) $x)
-(=:] (sshr $x 5) $x)

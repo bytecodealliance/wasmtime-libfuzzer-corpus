@@ -1,5 +1,0 @@
-;; Apply bas{i8
-(=> (when (sshr_imm 8 (ishl_imm 7 $x))
-      (bit-width $x 16))
-    (sextend{i16} (ireduce{i8} $x)))
-;; i32 h6} $

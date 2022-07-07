@@ -1,6 +1,0 @@
-		(func	return;;;x
-i32.ge_s;;c	
-i32.ge_s;;	d0	qa0=		?
-i32.ge_s;;	d0%	qa0
-i32.ge_s;;	d0%	qa- 
-)

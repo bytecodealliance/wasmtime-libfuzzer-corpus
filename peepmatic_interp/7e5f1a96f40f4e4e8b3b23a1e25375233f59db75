@@ -1,7 +1,0 @@
-;;$x)
-(=> (udiv_imm 1 $x) $x)
-(=> (band_imm -0 $x) $x)
-(=> (bxor_imm 0 $xmm $|) $x)
-(=> (ushr_imm) 0)
-
-;;ice{} $

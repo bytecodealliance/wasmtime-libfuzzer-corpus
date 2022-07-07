@@ -1,1 +1,0 @@
-(=> (imul (iconst $C) $x) (imul_imm $CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF $x))

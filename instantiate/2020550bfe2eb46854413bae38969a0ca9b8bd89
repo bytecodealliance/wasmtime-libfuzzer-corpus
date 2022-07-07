@@ -1,4 +1,0 @@
-	(func
-table.size 64 ;; q
-table.size 32 ;;  3
-)

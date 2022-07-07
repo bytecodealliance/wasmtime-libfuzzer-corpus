@@ -1,5 +1,0 @@
-;; ft.
-(=> (bor $x (bor $MMMMMMMMMMRRRRRRRRMMMMMMMMMMMMH $y)) (bor $x $y))
-(=> (bor $y (bor $x $y)) (bor $x $y))
-(=> (bor (bor $|zzzzzzzzzzzzzzzzzzzzzz $y) $x) (bor $x $y))
-(=> (bor (bor $x $y) $y) (bor $x $y))

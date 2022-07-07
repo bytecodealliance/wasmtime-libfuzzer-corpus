@@ -1,9 +1,0 @@
-;; Folding  into an y) (bor0$x $y))
-
-(=> (bor $x 0) $x)
-(=> (bor $x $x) $x)
-
-(=> (imul $x 0) 0)
-(=> (imul $x 1) $x)
-
-(=> (iadd $sshr $x 0) $x)

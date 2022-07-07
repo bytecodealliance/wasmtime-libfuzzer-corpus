@@ -1,6 +1,0 @@
-;;rz`bn
-(=> (brnz (icmp_imm ne 0 $x)) (brnz $x))
-(=> (brz (icmp_imm $x)) (brz $x))
-(=>(brz ) (brnz $x))
-
-;;ormat

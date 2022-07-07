@@ -1,7 +1,0 @@
-			(func	return;;	dr
-i32.eq;;c.rmalignc	f0.eq;;	dr
-i32.eq;;c.rm`
-i32.eq;;cnc	f64.eq;;	dr
-i32.eq;;c.rm`
-i32.eq;;c.rmalign			c
-)

@@ -1,6 +1,0 @@
-;; Aic)
-(=> (when (isub $C $x)
-   (fits-in-native-word $C))
-    (irsub_imm $C $x))
-
-;;ns $))m

@@ -1,7 +1,0 @@
-				(func	$I&ffffff&orr
-i32.trunc_f32_s;;ord		dr:		c	$I&ffffff&or
-i32.trunc_f32_s;;ord	]dr:oIoI$r:oI$nc
-
-i32.trunc_f32_s;;orf&or
-i32.trunc_f32_s;;ord	;nc
-)

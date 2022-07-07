@@ -1,3 +1,0 @@
-		(func	return;;	:::c	
-i32.trunc_sat_f64_s;;::	
-i32.trunc_s:sat/f64)

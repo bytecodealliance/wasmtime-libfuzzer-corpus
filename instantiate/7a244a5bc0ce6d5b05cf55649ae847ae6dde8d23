@@ -1,5 +1,0 @@
-		(func	$h'
-;;	
-i64.eqz
-i16x8.shl
-)

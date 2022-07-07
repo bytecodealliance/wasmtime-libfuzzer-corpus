@@ -1,11 +1,0 @@
-				(func	$nI'7''	
-f32.ceil;;	dros
-f32x4.gt;;	droa''''davs
-f32x4.gt;;	dro'	
-v128.not;;	dro%`''davs
-f32x4.gt;;	d'dav,;;	s.flogt;;	dro'	
-v128.not;;	:ro	%`''davs
-f32x4.gt;;	d'dav,;;	s.f;	s.floor;;	f'davs
-f32x4.gt;;	dros
-f32x4.gt;;	d'dav,;;	sor;;	fua	%`
-)

@@ -1,1 +1,0 @@
-(=>(when(ushr_imm $x(ishl_imm 4 $3))(bit-width $x 64))(sextend{i64}(ireduce{i32}$x)))

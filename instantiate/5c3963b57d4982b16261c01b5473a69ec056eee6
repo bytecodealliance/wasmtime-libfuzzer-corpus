@@ -1,8 +1,0 @@
-				(func	$n
-f32.gt;;	a
-f32.gt;;	dr32.64lobal''	
-i32.trunc_s/f64;;w;w'';;	a
-f32.gt;;	dr32.64.'	
-i32.trunc_s/f64;;w;wpfu'	
-i32.trunc_s/f64;;w;wpfunc	$+nI''	32x4.shl;;w32.s	c
-)

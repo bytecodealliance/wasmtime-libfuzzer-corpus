@@ -1,3 +1,0 @@
-(=> (bxor_imm $C1 (bxor_imm $C2 $x)) (bxor(bxor $C2 $C2) $x))
-
-;;R $[

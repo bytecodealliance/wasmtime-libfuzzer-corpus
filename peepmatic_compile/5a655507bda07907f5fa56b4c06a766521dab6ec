@@ -1,3 +1,0 @@
-;; ift.
-(=> (when (imul $x $C)
-      (is-power-of-two $C $x 5) $x)

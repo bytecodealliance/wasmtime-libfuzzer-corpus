@@ -1,8 +1,0 @@
-		(func;;	t.and;;1	
-i64.popcnt;;nd_u
-i64.or;;1	
-i64.popcnt;;un	;;Y_u
-i32.or;;1	
-i64.popcnt;;1	
-i64.popcnt;;un		;Yand
-)

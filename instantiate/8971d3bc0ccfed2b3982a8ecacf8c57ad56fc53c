@@ -1,4 +1,0 @@
-				(func	$s
-v128.not
-i32x4.ne;;	f32x4.me
-)

@@ -1,4 +1,0 @@
-(		func	$nI	
-i16x8.mul;;	
-i32.shr_s;;	
-)

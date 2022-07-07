@@ -1,6 +1,0 @@
-(				func	$f32.gb ;;n@
-f64.div ;;	ub ;l@
-f64.div ;;~|~~~~~lt
-f32.div ;;	drop~~~~-l@
-f64.div 
-)

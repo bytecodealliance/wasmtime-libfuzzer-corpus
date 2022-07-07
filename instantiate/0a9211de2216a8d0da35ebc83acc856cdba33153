@@ -1,5 +1,0 @@
-		(func	
-f32.ne;;	aa1eq
-i64x2.neg;;	;	aa1eq
-i64x2.neg;;	z&:c
-)

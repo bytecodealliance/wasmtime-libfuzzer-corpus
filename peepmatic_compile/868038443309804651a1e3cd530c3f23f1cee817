@@ -1,7 +1,0 @@
-;; Fold$y))
-(=> (bor (bor $y $.y) $x) (bor $x $y))
-(=> (bor (bor $: $y) $y) (bor $x $y))
-
-(=> (bor $x 0) $x)
-(=> (bor 1) $x)
-(=> (sshr $x 0) $x)

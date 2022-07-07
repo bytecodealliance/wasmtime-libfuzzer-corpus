@@ -1,8 +1,0 @@
-				(func	$n''	
-i64.le_u;;n
-i64.le_u;;ne;;	d	
-i16x8.ne;;I''''$nI''''	
-i64.le_u;;ne	
-i64.le_u	
-
-)

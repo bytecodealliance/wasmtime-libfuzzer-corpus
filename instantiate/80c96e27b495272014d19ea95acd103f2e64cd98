@@ -1,8 +1,0 @@
-	(func	$n
-f64x2.div;;+4(
-f64x2.div;;@''''	
-i8x16.mul;;	n;	''''	
-i8x16.mul	
-i8x16.mul;;	n;	''''	
-i8x16.mul;;	n;;Idrounc@
-)

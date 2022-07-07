@@ -1,10 +1,0 @@
-		(func	f32.gt;;	dr.
-i32.gt_u;;			%`dcn0	%` 71q
-i32.gt_u;;ax6+_u;;	dr7
-f64.ceil;;				%`droq
-i32.gt_u;;	dr7gt;;	drop	%` 0	%`1q
-f64.ceil;;				%`droq
-i32.gt_u;;	dr7
-f64.ceil;;				%`droq
-i32.gt_u;;	dr4gt;;	dropna6+  . (f46cnf64.ceil;;				%`dro
-)

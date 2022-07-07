@@ -1,7 +1,0 @@
-				(func	$_satulate_u;;.;	dropna.ge
-i16x8.load8x8_s
-f32.ne;;	eq
-i32.eq;;	a.ge
-i16x8.load8x8_s
-f32.ne;;	onpdraprnoac'
-)

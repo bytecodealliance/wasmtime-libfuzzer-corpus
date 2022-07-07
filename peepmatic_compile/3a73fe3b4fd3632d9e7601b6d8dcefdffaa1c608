@@ -1,3 +1,0 @@
-;;tant e.
-(=> (imul $x (iconst)) (imul_imm $C $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))

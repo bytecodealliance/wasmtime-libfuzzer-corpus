@@ -1,6 +1,0 @@
-		(func	
-i32.atomic.load;;	(f64f64.eq
-f64.promote/f32;;	!-;O(f64f64.eq
-f64.promote/f32;;	e/f32;;	!---HHHHH
-f64.promote/f32;;	!--(---/f32;;	!motf32;;	!-\O(f64f64.eq
-f64.promote/f32;;	!-&

@@ -1,5 +1,0 @@
-				(func	$.ge_s;;
-i32.atomic.store;;wnI'
-i32.atomic.store;;w;;
-i32.atomic.store;;wnIc
-)

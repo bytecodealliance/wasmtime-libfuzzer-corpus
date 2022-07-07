@@ -1,3 +1,0 @@
-;;
-(=> (band $C1 (band_imm $C1 $x)) (band
-(band $C1 $C1)$x))

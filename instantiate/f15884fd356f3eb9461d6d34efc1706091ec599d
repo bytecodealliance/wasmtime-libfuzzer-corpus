@@ -1,5 +1,0 @@
-				(func	$x4.ne;;	omic.rmw8.cmpxchg_u;;;;;;;;;;;;;;;B;;;;;;;;;;;;";;;
-i64.atomic.rmw8.cmpxchg_u)(func	$nI''d0)(func	$vg		
-i64.atomic.rmw8.cmpxchg_u)(func	$nI';;";;;
-i64.atomic.rmw8.cmpxchg_u)(func	$nI''d0)(func	$vg;;;;;;;;;;;;;;rop.		'i&2.trunc)(fun'c
-)

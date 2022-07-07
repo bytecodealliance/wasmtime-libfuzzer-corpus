@@ -1,2 +1,0 @@
-;;a
-(=> (when (imul $x $C)    (is-power-of-two $m5l $x 0

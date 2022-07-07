@@ -1,4 +1,0 @@
-;;)
-
-;; Multiplr of 2 
-(=> (bor $y (bor $x $y)) (bor  (bor $x $y(sshr $x 2) e

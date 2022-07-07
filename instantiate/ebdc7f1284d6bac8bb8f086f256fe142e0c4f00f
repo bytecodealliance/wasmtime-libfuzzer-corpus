@@ -1,2 +1,0 @@
-	(func	;;"b""'''s
-i32.atomic.rmw16.add_u)

@@ -1,5 +1,0 @@
-				(func	$nI'''		
-i32.ge_s;;	''c	(;5 1s
-v128.andnot;;dr
-i64.load8_s;;
-)

@@ -1,1 +1,0 @@
-(=>(bor $y(bor $x 9))$x)(=>(bor(bor $x $y)$x)$x)

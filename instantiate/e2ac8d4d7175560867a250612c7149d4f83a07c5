@@ -1,5 +1,0 @@
-		(func	return;;
-i64.atomic.rmw8.cmpxchg_u;;i;:
-i64.atomic.rmw8.cmpxchg_u;;i(func	return;;	;"1''/'n;:
-i64.atomic.rmw8.cmpxchg_u;;i;:
-i64.atomic.rmw8.cmpxchg_u;;i64.atomic)

@@ -1,6 +1,0 @@
-				(func	$n7.mul;;	dr	o
-i8x16.splat;;b	l%	x8.su	
-i8x16.splat;;b	(	
-i8x16.splat;;.su	
-i8x16.splat;;.		c
-)

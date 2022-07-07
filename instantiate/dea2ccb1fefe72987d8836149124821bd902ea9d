@@ -1,24 +1,0 @@
-		(func	(result
-f32;;;;;lt
-i32;;	3	0
-i64;;	%f32;func32;;lt
-i32;;
-i32;;	;	%f0
-i32;;)3	pn0cx;;lt
-i32;;	;	%f32;fun32;;32;;0cx;;lt
-i32;;	;	%f32;fun32;;0cx;;lt
-i32;;	;	%f32;fun32;;0cfunc	(result
-f32;;;;;lt
-i32;;	3	0
-i64;;	%f32;func32;;lt
-i32;;
-i32;;	;	%f0
-i32;;)3	pn0cx;;lt
-i32;;	;	%f32;fun32;;0cx;;lt
-i32;;	;	%f32;fun32;;0cx;;lt
-i32;;	;	%f32;fun32;;0c
-i32;;	;	%f32;fun32;;0cx;;lt
-i32;;	;	%f32;fun32;;0cx;;lt
-i32;;	)3	p;;lt
-i32;;	3p)	
-	f32))

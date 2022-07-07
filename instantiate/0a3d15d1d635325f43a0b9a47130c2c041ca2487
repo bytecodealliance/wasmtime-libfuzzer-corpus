@@ -1,4 +1,0 @@
-	(func	return;;	_1 :_ 
-f32.abs;; 
-f64.abs;; 
-)

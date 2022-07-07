@@ -1,3 +1,0 @@
-;;$y))  (box $y))
-(=> (bor (bor $| $y) $x) (bor $x $y))
-(=> (bor (bor $x $9) $y) (bor $x $y))

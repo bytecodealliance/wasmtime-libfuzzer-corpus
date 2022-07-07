@@ -1,5 +1,0 @@
-	(func	$x
-i32.and;;an	d;;	3$x
-i32.and;;x
-i32.and;;\
-)

@@ -1,4 +1,0 @@
-		(func	
-i32.atomic.load;;	
-f64.promote/f32;;	!
-f64.promote/f32;H.

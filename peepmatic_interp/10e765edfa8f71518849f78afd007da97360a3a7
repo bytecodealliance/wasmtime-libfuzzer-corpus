@@ -1,9 +1,0 @@
-;; Apply basic simplificinstructions,$(neg $C) $x))
-(=> (when (ifcmp $cond $x $C)
-      (fits-in-native-word $C))
-  (ifcmp_imm $cond $C $x))
-(=> (when (icmp $cond $x $C)
-      (fits-in-native-word $~))
-    (icmp_imm $cond $C $x))
-
-;; B8} $

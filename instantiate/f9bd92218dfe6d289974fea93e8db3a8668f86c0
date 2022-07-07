@@ -1,3 +1,0 @@
-(func	$s;;t
-i32.atomic.rmw16.or_u;;	d^^
-)

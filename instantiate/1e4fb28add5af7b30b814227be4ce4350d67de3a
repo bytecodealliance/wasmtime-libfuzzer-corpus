@@ -1,3 +1,0 @@
-				(func	$nI'''-3x16.shr_s;;*	s
-i64.load32_s;;	f*	s
-i64.load32_s;;	fill;-7x	

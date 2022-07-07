@@ -1,3 +1,0 @@
-;; a constantt
-(=> (imul $x (iconst $C)) (imul_imm $C=$x))
-(r oof

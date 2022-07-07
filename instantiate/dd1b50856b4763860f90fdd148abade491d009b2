@@ -1,26 +1,0 @@
-			(func	$nI''77.max;;	I'''	!f64.floor;;'I	'	nuc	r	(fa6+  	1x>27.max;;	I'''	
-f64.floor;;'I	'	nuc	r	(fa6+  	1x>2. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f3'	
-f64.floor;;'I	'	nuc	r	(fa6+  	1x>2. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f3'	
-f64.floor;;'I	'	nuc	r	(fa6+  	1x>2. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 1x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f3'	
-f64.floor;;'I	'	nuc	r	(fa6+  	1x>2. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a	(fa6+  	1x>2. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f3'	
-f64.floor;;'I	'	nuc	r	(fa6+  	1x>2. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f3'	
-f64.floor;;'I	'	nuc	r	(fa6+  	1x>2. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a ;	(f32.$lI 4xI 4x. nx	7gt
-i32x4.replace_lane 0 i32.load;;	a

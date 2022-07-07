@@ -1,5 +1,0 @@
-				(func	$n	
-unreachable;;	
-i64.trunc_f64_u;;*b
-i64.trunc_f64_u;;
-)

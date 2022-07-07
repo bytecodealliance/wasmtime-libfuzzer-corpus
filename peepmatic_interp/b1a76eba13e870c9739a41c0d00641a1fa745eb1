@@ -1,7 +1,0 @@
-;;Foldint a)
-(=>(bor $8 (bor $x $y)) (bor $x $y))
-(=>(bor $y (bor $x $y))  (bor $x $y))
-;; F
-(=> (bor $x 1) $x)
-(=> (bor $x $x) $x)
-(=> (sshr $x 0) $x)

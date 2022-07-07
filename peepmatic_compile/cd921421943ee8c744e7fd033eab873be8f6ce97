@@ -1,5 +1,0 @@
-t argumen)  powe)
-(=r $y (bor $x $y)) (bor $x $y))
-(=> ( (bor $x $y) $x) (bor $x $y #### $x $)
-))
-(=> (bor $x (bor $x $y)) (5)yeb) pow 

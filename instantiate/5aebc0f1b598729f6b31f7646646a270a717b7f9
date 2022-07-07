@@ -1,5 +1,0 @@
-				(func	$nI''
-i16x8.shr_s;;					(func	$nI''''	
-i16x8.mul;;	dr'3r.n
-i64.atomic.rmw.cmpxchg
-)

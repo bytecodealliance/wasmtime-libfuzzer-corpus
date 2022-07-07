@@ -1,5 +1,0 @@
-		(func	return;;;0 1q
-i32.rem_u;;	drop;	l 1dr.rotl;;0 1q
-i32.rem_u;;	d
-i32.rem_u;;	d=tc.\"C\;"
- )

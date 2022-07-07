@@ -1,3 +1,0 @@
-;; ).
-(=> (when (imul $two $C))  $x)
-(=> (sshr $x 0) $x)

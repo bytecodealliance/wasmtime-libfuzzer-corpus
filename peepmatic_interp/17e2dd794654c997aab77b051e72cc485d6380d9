@@ -1,4 +1,0 @@
-;;F
-(=> (when (imul $x $C))   (ishl $x $(log2 $C)
-))
-(=> (sshr $x 0) $x)

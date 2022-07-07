@@ -1,4 +1,0 @@
-;;ft>
-(=>(when (imul $x $I) (is-power-of-two)
-
-(=>x

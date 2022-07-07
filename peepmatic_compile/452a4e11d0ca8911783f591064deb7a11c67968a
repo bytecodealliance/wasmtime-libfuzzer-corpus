@@ -1,6 +1,0 @@
-;; FC $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))
-
-;; Mul of 2 sht.
-(=> (when (imul $x $C)
-       ) $x)

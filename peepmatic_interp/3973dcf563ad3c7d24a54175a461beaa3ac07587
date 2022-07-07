@@ -1,5 +1,0 @@
-;; icinst))
-(=> (when (ifcmp $cond $x $C)
-      (fits-in-native-word ))
-  (ifcmp_imm $cond $C $x))
-(=> (when(ifcmp_imm $mp_ $x));; B4} $

@@ -1,4 +1,0 @@
-		(func	f32.gt;;
-i64.eq;;;2q
-f64.load;;	x4.;;	c
-)

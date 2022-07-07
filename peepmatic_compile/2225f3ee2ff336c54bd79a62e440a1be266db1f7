@@ -1,3 +1,0 @@
-;; Fons.
-(=> (imul $x (iconst $C)) (imul_imm  $TTTTTTTTTTTTTTC $o-
-;g a-tc

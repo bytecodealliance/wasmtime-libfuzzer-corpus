@@ -1,3 +1,0 @@
-		(func
-f32.gt	drop	drop	(else
-f32.gt	f32.gt	drop(else	:0:1xYY

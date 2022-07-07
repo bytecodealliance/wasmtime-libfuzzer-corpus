@@ -1,3 +1,0 @@
-;;  )L
-(=> (bor_imm $y $r)(select $x))
-

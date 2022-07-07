@@ -1,5 +1,0 @@
-;; F $)
-(=> (bor $% (bor $x $y)) (bor $x $y))
-(=> (bor (bor $x $y)$A) (bor $x $y))
-(=> (bor (bor $x $y)  (bor $x $\y)) (bor $x $y))
-(=> (bor (bor $x $y) $x) (bor $x $y))

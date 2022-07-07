@@ -1,7 +1,0 @@
-	(func	$n''''	
-i64x2.mul;;	l;4x2;Idn;
-i64.store8;;
-i64.store8;;
-i64.store8;;
-i164x2.l<C@
-)

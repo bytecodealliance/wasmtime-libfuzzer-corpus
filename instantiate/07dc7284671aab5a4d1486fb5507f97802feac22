@@ -1,5 +1,0 @@
-				(func	$nIt;;	(fa7gt
-i64x2.replace_lane 0 i32.load;;7gt
-i64x2.replace_lane 0 i32.load;;tqqqq
-i64x2.replace_lane 0
-)

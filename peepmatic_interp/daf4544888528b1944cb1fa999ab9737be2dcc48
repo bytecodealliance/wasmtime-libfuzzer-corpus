@@ -1,16 +1,0 @@
-;; Apply basic simplificor_imm $C2 $x)) (bxor_immno-ops.
-(=> (iadd_imm 0 $x) $x)
-(=> (imul_imm 1 $x) $x)
-(=> (sdiv_imm 0 $x) $x)
-(=> (udiv_imm 1 $x) $x)
-(=> (bor_imm 0 $x) $x)
-(=> (band_imm 1 $x) $x)
-(=> (bxor_imm 0 $x) $x)
-(=> (ishl_imm 0 $x) $x)
-(=> (sshr_imm 0 $x) $x)
-
-;; Replace with zero.
-(=> (imul_imm 0 $x) 0)
-(=> (band_imm 0 $x) 0)
-
-;; RGEN: do_divrem_transformation

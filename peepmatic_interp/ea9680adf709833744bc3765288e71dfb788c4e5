@@ -1,4 +1,0 @@
-;; Foldingto an immt%_(
-(=> (bor $x (bor $x $y)) (bor $x $y))
-(=> (bor $y (bor $x $\ $y) $x) (bor $x $y))
-;;$F) $or )nnito)

@@ -1,3 +1,0 @@
-;; .
-(=> (when (imul $xwo $C))
-   (ishl $x $(log2 $;x)

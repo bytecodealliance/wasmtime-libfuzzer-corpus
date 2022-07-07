@@ -1,2 +1,0 @@
-(=>(when(sdiv $x  $@))
-(sdiv_imm $C $x))

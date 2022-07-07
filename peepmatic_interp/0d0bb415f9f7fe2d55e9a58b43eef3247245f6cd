@@ -1,5 +1,0 @@
-;;- ApThi;m $(i
-(=> (imul_imm $C1 (imul_imm $C2 $x)) (imul_imm $(imul $C1 $C2)  (ireduce{i8} $x)))
-(=> (bor $y (bor $x $\y)) (bor $x $y))
-(@>oimul;;; (x 7777_7 $x)
-x)

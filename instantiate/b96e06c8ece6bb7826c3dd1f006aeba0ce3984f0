@@ -1,5 +1,0 @@
-		(func	(
-i64.atomic.rmw8.and_u
-i32.or;;11	yY	c		yY	c	
-i64.atomic.rmw8.and_u
-ie;;	

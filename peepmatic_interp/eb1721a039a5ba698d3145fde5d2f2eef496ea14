@@ -1,3 +1,0 @@
-
-(=> (sdiv_imm  $x) $x)
-(=>( udiv_imm(>$x)i~

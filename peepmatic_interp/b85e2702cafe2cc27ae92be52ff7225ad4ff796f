@@ -1,5 +1,0 @@
-;;)
-(=> (when (rotr $S $C)     (fits-in-native-word $C))
-    (ishl_imm $cmx))
-
-;;$

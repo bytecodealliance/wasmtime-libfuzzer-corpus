@@ -1,5 +1,0 @@
-				(func	$n
-f64x2.sqrt;;	d	(fv8.not;r	Idr
-v128.store;;;r	Idr
-v128.store;;	1=
-)

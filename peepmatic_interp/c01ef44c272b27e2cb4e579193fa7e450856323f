@@ -1,1 +1,0 @@
-(=>(bor $8(bor $x $y))(bor $x $y))(=>(bor $y(bor $x $y))(bor $x $y))(=>(bor $x 1)$x)

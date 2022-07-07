@@ -1,25 +1,0 @@
-	(func	$n''''	
-i64x2.mul;;	(fumul{;	n;;Idr		neg;;	n;
-i8x16.lt_u;;	(f	$neg;;	n;
-i16x8.lt_u;;	(func	$n';
-i8x16.lt_u;;	(f	$neg;;	n8x16.4x2.l<C@
-)	(func	$n'$Lnl;;	n;
-i8x16.lt_u;;	(f	$ne;	n;;Idreg;;14x2.l<C@
-)	(func	$n'$Lnl;;	n;
-i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
-i16x8.lt_u;;	(fu;;	n;
-i8x16.lt_u;;	(f	$neg;;	;;	(lt_u;;	(feg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
-)	(func	$n'$Lnl;;	n;
-i8x16.lt_u;;	(f	$ne;g;	;;	(fumul{;	n;;Idreg;;14x2.l<C@
-)	(func	$n'$Lnl;;	n;
-i8x16.lt_u;;	(f	$ne;g;	;;	(fumu;;	n;
-i16x8.lt_u;;	(fu;;	n;
-i8x16.lt_u;;	(f	$neg;;	;;	(fumul{;	n;;Idr		neg;;14x2.l<C@
-	;;	(fumu;;	n;
-i16x8.lt_u;;	(func	$n'$Lnl;;	n;
-i8x16.lt_u;;	(f	$ne;;	;;	(fumul{;	n;;Idr		neg;;14x0.l<C@
-)	(func	$n'$Lnl;;	n;
-i8x16.lt_u;;	(j	C@
-)	(func	$n'$Lnl;;	n;
-i8x16.lt_u;;	(j	$ne;g;	;;	(fumul{;	n;;Idr		neg;;2147483634x2.l<C@
-)

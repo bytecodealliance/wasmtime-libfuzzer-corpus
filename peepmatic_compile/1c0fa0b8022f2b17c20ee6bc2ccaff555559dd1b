@@ -1,3 +1,0 @@
-;; FoldM
-(=> (when (imul $X $K)
-         (is-power-of-two $C)) $x)

@@ -1,6 +1,0 @@
-		(func	return;;q
-f32.ceil;;		%+1q
-f32.ceil;;			 0	%`1q
-f32.ceil;;		%`2q
-f32.ceil;;=`	dro
-)

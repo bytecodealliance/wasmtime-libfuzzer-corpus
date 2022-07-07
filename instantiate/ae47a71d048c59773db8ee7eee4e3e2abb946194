@@ -1,2 +1,0 @@
-		(func	(f64.eq
-i64.atomic.rmw16.cmpxchg_u	2f

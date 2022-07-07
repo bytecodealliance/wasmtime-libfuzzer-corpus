@@ -1,4 +1,0 @@
-				(func	$nI
-i16x8.shr_s;;			'
-i64.store32;;c
-)

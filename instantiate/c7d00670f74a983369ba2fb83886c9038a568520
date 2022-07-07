@@ -1,5 +1,0 @@
-		(func	
-i32.atomic.load;;	.eq
-i32.atomic.load;;	2.eqU	xxxxAxxeq
-i64.atomic.load;;	eq
-i64.atomic.load;;	2.e`			(;(f3"

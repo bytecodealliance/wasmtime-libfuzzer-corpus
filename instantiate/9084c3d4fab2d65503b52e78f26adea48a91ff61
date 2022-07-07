@@ -1,6 +1,0 @@
-(				func	$a
-f32.nearest;;	o4.sb;;y	doop;p
-f32x4.sub;;y	\\Yd\\64,eq
-f32.nearest;;	o4.sub;;y	drop;pn\\Y\\05.eq
-f32x4.sub;;	drop;n\'';;y	drop;pn\Y\\05.eq`			c
-)

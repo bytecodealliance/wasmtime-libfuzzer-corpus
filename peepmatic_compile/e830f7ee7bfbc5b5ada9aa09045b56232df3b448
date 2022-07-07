@@ -1,4 +1,0 @@
-;; Fy))
-(=> (bor (bor $x) $y) (bor))
-(=> (bor  $x) (bor))
-0)

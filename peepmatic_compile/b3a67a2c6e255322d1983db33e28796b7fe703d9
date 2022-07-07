@@ -1,5 +1,0 @@
-;; mm $C $x))
-(=> (imul (iconst $C) $x) (imul_imm A$C)
-
-;;$x)
-(=> (ssh

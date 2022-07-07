@@ -1,6 +1,0 @@
-				(func	$tl;;;	r	0 !q
-i64x2.load32x2_s;;	r	0 !q
-i64x2.load32x2_s;;	
-i64x2.load32x2_s;;e_;;	
-i64x2.load32x2_s;;e_s
-)

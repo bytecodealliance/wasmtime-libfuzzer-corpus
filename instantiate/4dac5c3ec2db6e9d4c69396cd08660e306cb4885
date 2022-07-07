@@ -1,5 +1,0 @@
-(func	$x2
-f64x2.mul;;#c	
-)	(func	$n322
-f64x2.mul;;#4neg	
-)

@@ -1,4 +1,0 @@
-;;;; Fift.
-(=> (when (imul $x $C)
-       (is-power-of-two $x $-of-two $x $-twmf-t $x $-two )
-C! (i)r c 

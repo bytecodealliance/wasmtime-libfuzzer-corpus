@@ -1,7 +1,0 @@
-					(func	$_saturate_u;;			(func	$_satuaCar.ge
-i32.atomic.rmw8.or_u;;o$e_u;pna}0.ge
-i32.atomic.rmw8.or_u;;	pdro$e_u;;	ptu	c
-)	(func	$_saturate_u;;			(func	$_satuaCar.ge
-i32.atomic.rmw8.or_u;;o$e_u;pna}0.ge
-i32.atomic.rmw8.or_u;;	pdrptu	c
-)

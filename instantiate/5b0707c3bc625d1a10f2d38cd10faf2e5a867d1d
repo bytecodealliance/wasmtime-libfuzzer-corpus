@@ -1,2 +1,0 @@
-				(func	$nI
-i64.atomic.rmw16.sub_u)

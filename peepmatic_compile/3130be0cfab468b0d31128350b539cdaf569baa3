@@ -1,2 +1,0 @@
-;; Folding a constant argument tn ioan immedication by po(ishl $x 0) $ $x 0) $|)
-(=> (sshr $x 0) $x)

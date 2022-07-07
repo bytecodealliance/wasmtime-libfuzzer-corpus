@@ -1,6 +1,0 @@
-(func	$n
-loop	end;;	
-loop	end;;c	$n
-loop	end;;	
-loop	end;;	ooc
-)

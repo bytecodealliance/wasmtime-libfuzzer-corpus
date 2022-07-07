@@ -1,3 +1,0 @@
-;;b>
-(=> (when (ushr)
-(bit-width $x !16

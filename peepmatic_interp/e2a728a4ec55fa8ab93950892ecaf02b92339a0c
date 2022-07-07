@@ -1,5 +1,0 @@
-
-(=> (when (sshr(ishl_imm 8 $x))
-     (bit-width $x 1))
-    (sextend{i16} (ireduce{i8} $x)))
-;; i

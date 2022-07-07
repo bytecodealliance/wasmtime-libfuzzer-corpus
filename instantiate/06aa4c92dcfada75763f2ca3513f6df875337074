@@ -1,5 +1,0 @@
-				(func	$n'	i64.rotl
-i16x8.mul;;	dotl
-i16x8.mul;;		d;I'?#
-i16x8.mul;;	dot
-)

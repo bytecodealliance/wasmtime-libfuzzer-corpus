@@ -1,36 +1,0 @@
-				(func	$nI''
-i32x4.ge_s;;		H''n0,I''s;;		nI''
-i32x4.ge_s;;		H''n0,I''s;;		H''c8
-)			(func	$nIH''x4.ge_s;;		H''n0,c	0,_s;;	OOOOOOOOOOOOOO
-i8x16.shl;;		H''				(func	$nI''
-i32x4.ge_s;;		H''n0'4''
-i32x4.ge_s;;		H';;		H''c8
-)			(func	$nI''
-i32x4.ge_s;;'$nI''
-i32x4.ge_s;;		H''w_$nI'nI''
-i32x4.ge_s;;		H'I''
-i32x4.ge_s;;		H''n0,I''s;;		H''c8
-)			(func	$nIH''x4.ge_s;;		H''n0,c	0,_s;;	OOOOOOOOOOOOOO
-i8x16.shl;;		H''				;;		H''c8
-)			(func	$nI''
-i32x4.ge_s;;'$nI''
-i32x4.ge_s;;		H''w_$nI'nI''
-i32x4.ge_s;;		H''n0,'n0,6sxhr8'|
-i32x4.ge_s;;		H''c8_s;;		H''n0;;		0H''c8
-)			(func	$nIH''x4.ge_s;;		H''n0,c	0,_s;;	OOOOOOOOOOOOOO
-i8x16.shl;;		H''				(func	$nI''
-i32x4.ge_s;;		H''n0'4''
-i32x4.ge_s;;		H';;		H''c8
-)			(func	$nI''
-i32x4.ge_s;;'$nI''
-i32x4.ge_s;;		H''w_$nI'nI''
-i32x4.ge_s;;		H'I''
-i32x4.ge_s;;		H''n0,I''s;;		H''c8
-)			(func	$nIH''x4.ge_s;;		H''n0,c	0,_s;;	OOOOOOOOOOOOOO
-i8x16.shl;;		H''				;;		H''c8
-)			(func	$nI''
-i32x4.ge_s;;'$nI''
-i32x4.ge_s;;		H''w_$nI'nI''
-i32x4.ge_s;;		H''n0,'n0,6sxhr8'|
-i32x4.ge_s;;		H''c8_s;;		H''n0;;		0H''n,
-)		

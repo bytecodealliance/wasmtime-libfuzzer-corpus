@@ -1,34 +1,0 @@
-				(func	$x8.''''
-f64.convert_s/i64;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i32;;	'''f6tcovn.ert_s/i64;;	pdr'
-f64.convert_s/i64;;			p=6.}			cncnvert_s/i64;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i32;;	'''f64covn.ert_s/i64;;	pdr'
-f32.convert_u/i32;;			p6.}			cnc	$x8.''''
-f64.convert_i32_u;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i64;;	'2.conve	cncnvert_s/i64;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i32;;	'''f64covn.ert_s/i64;;	pdr'
-f32.convert_u/i32;;	;;		$4;;p	dr'
-f64.convert_s/i32;;	'''f64covn.ert_s/i64;;	pdr'
-f32.convert_u/i32;;			p6.}			cnc	$x8.''''
-f64.convert_i32_u;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i64;;	'2.conve	cncnvert_s/i64;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i32;;	'''f64covn.ert_s/i64;;	pdr'
-f32.convert_u/i32;;			p6.}			cnc	$x8.''''
-f64.convert_i32_u;;	pdr%
-f32.convert_s/i32;;4co	pdr'
-f64.convert_s/i64;;			p=6.}			cncnvert_s/i6		p6.}			cnc	$x8.''''
-f64.convert_i32_u;;	pdr%
-f32.convert_s/i32;;4co	pdr'
-f64.convert_s/i64;;			p=6.}			cncnvert_s/i64;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i32;;	'''f64covn.ert_s/i64;;	pdr'
-f32.convert_u/i32;;			p6.}			cnc	$x8.''''
-f64.convert_i32_u;;	pdr%
-f32.convert_s/i32;;		$4;;p	dr'
-f64.convert_s/i		64;;	'2.(func	;;

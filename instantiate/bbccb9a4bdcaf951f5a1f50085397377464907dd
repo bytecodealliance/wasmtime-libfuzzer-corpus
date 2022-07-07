@@ -1,6 +1,0 @@
-				(func	$nIor
-f32x4.sub;;r
-i8x16.shr_s;;$nf1
-i16x8.shr_u;;$nndc
-;;
-)

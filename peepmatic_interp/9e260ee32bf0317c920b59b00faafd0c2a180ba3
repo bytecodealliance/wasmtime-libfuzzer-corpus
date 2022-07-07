@@ -1,8 +1,0 @@
-;; F $x)
-(=> (bor $x $Y) $x)
-
-(=> (imul $x 0) 0)
-(=> (imul $x 1) $x)
-(=> (iadd $x 0) $x)
-(=> (ishl $x 0) $x)
-(=> (sshr $x 1) $x)

@@ -1,36 +1,0 @@
-		(func	(f64.eq
-f32.ne;;	drq
-i16x8.gt_s;;32   1(	y	(
-i16x8.gt_s;;f616x8.gt_s;;f68.gt_s;;32   2(fu 0 nc(f32.e
-i16x8.gt_s;;f616x8.gt_s;;f6.e
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   (		2(fu 0 nc	(f32.eq
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   2(fu 0 nc(f32;f64.eq
-i16x8.gt_s;;32   2(fu 0 nc(f32.e
-i16x8.gt_s;;f616x8.gt_s;;f6.e
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   (				func(f32.const	0012(fu 0 nc989 2(fu 0 nc	(f32.eq
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   2(fu 0 nc(f32.eq
-f32.gt);;""""""""\\f32.1(	y	(   1(	y	(
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   2(fu 0 nc	(f32.eq
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   2(fu 0 nc(f32;f64.eq
-i16x8.gt_s;;32   2(fs;;f616x8.gt_s;;f68.gt_s;;32   2(fu 0 nc(f32.e
-i16x8.gt_s;;f616x8.gt_s;;f6.e
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   (		2(fu 0 nc	(f32.eq
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   2(fu 0 nc(f32;f64.eq
-i16x8.gt_s;;32   2(fu 0 nc(f32.e
-i16x8.gt_s;;f616x8.gt_s;;f6.e
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   (				func(f32.const	0012(fu 0 nc989 2(fu 0 nc	(f32.eq
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;3u 0 nc(f32.e
-i16x8.gt_s;;f616x8.gt_s;;f6.e
-i16x8.gt_s;;f616x8.gt_s;;f64.eq
-i16x8.gt_s;;32   (		32.const	0012(fu 0 nc989265346.0(n		fu	c`(f64.const		(f32.eq
-f32.gt);;""""""""\\f3lal(fu 0	0(0f190

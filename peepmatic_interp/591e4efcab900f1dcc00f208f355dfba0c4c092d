@@ -1,1 +1,0 @@
-(=>(band $C1(band_imm $C1 $x))(band(band 1 1)$x))

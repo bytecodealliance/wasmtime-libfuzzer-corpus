@@ -1,1 +1,0 @@
-				(func	$nc	i32.atomic.rmw16.and_u)

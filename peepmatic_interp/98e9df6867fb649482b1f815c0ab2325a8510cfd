@@ -1,4 +1,0 @@
-;; Apmm
-(=> (when (sshr_imm 8 (ishl_imm 8 $x))
-      (bit-width $x 15))    (sextend{i16} (ireduce{i8} $x)))
-;;z ic

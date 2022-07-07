@@ -1,9 +1,0 @@
-			(func	$nI''
-i32x4.ge_s;;		H''n0,t
-i32x4.ge_s;;		H''n0,n0,t
-i32x4.ge_s;;		_s;;		HA''n
-)			(func	$nI''
-i32x4.ge_s;;		H''n0,t
-i32x4.ge_s;;		H''n0,s;;		H''n0,t
-i32x4.ge_s;;		_s;;		HA''n
-)

@@ -1,9 +1,0 @@
-;;cax y)/
-(=> (bor $x) (bor $y))
-(=> (bor (bor $x $y) $y) (brz $xy))
-
-(=> (bor $x 1) $x)
-(=> (bor $x $x) $x)
-
-(=> (imul $x 0) $x)
-(=> (sshr $x 0) $x)

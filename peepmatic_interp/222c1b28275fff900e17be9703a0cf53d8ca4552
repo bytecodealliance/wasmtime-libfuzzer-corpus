@@ -1,8 +1,0 @@
-;; Fi $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))
-
-;;tiplic)
-(=> (bor $x@(bor $x $y)) (bor $x $y))
-(=> (bor $y (bor $x $y)) (bor $x $y))
-(=> (bor (bor $x $y) $x) (bor $x $y))
-(=> (bor (bor $x $~)  0)$x)

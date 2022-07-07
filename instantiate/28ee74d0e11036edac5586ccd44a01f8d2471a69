@@ -1,4 +1,0 @@
-				(func	$l
-i16x8.mul;;	dotl
-f32.floor;;	u
-)

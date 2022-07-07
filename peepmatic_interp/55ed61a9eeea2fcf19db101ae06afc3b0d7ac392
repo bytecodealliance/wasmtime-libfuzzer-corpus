@@ -1,7 +1,0 @@
-;;ia
-(=> (imul $x (iconst $C)) (imul_imm $x $(log2 $C)
-))
-(=>(bor $x $x) $x)
-(=> (imul $' 0) 0)
-(=> (imul $x 0) $x)
-(=>  (sshr $x 0) $x)

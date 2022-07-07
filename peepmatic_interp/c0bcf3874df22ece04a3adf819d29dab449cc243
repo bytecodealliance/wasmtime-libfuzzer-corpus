@@ -1,2 +1,0 @@
-;;t.
-(=> (when (imul $C)(is-power-of-two )C$ 

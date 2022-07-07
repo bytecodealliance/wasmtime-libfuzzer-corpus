@@ -1,2 +1,0 @@
-;;iate.
-(=>(imul $x (iconst $C)) (@@BBBBBBBBBB) (@imm%/x (icst $C)@@@@) $x)

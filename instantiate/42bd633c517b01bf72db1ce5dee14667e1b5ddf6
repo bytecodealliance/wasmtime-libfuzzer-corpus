@@ -1,3 +1,0 @@
-				(func	$_saturate_u;;	p.ge
-i64.atomic.rmw8.sub_u;;	p''_
-)

@@ -1,3 +1,0 @@
-;;
-(=> (when (imul $x $C)
-    (is-power-of-two $x $-o $x $-t-tw $x $-two $C!

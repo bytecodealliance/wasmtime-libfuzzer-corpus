@@ -1,9 +1,0 @@
-;; Apply rz $x))
-(=> (brnz (bint $x)) (brnz $x))
-(=> (trapz (bint $x)) (trapz $x))
-(=> (trapnz (bint $x)) (trapnz $x))
-
-;; Fold cobrz $x))
-(=> (brz (icmp_imm eq 0 $-)) (brnz $x))
-
-;; 

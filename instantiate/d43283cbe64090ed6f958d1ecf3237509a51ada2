@@ -1,7 +1,0 @@
-							(func	$nI''
-i16x8.gt_u;;		H
-i16x8.gt_u
-)			(func	$nD''
-i16x8.gt_u;;		H'			ge_s;;c	$nI''
-i16x8.gt_u;;;^8
-)				

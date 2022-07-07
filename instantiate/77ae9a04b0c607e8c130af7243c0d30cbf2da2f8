@@ -1,7 +1,0 @@
-				(func;;	;;	dnot;r	
-i32x4.ge_s;;Ix4.ge_s;;I	t;r	
-i32x4.ge_s;;	stdnot;r	
-i32x4.ge_s;;I	t;r	
-i32x4.ge_s;;I	stdnot;r	
-i32x4.ge_s;;I	1storstore;;	1?
-)

@@ -1,5 +1,0 @@
-;; nrz))
-(=> (trapz (bint $x)) (trapz $x))
-(=> (trapnz (bint $x)) (trapnz $x))
-
-;; Fon

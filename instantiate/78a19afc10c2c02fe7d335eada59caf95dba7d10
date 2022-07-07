@@ -1,8 +1,0 @@
-				(func	$''''''''''''ory
-f32.ne;;	prno		(funload
-v128.bitselect
-f32.ne;;	prnoadpr	
-i64.atomic.load
-v128.bitselect
-f32.ne;;	prnoadp	!p
-)

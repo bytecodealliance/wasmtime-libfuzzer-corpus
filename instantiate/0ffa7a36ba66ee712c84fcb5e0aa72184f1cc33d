@@ -1,46 +1,0 @@
-				(func	f64x2.lt;;	dx	%''''''ix6.24
-	end;;	dropn`;;	dx	'''''''ix6.14
-	end;;	dropn`	a%x01q
-f32x4.ne;;ix6.24
-	end;;	2x4.n
-f32x4.ne;;ix6.24
-	end;;	2x4.n				(fu`;;	dx	'''''''ix6.24
-	end;;	dro24
-	end;;	2x4.n
-f32x4.ne;;ix6.24
-	end;;	2x4.n				(fu`;;	dx	'''''''ix6.24
-	end;;	dropn`	ax	'''''''ix6.24
-	end;;	dropn`	a%x01q
-f32x4.ne;;ix6.24
-	end;;	2x4.ne;;ix6.24
-	end;;	dropn`	a%x0	dropn`	a%x01q
-f32x4.ne;;ix6.24
-	end;;	2x4.ne;;ix6.24
-	end;;	dropn`	a%x0	;	dre;;ix6.24f32.reinterp=et/i32
-	end;;	2x4-ne;;ix6.24
-	end;;	dropnx	dropn`	a%x01q
-f32x4.ne;;ix6.24
-	end;;	2x4.n
-f32x4.ne;;ix6.24
-	end;;	2x4.n				(fu`;;	dx	'''''''ix6.24
-	end;;	dropn`	ax	'''''''ix6.24
-	end;;	dropn`	a%x01q
-f32x4.ne;;ix6.24
-	end;;	2x4.ne;;ix6.24
-	end;;	dropn`	a%x0	dropn`555555555555555555555555555555555524
-	end;;4
-	end;;	dropn`;;	dx	'''''''ix6.24
-	end;;	dropn`	a%x01q
-f32x4.ne;;ix69.24
-	end;;	2x4.n
-f32x4.ne;;ix6.24
-	end;;	2x4.n				(fu`;;	dx	'''''''ix6.24
-	end;;	dropn`	ax	'''''''ix6.24
-	end;;	dropn`	a%x01q
-f32x4.ne;;ix6.24
-	end;;	2x4.ne;;ix6.24
-	end;;	dropn`	a%x0	dropn`	a%x01q
-i16x8.gt_u
-	end;;;	dre;;ix6.24
-	end;;	drc	$	
-)

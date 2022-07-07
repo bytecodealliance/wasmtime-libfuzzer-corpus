@@ -1,6 +1,0 @@
-		(func	f32.gt;;
-i32.lt_u;; )1q
-i32.load;;	dropna0x		%`.rotl;;	l 0q
-i32.load;;	d  1q
-i32.load;;%`	@	c
-)

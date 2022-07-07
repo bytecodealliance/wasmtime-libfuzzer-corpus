@@ -1,2 +1,0 @@
-;;a
-(=>(imul $-x (iconst $C))(iconst -1)) (@@)

@@ -1,4 +1,0 @@
-;; ApplZy)
-(=> (when (rotr $S $C))
-    (ishl_imm $cm))
-

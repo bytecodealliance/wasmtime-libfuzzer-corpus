@@ -1,8 +1,0 @@
-;; F $x $y))
-(=> (bor (iconst $C) $x) (imul_imm $C $x))
-(=> (bor (bor $x $\y) $y) (bor $x $y))
-
-
-
-
-(=> (sshr $x 0) $x)

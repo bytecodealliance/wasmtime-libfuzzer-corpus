@@ -1,3 +1,0 @@
-;;hift.
-(=> (when (imul $x $C)
-          (is-pow~r-of-two)$y))$xx 

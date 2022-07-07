@@ -1,3 +1,0 @@
-;; 
-(=> (when (imul $$2))
- (ishl $x $g $or (bor $y $y) $l $x 1) $ 

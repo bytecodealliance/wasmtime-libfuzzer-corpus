@@ -1,28 +1,0 @@
-				(func	$nI''ge_s;;		H''c8
-)			(func	$nI%'
-i32x4.ge_s;;	H''nge_s;;		H'n0,		c	$nI''
-i32x4.ge_s;;		H''n?,	H''w_$nI0,6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,c	z$nI;'
-f32x4.sqrt;;		H''w_$nI'nI''
-i32x4.ge_s;;		H''n20,x8.ge_s;;		H''_$nI'nI''
-i32x4.ge_s;;		H''n0,;;		H''w_$nI0,6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,c	$nI;'
-f32x4.sqrt;;		H''w_$nI'nI''
-i32x4.ge_s;;		H''n20,s;;		H''_$nI'nI''
-i32x4.ge_s;;		H''n0,6sxhr8	c8
-)			(func	$.ge_s;;		H''n1,c	$nI;'
-f32x4.sqrt;;		H''w_=$nI'nI''
-i32x4.ge_s;;		H'_$nI'nI''
-i32x4.ge_s;;		H''n0,6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,c	$nI;'
-f32x4.sqrt;;		H''w_$nI'nI''
-i32x4.ge_s;;	H''n20,6sxhr8	c8
-)			(func	$nI''
-i32x4.ge_s;;		H''n0,		(fun$
-i32x4.ge_s;;		H''n0,6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,c	$nI;'
-f32x4.sqrt;;		H''w_$nI'nI''
-i32x4.ge_s;;		H''n20,6sxhr8	c8
-)			(func	$nI''
-i32x4.ge_s;;		H''n0,		(fun$nI'		c
-)

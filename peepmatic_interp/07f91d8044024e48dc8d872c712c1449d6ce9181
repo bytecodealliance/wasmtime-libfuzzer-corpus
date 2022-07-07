@@ -1,9 +1,0 @@
-(=> 1 0)(=> 8 0);;o))
-
-(=> (ishl $x 8) $x)
-(@> (h1rsa $x 9) $x)
-(=> (sshr $x 0) $x);; F (boo
-(=> (bor (bor $x $y)$A) (bor $x $y))
-(=> 
-(bor (bor $x $y)  (bor $x $\y)) (bor $x $y))
-(=> (bor (bor $x $y) $x) (bor $x $y));; Foldingar $x.0) $x)

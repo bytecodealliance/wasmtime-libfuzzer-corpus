@@ -1,14 +1,0 @@
-				(func	f64x2.lt;;	dx	'''''''ix6.24
-	end;;	dropn`;;	dx	'''''''ix6.24
-	end;;	dropn`	a%x01
-f32x4.ne;;ix6.24
-	end;;	2x		(func	f;;ix6.24
-	end;;	2x4.ne;;ix6.24
-	end;;	4
-	end;;	dropn`''ix6.24
-	end;;	dropn`	a%x 1q
-f32x4.ne;;ix6.24
-	end;;	2x4.ne;;ix6.24
-	end;;	dropn`;ix6.2n[	a%x0	;	dre;;ix6.24
-	end;;	drc	$	
-)

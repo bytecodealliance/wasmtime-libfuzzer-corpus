@@ -1,9 +1,0 @@
-						(func	$nI	
-i32x4.neg;;	drop		c
-)	(func	$nI''''	
-i32x4.neg;;	drop		c
-)	(func	$nI''''	
-i32x4.neg;;
-i32x4.neg;;	dro8.min%s;;	dropkt0kkkkkkok'	
-i32x4.neg;;	drop	4.$.	c
-)

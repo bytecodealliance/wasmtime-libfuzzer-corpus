@@ -1,3 +1,0 @@
-				(func
-i64.atomic.rmw32.xchg_u;;		c
-)

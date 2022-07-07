@@ -1,4 +1,0 @@
-;; )
-(=>(rotl_imm 0 (bint $x)) (trapnz $x))
-
-;;

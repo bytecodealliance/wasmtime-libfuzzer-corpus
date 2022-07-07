@@ -1,6 +1,0 @@
-				(func	$n%%%
-f64.promote_f32;;;unc	n'''nF.'''	
-i64.atomic.rmw8.xor_u;;;	$n%%c	$n%%%
-f64.promote_f32;;;	c	$unc	n'''nF.''%
-f64.promote_f32;;;	c	$unc	n'''nF.''
-)

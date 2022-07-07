@@ -1,5 +1,0 @@
-(=> (iadd $x (iconst $C))
-    (iadd_imm $C $x))
-
-(=> (iadd (iconst $C) $x)
-    (iadd_imm $C $x))

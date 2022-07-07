@@ -1,9 +1,0 @@
-		(func	(f64.eq;; 11; 11 :   1(fq
-(i64.trunc_u:sat/f32
-(i64.and;; 1i1611 1(f1(fq
-(i64.trunc_u:sat/f32
-(i64.and;;  1A1AAAA6+   
-(i64.trunc_u:sat/f32
-(i64.and;; 11 :   1AA	na2x6: " 1(f		%:   1(fq
-(i64.trunc_u:sat/f32
-(i64.and;; 1i16.gt_sAA	n: " 1(f		%

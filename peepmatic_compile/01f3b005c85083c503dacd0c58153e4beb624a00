@@ -1,4 +1,0 @@
-;; <ifu.
-(=> (when (imul $x $C)
-  )
- (ishl $x $(log2 $= $x 1) $)

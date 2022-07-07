@@ -1,3 +1,0 @@
-;; pon2ant.
-(=> (when (iadd $x $C) (fits-in-native-word $C))
-    (iadd_imm $C $x))

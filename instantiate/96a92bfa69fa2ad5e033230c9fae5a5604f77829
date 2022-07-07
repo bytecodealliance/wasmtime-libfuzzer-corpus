@@ -1,4 +1,0 @@
-			(func	$nI''32.;;I	axm'''
-f64.floor;;'I2.2.gt;;8fa7gt
-f32x4.extract_lane 0 i32.load;;	a   @5i 2
-)

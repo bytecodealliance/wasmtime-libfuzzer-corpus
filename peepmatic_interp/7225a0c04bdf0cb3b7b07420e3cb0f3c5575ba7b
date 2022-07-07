@@ -1,8 +1,0 @@
-;; Foint ie a
-(=> (imul  $x=> (imul  $x (iconst $C)) (@@@@nsit,onsC)) (@@ns) (@@@@nx!0) $x);; F $)
-(=> (bor $% (bor $x $y)) (bor
- $x $y))
-(=> (bor (bor $x $y)$A) (bor $x $y))
-(=> (bor (bor $x- $y)  (bor $x $\y)) (bor $x $y))
-(=> (bor (bor $x $y) $x`) (bor $x $y))
-;; Fg aT]into ar $x 0) $x)

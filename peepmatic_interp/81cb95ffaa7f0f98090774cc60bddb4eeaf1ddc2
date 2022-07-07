@@ -1,2 +1,0 @@
-;; .
-(=> (bor $x (bor $MMMMMMMMMMMMMMMMRRRRRRRRRRMMM3MMMMMMMMMH $y)) (bor $x $y))

@@ -1,5 +1,0 @@
-		(func	return;;	d&rc	
-f32x4.div
-i64.atomic.rmw32.add_u;;;{	d;;a4.a0/
-i64.atomic.rmw32.add_u;; 
-)

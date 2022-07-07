@@ -1,1 +1,0 @@
-(=> (bor $x (bor $x $y))  (bor $x $y))

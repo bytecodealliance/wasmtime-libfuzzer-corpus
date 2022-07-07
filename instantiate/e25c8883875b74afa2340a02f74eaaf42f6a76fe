@@ -1,39 +1,0 @@
-				(func	$nI''ge_s;;		H''6sxhr8	c8c	$nI;'
-f32x4.sqrt;;		H''w_$		(func	$nI%'
-i32x4.ge_s;;	H''nge_s;;		H'n0,		c	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;		H'';		H'n0,		(func	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.shr_u;;	H''nge_s;;		H'n0,		c	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;	6sxhr8	c8
-)			(func	$.ge_s;;		H''H''6sxhr8	c8c	$nI;'
-f32x4.sqrt;;		H''w_$		(func	$nI%'
-i32x4.ge_s;;	H''nge_s;;		H'n0,		c	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;		H'';		H'n0,		(func	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.shr_u;;	H''n	H'n0,		c	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;	6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,ge_s;;		I''n?,c	$nI'&
-i16x8.ge_s;;		c	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;		H'';		H'n0,		(func	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.shr_u;;	H''nge_s;;		H'n0,		c	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;	6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;		H'';		H'n0,		(func	6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;'&
-i16x8.ge_s;;		H'';		H'n0,		(func	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.shr_u;;	H''nge_s;;		H'n0,		c	$nI''
-i32x4.ge_s;;		H''n?,c	$nI'&
-i16x8.ge_s;;	6qxhr8	c8
-)			(func	$.ge_s;;?,c	$nI'&
-i16x8.ge_s;;	6sxhr8	c8
-)			(func	$.ge_s;;		H''n0,LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLc
-)

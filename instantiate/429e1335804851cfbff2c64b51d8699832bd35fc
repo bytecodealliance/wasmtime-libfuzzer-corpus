@@ -1,4 +1,0 @@
-	(func	;;r	;;ren
-f32x4.div;;	
-i64.trunc_u:sat/f64	
-i64.trunc_u:sat/f64)

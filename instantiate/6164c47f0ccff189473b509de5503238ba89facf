@@ -1,7 +1,0 @@
-				(func	$nI''c
-i64.atomic.rmw32.or_u;;,''''''''''' 0 1q
-i32.rotr;;	dro%`				c
-i64.atomic.rmw32.or_u;;,''"b""''''''' 0'1q
-i32.rotr;;	dro%`				c
-i64.atomic.rmw32.or_u;;,r;;	dro%`		c
-)

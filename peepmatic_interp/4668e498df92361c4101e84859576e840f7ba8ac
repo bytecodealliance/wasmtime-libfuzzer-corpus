@@ -1,2 +1,0 @@
-;; A))
-(=> (band_imm $'C0 (band_imm $C2 $x)) (band_imm $(band 0) $x));;R

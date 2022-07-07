@@ -1,7 +1,0 @@
-	(func	$nI''''	
-i32x4.mul;;	a''''	
-i32x4.mul;;8.	n
-i32x4.mul;;8'''	
-i32x4.mul;;	x4;c@i64.clz	
-i32x4.mul;;8.	$c
-)

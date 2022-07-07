@@ -1,4 +1,0 @@
-;; .
-(=>(when (imul $C)
-)
-  (ishl $x $(log2 $or (bor $y $y)u

@@ -1,4 +1,0 @@
-		(func	$turate_u;;	n
-i32.atomic.store8;;	pdr	cs^n
-i32.atomic.store8;;.		c
-)

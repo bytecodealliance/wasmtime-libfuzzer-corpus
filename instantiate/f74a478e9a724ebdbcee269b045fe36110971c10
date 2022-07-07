@@ -1,15 +1,0 @@
-(				func	$MMMMMMMM_i16x8_u
-i64.popcnt;;	dropen_lMMMMMMMMMMM''\\\\\\\\\\\\\\\\
-i32x4.widen_low_i16x8_u
-i64.popcnt;;	dropen_low_i16x8MMMMMMMMMVnI''"pn\\\\\2x4.widen_low_i16x8_u
-i64.popcnt;;	dropen_lMMMMMMMMMMM''\\\\\\\\\\\\\\\\
-i32x4.widen_low_i16x8_u
-i64.popcnt;;	dropen_low_i16x8MMMMMMMMMM\\\\\\\\\
-i32x4.widen_low_i16x8_u
-i64.popcnt;;	dropen_lMMMMMMMMMMM''\\\\\\\\\\\\\\\\
-i32x4.widen_low_i16x8_u
-i64.popcnt;;	dropen_low_i16x8MMMMMMMMMVnI''"pn\\\\\2x4.widen_low_i16x8_u
-i64.popcnt;;	dropen_lMMMMMMMMMMM''\\\\\\\\\\\\\\\\
-i32x4.widen_low_i16x8_u
-i64.popcnt;;	dropen_low_i16x8MMMMMMMMMVnI''"pn\\\\\`	f32.const	c
-)

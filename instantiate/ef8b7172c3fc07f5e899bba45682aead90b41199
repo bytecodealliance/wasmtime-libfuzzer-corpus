@@ -1,4 +1,0 @@
-				(func	$BBBB2q
-i64.atomic.rmw.or;;	dropna0x		%w.o-2q
-f64.convert_i64_u;;
-)

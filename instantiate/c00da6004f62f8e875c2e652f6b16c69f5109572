@@ -1,5 +1,0 @@
-		(func	(i64.atomic.rmw.xchg;;>  o
-i64.atomic.rmw.xchg;;>0ro
-i64.atomic.rmw.xchg;;>  0 1 1q
-i64.atomic.rmw.xchg;;
-a5vgr_

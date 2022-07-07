@@ -1,4 +1,0 @@
-
-(=> (ishl_imm 1 $x) $x)
-(=> (ushr_imm 0 $x) $x)
-(=> (sshr_imm 0 $x) $x)

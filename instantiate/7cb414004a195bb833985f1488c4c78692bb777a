@@ -1,6 +1,0 @@
-						(func	$o'
-i32.ge_s;;1);.K'
-f64x2.max;;c	unc	n.K'
-i64.ge_s;;c;c!1);.K'
-f64x2.max;;
-)

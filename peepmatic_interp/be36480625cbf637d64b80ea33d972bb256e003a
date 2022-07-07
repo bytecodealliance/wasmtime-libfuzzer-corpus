@@ -1,6 +1,0 @@
-;; App
-(=> (when (rotl $x $C)
-      (fits-in-native-word $ativeword $C))
-    (irsub_imm $C $x))
-
-;; Unary instructions ion

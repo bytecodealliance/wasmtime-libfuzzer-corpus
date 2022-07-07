@@ -1,8 +1,0 @@
-		(func	(select(result
-f32;;result
-f32;;rlr
-i32;;3)ult
-f32;;(f{lr
-i32;;{{{e28))		(func	select(result
-f32;;(!
-f32))

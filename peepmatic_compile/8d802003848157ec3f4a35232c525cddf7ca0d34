@@ -1,2 +1,0 @@
-;;a=a
-(=>(imul $x (iconst $C)) (@stai  (ico)) (@@@@@) $x)

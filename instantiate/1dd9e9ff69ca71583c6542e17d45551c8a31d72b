@@ -1,36 +1,0 @@
-						(func	$nI''''	
-i32x4.neg;;	drop		c
-)	(func	$nI''''	
-i32x4.neg;;	dropn'oc	$nI;'>''%%%%%5%%%,%%%%c
-)	(func	$nI'';;	dfunc	$nI'';;	dropn'oc	$nI;'>''%%%%%2%%%%%%%%%na0xc
-)	(func	$n)	(func	$nI''''	
-memory.copy;;	dropn'%%%VVVV.neg;;	drop	'''	
-i32x4.neg;;	dropn'oc																						%pnI;'>''%%f64x2.$nI;'						%pnI;'>''%%f64x2.min%%%5%%%%%%%%%na0xc
-)	(func	$nI''''	
-memory.copy;;	dropn'%%%VVVV.neg;;	drop	'''	
-i32x4.neg;;	dropn'oc															''''	
-memory.copy;;	eg;;	dropn'oc																																																																							
-i16x8.max_u;;	dropn'%%T%VVVVVf64x2.min%%%5%%%%%%%%%na0hc
-)	(func	$nI''''	
-i16x8.shr_s;;	dropn'%%%VVVV.neg;;	;;	drop	'''	
-i32x4.neg;;	dropn'oc				k																		%pnI;'>''%%f64x2.$nI;'						%pnI;'>''%%f64x2.min%%%5%%%%%%%%%na0xc
-)	(func	$nI''''	
-memory.copy;;	dropn'*%%VVVV.neg;;	drop	'''	
-i32x4.neg;;	dropn'oc															''''	
-memory.copy;;	eg;;	dropn'oc																																																																							
-i16x8.max_u;;	dropn'%%T%VVVVVf64x2.min%%%5%%%%%%%%%nf64x2.min%%%5%%%%%%%%%na0xc
-)	(func	$nI''''	
-memory.copy;;	dropn'%%%VVVV.neg;;	drop	'''	
-i32x4.neg;;	dropn'oc															''''	
-memory.copy;;	eg;;	dropn'oc																																																																							
-i16x8.max_u;;	dropn'%%T%VVVVVf64x2.min%%%5%%%%%%%%%na0hc
-)	(func	$nI''''	
-i16x8.shr_s;;	dropn'%%%VVVV.neg;;	;;	drop	'''	
-i32x4.neg;;	dropn'oc												\									%pnI;'>''%%f64x2.$nI;'						%pnV.neg;;	drop	'''	VVVVVf64x2.min%%%5%%%%%%%%%na0hc
-)	(func	$nI''''	
-i16x8.shr_s;;	dropn'%%%VVVV.neg;;	;;	drop	'''	
-i32x4.neg;;	dropn'oc												\									%pnI;'>''%%f64x2.$nI;'						%pnI;'>''%%f64x2.mmin%%%5%%%%%%%%%na0xc
-)	(func	$nI''''	
-memory.copy;;	dropn'*%%VVVV.neg;;	drop	'''	
-i32x4.neg;;	dropn'oc					32x4.neg;;	dro																																																									$nI;'>''%c
-)

@@ -1,3 +1,0 @@
-				(func	
-i32.atomic.load;;	.ge
-i32.atomic.load;;	p?ge(

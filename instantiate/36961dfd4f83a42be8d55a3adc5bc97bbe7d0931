@@ -1,7 +1,0 @@
-						(func	$nI''''	
-i32x4.neg;;	drop		c
-)	(func	$nI''''	
-i32x4.neg;;	%nW0xc
-)	(func	$nIInI''''	
-i32x4.neg;;	d$.		c
-)

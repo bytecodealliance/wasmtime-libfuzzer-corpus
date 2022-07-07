@@ -1,8 +1,0 @@
-				(func	$nIeo
-f32x4.max
-i64.atomic.rmw.sub;;					$nMe.8;Ieo
-f32x4.max
-i64.atomic.rmw.sub;;					(fu
-id
-cc
-;3)

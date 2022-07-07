@@ -1,8 +1,0 @@
-				(func	$pc.r
-i32.atomic.load16_u;;	drff	.n.or
-i32.atomic.load16_u;;	drff	drff.n.or
-i32.atomic.load
-i32.atomic.load16_u;;	drff.ncff	drff.n.or
-i32.atomic.load
-i32.atomic.load16_u;;	drff.nc
-)

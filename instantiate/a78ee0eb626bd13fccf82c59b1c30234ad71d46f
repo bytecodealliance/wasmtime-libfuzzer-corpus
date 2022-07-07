@@ -1,7 +1,0 @@
-				(func	$''n;;tkmic	c$''n;;tk
-;;t7	c
-i32.atomic.rmw.sub)		(func	$''n;;t.teeq
-;;
-i32.atomic.rmw.sub)		(func	$''n;;t.teeq
-;;t3)a
-)

@@ -1,2 +1,0 @@
-;; Foldi
-(=> (imul  $x (iconst $C)) (@@@@nsit) (@@@@nsit) (@@@@nsat(t C)) (@@@@) (@@@@n) $x)

@@ -1,4 +1,0 @@
-;; 
-(=>(bor $<<<*<$y (bor $x $y)) (bor $x $y))
-(=> (bor (bor $___@_______x $y) $x) (bor $x $y))
-(=> (bor $x 1) $x)

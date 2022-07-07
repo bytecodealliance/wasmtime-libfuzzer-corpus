@@ -1,6 +1,0 @@
-				(func	$nt;;		un	(s
-i32.atomic.store8;;		un;ic.rmw9.				H	)f			(s
-i32.atomic.store8;;		H	(s
-f32x4.sqrt;;		un$I'i+  ;			(s
-i32.atomic.store8;;32x5f(un::::::::::::::c
-)

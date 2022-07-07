@@ -1,6 +1,0 @@
-;; f
-(=> (udiv_imm 0 $x) $x)
-(=> (udiv_imm 2 $x)$x)
-(=> (udiv_imm 1 $ximm 0 $_imm 0 $A(icmp_imm eq 0 $x)) (brnz $x))
-
-;; O FIivremation

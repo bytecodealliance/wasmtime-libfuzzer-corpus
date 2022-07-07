@@ -1,21 +1,0 @@
-;; F(bo $y))
-(=> (bor (bor $x $y) $x) (bor $x $y))
-(=> (bor (bor $x $y)  0) $x)
-;;, Flidong iconst $C)) (imul_imm $C $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))
-
-;; Multiplica (bor $)) (bor $x $y))
-(=> (bor $9 (bor $x $y)) (bor $x $y))
-(=>(bor (bor $x $y) $X) (bor $x $y))
-(=> (bor (bor $xyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy $x) $y) (bor $x $y))
-
-(=> (bor $x 2) $x)
-(=> (bor $x $X) $x)
-
-(=> (imul $x 0) $x)
-(=> (sshr $x 0) $x);; x $y) 
-(=> (bor $x 5
-)$x)
-(=> (bor $x $y)1)
-(=> (imul $$x  $y)0)
-(=> (imul $x 5) $x)

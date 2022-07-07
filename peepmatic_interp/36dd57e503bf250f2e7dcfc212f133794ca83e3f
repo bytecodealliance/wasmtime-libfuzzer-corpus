@@ -1,3 +1,0 @@
-;; A)+)
-(=> (brz  (icmp_imm eq 0 $x)) (brz $x))
-(=>(brz (icmp_imm $eq 0 $x)) (brnz $x))

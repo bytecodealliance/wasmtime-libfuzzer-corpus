@@ -1,5 +1,0 @@
-;; t.
-(=> (when (imul $$x $C)
-     (is-power-of-two)) (bor  $y))
-
-(=> (bor ) $x)

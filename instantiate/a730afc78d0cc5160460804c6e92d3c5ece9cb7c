@@ -1,64 +1,0 @@
-						(func	$nI''''''	
-i8x16.min_u;;	dropc	$nI;'>''%%$func	$nI''	
-i8x16.min_u;;	dropn?$nI'''%%ff31x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%%%%%%'''	
-i8x16.min_u;;	dropc	$nI;'>''%%$func	$nI''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff31x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%%%%%%na0xc
-)	(func	$nI'''#	
-i8x16.min_u;;	dropn?$fI''nI;'>''in_u;;	dropn?$nI'''%%ff32x4pt5sl.a%%%%%%%e%n;	d$func	$ff32x4.splat5%%%%%%%%%na0xc)%ff32x4.spa0xc
-)	(func	$nI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x8.min_s;;	dropn''%)nI''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff31x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%%%%%%na0xc
-)	(func	$get_localnI'''#	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'c)	(func	$nI''''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;		dropn'4.splat5oc'%%ff32x4.spa0xc
-)	(func	$nI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff32x4.splat55%%%%%%%%%na0xc)	(func	''I$n''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;		dropn'4.splat5oc'%%ff32x4.spa0xc
-)	(func	$zI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x8.min_s;;	dropn''%)nI''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff31x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%%%%%%na0xc
-)	(func	$nI'''#	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'c)	(func	$nI''''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;		dropn'4.splat5oc'%%ff32x4.spa0xc
-)	(func	$nI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x	dopn'oc	$nI;'	(func	''I$n''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;		dropn'4.splat5oc'%%ff32x4.spa0xc
-)	(func	$nI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x8.min_s;;	dropn''%)nI''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff31x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%%%%%%na0xc
-)	(func	$get_localnI'''#	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'c)	(func	$nI''''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;		dropn'4.splat5oc'%%ff32x4.spa0xc
-)	(func	$nI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff32x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%na0xc
-)	(func	$nI'''#	
-i8x16.min_u;;	dropn?$nI''nI;'>''in_u;;	dropn?$nI'''%%ff32x4pt5sl.a%%%%%%%e%n;	d$func	$ff32x4.splat5%%%%%%%%%na0xc)	(func	''I$n''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;		dropn'4.splat5oc'%%ff32x4.spa0xc
-)	(func	$zI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x8.min_s;;	dropn''%)nI''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff31x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%%%%%%na0xc
-)	(func	$nI'''#	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'c)	(func	$nI''''	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;		dropn'4.splat5oc'%%ff32x4.spa0xc
-)	(func	$nI''''	
-i8x16.min_u;;	dro%pn%%VVVV.i16x	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff32x4.splat5%%%%%%%%%n;	d$func	$ff32';;	dropn'oc	;	dropn'oc	$nI;'>''%%ff32x4.splat5%%%%%%%%%na0xc
-)	(func	$nI'''#	
-i8x16.min_u;;	dropn?$nI''''	
-i32x4.neg;;	d		r;	dopn'oc	$nI;'>''in_u;;	dropn?$nI'''%%ff32x4.splat5%%%%%%%%%n;	d$func	$ff32x4.splat5%%%%.		c
-)

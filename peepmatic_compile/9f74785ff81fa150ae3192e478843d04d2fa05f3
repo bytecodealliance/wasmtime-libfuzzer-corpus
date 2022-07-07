@@ -1,4 +1,0 @@
-;; F3 ding a co$x (iconst $C)) (imul_imm $C $x))
-(=> (imul (iconst $C) $x) (imul_imm $C $x))
-
-;; Multiplication by power of 2 t(ishl r $x 0) $x)

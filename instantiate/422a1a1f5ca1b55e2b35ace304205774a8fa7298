@@ -1,8 +1,0 @@
-				(func	$n%%%
-f64.promote_f32;;;	c	$unc	ng''nF.'''	
-i64.atomic.rmw8.xor_u;;;	$n%%$
-f64.promote_f32;;;	c	$unc	(func	$n%%%
-f64.promote_f32;;;	c	$unc	ng''nF.'''	
-i64.atomic.rmw8.xor_u;;;	$n%%$
-f64.promote_f32;;;	c	$unc	n	n'''nF.''
-)

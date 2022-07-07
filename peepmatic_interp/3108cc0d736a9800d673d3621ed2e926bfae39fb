@@ -1,6 +1,0 @@
-(=> 4 0)(=> 8 0);; )
-(=> (when $x) $x)
-(=>  (ushr_imm 0 $x) $x)
-(=> (sshr_imm 0 $x) $x)
-
-;; Replace witti

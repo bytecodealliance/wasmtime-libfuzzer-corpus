@@ -1,5 +1,0 @@
-;; Fold$t.
-(=> (when (imul $x $C)
-          (is-power-of-two $c))
-    (ishl $x $(log2 $C)
-))

@@ -1,6 +1,0 @@
-		(func	(f64.eq
-
-f32.ne;;dropn	%
-i64.atomic.rmw.xchg;;>  0 1q
-i64.atomic.rmw.xchg;;	d
-i8x16.a5vgr_

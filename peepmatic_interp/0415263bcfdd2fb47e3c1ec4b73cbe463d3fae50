@@ -1,7 +1,0 @@
-;; Ap_imm $)
-(=> (when $x) $x)
-(=> (bor_imm 0 $x) $x)
-(=> (band_imm -1 $x) $x)
-(=> (trapnz (bint $x)) (trapnz $x))
-
-;; Fold comparisons into branch operformation

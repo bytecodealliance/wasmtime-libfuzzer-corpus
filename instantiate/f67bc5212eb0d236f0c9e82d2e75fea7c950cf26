@@ -1,4 +1,0 @@
-				(func	$''''''2d
-i16x8.add_saturate_s      ;;no;ad
-i16x8.add_saturate_s      ;;note_u;ec
-)

@@ -1,6 +1,0 @@
-				(func	$f32.n
-i16x8.narrow_i32x4_u;;	>4_u;;	>;	dropnaN.ge
-i16x8.narrow_i32x4_u;;	>>>>=>>b>>>3
-f32.ne;;	dropnaN.ge
-i16x8.narrow_i32x4_u;;	>>>>>>>>>}*			c
-)

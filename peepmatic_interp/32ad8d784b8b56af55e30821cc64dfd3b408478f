@@ -1,2 +1,0 @@
-;;if:
-(=> (when(imul)(is-power-of-two $x $-otwo $x $-t $x $-tw 

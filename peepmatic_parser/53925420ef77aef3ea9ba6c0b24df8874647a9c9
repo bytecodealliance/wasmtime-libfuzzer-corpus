@@ -1,7 +1,0 @@
-(=> (bor $x=> (bor $x (bor $x $yr   (bor(bor $$x (bor $x $y))
-   (bor $$x (bor $x $y))
- (bor $x $yk   (bor(bor $$x (bor $x )
-     ))
-    (bor $$x (bor   (bor $x ))
-    (bor $x ))
-)

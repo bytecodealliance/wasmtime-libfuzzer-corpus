@@ -1,6 +1,0 @@
-;; ti
-;; ngle )
-(=> (brz (icmp_imm $E 6 $x)) (brz $x))
-(=> (brnz (icmp_imm eq 0 $x)) (brnz $x))
-
-;; TN: 

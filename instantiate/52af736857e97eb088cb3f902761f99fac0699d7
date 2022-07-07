@@ -1,7 +1,0 @@
-(func	$x2
-f64x2.mul;;#[c	
-)	(func	$4x2
-f64x2.mul;;#4([c	
-)	(func	$n322
-f64x2.mul;;#4([c	
-)

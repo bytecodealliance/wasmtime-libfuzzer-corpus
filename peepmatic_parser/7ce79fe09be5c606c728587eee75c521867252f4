@@ -1,3 +1,0 @@
-(=> (when (imul)
- (is-power-of-two)(is-power-of-two)
-)

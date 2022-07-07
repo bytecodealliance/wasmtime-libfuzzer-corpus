@@ -1,7 +1,0 @@
-;; $x) -1)
-
-(=> (when 
-   (sextend{i32} (ireduce{i8} $x)))
-;;h $x 32))
-   (sextend{i32} (ireduce{i8} $x)))
-;; educe{i32} $

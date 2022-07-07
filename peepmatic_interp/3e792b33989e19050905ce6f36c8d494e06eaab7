@@ -1,9 +1,0 @@
-(=> 1 0)(=> 8 0);;o))
-
-(=> (ishl $x 8) $x)
-(@> (hrsa  $y))
-(=> (bor (bor $x $y)$A) (bor $x $y))
-(=> 
-(bor (bor $%x $y)  (bor $x $\y)) (bor $x $y))
-(=> (bor (bor $x $y) $x) (bor $x $y))
-;; Folding ac onsT] ((*(

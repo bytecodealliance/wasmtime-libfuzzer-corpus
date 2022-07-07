@@ -1,7 +1,0 @@
-
-(=> (sshr $x 2) $x)
-(=> (sshr $x 0) $x);; A))
-(=> (when (sshr $x $natie-word $C))
-    (bxor_imm $$x))
-
-;; Unary instrationosN

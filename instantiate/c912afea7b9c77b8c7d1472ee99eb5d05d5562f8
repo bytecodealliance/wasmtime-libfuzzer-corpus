@@ -1,6 +1,0 @@
-				(func	$'
-v128.not;;	dro.not;;	dro0x	%`			i3` 1q
-f32x4.ne;;	
-i64.atomic.rmw.add;;'			%`		;;	
-i64.atomic.rmw.add;;''	%				(funI''c
-)

@@ -1,1 +1,0 @@
-(=> (when (imul $x $x $C)       (is-power-of-two 0197243424 $x 00000000000   (8864598094  $x $C)       (is-pox

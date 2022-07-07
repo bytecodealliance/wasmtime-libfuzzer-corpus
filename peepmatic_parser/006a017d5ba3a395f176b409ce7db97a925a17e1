@@ -1,3 +1,0 @@
-(=> (when (imul $x $C)
- )
-   $(log2 $x $o2=> (w%C)))

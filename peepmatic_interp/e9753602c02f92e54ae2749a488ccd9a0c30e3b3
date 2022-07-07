@@ -1,8 +1,0 @@
-;; A)
-(=> (when (sshr_imm 24 (ishl_imm 24 $x))
-      (bit-width $x 32))
-    (sextend{i32} (ireduce{i8} $x)))
-;;i2 reducx)))
-(=> (when (sshr))
-    (sextend{i16} (ireduce{i8} $x)))
-;; i32 -TTTTTTTTTT

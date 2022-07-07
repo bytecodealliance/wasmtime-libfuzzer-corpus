@@ -1,5 +1,0 @@
-;; Folding ament into an $x (bor $x $y)) (bor $x $y))
-(=> (bor $y (bor $x $y)) (bor $x $y))
-(=> (bor (bor $x $y) $x) (bor $x $y))
-(=> (bor (bor $x $y) $y) $x)
-(=> (sshr $x 4) $x)

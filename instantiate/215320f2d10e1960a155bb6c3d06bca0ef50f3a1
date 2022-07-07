@@ -1,5 +1,0 @@
-(func	$vr_u
-f32.demote/f64;;	dg q*faaaaq
-i32.shr_u
-i64.extend32_s;;	drclfG'	c
-)	

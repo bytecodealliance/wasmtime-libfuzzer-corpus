@@ -1,7 +1,0 @@
-		(func	f32.gt;;	q
-i64.trunc_f64_s;;+
-i64.trunc_f64_s;;rop; .q
-i64.trunc_f64_s;;+
-i64.trunc_f64_s;;	lrop	(fa4x6+ 	s;;+
-i64.trunc_f64_s;;	 .qh
-)

@@ -1,3 +1,0 @@
-;; Fonid lag cons.
-(=> (imul $x (iconst $C)) (imul_imm  $TTTTTTTTTTTTTTTTC $
-;-og a v-tc

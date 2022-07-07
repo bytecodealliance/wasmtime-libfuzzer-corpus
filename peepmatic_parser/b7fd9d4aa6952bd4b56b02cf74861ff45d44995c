@@ -1,3 +1,0 @@
-(=> (when (imul $x )
-          (is-power-of-two $C))
-   (ishl $x $(log1 $C)))

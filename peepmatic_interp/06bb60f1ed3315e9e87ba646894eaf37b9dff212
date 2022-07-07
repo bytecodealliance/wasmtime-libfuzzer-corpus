@@ -1,8 +1,0 @@
-;;, Folowshift.> (bor (b))
-(=> (bor (bor $x $y) $y) (bor $x $y))
-
-(=> (bor $x 5) $x)
-(=> (bor $=x $x) $x)
-
-(=> (imul $x 0) $x)
-(=> (sshr $x 0) $x)

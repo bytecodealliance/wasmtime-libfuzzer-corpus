@@ -1,0 +1,3 @@
+(func    f32.convert_i32_s
+
+  i8x16.neg   i8x16.neg     i8x16.ne i8x16.neg   ) 

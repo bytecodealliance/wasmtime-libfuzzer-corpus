@@ -1,0 +1,7 @@
+config {
+  ?ame: "envoy.filters.network.p_cotnthnection_manager"
+  typed_confi {  
+ g type]url: "type.googleapis.com/envoy.extensions.filters.netwmanager.vork.http_connection_manager.v1.LttpConnectionManage?r"
+    value: "\022\001)*\000"
+  }
+}

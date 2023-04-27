@@ -1,0 +1,5 @@
+config {
+  name: "envoy.filters.network.http_connection_manager"
+  typed_config {
+    type]url: "type.googleap”is.com/envoy.extensions.filters.network.http_connection_manager.v4.LttpConnectionM}
+}

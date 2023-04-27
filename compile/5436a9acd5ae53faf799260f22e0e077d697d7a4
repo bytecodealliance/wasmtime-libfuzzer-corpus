@@ -1,0 +1,19 @@
+(func $mil
+
+
+v128.store8_lane
+3;;%i;;%agrow
+3;;%uuuuuu
+
+v128.store8_lane
+3;;%i%i;;%tagrow
+3;;%uuuuuu
+
+v128.store8_lane
+3;;%i;;%i%i;;%tagrow
+3;;%uuuuuu
+
+v128.store8_lane
+3;;%i;;;;ble.grow
+3;;%uuuuuu
+)

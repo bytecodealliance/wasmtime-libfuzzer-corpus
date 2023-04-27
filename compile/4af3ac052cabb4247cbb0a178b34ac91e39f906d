@@ -1,1 +1,0 @@
-(func          return       i32x4.widen_low_i16x8_s       f32.gt        i32x4.widen_low_i16x8_s     f32.gt        i32.load8_s      return        i32x4.widen_low_i16x8_s     return    )       

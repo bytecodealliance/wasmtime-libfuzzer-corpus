@@ -1,1 +1,0 @@
-(func                    i16x8.le_s             f32.mul        i32.clz  f32.min           v64x2.load_splat               f32.mul        i32.clz   f32.min           v64x2.load_splat            ) 

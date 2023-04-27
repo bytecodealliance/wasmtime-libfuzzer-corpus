@@ -1,1 +1,0 @@
-(func i16x8.min_u      f32.add i16x8.min_u f32.add      f32.add     i16x8.min_u ) 

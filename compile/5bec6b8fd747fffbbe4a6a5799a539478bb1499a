@@ -1,1 +1,0 @@
-(func  ( i64.trunc_f64_u   return    f32.floor    f32.floor      f32.floor  )    ) 

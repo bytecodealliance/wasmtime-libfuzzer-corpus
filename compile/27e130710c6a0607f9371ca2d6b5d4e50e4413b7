@@ -1,0 +1,3 @@
+(func i16x8.extract_lane_s  
+2 i16x8.extract_lane_s 
+2 

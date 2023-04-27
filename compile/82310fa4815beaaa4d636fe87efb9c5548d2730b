@@ -1,12 +1,0 @@
-(func $'f3x3d
-
-i8x16.extract_lane_s
-1;;%3iextend8;%)f3d
-
-i8x16.extract_lane_s
-;;%)
-;;)(funC m0
-1
-;;%;%g]_fn)
-
-);;-%

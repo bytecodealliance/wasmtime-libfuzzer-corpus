@@ -1,0 +1,3 @@
+(func   i64.atomic.rmw16.and_u
+
+  i8x16.shl   i64.trunc_sat_f32_s) 

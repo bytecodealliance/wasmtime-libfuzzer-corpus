@@ -1,1 +1,0 @@
-(func)(func i16x8.mul)   (func i64.store)    (func)   (func i16x8.mul)    (func i16x8.mul)   (func i64.store)(func)(func i16x8.mul)   (func i16x8.mul)    (func i16x8.mul)   (func i64.store)(func)(func i16x8.mul)   (func i64.store)    (func)   (func i16x8.mul)   (func i64.store)         

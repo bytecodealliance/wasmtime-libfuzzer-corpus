@@ -1,0 +1,18 @@
+(func $oad32
+
+i64.atomic.load32_u
+
+
+
+;;%%%c 
+i64.atomic.load32_u
+
+f64.load
+;;%%%i64.shlc@@
+
+i64.atomic.load32_u
+
+
+
+;;%%@@@ $% \'.
+);;-%

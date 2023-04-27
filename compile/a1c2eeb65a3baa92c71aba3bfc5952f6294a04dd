@@ -1,1 +1,0 @@
-(func f32.const 7000 i64.trunc_f32_s f64.const 00000   return  ) ;;.%

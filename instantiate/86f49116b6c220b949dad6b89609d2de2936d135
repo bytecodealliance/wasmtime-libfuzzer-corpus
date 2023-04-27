@@ -1,0 +1,9 @@
+capture_events {
+  gpu_queue_submission {
+    num_begin_markers: -973078528
+  }
+}
+capture_events {
+  gpu_job {
+  }
+}

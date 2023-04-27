@@ -1,1 +1,0 @@
-(func        i64.trunc_s/f64      i64.trunc_s/f64    f32.div  i64.trunc_s/f64   f32.div       )(func (  result  funcref       funcref  ) )(func(  result funcref  ) )(func(  result  funcref funcref       funcref    funcref  ) )  

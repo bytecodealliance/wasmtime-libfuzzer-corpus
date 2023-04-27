@@ -1,0 +1,14 @@
+(func $ms
+
+
+
+i64x2.mul;;
+
+
+
+i64x2.mul;;x$
+
+
+i64x2.gt_s;;
+i64x2.mul;;;
+);;-%

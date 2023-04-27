@@ -1,1 +1,0 @@
-(elem  ( i64.ne  i64.eq       return     i64.atomic.rmw8.xchg_u        i64.eq       return     i64.atomic.rmw8.xchg_u      loop         block      else    i64.eq       return     i64.atomic.rmw8.xchg_u             block       loop       loop  )       ) 

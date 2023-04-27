@@ -1,0 +1,1 @@
+(func $p(loop)(loop)i64x2.relaxed_laneselect) (func (loop)(loop)) 

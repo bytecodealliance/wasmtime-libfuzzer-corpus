@@ -1,0 +1,1 @@
+(func return    f64x2.pmin               f64x2.pmin       i32.atomic.store16  i32.atomic.store16     ) ;;retr

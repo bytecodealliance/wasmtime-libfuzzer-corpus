@@ -1,0 +1,11 @@
+(func $%u
+struct.set
+0
+0;;in;;atomc u
+struct.set
+0
+0;;iomieunc $%u
+struct.set
+1
+0
+);;

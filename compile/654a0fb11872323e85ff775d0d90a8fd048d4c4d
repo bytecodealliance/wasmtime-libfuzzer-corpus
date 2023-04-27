@@ -1,1 +1,0 @@
-(func          f32.mul   i32.mul                 i64.sub        )   (func          f32.mul   f32x4.le         )   (func          f32.mul           f32.mul     i64.sub        )    

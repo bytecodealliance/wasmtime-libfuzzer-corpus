@@ -1,0 +1,10 @@
+(func  
+
+i32x4.gt_u
+v128.store
+
+
+
+v128.store
+
+) 

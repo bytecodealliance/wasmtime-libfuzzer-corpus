@@ -1,3 +1,0 @@
-(func      i8x16.shl
-i64.rotl
- ) 

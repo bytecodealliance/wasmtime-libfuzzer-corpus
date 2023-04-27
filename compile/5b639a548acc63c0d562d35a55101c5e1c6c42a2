@@ -1,0 +1,6 @@
+(func
+i32.div_u;;%
+)(func
+i32.div_u
+i32.div_u;;%
+)

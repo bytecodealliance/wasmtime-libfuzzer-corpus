@@ -1,1 +1,0 @@
-(elem  (    i64.load8_s   i32.atomic.rmw.cmpxchg      )       ) 

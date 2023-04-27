@@ -1,0 +1,17 @@
+(func
+
+
+
+
+i64.atomic.rmw.add
+i64.atomic.rmw.add
+i64.atomic.rmw.add
+i64.atomic.rmw.add
+
+
+
+
+
+
+
+) 

@@ -1,1 +1,0 @@
-(func         i32.div_u i64.ctz    i64.ctz            i32.div_u i64.ctz   i64.ctz   ) 

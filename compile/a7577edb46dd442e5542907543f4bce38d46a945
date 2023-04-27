@@ -1,0 +1,12 @@
+(func;; (if%%
+i32x4.extend_low_i16x8_u
+
+
+
+;;%8_o%
+i32x4.extend_low_i16x8_u
+
+
+
+;;%8_%
+i32x4.extend_low_i16x8_u)

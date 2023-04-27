@@ -1,1 +1,0 @@
-(func       i64.store32    i64.ne     i64.atomic.rmw32.and_u) 

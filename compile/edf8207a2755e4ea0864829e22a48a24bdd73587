@@ -1,0 +1,9 @@
+(func
+
+i64.load16_u
+
+
+ i64.load16_u
+
+table.get
+0 ) 

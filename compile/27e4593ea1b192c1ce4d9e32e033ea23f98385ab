@@ -1,0 +1,4 @@
+(func $0|i8x16.narr
+
+
+memory.atomic.wait32

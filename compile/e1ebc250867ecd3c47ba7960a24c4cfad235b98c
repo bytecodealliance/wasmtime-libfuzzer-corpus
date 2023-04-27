@@ -1,1 +1,0 @@
-(func      memory.copy     block   block  f32x4.max f32x4.max   f32x4.max          ) 

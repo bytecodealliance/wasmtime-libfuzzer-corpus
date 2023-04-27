@@ -1,0 +1,6 @@
+(func   i64x2.shl
+i32.trunc_sat_f32_s
+
+i32.trunc_sat_f32_s
+
+i32.trunc_sat_f32_s ) 

@@ -1,0 +1,52 @@
+(func       return                        return       i16x8.max_u  ) (func            i16x8.max_u    i16x8.max_u        i16x8.max_u  ) (func             return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u             return                  return        ) (func             return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u             return                  return                             return                        return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u                    f3\1d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.00d}}u{.uu.\u{D00}u{.u.\u{D00D}}u{.\u{D15d8}D00d}\u{BD00D}}u{.\u{D15d8}0u.\t.\u{D00d}}222222222222222222222222222222222222222222u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||t|.\1d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||t|.\0d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d8}0u.\u{D00d}}u{.uu.\u{D00}}0u.\u{D00d8}0u.\u{D00d}}u}}}0u.\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   }uu.\u{D01D}}u{.\u{D15d8}0u.}}0u.\u{D00d8}0u.\u{D00d}}u{.uu.\u{D00d}}umax_u  ) (func            i16x8.max_u                    i16x8.max_u                    f32.lt                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                   i16x8.max_u  ) (func            i17x8.max_u  ) (func           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             i16x8.max_u        i16x8.max_u  ) (func             return       i16x8.max_u  ) (func            i16x8.max_u                    i16x8.max_u                   i16x8.max_u  ) (func            i16x8.max_u  ) (func       return                  return                   i16x8.max_u  ) (func            i16x8.max_u  ) (func           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              re    i16x8.max_u  ) (func            i16x8.max_u        ||||||t||||||t|.\1d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.00d}}u{.uu.\u{D00}u{.u.\u{D00D}}u{.\u{D15d8}D00d}\u{BD00D}}u{.\u{D15d8}0u.\t.\u{D00d}}222222222222222222222222222222222222222222u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||t|.\1d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||t|.\0d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d8}0u.\u{D00d}}u{.uu.\u{D00}}0u.\u{D00d8}0u.\u{D00d}}u}}}0u.\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   }uu.\u{D01D}}u{.\u{D15d8}0u.}}0u.\u{D00d8}0u.\u{D00d}}u{.uu.\u{D00d}}u{.u.\u{D009}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u\t{D8_s   .hr_u||||||t||||||t|.\0d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d8}0u.\u{D00d}}u{.uu.\u{D00}u{.u.\u{D00D}}u{.\u{D15d8}D00d}\u{RD00D}}u{.\u{D15d8}0u.\t.\u{D00d}}222222222222222222222222222222222222222222u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.}0u.\t{D8_s   .hr_u||\u{D00d8}0u\t{D8_s   .hr_u||||||t||||||t|.\0d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d8}0u.\u{D00d}}u{.uu.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||t|.\1d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.00d}}u{.uu.\u{D00}u{.u.\u{D00D}}u{.\u{D15d8}D00d}\u{BD00D}}u{.\u{D15d8}0u.\t.\u{D00d}}222222222222222222222222222222222222222222u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||t|.\1d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   .hr_u||||||t||||||t|.\0d}}u{.}uu.\u{D00D}}u{.\u{D15d8}0u.}}0u.\u{D00d8}0u.\u{D00d}}u{.uu.\u{D00}}0u.\u{D00d8}0u.\u{D00d}}u}}}0u.\u{D00d8}0u.\u{D00d}}u{.u.\u{D00D}}u{.\u{D15d8}0u.\t{D8_s   }uu.\u{D01D}}u{.\u{D15d8}0u.}51615x       retur    

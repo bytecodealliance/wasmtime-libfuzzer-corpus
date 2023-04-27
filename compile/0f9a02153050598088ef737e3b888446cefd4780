@@ -1,1 +1,0 @@
-(func   i64x2.splat    i16x8.any_true i32.eq      i32.atomic.rmw16.sub_u i32.atomic.rmw16.sub_u   ) 

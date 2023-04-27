@@ -1,0 +1,9 @@
+(func 
+table.size
+3 
+f64x2.splat
+
+
+table.size
+
+table.size);;--????$z?%%

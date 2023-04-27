@@ -1,1 +1,0 @@
-(func i64.trunc_f32_s i8x16.gt_u)(func $^- i8x16.gt_u)(func $^-A|%eeer i8x16.gt_u)(func $^er i8x16.gt_u)(func $eer.or)

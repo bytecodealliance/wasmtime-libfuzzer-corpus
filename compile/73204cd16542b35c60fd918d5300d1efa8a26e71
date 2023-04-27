@@ -1,0 +1,10 @@
+(func $in_ui32x4.extadd_pairwise_i16x8_s;;$\nf       ;Y>>
+i32x4.extadd_pairwise_i16x8_s;;$\nf       ;000000002>>>>>>((@@!@!>>>>>Y>>
+i32x4.extadd_pairwise_i16x8_s;;>>>>>>>>>>>>>Y>>>Y>>
+i32x4.extadd_pairwise_i16x8_s;;$\nf       ;000000002>>>>>>((@@!@!>>>>>Y>>
+i32x4.extadd_pairwise_i16x8_s;;*$\nf       ;.2=trqc3i64.rem_u>>>>>>>>>>>>>>>>>>Y>>>Y>>
+i32x4.extadd_pairwise_i16x8_s;;$\nf       ;000000002>>>>>>((@@!@!>>>>>Y>>
+i32x4.extadd_pairwise_i16x8_s;;>>>>>>>>>>>>>Y>>>Y>>
+i32x4.extadd_pairwise_i16x8_s;;$\nf       ;000000002>>>>>>((@@!@!>>>>>Y>>
+i32x4.extadd_pairwise_i16x8_s;;*$\nf       ;.2=trqc3i64.rem_u
+);;-%

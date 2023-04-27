@@ -1,0 +1,5 @@
+(func $$@ff32x4.ceil;;;32;i't64_s2emr
+v128.load64_splat;;f_2;i't64_s2emr
+v128.load64_splat;;f_uvffffff3m22
+
+);;

@@ -1,0 +1,1 @@
+(func f32.div	has_avx512vb32.divs) 

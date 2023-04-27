@@ -1,1 +1,0 @@
-(func        f32.min      i8x16.min_s          f32.min     i32.atomic.load8_u         i32.atomic.load8_u           i32.atomic.load8_u         i32.atomic.load8_u            ) 

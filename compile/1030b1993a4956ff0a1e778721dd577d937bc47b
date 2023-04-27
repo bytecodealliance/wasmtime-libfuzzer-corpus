@@ -1,0 +1,1 @@
+(func  return     i64.gt_u    i32x4.abs   return      i64.gt_u   i32x4.abs   return      i32x4.abs   return      i64.gt_u  i32x4.abs  i64.gt_u          i32x4.abs   return       ) 

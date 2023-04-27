@@ -1,1 +1,0 @@
-(func   i16x8.shr_u             f32x4.splat        i64x2.shr_u          i64x2.shr_u             i64x2.shr_u          i64x2.shr_u   i64x2.shr_u        i64x2.shr_u          i64x2.shr_u          i64x2.shr_u       i64x2.shr_u  )(func) 

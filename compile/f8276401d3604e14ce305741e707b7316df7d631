@@ -1,7 +1,0 @@
-(func $x2.ne
-v16x8.load_splat;;%2-(fum;@@(t;;o
-
-
-f64x2.ne
-v16x8.load_splat
-)

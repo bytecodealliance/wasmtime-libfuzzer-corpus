@@ -1,0 +1,9 @@
+(func $'l$nest;;'$ 4
+i64x2.extend_low_i32x4_u
+
+
+if $'l$nest;;'$ 4
+i64x2.extend_low_i32x4_u
+
+
+);;-%

@@ -1,1 +1,0 @@
-(func   i32x4.load16x4_s i64.atomic.rmw8.or_u      i64.atomic.rmw8.or_u   return i32x4.load16x4_s i64.atomic.rmw8.or_u        memory.copy ) 

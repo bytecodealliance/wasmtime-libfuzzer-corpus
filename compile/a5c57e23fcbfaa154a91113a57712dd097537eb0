@@ -1,0 +1,1 @@
+(func   v128.load f64x2.relaxed_min   v128.load32x2_u ) 

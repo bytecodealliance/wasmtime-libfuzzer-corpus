@@ -1,1 +1,0 @@
-(func  return  i64.extend8_s   i64.extend8_s  return            return  i64.extend8_s   i64.extend8_s  return            f64.lt select  return      return    i64.extend8_s   i64.extend8_s  return            return       return  i64.extend8_s   i64.extend8_s return           return     f32.gt         )       

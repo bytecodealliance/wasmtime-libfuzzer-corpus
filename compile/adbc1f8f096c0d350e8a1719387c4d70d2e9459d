@@ -1,1 +1,0 @@
-(func i8x16.max_u f32x4.sub)  (func i8x16.max_u  i8x16.max_u)   

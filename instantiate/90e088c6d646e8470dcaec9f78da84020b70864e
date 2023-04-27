@@ -1,0 +1,8 @@
+uniform half4 testInputs;half4 colorGreen,colorRed;
+
+half4 main, 0ÿÿÿÿÿÿÿ
+    return (sign(testInputs.x)    == expected. x&&
+       lf4 colorGreen,colorRed;
+
+half4 main(float2 coords)onst half4 constVal == expected.xyzw) ? colorGreen : colorRed;
+}

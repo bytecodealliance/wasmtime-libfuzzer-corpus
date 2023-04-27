@@ -1,1 +1,0 @@
-(func i32.atomic.load i32.trunc_s/f32 i16x8.le_s)(func $atomic.load i32.trunc_s/f32 i16x8.le_s)(func $^'eeeeefunc )(func $atomic.load i32.trunc_s/f32 i16x8.le_s)(func $^ic.load i32.trunc_s/f32 i16x8.le_u)(func $eeee!eeeeeeeeeei32.atomic.load i32.trunc_s/f32 i16x8.le_s)(func $i328.le_s)(func $^a')

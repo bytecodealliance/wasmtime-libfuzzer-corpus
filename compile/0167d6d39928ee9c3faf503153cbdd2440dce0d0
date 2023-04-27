@@ -1,1 +1,0 @@
-(func    i32.load8_s      i32.load8_s i64.atomic.rmw.and    loop i64.atomic.rmw.and  i64.atomic.rmw.and      loop i64.atomic.rmw.and    i64.atomic.rmw.and       ) 

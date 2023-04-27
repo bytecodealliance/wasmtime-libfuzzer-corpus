@@ -1,0 +1,9 @@
+(func  unreachable
+
+i16x8.add
+i16x8.add
+
+
+i16x8.add
+i8x16.add
+) 

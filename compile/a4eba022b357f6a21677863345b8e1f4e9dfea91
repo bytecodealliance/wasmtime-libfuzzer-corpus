@@ -1,0 +1,1 @@
+(func  i32.extend8_s    i64.store32 i32.extend8_s      i32x4.relaxed_trunc_f64x2_u_zero) (func    i32.extend8_s) 

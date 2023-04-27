@@ -1,1 +1,0 @@
-(func        atomic.fence  ref.is_null      atomic.fence     atomic.fence  ref.is_null   atomic.fence     atomic.fence  ref.is_null    atomic.fence     atomic.fence  ref.is_null   atomic.fence ) 

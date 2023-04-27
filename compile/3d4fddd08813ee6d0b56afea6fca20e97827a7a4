@@ -1,0 +1,13 @@
+(func    f32x4.demote_f64x2_zero    i8x16.shl 
+
+
+
+
+
+
+
+i32x4.extadd_pairwise_i16x8_u   i8x16.shl 
+i32x4.extadd_pairwise_i16x8_u
+
+
+ ) 

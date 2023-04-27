@@ -1,0 +1,8 @@
+(func i64.gt_u 
+
+
+ i16x8.le_u 
+
+
+  i16x8.le_u i16x8.le_u 
+  i16x8.le_u) 

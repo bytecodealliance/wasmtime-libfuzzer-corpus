@@ -1,0 +1,3 @@
+(func  f32.trunc
+  f32.trunc  f32.trunc 
+) 

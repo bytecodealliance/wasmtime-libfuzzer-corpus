@@ -1,1 +1,0 @@
-(func       return       i32.and  return      return        return      f64x2.sqrt  return  i32.atomic.rmw.cmpxchg       return       f64x2.sqrt     i64.and   return  i32.atomic.rmw.cmpxchg       return    )

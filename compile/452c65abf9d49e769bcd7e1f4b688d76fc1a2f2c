@@ -1,0 +1,16 @@
+(func
+
+
+   i8x16.neg      
+
+
+
+
+
+i64.atomic.rmw.and
+
+
+i64.atomic.rmw.and
+
+
+  ) 

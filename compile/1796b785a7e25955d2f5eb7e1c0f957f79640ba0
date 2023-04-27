@@ -1,0 +1,7 @@
+(func
+memory.init
+$4>
+memory.init
+$1
+memory.init
+$2

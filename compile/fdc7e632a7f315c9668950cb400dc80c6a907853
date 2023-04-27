@@ -1,1 +1,0 @@
-(func i64.trunc_sat_f32_ui16x8.le_ui8x16.gt_u  i64.nei16x8.le_ui16x8.le_ui8x16.gt_u  i64.nei16x8.le_u   return i16x8.le_u   return i16x8.le_u   return  i16x8.le_u  i16x8.le_u   )      

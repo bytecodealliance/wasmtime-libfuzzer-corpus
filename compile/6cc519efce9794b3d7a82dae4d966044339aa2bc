@@ -1,1 +1,0 @@
-(func       f32.min  f32.min         f32.min       f64x2.gt   f64x2.gt  f64x2.gt  f64x2.gt    i32x4.ne            f64x2.gt   f64x2.gt      f64x2.gt    f64x2.gt  f64x2.gt  f64x2.gt      f64x2.gt  f64x2.gt  f64x2.gt    i32x4.ne                   f64x2.gt  f64x2.gt  f64x2.gt    i32x4.ne   f64x2.gt  f64x2.gt  f64x2.gt    i32x4.ne                 ) 

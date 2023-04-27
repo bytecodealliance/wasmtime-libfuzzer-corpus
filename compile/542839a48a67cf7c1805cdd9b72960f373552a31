@@ -1,1 +1,0 @@
-(func ref.is_null          ( i64.clz  i32.div_s   i64.clz   i64.clz  i32.div_s    i64.clz  i32.div_s    i64.clz  i32.div_s    i64.clz   i64.clz  i32.div_s    i64.clz  i32.div_s  i32.div_s  ( i64.clz  i32.div_s    i64.clz   i64.clz  i32.div_s    i64.clz  i32.div_s    i64.clz  i32.div_s    i64.clz   i64.clz  i32.div_s    i64.clz  i3        ) i32.div_s         ) 

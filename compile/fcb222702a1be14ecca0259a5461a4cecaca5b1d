@@ -1,0 +1,1 @@
+(elem  (        i32.atomic.rmw16.cmpxchg_u  f32x4.min     return       i32.atomic.rmw16.cmpxchg_u  f32x4.min   i32.atomic.rmw16.cmpxchg_u  (   i32.atomic.rmw16.cmpxchg_u  f32x4.min    )       )        ) 

@@ -1,0 +1,22 @@
+(func $'l$.lt_u
+memory.atomic.wait32
+
+
+
+;;%$'l$.lt_u
+memory.atomic.wait32
+
+
+
+;;%)(fun>>>(u
+memory.atomic.wait32
+
+
+
+;;%$'l$.lt_u
+memory.atomic.wait32
+t32
+
+
+
+;;%)(fun>>>(236

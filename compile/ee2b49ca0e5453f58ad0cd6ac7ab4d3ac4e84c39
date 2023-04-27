@@ -1,1 +1,0 @@
-(func            f32.nearest           i32x4.min_s      return   return     return   ) (func      return i32x4.min_s    return                      i32x4.min_s   return  return   ) (func      return                 i32x4.min_s      i32x4.min_s           ) ;; return      

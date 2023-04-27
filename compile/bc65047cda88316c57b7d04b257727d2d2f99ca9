@@ -1,0 +1,5 @@
+(func   i16x8.sub
+i64.le_s
+
+i16x8.sub
+i64.le_s) 

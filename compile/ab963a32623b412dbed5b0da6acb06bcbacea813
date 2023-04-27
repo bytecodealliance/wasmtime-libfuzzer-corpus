@@ -1,0 +1,1 @@
+(func   i64.and   return  i32.atomic.rmw.cmpxchg      777777777777777777777777777777777777 return    )

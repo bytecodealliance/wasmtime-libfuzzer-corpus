@@ -1,0 +1,1 @@
+(elem (i32x4.extmul_high_i16x8_s)anyref)(elem anyref)(elem anyref)

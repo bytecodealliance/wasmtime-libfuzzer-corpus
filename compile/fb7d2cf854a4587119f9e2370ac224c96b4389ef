@@ -1,1 +1,0 @@
-(func f32.const 700.300000251 i64.trunc_s:sat/f32 f32.const 00502 f64.const 000000000000000000 i64.trunc_f64_u f64.const 00000000000002 f64.const 00000 i64.trunc_f64_u f64.const 0000000000000000 i64.trunc_f64_u f64.const 000003000000   return         ) ;;unc  $  f-15.00000000000000  f-15.%

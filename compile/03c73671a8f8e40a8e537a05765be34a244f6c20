@@ -1,1 +1,0 @@
-(func      i64.popcnt      )(func  )(func      i32x4.load16x4_u     )(func             i32x4.load16x4_u    )(func       i32x4.load16x4_u   i32.gt_u  )(func             i32x4.load16x4_u     )(func   i32.rotl   ) ;;un      )(func 64.popcnunc        

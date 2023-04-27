@@ -1,1 +1,0 @@
-(func  $^'lm%i16afunc'lm%i16atomic.wait i8x16.gt_u)(func $^'lm%i16~.wait i8x16.gt_u)(func $^lm%i16atomit i8x16.gt_u)(func $^'lm%i16~.wait i8x16.gt_u)(func $^'lmtomic.wait i8x16.gt_u)(func $^'lm%i16~.wait i8x16.gt_u)(func $^'lm%i16atomic.wait i8x16.gt_u)(func $^'lic.wait i8x16.gt_u)(func $?%?a')

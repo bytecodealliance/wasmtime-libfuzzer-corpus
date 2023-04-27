@@ -1,0 +1,1 @@
+(func        f64x2.abs   f32x4.ge   f32x4.ge   f32x4.ge   f32x4.ge       if     f32x4.ge   f32x4.ge     f32x4.ge   f32x4.ge f32x4.ge   f32x4.ge        f32x4.ge   f32x4.ge       if     f32x4.ge   f32x4.ge     f32x4.ge   f32x4.ge   ) 

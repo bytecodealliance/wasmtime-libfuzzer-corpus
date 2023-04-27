@@ -1,1 +1,0 @@
-(func        i64.rotr      f64.store          ) (func      i64.rotr      )  (func      i64.rotr      f64.store                    ) (func      i64.rotr      f64.store                   ) (func      i64.rotr      f64.store          ) (func      i64.rotr      )  (func      i64.rotr      f64.store                    ) (func      i64.rotr      f64.store          ) ;; r  

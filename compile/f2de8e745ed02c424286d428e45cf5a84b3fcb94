@@ -1,0 +1,1 @@
+(func f32.const 1     i32x4.relaxed_trunc_f64x2_s_zero f32x4.convert_i32x4_s) ;;nuc   qub 2

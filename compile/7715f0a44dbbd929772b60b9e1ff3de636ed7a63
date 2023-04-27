@@ -1,1 +1,0 @@
-(func     f32.ge              i8x16.replace_lane     1    return i8x16.replace_lane     0   )      

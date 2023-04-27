@@ -1,1 +1,0 @@
-(func           return        i16x8.narrow_i32x4_s                         return        i16x8.narrow_i32x4_s   f32.demote_f64     f64x2.min            return        i16x8.narrow_i32x4_s                                ) 

@@ -1,7 +1,0 @@
-(func i16x8.max_u
-
-
-nop
-i16x8.max_u
-
- ) 

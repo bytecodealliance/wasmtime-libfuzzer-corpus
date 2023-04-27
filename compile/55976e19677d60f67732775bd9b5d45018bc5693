@@ -1,7 +1,0 @@
-
-(func
-
-
-
- i32.and f64x2.ne
-  f64x2.ne)

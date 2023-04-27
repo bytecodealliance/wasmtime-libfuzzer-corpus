@@ -1,0 +1,1 @@
+(func i16x8.extmul_high_i8x16_s   i32.atomic.rmw8.cmpxchg_u   i32.atomic.rmw8.cmpxchg_u  i32.wrap_i64) 

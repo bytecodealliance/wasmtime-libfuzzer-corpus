@@ -1,0 +1,1 @@
+(func           i32x4.splat   i32x4.splat             i32x4.splat      i64.atomic.rmw16.xchg_u    )       

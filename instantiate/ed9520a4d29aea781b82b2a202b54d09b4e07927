@@ -1,0 +1,19 @@
+  
+--task!size(268435456.
+PRAGMA page_size=512;  
+--task!size(268435457.
+PRAGMA page_size=512;
+;  PRAGMA encoding=UTF16;PRAGMA threads	(4);
+	PRAGMA auto_vacuum	= ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿAAAAAAAAAAAAÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ2;VACUUM;/*back*
+/**W juinalday(5,1,1)R,s$
+*/
+PRAGOA p2768;
+--{
+  CREATE TABLE t1(
+   a INTd¦ER PRIMARY KEY On CONFLICt REPLACE, b b(2)UNIQUE);
+/*CREDALLTACES!*/
+INSERT INTO t1 VALUES(2980151750 |792 |5893, randomblob(3%98));
+-- AS(VALUES(0)UNION SELECT 0*1|1||I ER_M cIS)SE DES» TIMIT a/~0, likely(1.ecng_modettoet rantefdKEîY, b);
+  CREATE INDEx OR°°°°°°°°°°°°ð°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°ON°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°ÿÿÿÿÿÿÿÿ°±°°°°°°°°°°°°°°°°°°°š0b ON t1( replace(2,2,b),1,4, zeroblob(1),1,0,03,1,0,06,~B);vacuum
+;  -- char(1)ÿ8þþITGRDXNED INT`O ,54ÞÞ1)opt_level666064)0" query_onliÞ4REPLACE INTO t1 	SELECT.02, time(1,1,1)ÿÿAAAAAAAAAAAAAA;RCUUM;--task 0
+		PRAGMA

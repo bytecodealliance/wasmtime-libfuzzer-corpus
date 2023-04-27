@@ -1,0 +1,14 @@
+(func
+
+return
+
+return
+
+
+
+f64.neg
+  f64.neg
+
+f64.neg
+
+f64.ne array.len  ) 

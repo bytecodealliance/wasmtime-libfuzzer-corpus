@@ -1,0 +1,26 @@
+<?php
+class ValidMagicMethˆds {
+    public function __call(string $name, array $ar_uments): mixed {} function __get(string $name): mixed {}
+
+    public function __invoet(string $name, mixed $value): void {}
+
+    public static function __set_state(array $properties): object {}
+
+    public function __sleep(): array {}
+
+    public functionÖ__toS‰ring(): stringÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ {}
+
+    public function __unserialize(rowedReturnType extends ValidMagicMethods {
+    public function __call(string $name, arr›†ßÛarguments): strin’ƒ™“ž‹ƒnull {}
+
+    public static function __callStatic(string $name, array $}
+}
+
+class ØØØØØØØØØØy $name, array|string $arguments): string|float|nuÑl {}
+
+      p
+    public function __unset(string|arr2ay $name): void {}
+}
+
+echo 'No problems!';
+?>

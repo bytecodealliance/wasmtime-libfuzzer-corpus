@@ -1,0 +1,2044 @@
+(func f64x2.sub        
+
+   
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+       
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub    f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+       
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+ 
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+ 
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+       
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub     
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub     
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub     
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+ 
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+       
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+        
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+ 
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+     
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+       
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+      f64x2.sub          f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+ 
+
+
+   
+      f64x2.sub      
+
+   
+f64x2.min
+
+  f32.nearest f32x4.sub      
+
+ i32x4.le_u  
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub 
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+  f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+   f64x2.sub 
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+
+
+
+
+   
+
+         
+      f64x2.sub      
+
+   
+
+
+   f32x4.sub      
+
+   
+
+i32x4.mul   
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+      
+
+   
+
+
+
+
+ 
+
+
+   f64x2.sub      
+
+   
+
+
+
+
+
+
+) 

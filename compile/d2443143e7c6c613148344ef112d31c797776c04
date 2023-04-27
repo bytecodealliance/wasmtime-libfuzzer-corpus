@@ -1,0 +1,103 @@
+(func $'@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%%JJJJJJJJJx8_s
+
+
+
+;;%%JJJJJJJJJJJJJJJ
+
+
+;;;% $%l$i32.eq_u
+
+
+
+;;%%%%%%(;{1;%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%%JJJJJJJi16x8_s
+
+
+
+;;%%JJJJ
+
+
+;;;% $%l$i32.eq_u
+
+
+
+;;%%%c %%%%%%(;;=;%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%%JJJJJJJJJJJJ $'%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%%JJJJJJJ$%l$i32.eq_u
+
+
+
+;;%%%c %%%%%%(;;=;%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%JJJJJ $'%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%%JJJJJ
+
+;;%%%c %%%%%%(;;=;%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%JJJJJ $'%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%%JJJJJJJJJx32.eq_u
+
+
+
+;;%%%c %%%%%%(;;=;%%@`@
+
+i32x4.widen_high_i16x8_s
+
+
+
+;;%%JJJJJJJJJJJJJ
+
+
+;;;% $%l%%@`@
+
+i32.gt_u
+
+
+;;;% $%l$i32.ex8_s
+;;%%JJJJJJJJJJJJJJJ
+
+
+
+
+
+
+);;-%

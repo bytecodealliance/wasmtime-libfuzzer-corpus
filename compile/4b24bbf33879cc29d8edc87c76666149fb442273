@@ -1,0 +1,1 @@
+(func i64.atomic.load i16x8.gt_s i64.atomic.load i16x8.gt_s)(func $^'mic.loa( i16x8.gt_s  $^'lmd

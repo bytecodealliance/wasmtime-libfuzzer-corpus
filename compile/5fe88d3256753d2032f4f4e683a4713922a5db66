@@ -1,1 +1,0 @@
-(func       i32x4.splat     i32x4.shr_u      i64.atomic.rmw8.or_u    )    

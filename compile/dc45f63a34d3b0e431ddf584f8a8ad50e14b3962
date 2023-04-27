@@ -1,0 +1,4 @@
+(func    
+
+
+i32.atomic.rmw.xchg i32.atomic.rmw.xchg ) 

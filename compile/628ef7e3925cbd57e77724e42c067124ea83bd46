@@ -1,0 +1,17 @@
+(func           return        i16x8.narrow_i32x4_s
+
+i32x4.min_s
+nop
+
+
+
+nop
+
+
+
+
+i32x4.min_s
+nop
+
+
+  ) 

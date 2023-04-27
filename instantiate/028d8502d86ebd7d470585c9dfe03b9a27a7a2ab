@@ -1,0 +1,24 @@
+half4 main(float2 xy) {
+    int i;    return half4(1);
+//î@ÆÆÆÆÆÆÆÆÆÆÆÆÆ//îîî=0; perThaÆÆ38Æ9ÆÆÆÆ     ++
+
+;i;    return half4(1);
+//îîîÆÆÆ   ++
+
+;i;    return half4(1)[
+//îîîÆÆÆÆ3Æ*ÆÆÆÆÆÆÆÆÆÆÆîÆ 1  ++
+
+;i ;   return half4(1);
+;i;    returné half4(1);
+//îîîÆÆÆÆÆÆÆ//    ++
+
+;i ;   return half4(1);
+   return half4(1);
+//îîîÆÆÆÆ3ÆÆÆÆÆÆÆÆÆÆÆÆ isinf(îÆ 1  ++
+
+;i ;   return half4(1);
+//ÆÆÆÆÏÆÆÆÆÆÆÆÆÆÆÆÆc<10;Æ3ÆÆ98ÎÆÆ     ++
+
+;i;    return half4(1);
+//îîîÆÆÆlf4(1);
+}

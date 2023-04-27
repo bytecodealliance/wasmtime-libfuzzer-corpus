@@ -1,6 +1,0 @@
-(func $_u
-v128.not
-
-i32.reinterpret/f32
-
-);;-%

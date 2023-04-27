@@ -1,0 +1,15 @@
+(func
+
+f32x4.ne
+
+
+
+f32.lt
+f32x4.ne
+f32x4.ne
+
+
+
+
+f32x4.ne
+ ) 

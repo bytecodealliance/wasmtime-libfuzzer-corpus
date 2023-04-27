@@ -1,0 +1,27 @@
+(func i32.extend8_s
+
+i32x4.shl
+
+
+
+
+
+
+
+i16x8.extmul_low_i8x16_u
+i32.shl
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ ) 

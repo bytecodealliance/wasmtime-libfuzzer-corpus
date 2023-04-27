@@ -1,1 +1,0 @@
-(func    f64.ne  i32x4.shl f64.ne  i64.atomic.store    f64.ne   i64.atomic.store i64.atomic.store   i64.atomic.store  )      

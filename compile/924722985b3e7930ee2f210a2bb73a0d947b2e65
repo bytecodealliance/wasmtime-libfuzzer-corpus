@@ -1,1 +1,0 @@
-(func    return  i64.atomic.rmw.xchg i64.atomic.rmw.xchg i64.atomic.rmw.xchg     i64.atomic.rmw.xchg     i64.atomic.load32_u        f32.gt)       

@@ -1,9 +1,0 @@
-(func $2l
-;;;f
-f64x2.sqrt
-i32.lt_s
-i64.atomic.rmw.cmpxchg;;%)
-i64.atomic.rmw.cmpxchg;;)(f%%.l
-
-
-);;-%

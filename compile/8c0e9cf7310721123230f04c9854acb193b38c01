@@ -1,0 +1,1 @@
+(func     i64.clz(    elem.drop 2            elem.drop 5 ) i32.trunc_f32_u    ) 

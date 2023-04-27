@@ -1,1 +1,0 @@
-(func                    f64.min      i16x8.sub_saturate_u              f64.min       ) (func                   f64.min      i16x8.sub_saturate_u              f64.min       ) (func       f64.min                             f64.min        ) (func           f64.min block       f64.min block                     i32.trunc_u/f32        ) 

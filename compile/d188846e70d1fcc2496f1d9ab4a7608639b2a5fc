@@ -1,0 +1,1 @@
+(func      i16x8.all_true v128.load32_zero  i8x16.add_sat_u  i16x8.all_true    ) 

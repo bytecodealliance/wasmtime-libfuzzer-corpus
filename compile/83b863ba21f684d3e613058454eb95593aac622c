@@ -1,1 +1,0 @@
-(func  memory.copy     f32.ne     i32x4.splat i32x4.splat   i32x4.splat   i32x4.splat     ) 

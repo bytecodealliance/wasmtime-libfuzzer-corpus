@@ -1,1 +1,0 @@
-(func $%%?      i64.atomic.rmw32.xor_u)(func $\&  i64.atomic.rmw32.xor_u)(func $\&              i64.atomic.rmw32.xor_u)(func     i64.atomic.rmw32.xor_u)(func $\&'l$l&$\-\'lm')

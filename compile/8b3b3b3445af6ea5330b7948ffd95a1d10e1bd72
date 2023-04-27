@@ -1,1 +1,0 @@
-(func  i32x4.splat f64.neg    i32x4.eq i32x4.eq )  

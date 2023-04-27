@@ -1,0 +1,12 @@
+(func
+
+
+
+
+i16x8.all_true
+f64.trunc
+
+
+i16x8.all_true
+f64.trunc
+ ) 

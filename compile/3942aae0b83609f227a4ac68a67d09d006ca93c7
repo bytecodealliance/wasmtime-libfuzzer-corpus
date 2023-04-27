@@ -1,1 +1,0 @@
-(func     i64.mul   i32.mul                       )    (func         i64.mul                     i64.mul   i32.mul       i64.mul      )    

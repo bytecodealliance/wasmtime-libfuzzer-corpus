@@ -1,0 +1,6 @@
+(table 1 anyfunc
+
+i64.atomic.rmw32.and_u
+
+)(func  u
+ab

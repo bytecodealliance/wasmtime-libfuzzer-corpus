@@ -1,0 +1,8 @@
+(func $$@ff32x4n_u_i't64_s2emr
+v128.load32_splat;;f_uv128.consncmin_u_i't64_s2emr
+v128.load32_splat;;fx_u_i't64_s2emr
+v128.load32_splat;;f_un_u;;%
+try;;fx_u_i't64_s2emr
+v128.load32_splat;;f_uv128.consnc;%22
+
+);;

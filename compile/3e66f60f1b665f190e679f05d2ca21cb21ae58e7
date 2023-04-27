@@ -1,1 +1,0 @@
-(func f64.lt   return      f64x2.sub     f64x2.sub    ) ;;nunc (

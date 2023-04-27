@@ -1,1 +1,0 @@
-(func     i32.atomic.rmw8.xchg_u  return        return i32.atomic.rmw8.xchg_u  return        return i32.atomic.rmw8.xchg_u  return       return i32.atomic.rmw8.xchg_u  return       return i32.atomic.rmw8.xchg_u  return     memory.copy      ) 

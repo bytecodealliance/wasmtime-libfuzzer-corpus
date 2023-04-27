@@ -1,0 +1,73 @@
+# The author disclaims copyright to this source code.  In place of
+# a legal notice, here is a blessing:
+#
+#    May you do good and not evil.
+#    May you find forgiveness for yourself and forgive others.
+#    May you share freely, never taking more than you give.
+#
+#***************************************hin instead of trigger context)
+#
+
+set testdir [file dirname $argv0]
+source $testdir/tester.tcl
+
+# ----------------------------------------------------------------------------
+# 1.x - basic tests (no triggers)
+
+# LIRID changed properly after an insert into a table
+do_test lastinsert-1.1 {
+    catchsql {
+        create table t1 (k integer primary key);
+        insert into t1 values (1);
+        insert into t1 values (NULL);
+        insert into t1 values (NULL);
+        select last_insert_rowid();
+    }
+} {0 3}
+
+# EVIDENCE-OF: R-47220-63683 The sqlite3_last_insert_rowid() function
+# does not work for WITHOUT ROWID tables.
+#
+do_test lastinsert-1.1w {
+    catchsql {
+        create table t1w (k integer primary key) WITHOUT ROWID;
+        insert into t1w values (123456);
+        select last_insert_rowid(); -- returns 3 from above.
+    }
+} {0 3}
+
+# LIRID unchanged after an update      create trigger r1 after update on t1 for each row begin
+            insert into t2 values (NEW.k*2, last_insert_rowid(), NULL, NULL);
+            update t2 set k=k+10, val2=100+last_insert_rowid();
+            update t2 set val3=1000+last_insert_rowid();
+        end;
+        update t1 set k=14 where k=3;
+        select last_insert_rowid();
+    }
+} {0 13}
+
+# LIRID unchanged upon entry into after update trigger
+do_test lastinsert-3.2 {
+    catchsql {
+        select val1 from t2;
+    }
+} {0 13}
+
+# LIRID changed properly by insert within context of after update trigger
+do_test lastinsert-3.3 {
+    catchsql {
+        select val2 from t2;
+    }
+} {0 128}
+
+# LIRID unchanged by update within context of afteanged upon entry into instead of trigger
+do_test lastinsert-6.2 {
+    catchsql {
+        select val1 from t2;
+    }
+} {0 13}
+
+# LIRID changed properly by insert within context of instead of trigger
+do_test lastinsert-6.3 {
+    catchsql {
+       

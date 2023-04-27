@@ -1,0 +1,8 @@
+(func $$.extend_low_i8x16_u
+
+f64x2.lt;;;%nc f_u
+
+f64x2.lt;;;%nc ;;>>
+f64x2.lt;;;%nc ;;>>>>>>ffffff32'l$@tn
+
+i32x4.extmul_high_i16x8_u);;-%?lg_%}

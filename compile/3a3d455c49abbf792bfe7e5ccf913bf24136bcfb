@@ -1,0 +1,1 @@
+(elem  (   return_call_indirect  )     )(elem  (   return_call_indirect i32x4.extadd_pairwise_i16x8_u )     )(elem  (   return_call_indirect  )     )

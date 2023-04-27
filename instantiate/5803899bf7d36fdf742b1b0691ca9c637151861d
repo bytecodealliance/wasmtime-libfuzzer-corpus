@@ -1,0 +1,8 @@
+cap_even,s {
+  gpu_queue_submission {
+    meta_(info {
+      pre_submission_cp
+capture_events {
+  gpu_job {
+  }
+}

@@ -1,1 +1,0 @@
-(func $%op(loop)) (func (loop)(loop)) (func $%op(loop)(loop)) 

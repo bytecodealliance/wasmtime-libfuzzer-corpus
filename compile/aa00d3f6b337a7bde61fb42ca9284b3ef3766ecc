@@ -1,0 +1,16 @@
+(func $%u
+struct.set
+0
+0;;in;;au
+struct.set
+0
+0;;iomieunc $%u
+struct.set
+1
+0
+f64x2.min;;2f64x2.min;;nc $%u
+struct.set
+0
+0;;in;c $%c
+
+);;

@@ -1,1 +1,0 @@
-(func f32.const 700001 i64.trunc_f32_u f64.const 00000024532593 f32.const 000003710000 i64.trunc_f32_u f64.const 00  return         ) 

@@ -1,1 +1,0 @@
-(func      return          i32x4.max_u                 f64.nearest   i32x4.max_u   i64.le_s               i32x4.neg return     f64.nearest   i32x4.max_u     return )       

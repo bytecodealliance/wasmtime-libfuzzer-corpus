@@ -1,1 +1,0 @@
-(func i16x8.gt_u      f32.lt f32.lt      f32.lt f32.lt      f32.lt      ) ;; ref    

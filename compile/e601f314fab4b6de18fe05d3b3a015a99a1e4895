@@ -1,1 +1,0 @@
-(func       return  f32.demote_f64                        return                f32.le      i64.atomic.rmw.cmpxchg    i64.atomic.rmw.cmpxchg                   f32.le      i64.atomic.rmw.cmpxchg       f32.le      i64.atomic.rmw.cmpxchg           return         ) ;;unc      

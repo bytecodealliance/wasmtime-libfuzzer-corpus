@@ -1,1 +1,0 @@
-(func       return                  return     return    f64.ne            i64.atomic.rmw32.cmpxchg_u                                      i64.atomic.rmw32.cmpxchg_u                              i64.atomic.rmw32.cmpxchg_u           memory.copy      ) 

@@ -1,0 +1,17 @@
+capture_events {
+  interned_string {
+  }
+}
+capture_events {
+  gpu_job {
+  }
+}
+capture_events {
+  gpu_job {
+    amdgpu_cs_ioctl_time_ns: 255
+  }
+}
+capture_events {
+  gpu_vueue_subegin_markers: 1
+  }
+}

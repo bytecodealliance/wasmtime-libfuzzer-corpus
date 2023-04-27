@@ -1,0 +1,1 @@
+(func   f32x4.relaxed_madd       i64.atomic.rmw16.add_u   i64.atomic.rmw32.add_u    )    

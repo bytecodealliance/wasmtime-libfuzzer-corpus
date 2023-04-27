@@ -1,0 +1,12 @@
+(elem  (   i16x8.gt_s   
+
+i32.atomic.rmw16.or_u
+
+
+
+
+
+
+i32.atomic.rmw16.or_u
+
+   i16x8.gt_s  ) ) 

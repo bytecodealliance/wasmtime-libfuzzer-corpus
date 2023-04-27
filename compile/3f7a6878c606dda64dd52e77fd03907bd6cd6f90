@@ -1,0 +1,5 @@
+(func
+
+local.set
+ $u
+local.set

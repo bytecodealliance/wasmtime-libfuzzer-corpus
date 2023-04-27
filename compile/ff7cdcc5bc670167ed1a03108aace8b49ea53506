@@ -1,1 +1,0 @@
-(func f64.sqrt  i16x8.narrow_i32x4_sf64.sqrt  i16x8.narrow_i32x4_s f64.sqrt f64.sqrt) 

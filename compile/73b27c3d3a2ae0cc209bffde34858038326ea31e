@@ -1,1 +1,0 @@
-(func $%'%%\Jlm'            i32.atomic.rmw.cmpxchg)(func   i32.atomic.rmw.cmpxchg)(func $%e?%%%%?lm      i32.atomic.rmw.cmpxchg)(func $&%n%'%\'lm')

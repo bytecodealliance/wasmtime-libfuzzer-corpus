@@ -1,9 +1,0 @@
-(func   i64.popcnt
-i64.xor
-
-i64.extend32_s
-  i64.popcnt
-i64.xor
-
-
-i64.extend32_s  ) 

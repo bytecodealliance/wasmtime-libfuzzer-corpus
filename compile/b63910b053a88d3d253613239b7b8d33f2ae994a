@@ -1,8 +1,0 @@
-(func  i8x16.neg f64.add
-
-
-i8x16.neg f64.add
-f64.add
-
-
-) 

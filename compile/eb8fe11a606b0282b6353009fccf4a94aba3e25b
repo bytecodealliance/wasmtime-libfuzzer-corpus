@@ -1,0 +1,1 @@
+(func $k  f64x2.max i32.store f64x2.max f32.min) 

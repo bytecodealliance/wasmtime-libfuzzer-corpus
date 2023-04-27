@@ -1,0 +1,36 @@
+ CREATE TABLE t1(aÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ ÑÑÑÑÑÑÑÑÑÑELECT idx, flgsÑÑÑÑÑÑÑÑÑ
+ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑVALUESÑ,ÑUÑÑÑÑ,üÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ 'a''b'ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑE  REGERENCES tUSINGERRABLE , b‘ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÓÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÒÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİİÔÔÔÔÔÔÔÔÔÔÔÔÔÔXb as(6) ,
+ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑb as(4) ,ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÑÑÑÑÑÑÑÑÑÑÑÑÑÑELSEÑÑÑÑÑÑ9NSERTQUEIUNNÑÑÑÑÑ --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| random()|'ÆÇ01137yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy'; 
+   
+--matlh  EEEEEEEEE; 
+   
+--maTÿÿÿÿÿÿÿ 6;
+  --[Ÿch 2A00.0
+  --s$&pleeÿ
+  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ01137y'; 
+   
+--matlh  EEEEEEEEEEøøøøø2
+  UPDATE t1 SET b='x'||a||'y';
+  SELECT sum(length(b)) FROM t1;
+  Ñ-0xpTRee|'IGGElCO t1 O a='0'||a| randomÔXb as(4) ,
+ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑb as(4) ,ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÑÑÑÑÑÑÑÑÑÑÑÑÑÑELSy';
+  SELECT sum(length(b)) FROM t1;
+  --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| random()|'ÆÇ01137yyyyyenable_veyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy'; 
+   
+--matlh  EEEEEEEEE; 
+   
+--maTÿÿÿÿÿÿÿ 6;
+  --[Ÿch 2A00.0
+  --s$&pleeÿ
+  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ01137y'; 
+   
+--matlh  EEEEEEEEEEøøøøø2
+  UPDATE t1 SET b='x'||a||'y';
+  SELECT sum(length(b)) FROM t1;
+  Ñ-0xpTRee|'IGGElCO t1 O a='0'||a| random()|a| random()|'ÆÇ01137y'; 
+   
+--matlh  EEEEEEEEE; 
+   
+--maT 6;
+  --[Ÿch 2A00  EEEEEEEEEEøøøøø2
+  UPDATE

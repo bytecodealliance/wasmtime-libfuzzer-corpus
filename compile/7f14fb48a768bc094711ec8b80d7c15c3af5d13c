@@ -1,0 +1,16 @@
+(func $m_elsecrnuf_sif;;nm_w
+
+
+table.grow
+3;;%uuuuuu
+
+v128.store8_lane
+3;;%inuf_sif;;nm_w
+
+
+table.grow
+3;;%uuuuuu
+
+v128.store8_lane
+3;;%i;) 
+  return     )

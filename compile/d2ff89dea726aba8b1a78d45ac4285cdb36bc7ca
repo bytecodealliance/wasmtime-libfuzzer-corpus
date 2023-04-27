@@ -1,0 +1,16 @@
+(func 
+
+f64x2.extract_lane
+
+
+
+6
+ 
+i64.and
+
+f64x2.extract_lane
+
+
+
+6
+  ) 

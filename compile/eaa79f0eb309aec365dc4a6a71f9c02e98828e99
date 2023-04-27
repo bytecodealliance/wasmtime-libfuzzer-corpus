@@ -1,1 +1,0 @@
-(func        i64x2.shr_u  i64x2.shr_u                return i64x2.shr_u    i32.ge_s     ) ;;     

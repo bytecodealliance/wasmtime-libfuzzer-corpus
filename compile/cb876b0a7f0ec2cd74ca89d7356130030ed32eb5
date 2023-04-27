@@ -1,0 +1,1 @@
+(func      i16x8.all_true v128.load32_zero  i16x8.all_true     i16x8.all_true     i16x8.all_true v128.load32_zero  i16x8.all_true     i16x8.all_true i32.le_u       i32.le_u             return        i16x8.all_true              ) 

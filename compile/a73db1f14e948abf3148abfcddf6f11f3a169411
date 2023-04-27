@@ -1,0 +1,1 @@
+(func  f32.mini64x2.shr_s f32.min i64x2.shr_s) 

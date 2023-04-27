@@ -1,7 +1,0 @@
-(func i64.extend_s/i32;;@
-
-f32x4.replace_lane
-
-2
-
-);;-%

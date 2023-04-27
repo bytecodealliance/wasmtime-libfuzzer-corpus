@@ -1,8 +1,0 @@
-(func $m;;;$\m$(
-i64.atomic.store8;;(func $m;;;$\m$(
-i64.atomic.store8;;$\e2x4
-)(func $m;;;$(
-i64.atomic.store8;;$\e4
-)(func $m;;;$\$(
-i64.atomic.store8;;$\ei42x4
-);;;%

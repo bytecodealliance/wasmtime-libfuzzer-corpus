@@ -1,1 +1,0 @@
-(func   f32.abs  f32x4.abs    i64.trunc_sat_f64_s          ) 

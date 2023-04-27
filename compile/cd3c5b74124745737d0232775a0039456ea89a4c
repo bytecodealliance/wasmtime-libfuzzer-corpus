@@ -1,0 +1,3 @@
+(func ;;f8;;r
+v128.load64_splat;;f_uv128.4_s2emr
+v128.load64_splat;;f_%

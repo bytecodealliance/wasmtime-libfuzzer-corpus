@@ -1,0 +1,3 @@
+(func
+i32.ctz;;n
+i32.ctz)

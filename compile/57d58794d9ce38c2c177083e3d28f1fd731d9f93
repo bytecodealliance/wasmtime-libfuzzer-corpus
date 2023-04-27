@@ -1,0 +1,6 @@
+(func
+i32.atomic.rmw.and
+
+
+i32x4.ne
+i32.atomic.rmw.add) 

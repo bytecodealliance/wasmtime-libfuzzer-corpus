@@ -1,0 +1,21 @@
+(func 
+
+i8x16.sub
+i16x8.max_s
+table.size
+
+ 
+i8x16.sub
+i16x8.max_s
+table.size
+
+ 
+i8x16.sub
+i16x8.max_s
+table.size
+
+ 
+i8x16.sub
+i16x8.max_s
+table.size
+ )

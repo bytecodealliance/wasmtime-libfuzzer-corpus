@@ -1,1 +1,0 @@
-(func)(func $e%%\'$\anc i64.shr_s)(func $\'e i64.shr_s)(func $e%%\'nc i64.shr_s)(func $\'e%%c i64.shr_s)

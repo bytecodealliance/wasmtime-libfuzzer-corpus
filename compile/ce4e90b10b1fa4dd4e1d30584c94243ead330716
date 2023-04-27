@@ -1,1 +1,0 @@
-(elem  (   return  i32x4.min_s          return  drop return i64.trunc_u/f32      return drop     )     ) 

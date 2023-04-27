@@ -1,1 +1,0 @@
-(func i32.mul i64x2.load32x2_s     i32.mul i64x2.load32x2_s   )   

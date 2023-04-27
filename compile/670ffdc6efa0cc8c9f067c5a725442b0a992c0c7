@@ -1,4 +1,0 @@
-(func $'
-i64.atomic.rmw.add;;@@;;'l-e
-i64.atomic.rmw.add;;m$
-);;$^"

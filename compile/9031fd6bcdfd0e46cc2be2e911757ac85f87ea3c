@@ -1,0 +1,16 @@
+(func $'l$.lt_u
+memory.atomic.wait32
+
+
+
+;;%$'l$.lt_u
+memory.atomic.wait32
+
+
+
+;;%)(fun>>>(
+memory.atomic.wait32
+
+
+
+;;%)(f36

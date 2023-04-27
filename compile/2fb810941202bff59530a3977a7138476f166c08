@@ -1,0 +1,8 @@
+(func
+
+i64.reinterpret/f64;;@@@@2(@0@
+
+v128.load32_lane
+0
+
+ ) 

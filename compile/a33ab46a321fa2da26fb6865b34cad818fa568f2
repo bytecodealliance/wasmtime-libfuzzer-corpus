@@ -1,1 +1,0 @@
-(func            return   return               i8x16.add            i64.atomic.rmw16.add_u          i64.atomic.rmw16.add_u       i64.atomic.rmw16.add_u       i8x16.add            i64.atomic.rmw16.add_u          i64.atomic.rmw16.add_u       i64.atomic.rmw16.add_u             i64.atomic.rmw16.add_u          i64.atomic.rmw16.add_u             i64.atomic.rmw16.add_u    )    

@@ -1,0 +1,27 @@
+(func     
+
+i64x2.ne
+i32x4.lt_s     
+
+
+i32x4.lt_s      
+
+
+i32x4.lt_s     
+
+
+i32x4.lt_s          i32x4.lt_s          
+
+i32x4.lt_s          i32x4.lt_s          f64x2.neg     
+
+i64x2.ne
+i32x4.lt_s     
+
+
+i32x4.lt_s      
+
+
+i32x4.lt_s     
+
+
+i32x4.lt_s          i32x4.lt_s          )

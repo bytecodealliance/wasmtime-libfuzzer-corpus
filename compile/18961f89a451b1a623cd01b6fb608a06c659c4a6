@@ -1,0 +1,1 @@
+(func return  (v128.load32x2_s  (v128.load32x2_s  return i32.xor  return  (v128.load32x2_s (v128.load32x2_s  

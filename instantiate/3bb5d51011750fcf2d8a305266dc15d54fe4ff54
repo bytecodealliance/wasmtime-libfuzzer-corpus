@@ -1,0 +1,16 @@
+uniform half4 colorWhite;
+
+half4 main(float2 coords) { half4 x = colorWhite;
+
+  for (half b = 2; b>=  1; b -= 1) {    if (x.a == 1) continue;   int i;
+//  €2оооо€€€€€€€€€€€€€(p.
+    ftor (half b =41; b >= 0; b -= 2) {
+b;
+   <=  -++i-  i
+ *i;
+
+  
+} }
+
+ retu;
+}

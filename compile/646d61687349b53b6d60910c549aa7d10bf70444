@@ -1,0 +1,53 @@
+(func  
+
+
+
+
+    table.get
+0
+
+
+
+
+
+
+
+
+
+
+
+
+ table.get
+5
+
+
+i16x8.ge_u
+
+
+
+
+
+table.get
+5
+
+
+i16x8.ge_u
+
+
+
+
+ table.get
+5
+
+
+i16x8.ge_u
+
+
+
+
+   table.get
+5
+
+
+
+ ) 

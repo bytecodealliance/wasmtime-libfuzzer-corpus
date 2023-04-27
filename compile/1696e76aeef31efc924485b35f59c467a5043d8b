@@ -1,0 +1,1 @@
+(func data.drop 65536 data.drop 65536 data.drop 3 data.drop 3)

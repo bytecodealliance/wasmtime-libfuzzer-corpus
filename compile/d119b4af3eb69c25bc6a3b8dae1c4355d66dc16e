@@ -1,0 +1,1 @@
+(func i32.ge_u   return        i16x8.neg    i16x8.neg return    i16x8.neg return  i16x8.neg i16x8.neg    i16x8.neg return    i16x8.neg      i16x8.neg     i16x8.neg   ) 

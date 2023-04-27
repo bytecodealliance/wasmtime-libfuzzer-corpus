@@ -1,1 +1,0 @@
-(func           return     f32.gt       return  v128.not   f32.gt  f32.gt       return    f32.gt   f32.gt  return    f32.gt   f32.gt     return  f32.gt  f32.gt             return    f32.gt   f32.gt        return     f32.gt       return    f32.gt   f32.gt  return    f32.gt   f32.gt        )       

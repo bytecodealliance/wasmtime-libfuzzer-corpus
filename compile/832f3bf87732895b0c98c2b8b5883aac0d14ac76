@@ -1,1 +1,0 @@
-(func     i32.ne    f64.load f64.load ) 

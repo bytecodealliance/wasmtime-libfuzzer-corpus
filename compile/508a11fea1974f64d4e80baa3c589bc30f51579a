@@ -1,0 +1,21 @@
+(func $'
+
+i8x16.extract_lane_s
+1;;%3iexte
+i8x16.extract_lane_s
+;;%)
+;;)(funC m0
+1
+;;%$'
+
+i8x16.extract_lane_s
+1;;%3iexte
+i8x16.extract_lane_s
+;;unC m0
+1
+;;%$'
+
+i8x16.extract_lane_s
+1;;fn)
+
+);;-%

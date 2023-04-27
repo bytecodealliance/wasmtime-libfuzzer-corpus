@@ -1,0 +1,60 @@
+(func
+
+ 
+
+
+
+
+    
+
+
+ i64x2.extract_lane
+
+
+
+
+5  
+
+
+   
+   
+
+
+
+
+
+ i64x2.extract_lane
+
+
+6
+
+
+ i64x2.extract_lane
+
+
+
+
+
+
+
+
+
+
+6  i32.rotr 
+
+
+
+
+
+ i64x2.extract_lane
+
+
+
+
+6   
+
+
+
+
+
+  ) 

@@ -1,1 +1,0 @@
-(func               v8x16.load_splat  return v8x16.load_splat  return      v8x16.load_splat         v8x16.load_splat  return     return      i16x8.min_s    v8x16.load_splat     v8x16.load_splat             v8x16.load_splat  return  return      i16x8.min_s    v8x16.load_splat           v8x16.load_splat         v8x16.load_splat     return                return ) 

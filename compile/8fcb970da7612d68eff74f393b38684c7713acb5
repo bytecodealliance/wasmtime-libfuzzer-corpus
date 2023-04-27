@@ -1,0 +1,1 @@
+(func i32x4.add    v128.load64_zero  f64.abs  i64.gt_s      f64x2.add    v128.load64_zero  f64.abs  i64.gt_s    f64.abs      i32x4.add     v128.load64_zero  f64x2.lt ) 

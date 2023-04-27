@@ -1,0 +1,25 @@
+(func i64.gt_u 
+
+
+ i16x8.le_u 
+
+
+  i16x8.le_u i16x8.le_u 
+;;%uuuuuu
+
+v128.store8_lane
+3;;%inuf_nm_w
+
+
+table.grow
+3;;%uuuuuu
+
+v128.store8_lane
+3;;u
+
+
+
+f32x4.neg
+
+
+) 

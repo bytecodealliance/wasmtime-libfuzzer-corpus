@@ -1,0 +1,9 @@
+(table 1 anyfunc
+
+i64.atomic.rmw32.and_u
+
+
+3333333
+
+))funmw32.and_u
+ab

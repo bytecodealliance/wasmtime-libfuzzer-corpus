@@ -1,0 +1,6 @@
+(func f64.store
+
+
+
+f64.store
+9 catch +2)

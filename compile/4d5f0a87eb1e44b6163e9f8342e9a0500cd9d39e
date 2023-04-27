@@ -1,6 +1,0 @@
-(func $l@
-i32x4.load16x4_s
-
-i32x4.load16x4_s
-
-i32x4.load16x4_s -%%%1

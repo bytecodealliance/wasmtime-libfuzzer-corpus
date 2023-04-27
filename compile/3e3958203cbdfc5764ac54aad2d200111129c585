@@ -1,0 +1,1 @@
+(func  f64.gt				 f64x2.extract_lane 	2	 		 f64.gt		 f64x2.extract_lane  	2		) 

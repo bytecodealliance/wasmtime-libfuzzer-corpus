@@ -1,1 +1,0 @@
-(func      memory.copy  i32.wrap_i64                   i32.atomic.rmw.xchg  memory.copy     i32.atomic.rmw.xchg  memory.copy     i32.atomic.rmw.xchg            memory.copy      ) 

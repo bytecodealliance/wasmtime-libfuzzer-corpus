@@ -1,3 +1,0 @@
-(func
-i16x8.shr_u
-i32.store16);;-

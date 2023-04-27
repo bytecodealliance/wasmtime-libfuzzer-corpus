@@ -1,1 +1,0 @@
-(func   i16x8.sub_saturate_u       i32.mul        ) (func   i16x8.sub_saturate_u     i16x8.sub_saturate_u              i64.clz           i32.mul   i16x8.sub_saturate_u            ) 

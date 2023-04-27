@@ -1,1 +1,0 @@
-(func     							f64x2.sub						i32x4.neg			i64.atomic.rmw8.and_u											i64.atomic.rmw8.and_u																		i64.atomic.rmw8.and_u									i64.atomic.rmw8.and_u												i64.atomic.rmw8.and_u											i64.atomic.rmw8.and_u														i64.atomic.rmw8.and_u											i64.atomic.rmw8.and_u								 		   ) 

@@ -1,0 +1,1 @@
+(func    return       f64x2.sqrt    i16x8.ge_u     i16x8.ge_u        return       f64x2.sqrt    i16x8.ge_u              i16x8.ge_u        )(func       f32.le return      i64.eq  f32.le     )  

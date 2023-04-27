@@ -1,0 +1,4 @@
+(func
+br 
+2147488
+f64x2.relaxed_nmadd)

@@ -1,1 +1,0 @@
-(func) (func       return f32.div    f32x4.ne   f32x4.ne               return f32.div    f32x4.ne   f32x4.ne       ) ;;u4

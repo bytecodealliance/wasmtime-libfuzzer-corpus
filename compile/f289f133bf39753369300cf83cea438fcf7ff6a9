@@ -1,1 +1,0 @@
-(func     $m>2 i32.atomic.store )(func     i32.atomic.store )(func     $m>convert_u/i32 i32.atomic.store )(func     i32.atomic.store )(func      $m>>>>)  

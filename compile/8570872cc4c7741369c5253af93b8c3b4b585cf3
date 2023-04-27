@@ -1,0 +1,5 @@
+(func $in_u_i't64_s2emr
+v128.load32_splat;;f_uv128.'t64_s2emr
+v128.load32_splat;;f_uv128.consnc;%22
+
+);;

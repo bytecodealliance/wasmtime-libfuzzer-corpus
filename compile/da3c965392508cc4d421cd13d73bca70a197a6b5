@@ -1,0 +1,10 @@
+(func $m_els 
+f64.ceil
+
+
+v128.store8_lane
+3;;%i;;%table.grow
+3;;%uuu
+v128.store8_lane
+3;;%i;;ta;) 
+  return     )

@@ -1,4 +1,0 @@
-(func
-
-i8x16.shr_s i32.eqz
-i8x16.shr_s   ) 

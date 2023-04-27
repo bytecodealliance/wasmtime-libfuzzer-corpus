@@ -1,8 +1,0 @@
-(func
-
-i64.store16
-f32.ne
-i64.atomic.rmw.add
-i64.atomic.rmw.add
-
-) 

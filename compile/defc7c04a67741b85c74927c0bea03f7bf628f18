@@ -1,1 +1,0 @@
-(func          return                 return    f32.gt              else i32.atomic.rmw16.xchg_u    return        f32.gt         else i32.atomic.rmw16.xchg_u      else i32.atomic.rmw16.xchg_u     f64.gt           )       

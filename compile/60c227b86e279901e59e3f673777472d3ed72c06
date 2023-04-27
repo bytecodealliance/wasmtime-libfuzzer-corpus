@@ -1,0 +1,11 @@
+(func $'l$
+
+
+
+;;%_u2.su
+
+
+i16x8.sub_sat_u
+i16x8.sub_sat_u
+;;%;;
+i64x2.sub    ) 

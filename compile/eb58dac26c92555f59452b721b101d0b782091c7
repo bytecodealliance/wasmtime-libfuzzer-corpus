@@ -1,0 +1,6 @@
+(func
+i32.atomic.rmw8.sub_u
+;;%n
+i32.atomic.rmw8.sub_u
+;;
+);;

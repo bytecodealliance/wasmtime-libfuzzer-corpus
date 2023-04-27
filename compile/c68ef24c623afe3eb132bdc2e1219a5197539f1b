@@ -1,1 +1,0 @@
-(func    i64.load16_u    return  i16x8.min_s   i16x8.min_s      return  i16x8.min_s   i16x8.min_s      ) ;; r     at ret

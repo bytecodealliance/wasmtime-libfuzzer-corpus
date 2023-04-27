@@ -1,0 +1,15 @@
+(func 
+table.copy   i8x16.neg
+
+
+table.copy
+
+
+
+
+
+
+
+table.copy
+table.copy
+) 

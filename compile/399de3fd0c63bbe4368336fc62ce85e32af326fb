@@ -1,0 +1,35 @@
+(func
+i32.or
+
+    i8x16.shl
+     
+
+
+
+
+
+
+
+i8x16.shl   
+
+
+
+
+
+
+
+i8x16.shl     i8x16.shl
+     
+
+i8x16.shl   
+
+
+
+
+
+
+
+i8x16.shl      i8x16.shl
+     
+   i8x16.shl
+       ) 

@@ -1,0 +1,7 @@
+(func $$@ff32x4.ceil;;.consnc;%
+try;;f%
+try;;n_u;;%
+try;;fx$@ff32x4.ceil;;;32;i't64_s2emr
+v128.load64_splat;;m22
+
+);;

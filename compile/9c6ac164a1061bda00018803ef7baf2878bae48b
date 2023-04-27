@@ -1,0 +1,1 @@
+(func           return     f64.convert_i32_s          return     f64.convert_i32_s   return     f64.convert_i32_s           i64.atomic.rmw32.xor_u          memory.copy         f64.convert_i32_s           i64.atomic.rmw32.xor_u    ) 

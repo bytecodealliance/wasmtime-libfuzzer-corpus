@@ -1,1 +1,0 @@
-(func    return   i32.atomic.rmw8.sub_u  i64.add     i32.trunc_f64_u i32.atomic.rmw8.sub_u i32.trunc_f64_u        i32.trunc_f64_u            i32.trunc_f64_u  ) 

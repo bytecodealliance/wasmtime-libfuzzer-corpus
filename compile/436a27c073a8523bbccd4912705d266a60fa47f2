@@ -1,0 +1,6 @@
+(func  i32x4.extend_high_i16x8_u   i8x16.neg f64x2.mul
+ i32x4.extend_high_i16x8_u  i32x4.extend_high_i16x8_u   i8x16.neg 
+
+
+
+) 

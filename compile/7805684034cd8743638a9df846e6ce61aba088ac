@@ -1,0 +1,3 @@
+(func
+
+i64.atomic.rmwQ8.xor_u

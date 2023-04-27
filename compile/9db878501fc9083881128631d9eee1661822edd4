@@ -1,0 +1,18 @@
+(func f32x4.abs;;$\3x4.mfcl$@@l;
+f32x4.abs;;$\'lm$%
+f32x4.abs;;$i32@l;
+f32x4.abs;;$\%
+f32x4.abs;;$2\'lm$%
+f32x4.abs;;$i32@l;
+f32x4.abs;;$\'lm$%
+f32x4.abs;;$f32$;mim$im$(fm2$l$@@l;
+f32x4.abs;;$\'lm$%
+f32x4.abs;;$i32@l;
+f32x4.abs;;$\'lm$%
+f32x4.abs;;$s;;$i2@l;
+f32x4.abs;;$\'lm$%
+f32x4.abs;;$f32$m$%
+f32x4.abs;;$i32@l;
+f32x4.abs;;$\'l
+
+);;-%

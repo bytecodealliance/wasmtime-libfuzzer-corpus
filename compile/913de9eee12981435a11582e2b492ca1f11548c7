@@ -1,0 +1,1 @@
+(funcf64.floorf64.min   f64.ne i64x2.bitmask f64.min   f64.ne i64x2.bitmask ) 

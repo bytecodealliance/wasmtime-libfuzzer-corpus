@@ -1,7 +1,0 @@
-(func 
-i16x8.shr_s
-i64.extend8_s
-
-
-
-) 

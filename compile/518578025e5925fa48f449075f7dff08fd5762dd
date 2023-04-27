@@ -1,1 +1,0 @@
-(func               i32.sub   v128.bitselect    v128.bitselect          f32.min        i32.sub   v128.bitselect                        f32.min        i32.sub   v128.bitselect                            f32.min        i32.sub   v128.bitselect       ) 

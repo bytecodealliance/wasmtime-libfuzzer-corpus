@@ -1,0 +1,20 @@
+(func
+
+
+i32.rotr
+ i32.rotr
+
+
+ i32.rotr
+
+
+
+ i32.rotr i32.rotr
+ i32.rotr
+
+
+ i32.rotr
+
+
+ i32.rotr
+) 

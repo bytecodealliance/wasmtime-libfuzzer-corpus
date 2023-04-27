@@ -1,0 +1,7 @@
+(func $'l$%
+i64.atomic.rmw.xor
+i64.atomic.rmw.xor
+
+
+
+);;$\'m

@@ -1,0 +1,17 @@
+(func    
+   
+i64.atomic.rmw8.xor_u
+
+
+
+
+1
+
+i32x4.lt_s
+;;i16_u
+
+
+
+
+i64.atomic.rmw8.xor_u   
+   ) 

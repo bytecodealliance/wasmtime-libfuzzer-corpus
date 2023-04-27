@@ -1,0 +1,15 @@
+(func
+
+
+i64.atomic.load
+
+
+f64x2.eq
+
+
+i64.atomic.load
+i32.atomic.load
+
+
+
+i64.atomic.load)

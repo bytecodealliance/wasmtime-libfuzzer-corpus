@@ -1,0 +1,1 @@
+(func            )    (func i64.gt_s                                  i32.xor             return   i64.gt_s     f64x2.max           i64x2.extmul_low_i32x4_s   ) 

@@ -1,1 +1,0 @@
-(func f32.const 0x2040000 f32.const 0x03001 table.set 0 f32.const 0x5 table.set 00 f32.const 0x4 table.set 0)

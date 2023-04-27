@@ -1,1 +1,0 @@
-(func         i32x4.add 		   		i64.gt_s i64.add f64.nearest 	i64.add f64.nearest    i32.gt_s i64.add f64.nearest 	f64.nearest        ) 

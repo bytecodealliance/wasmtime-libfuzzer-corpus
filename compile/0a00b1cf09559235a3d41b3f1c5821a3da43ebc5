@@ -1,1 +1,0 @@
-(elem  (   return        i32x4.load16x4_s          f32.eq  i16x8.shr_s       i32x4.load16x4_s          f32.eq  i16x8.shr_s            i32x4.load16x4_s            i32x4.load16x4_s        i32x4.load16x4_s          f32.eq  i16x8.shr_s          return         i32x4.load16x4_s          f32.eq                           i32x4.load16x4_s i32x4.load16x4_s          f32.eq     )        ) 

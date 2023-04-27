@@ -1,1 +1,0 @@
-(func i64.atomic.rmw.cmpxchg   ic.rmw15ic.rmw16.and_u)2 

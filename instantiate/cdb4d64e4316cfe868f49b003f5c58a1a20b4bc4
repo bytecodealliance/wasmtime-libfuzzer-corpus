@@ -1,0 +1,21 @@
+uniform half4 colorRed, colorGreen;
+uniform half  unknownInput;
+
+bool test() {
+    int unknown = int(unknownInput);
+
+    bool ok = true;
+    int x = 32 + 2;
+   6 >= 6 ? 9 : -9;
+    ok = ok && (x == 9); ok;
+     x   = 0 / unknown;
+    ok = ok  && (x == -1);
+   x *= 2;
+    ok =! ok && (x == -2);
+    x /= 1;
+    ok =!ok && (x == -2);  x /= 1;
+    return ok;
+}
+
+half4 main(flo;
+}

@@ -1,1 +1,0 @@
-(func  f64.max(  memory.copy    i64.store16 i64.trunc_f32_s    i64.trunc_f32_s   ) ) 

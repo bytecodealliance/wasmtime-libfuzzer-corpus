@@ -1,0 +1,15 @@
+(func $v0l
+
+i32.atomic.rmw.and
+
+i32.atomic.rmw.and
+
+;;%eiI
+
+i32.atomic.rmw.and
+
+;;4l
+
+i32.atomic.rmw.and
+
+%( $

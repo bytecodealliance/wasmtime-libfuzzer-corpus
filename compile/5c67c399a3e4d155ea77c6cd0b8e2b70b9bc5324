@@ -1,1 +1,0 @@
-(func $c v8x16.load_splat)(func $\'lm')(func $lm~nc v8x16.load_splat)(func $\'c v8x16.load_splat)(func v8x16.load_splat)(func $a')

@@ -1,0 +1,1 @@
+(func                        i32x4.ge_u                      v128.load v128.load32x2_u           v128.load v128.load32x2_u               ) 

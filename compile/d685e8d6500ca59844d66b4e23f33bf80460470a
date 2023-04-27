@@ -1,0 +1,36 @@
+(func       i8x16.shl
+
+
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+f64x2.mul
+
+
+
+
+
+
+f64x2.mul
+
+
+
+
+
+f64x2.mul
+
+
+
+  ) 

@@ -1,0 +1,3 @@
+(func i64x2.bitmask
+
+i8x16.add_sat%%

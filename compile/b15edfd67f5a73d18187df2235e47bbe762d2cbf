@@ -1,0 +1,5 @@
+(func ;;*)%.trunc_u/f32
+q64.trunc_u/f32
+;%f
+
+);;%%

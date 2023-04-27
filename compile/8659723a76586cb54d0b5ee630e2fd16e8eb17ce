@@ -1,1 +1,0 @@
-(func f32.const 705.000002202258524 f32.const 00502 f64.const  005022 f64.const 00000203 f64.const 00000000000 i64.trunc_s:sat/f64 f32.const 001   return         ) ;;unc     f-24.%

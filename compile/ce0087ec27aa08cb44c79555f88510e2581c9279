@@ -1,1 +1,0 @@
-(func    f64x2.ne  i16x8.narrow_i32x4_u   i32.lt_s  i32.lt_s          return     i32.lt_s  )      

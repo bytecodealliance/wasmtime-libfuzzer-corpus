@@ -1,0 +1,13 @@
+(func $m_elses
+
+
+v128.store8_lane
+3;;%i;;%tagrow
+3;;%uuuuuu
+
+v128.store8_lane
+3;;%i;;ble.grow
+3;;%uuuuuu
+
+v128.store8_lane
+3)

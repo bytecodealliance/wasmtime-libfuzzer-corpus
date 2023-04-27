@@ -1,0 +1,13 @@
+(func 
+f64x2.relaxed_madd
+
+
+
+
+
+i64.rotl
+
+i64.roi8x16.le_stl
+
+
+ ) 

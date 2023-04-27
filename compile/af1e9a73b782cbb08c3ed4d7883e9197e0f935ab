@@ -1,0 +1,11 @@
+(func
+i64.atomic.rmw.or
+
+
+
+
+
+i64.atomic.store8
+
+222222222223
+TTT 

@@ -1,1 +1,0 @@
-(func i32.atomic.load i16x8.le_s)(func $^o i16x8.le_s)(func )

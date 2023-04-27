@@ -1,0 +1,1 @@
+(func    i64.atomic.rmw.cmpxchg    i64.atomic.rmw.cmpxchg       i64.atomic.rmw.cmpxchg  )

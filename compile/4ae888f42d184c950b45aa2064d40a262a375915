@@ -1,9 +1,0 @@
-(func $'l$
-
-i64.trunc_s:sat/f64
-
-;;%)(funC mun4
-i64.trunc_s:sat/f64
-i64.trunc_s:sat/f64
-i64.trunc_s:sat/f64
-ii64.tru

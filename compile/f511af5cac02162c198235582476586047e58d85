@@ -1,6 +1,0 @@
-(func
-
-i32.mul
-i16x8.mul
-
-)

@@ -1,0 +1,12 @@
+(func $'l\ 
+f32.gt
+f32x4.add;;4.l\ 
+f32.gt
+f32x4.add;;4.add;;$
+f32x4.add;;t
+f32x4.add;;$ \%
+f32x4.add;;;add$
+f32x4.add;;t
+f32x4.add;;$ \%
+f32x4.add;;;
+);;-%

@@ -1,0 +1,5 @@
+(func ;;f8
+f64x2.floor;;r_u
+i64x2.bitmask
+
+i8x1add_sat%%

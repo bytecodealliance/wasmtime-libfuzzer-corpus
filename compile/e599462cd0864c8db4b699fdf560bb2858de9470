@@ -1,3 +1,0 @@
-(func       return               i32.atomic.store16          i32.atomic.store16           i32.atomic.store16         i32.atomic.store16          i32.atomic.store16          i32.atomic.store16    i32.atomic.store16 
-      i32.atomic.store16 
-     i92.at ur

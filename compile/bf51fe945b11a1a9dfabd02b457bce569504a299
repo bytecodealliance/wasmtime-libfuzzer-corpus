@@ -1,0 +1,1 @@
+(func          f64x2.lt    f64x2.lt f64x2.lt f64x2.lt   v128.load8x8_u f64x2.lt        f64x2.lt  v128.load8x8_u  f64x2.lt       f64x2.lt f64x2.lt f64x2.lt   v128.load8x8_u) 

@@ -1,1 +1,0 @@
-(func        return       f64.gt  i16x8.widen_low_i8x16_s   f64.ge   f64.gt  i16x8.widen_low_i8x16_s   i16x8.widen_low_i8x16_s  f64.gt  i16x8.widen_low_i8x16_s   f64.ge     )   

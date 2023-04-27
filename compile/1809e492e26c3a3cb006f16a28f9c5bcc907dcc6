@@ -1,6 +1,0 @@
-(func  
-i32.rotr    i16x8.load8x8_u
-
-
-i32.rotr    i16x8.load8x8_u
-i32.rotr   i16x8.load8x8_u ) 

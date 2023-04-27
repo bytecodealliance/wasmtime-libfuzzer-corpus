@@ -1,1 +1,0 @@
-(elem  (    return   f32.eq    return       f64.ge   f32.eq    f64.ge  f32.eq      f64.ge   f32x4.min      ) 

@@ -1,1 +1,0 @@
-(func   f32.neg 	i64x2.shr_uf32.mulf32.muli32x4.gt_sf32.mulf32.mul) 

@@ -1,1 +1,0 @@
-(func    i8x16.gt_s  i32.store8      i64.extend_u/i32         i64.extend_u/i32     )

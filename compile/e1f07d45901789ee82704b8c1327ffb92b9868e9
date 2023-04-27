@@ -1,0 +1,1 @@
+(func           i64.atomic.wait   i64.clz                  i64.atomic.wait       $i64.clz           i64.atomic.wait   i64.atomic.wait         i64.clz           i64.atomic.wait        i64.clz           i64.atomic.wait  i64.atomic.wait        i64.clz                  i64.atomic.wait wait     ) 

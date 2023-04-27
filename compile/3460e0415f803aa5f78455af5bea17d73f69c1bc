@@ -1,0 +1,1 @@
+(func      return   f64x2.relaxed_nmadd    i64x2.all_true    i64x2.all_true return       i64x2.all_true  ) 

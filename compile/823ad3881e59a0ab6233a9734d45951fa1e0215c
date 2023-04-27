@@ -1,1 +1,0 @@
-(func i64.eq v32x4.load_splat)

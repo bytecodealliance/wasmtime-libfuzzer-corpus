@@ -1,0 +1,16 @@
+(func
+
+ i64x2.shr_s i8x16.shl i64x2.shr_s
+
+
+
+
+
+i64x2.shr_s
+
+
+
+i64x2.shr_s
+
+
+ ) 

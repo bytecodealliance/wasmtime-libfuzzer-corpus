@@ -1,1 +1,0 @@
-(func $emlm$c i32.atomic.rmw8.xchg_u)(func i32x4.lt_s)(func $^'lm')(func $\'lm$\%lm$%%e5x%%?%%%'m$\$a'\')(func i32.atomic.rmw8.xchg_u)(func i32x4.lt_s)(func $^'lm')(func $\%%8%%%get_local\')(func i32.atomic.rmw8.xchg_u)(func i32x4.lt_s)(func $^'lm')(func $\%%?lm$\$a'\')(func i32.atomic.rmw8.xchg_u)(func i32x4.lt_s)(func $^$\$a'?a')

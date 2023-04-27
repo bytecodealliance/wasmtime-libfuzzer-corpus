@@ -1,0 +1,7 @@
+config {
+  name: "envoy.filters.network.ext_authz"
+  typed_coEnÿfig {
+    type_url: "type.googleapis.com/envoy.extensions.filters.network.ext_authz.v3.ExtAuthz"
+    value: "\n\001N2\021\n\001W\022\003\n\001N\022\003\n\001N\002(\001"
+  }
+}

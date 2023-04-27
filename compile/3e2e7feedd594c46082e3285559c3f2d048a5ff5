@@ -1,0 +1,1 @@
+(func return      f64.nearest  i64x2.shr_u         f32.nearest f32.nearest  f32.nearest       ) (func return  return      f32.nearest  f32.ne  f32.nearest  f32.nearest       f32.nearest  f32.nearest       ) 

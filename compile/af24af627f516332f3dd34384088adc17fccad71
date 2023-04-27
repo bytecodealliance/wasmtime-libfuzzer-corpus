@@ -1,1 +1,0 @@
-(func  							f64x2.add		 	i32x4.eq   i32x4.add 			 			f32x4.gt				 	i32x4.trunc_sat_f32x4_u		f32x4.gt 	i32x4.trunc_sat_f32x4_u		 			  i32x4.trunc_sat_f32x4_u		f32x4.gt					) 

@@ -1,0 +1,1 @@
+(func i64.atomic.load i64.atomic.load i64.atomic.load i64.atomic.load i16x8.le_s)

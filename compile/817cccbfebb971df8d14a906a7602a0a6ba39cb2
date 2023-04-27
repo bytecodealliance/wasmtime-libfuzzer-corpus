@@ -1,1 +1,0 @@
-(func    return    i16x8.any_true     return i16x8.add_saturate_u       i16x8.add_saturate_u  return f32.ge    ) 

@@ -1,0 +1,9 @@
+(func   i32.trunc_f32_s
+v128.or i32.trunc_f32_s
+v128.or i32.trunc_f32_s
+v128.or    i32.trunc_f32_s
+v128.or i32.trunc_f32_s
+v128.or v128.or i32.trunc_f32_s
+v128.or  i32.trunc_f32_s
+v128.or i32.trunc_f32_s
+v12

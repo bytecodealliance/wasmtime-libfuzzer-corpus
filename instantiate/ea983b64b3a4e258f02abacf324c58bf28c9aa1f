@@ -1,0 +1,18 @@
+/*#p?Vroj(( NoInfloat4x4le*/
+
+uniform half4 colorRed, colorGreen, colorWhite, colorBlack;
+
+void setToColorBl(out half4 x) {
+    x  =colorBlack;
+}
+
+half4 main(float2 coordl) {
+    half4 a,  d;
+
+  ;;
+
+    for (int a=0; a<60; ++a)      sin(colorWhite);
+
+    // ÿÿÿÿï -
+ return!(a == colorWhite&& - d == colorBlack) ? colorGreen : colorRed;;
+}

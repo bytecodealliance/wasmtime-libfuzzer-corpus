@@ -1,6 +1,0 @@
-(func  i64.ge_u
-f64.sub
-
-f32.load
-
- ) 

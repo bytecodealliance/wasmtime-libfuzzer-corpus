@@ -1,0 +1,48 @@
+(func $'l$@Ble_t
+
+i32.load8_s
+;;b% $;\$ad8_s
+
+i32.load8_s
+;;b% $;l$@Ble_u
+
+
+i32.load8_s
+;;$'$m16f.t
+
+i32.load8_s
+
+i32.load8_s
+;;@$ b% ]t
+
+i32.load8_s
+;;
+i32.load8_s
+;;$'$m16f.t
+
+i32.load8_s
+
+i32.load8_s
+;;@$ be $;\$;'6f.t
+
+i32.load8_s
+;;
+i32.load8_s
+
+i32.load8_s
+;;b% 
+i32.load8_s
+;;$'$m16f.t
+
+i32.load8_s
+
+i32.load8_s
+;;b% $;l$@Ble_u
+
+
+i32.load8_s
+;;')
+
+
+
+);;-%

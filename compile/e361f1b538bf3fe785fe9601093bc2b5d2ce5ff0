@@ -1,0 +1,1 @@
+(elem  (      return   i32.atomic.rmw16.cmpxchg_u i64.atomic.rmw16.cmpxchg_u )    ) 

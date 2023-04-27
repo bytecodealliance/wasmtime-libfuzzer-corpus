@@ -1,8 +1,0 @@
-(func
-i32.div_u;;%i1
-i32.div_u;;%unc
-
-i64.div_u;;%i1
-
-i32.div_u;;%
-)

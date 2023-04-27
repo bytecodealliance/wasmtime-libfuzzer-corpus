@@ -1,0 +1,2 @@
+(func  (
+i64.atomic.rmw8.xchg_u 

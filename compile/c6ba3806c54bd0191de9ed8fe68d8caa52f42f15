@@ -1,0 +1,12 @@
+(func $';;
+
+
+
+i64.atomic.rmw32.add_u;;%)
+
+
+i64.atomic.rmw32.add_u;;%
+i64.atomic.rmw32.add_u;;%)
+
+
+i64.atomic.rmw32.add_u);;-%

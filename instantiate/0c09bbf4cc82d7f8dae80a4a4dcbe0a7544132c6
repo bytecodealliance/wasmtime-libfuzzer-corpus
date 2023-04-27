@@ -1,0 +1,39 @@
+config {
+  name: "envoy.filters.network.ext_authz"
+  typed_config {
+    type_url: "type.googleapis.com/envoy.extensions.filters.network.ext_authz.v3.ExtAuthz"
+    value: "\n\001N(\0022\020\n\001W\022\003\n\01:\001o"
+  }
+}
+actions {
+  on_data {
+  }
+}
+actions {
+  on_data {
+  }
+}
+actions {
+  on_data {
+  }
+}
+actions {
+  on_data {
+  }
+}
+actions {
+  on_data {
+  }
+}
+actions {
+  on_data {
+  }
+}
+actions {
+  on_data {
+  }
+}
+actions {
+  on_new_connection {
+  }
+}

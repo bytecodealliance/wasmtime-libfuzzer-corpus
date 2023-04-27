@@ -1,63 +1,0 @@
-(func;;;i32.shr_si
-;;;x;;;
-
-
-nop
-v64x2.load_splat
-;;;i
-
-nop
-v64x2.load_splat
-;;;;;u;mi
-;;;x;;;
-
-
-nop
-v64x2.load_splat
-;;;i
-
-;;nop
-v64x2.load_splat
-;;;;;u;mi
-;;;;u;mi
-;;u;;u;mi
-;;;x;;;
-
-
-nop
-v64x2.load_splat
-;;;i
-
-;;nop
-v64x2.load_splat
-;;;;;u;mi
-;;;;u;mi
-v64x2.load_splat
-;;;;;u;mi
-;;;;u;m;u;mi
-;;;x;;;
-
-
-nop
-v64x2.load_splat
-;;;i
-
-;;nop
-v64x2.load_splat
-;;i
-v64x2.load_splat
-;;;;;u;mi
-;;;;u;m;u;mi
-;;;x;;;
-
-
-nop
-v64x2.load_splat
-;;;i
-
-;;nop
-v64x2.load_splat
-;;i
-;;u;mi
-
-) 

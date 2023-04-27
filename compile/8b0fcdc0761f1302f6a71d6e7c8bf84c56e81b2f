@@ -1,0 +1,6 @@
+(func  
+
+
+i64.atomic.rmw32.and_u
+
+333333333333) 

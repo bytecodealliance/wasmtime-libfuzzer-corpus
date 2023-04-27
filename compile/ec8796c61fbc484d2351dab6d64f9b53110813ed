@@ -1,1 +1,0 @@
-(func i32x4.add    i32x4.add   i32.atomic.load      ) 

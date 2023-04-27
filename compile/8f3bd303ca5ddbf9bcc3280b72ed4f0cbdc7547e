@@ -1,1 +1,0 @@
-(func  (    return    i16x8.load8x8_s            i16x8.load8x8_s   f64.eq  i16x8.load8x8_s              i16x8.load8x8_s   (

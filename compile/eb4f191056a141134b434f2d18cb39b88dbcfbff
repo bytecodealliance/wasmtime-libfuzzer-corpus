@@ -1,1 +1,0 @@
-(func      call $i32.gt    call $i32.gt  ) (func  $i32.gt  ) (func       $i646popcnt )     (func  )  (func       )     (func)     (func  )  (func       )     (func  )  (func       call $i32.gt  ) (func       $i64     ) (func         call $i32.gt    call $i32.gt  ) (func ) (func        call $i32.gt  ) (func           $i64.      ) 

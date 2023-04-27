@@ -1,1 +1,0 @@
-(func i64.trunc_u/f32 f32x4.sqrt)(func $^'le%i16????64.trunc_u/f32 f32x4.sqrt)(func $_u/f32 f32x4.sqrt)(func $^'le%i1_u/f32 f32x4.sqrt)(func $^'le??????nc i64.trunc_u/f32 f32x4.sqrt)(func $^'le%iadtrunu/f32 f32x4.sqrt)(func $^'le%i16~8loaj4.trunc_u/f32 f32x4.sqrt)(func $^4.trunc_u/f32 f32x4.sqrt)(func $^'le atomic.fence)

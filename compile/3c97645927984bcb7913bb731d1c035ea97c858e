@@ -1,2 +1,0 @@
-(func i32.load16_s 
- i32.load16_s )

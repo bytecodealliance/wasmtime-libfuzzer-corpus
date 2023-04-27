@@ -1,0 +1,1 @@
+(func            i32.clz     i64.atomic.rmw.sub				 i32.clz      i64.atomic.rmw.sub				 i32.clz      i64.atomic.rmw.sub				                i64.atomic.rmw.sub    i64.atomic.rmw.sub				                    i64.atomic.rmw.sub    i64.atomic.rmw.sub				           i64.atomic.rmw.sub		)	   

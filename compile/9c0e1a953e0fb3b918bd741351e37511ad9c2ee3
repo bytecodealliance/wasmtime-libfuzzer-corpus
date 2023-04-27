@@ -1,0 +1,1 @@
+(func f32.const 60 f64.const 0x1000.00 f64.const 615 f64.const 0x1000.000000000 f64.const 015 f64.const 0000000000 f64.const 0x1000.00 f64.const 0.00 f64.const 615 f64.const 0x1000.000000000 f64.const 0 f64.const 0x1000.00 f64.const 0x100000.00)

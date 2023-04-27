@@ -1,0 +1,1 @@
+(func (  i32.atomic.store   return   i64.eqz i32.atomic.store   i32.atomic.store   i32.atomic.store  i32.atomic.store return    )  )  

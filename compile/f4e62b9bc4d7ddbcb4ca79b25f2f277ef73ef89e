@@ -1,0 +1,1 @@
+(func        f64x2.div i16x8.relaxed_laneselect     f64x2.div    f64x2.div i16x8.relaxed_laneselect      return         return   f64x2.div i16x8.relaxed_laneselect     f64x2.div     ) 

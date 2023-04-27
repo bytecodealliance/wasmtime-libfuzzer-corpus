@@ -1,1 +1,0 @@
-(func     f64.neg v8x16.swizzle           v8x16.swizzle      v8x16.swizzle       ) 

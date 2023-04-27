@@ -1,0 +1,1 @@
+(func return     return     f32x4.add f32x4.add i32x4.relaxed_dot_i8x16_i7x16_add_s f32x4.add    f32x4.add return     return     f32x4.add f32x4.add i32x4.relaxed_dot_i8x16_i7x16_add_s f32x4.add    f32x4.add      fdd    f32x4.add   ) 

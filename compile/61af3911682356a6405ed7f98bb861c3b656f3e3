@@ -1,0 +1,6 @@
+(func $'
+i64.atomic.rmw.xchg;;u;
+i64.atomic.rmw.xchg
+i64.atomic.rmw.xchg;;u;
+i64.atomic.rmw.xchg;
+i1

@@ -1,1 +1,0 @@
-(func       return      return    i64.extend32_s  i32.atomic.rmw16.xor_u  return     i64.extend32_s   i64.extend32_s          return     i64.extend32_s                  ) 

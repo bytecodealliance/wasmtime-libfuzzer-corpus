@@ -1,6 +1,0 @@
-(func
-
-
-loop
-
-f32.convert_i64_u)

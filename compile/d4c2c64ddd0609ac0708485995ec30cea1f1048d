@@ -1,0 +1,12 @@
+(func extern.internalize
+
+f64x2.min
+
+
+i16x8.extmul_low_i8x16_u
+
+
+
+
+ 
+)  

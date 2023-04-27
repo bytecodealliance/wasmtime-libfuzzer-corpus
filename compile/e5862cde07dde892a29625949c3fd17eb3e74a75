@@ -1,0 +1,12 @@
+(func
+
+
+  i8x16.shl     i64x2.extend_low_i32x4_s
+
+
+
+      i8x16.shl     i64x2.extend_low_i32x4_s
+
+
+
+  i8x16.shl) 

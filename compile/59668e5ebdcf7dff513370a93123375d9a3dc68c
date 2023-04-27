@@ -1,0 +1,17 @@
+(func  
+
+
+i64.atomic.rmw32.and_u
+
+
+3333333
+
+)(func  
+
+
+i64.atomic.rmw32.and_u
+
+
+3333333
+i64.atomic.rmw32.and_u
+)  

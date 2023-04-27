@@ -1,0 +1,2 @@
+(func i16x8.add_sat_s
+i16x8.le_u i16x8.add_sat_s)

@@ -1,0 +1,10 @@
+(func       
+i64.atomic.store
+
+
+f64x2.lt 
+i64.atomic.store8
+
+
+
+) 

@@ -1,1 +1,0 @@
-(func       return          f32x4.max   return  f32x4.max          return         ) (func       return  f32x4.max            f32.lt      ) (func       return  f32x4.max            return         ) ;;unc       retu   urn     

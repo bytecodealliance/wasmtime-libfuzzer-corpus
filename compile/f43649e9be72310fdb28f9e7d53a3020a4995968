@@ -1,0 +1,22 @@
+(func $rqrt
+
+;;%sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+
+;;%sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sqrt
+f32x4.sq

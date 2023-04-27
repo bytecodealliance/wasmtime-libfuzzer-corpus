@@ -1,0 +1,479 @@
+h2_settings {
+  server {
+    hpack_table_size: 1414745936
+    max_concurrent_streams: 45
+    initial_stream_window_size: 8396800
+    initial_connection_window_size: 262150
+  }
+}
+actions {
+  new_stream {
+    request_headers {
+      headers {
+        key: ":scheme"
+        value: "tGET"
+      }
+      headers {
+        key: ":path"
+        value: "/"
+      }
+      headers {
+        key: "100-#ontinue"
+        value: ":scheme"
+      }
+      headers {
+        key: "expect"
+      }
+    }
+  }
+}
+actions {
+  quiesce_drain {
+  }
+}
+actions {
+  quiesce_drain {
+  }
+}
+actions {
+  quiesce_drain {
+  }
+
+a}ctions {
+  stream_action {
+    stream_id: 262150
+    request {
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177.\177\177\017\352\377\377\377\377\377\377\3777\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+        metadata {
+          key: "\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\363\263\263\263\343\263\263"
+          value: ""
+        }
+      }
+    }
+    dispatching_action {
+      data: 262150
+      end_stream: true
+    }
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\na}\nctions {\n  new_stream {\n  t_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        vnane: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\001proxy-co77\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    response {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177.\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  mutate {
+    server: true
+  }
+}
+actions {
+  client_drain {
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    response {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "\177\177\177\177.\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  mutate {
+    buffer: 16777215
+    server: true
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\\177\376\377\377\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n     tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\377\377\375\351ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttdx\246gttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\na}\nctions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    stream_id: 4294967295
+    response {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "100-#ontinue"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177.\177\017\224W7\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  mutate {
+    server: true
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n     tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\\375\375\377\377000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\na}\nctions {ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000341374\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\na}\nctions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\077\177.\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  mutate {
+    server: true
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nacupgrade\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  server_drain {
+  }
+}
+actions {
+  stream_action {
+    stream_id: 262150
+    request {
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350\350r_drain {\n  }\na}\nctions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\001\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  client_drain {
+  }
+}
+actions {
+  mutate {
+    server: true
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\;\225\377\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n     ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt350\350\350\350\350\350\350\350\350\350\350\350\350\350r_drain {\n  }\na}\nctions {\n  new_streions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: ""
+        }
+        metadata {
+          key: "j"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    response {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  ser\357\377\377\377\377\377\377\377ver_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177.\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  mutate {
+    server: true
+  }
+}
+actions {
+  new_stream {
+    request_headers {
+      headers {
+        key: ":scheme"
+        value: "tGET"
+      }
+      headers {
+        key: ":path"
+        value: "/"
+      }
+      headers {
+        key: "100-#ontinue"
+        value: ":scheme"
+      }
+      headers {
+        key: "expect"
+        value: "100-#ontinue"
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    response {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "\177\177\177\177.\177\017\224W7\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+        metadata {
+          key: "\177\177\177\177.\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177?\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  mutate {
+    server: true
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n     tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\na}\nctions {\n  new_stream {\n    request_headers {\n      headers {\n        kex: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    response {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  ser\357\377\377\377\377\377\377\377ver_drain {\n  }\n}\nactions {\n  new_stream {\n    requ00\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n  \337   }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177.\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  mutate {
+    server: true
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: ""
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\n}\nactions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n     tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\\203R0\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"
+        }
+        metadata {
+          key: "\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177"
+          value: ""
+        }
+      }
+    }
+  }
+}
+actions {
+  stream_action {
+    request {
+      end_stream: true
+      metadata {
+        metadata {
+          key: "aaaaaaaaaaaaaaaaaaaaaaaa"
+          value: "bbbbbbbbbbbbbbbbbbbbs {\n  server_drain {\n  }\na}\nctions {\n  new_stream {\n    request_headers {\n      headers {\n        key: \"\\\\\"\n      }\n    }\n    end_stream: true\n    metadata {\n      metadata {\n        key: \"\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n        value: \"\"\n      }\n    }\n  }\n}\nactions {\n  mutate {\nbbb"

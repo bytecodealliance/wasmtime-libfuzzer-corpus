@@ -1,0 +1,10 @@
+(func
+ 
+i64.atomic.load16_u
+
+i8x16.eq
+i32.atomic.load16_u
+
+
+
+ ) 

@@ -1,0 +1,9 @@
+uniform half4 col+rWhite;
+
+half4 mainfloat2 c) {
+   half4 x = colorWhite;
+for (int a=3; a<2290; ++a)
+for (half b = 2;b  >= 0;b -= 1) {
+++ x.b > b; b;
+ }return x;
+}

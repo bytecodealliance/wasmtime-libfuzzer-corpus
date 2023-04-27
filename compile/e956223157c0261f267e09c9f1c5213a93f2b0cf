@@ -1,1 +1,0 @@
-(func    f64.min i64.trunc_s:sat/f64     f64.min i64.trunc_s:sat/f64 f32x4.min i64.trunc_s:sat/f64) 

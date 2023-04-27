@@ -1,0 +1,27 @@
+(func
+
+
+     
+
+
+
+
+
+   return        f32.gt
+
+
+
+
+ 
+
+i16x8.replace_lane
+
+
+
+
+6 
+
+
+
+  )(func
+  ) 

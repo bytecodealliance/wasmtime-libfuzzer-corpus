@@ -1,1 +1,0 @@
-(func   return f32.min      i64.store32        i64.store32     i64.store32          i64.store32        ) 

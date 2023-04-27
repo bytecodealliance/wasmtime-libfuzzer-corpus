@@ -1,1 +1,0 @@
-(func f32.const 700.3004502 i32.trunc_s:sat/f32 f32.const 00 return     ) ;;unc  

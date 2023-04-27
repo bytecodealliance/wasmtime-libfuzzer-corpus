@@ -1,0 +1,12 @@
+(func $u
+f64x2.add
+
+i8x16.splat
+
+;;
+i8x16.splat
+
+;;
+i8x16.splat
+
+);;-%

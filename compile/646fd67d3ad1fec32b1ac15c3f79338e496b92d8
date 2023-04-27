@@ -1,0 +1,8 @@
+(func  call_indirect	
+
+call_indirect	
+
+f32.ne   
+call_indirect	
+
+  ) 

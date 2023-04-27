@@ -1,1 +1,0 @@
-(func   return   return   nop return  i64.shr_s  i64.shr_s   nop return  i64.shr_s  i64.shr_s  ) ;;etr

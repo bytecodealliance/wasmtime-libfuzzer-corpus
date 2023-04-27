@@ -1,0 +1,19 @@
+(func
+
+
+i32.sub
+
+i32.sub
+
+i32.sub
+
+
+f64x2.pmax
+
+i32.sub
+
+i32.sub
+
+
+f64x2.pmax
+  ) 

@@ -1,0 +1,1 @@
+(func       return   v128.not          i64x2.extmul_low_i32x4_s       i64x2.extmul_low_i32x4_s   ) 

@@ -1,0 +1,1 @@
+(func    i32.atomic.rmw.xor       i32.atomic.rmw.xor   i32.atomic.rmw.xor      i32.atomic.rmw.xor   return memory.copy         i32.atomic.rmw.xor    i32.atomic.rmw.xor     return        i32.atomic.rmw.xor      i32.atomic.rmw.xor   r

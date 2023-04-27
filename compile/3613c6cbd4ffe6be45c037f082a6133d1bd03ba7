@@ -1,0 +1,10 @@
+(func $m_s/crnuf_sif
+i8x16.splat
+i16x8.q15mulr_sat_s
+f64x2.relaxed_nmadd
+
+f64x2.relaxed_nmadd
+
+
+
+;;%%%%%%(;;;@;

@@ -1,0 +1,8 @@
+(func $'l$@@@\'0@
+
+v128.load16_lane
+0
+;;RRv128.
+v128.load16_lane
+0
+;;Rem.drop^

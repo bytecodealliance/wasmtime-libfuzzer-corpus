@@ -1,0 +1,1 @@
+(elem 128(  i64.atomic.wait   return    return  i64.store16( f32.lt )))

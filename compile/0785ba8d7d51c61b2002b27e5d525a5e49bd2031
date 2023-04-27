@@ -1,0 +1,76 @@
+(func       return   block     )  (func                    return        f64.lt block 
+      block 
+                    block     ) (func                        f64.lt block 
+      block 
+             block     ) (func                        f32.lt block 
+      block 
+                    block     ) (func               block   block  ) (func                
+      block 
+             block     ) (func                        f32.lt block 
+      block ) (func                    return        f32.lt block 
+              block 
+           f32.lt block 
+                      block   block                   block f32.neg    ) (func         return   block     ) (func            block 
+              block 
+                    block                   block     ) (func         return   block     ) (func            block 
+              block 
+                                return        f64.lt block 
+      block 
+                    block     ) (func                        f64.lt block 
+      block 
+          block 
+             block     ) (func                        f32.lt block 
+      block ) (func                    return        f32.lt block 
+              block 
+           f32.lt block 
+                      block   block                   block f32.neg    ) (func         return   block     ) (func            block 
+              block 
+                    block                   block     ) (func         return   block     ) (func            block 
+              block 
+                                return        f64.lt block 
+      block 
+                    block     ) (func                        f64.lt block 
+      block 
+                    block     ) (func                        f32.lt block 
+      block 
+             block     ) (func                        f32.lt block 
+      block ) (func                            f32.lt block 
+      block 
+                    block     ) (func               block   block  ) (func                
+      block 
+             block     ) (func          return   block     ) (func            block 
+              block 
+                    block                   block     ) (func         return   block     ) (func            block 
+              block 
+                                return        f64.lt block 
+      block 
+                    block     ) (func                        f64.lt block 
+      block 
+          block 
+             block     ) (func                        f32.lt block 
+      block ) (func                    return        f32.lt block 
+              block 
+           f32.lt block 
+                      block   block                   block f32.neg    ) (func         return   block     ) (func            block 
+              block 
+                    block                   block     ) (func         return   block     ) (func            block 
+              block 
+                                return        f64.lt block 
+      block 
+                    block     ) (func                        f64.lt block 
+      block 
+                    block     ) (func                        f32.lt block 
+      block 
+             block     ) (func                        f32.lt block 
+      block ) (func                    return        f32.lt block 
+              block 
+           f32.lt block 
+                      block   block                   block f32.neg    ) (func         return   block     ) (func            block 
+              block 
+                        block 
+        block   block                   block     ) (func         return   block     ) (func            block 
+         f64.lt block 
+      block 
+             block     ) (func                        f32.lt block 
+      block 
+                    block     ) (func               block   block  ) (func                                               return                     block  block  block  ) 

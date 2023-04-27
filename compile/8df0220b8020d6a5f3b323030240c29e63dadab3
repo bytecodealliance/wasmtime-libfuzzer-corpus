@@ -1,0 +1,23 @@
+(func $'l_u
+;;nc $b
+i64.store32
+;;%)u
+;;b
+i64.store32
+i64.store32
+;;%func $b
+i64.store32
+;;%)u
+;;b
+i64.store32
+;;$b
+i64.store32
+;;%)@c $b
+i64.store32
+;;%)nc $b
+i64.store32
+;;%))
+
+
+
+);;-%

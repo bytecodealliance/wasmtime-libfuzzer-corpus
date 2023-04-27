@@ -1,0 +1,1 @@
+(func	i32x4.gt_s 			v128.load (i32x4.gt_s 			v128.load (			v128.load  		v128.load   )     )  ) 

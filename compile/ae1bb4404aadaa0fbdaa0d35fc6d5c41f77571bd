@@ -1,5 +1,0 @@
-(func 
-
-f64.convert_i32_s
-
- i32x4.min_s) 

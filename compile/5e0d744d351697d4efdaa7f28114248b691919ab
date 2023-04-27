@@ -1,9 +1,0 @@
-(func
-
-i64x2.load32x2_u
-
-i16x8.min_u
-
-i64x2.load32x2_u
-
-);;-%

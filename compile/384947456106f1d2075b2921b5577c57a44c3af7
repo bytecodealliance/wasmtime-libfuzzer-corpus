@@ -1,0 +1,21 @@
+(func extern.internalize
+
+f64x2.min
+
+
+
+
+
+
+
+nop
+ 
+
+ extern.internalize
+f64x2.min
+
+
+
+
+ 
+)  

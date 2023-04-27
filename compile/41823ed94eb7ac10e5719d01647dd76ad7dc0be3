@@ -1,5 +1,0 @@
-(func
-
- 
-v128.store
-i8x16.add_saturate_s) 

@@ -1,0 +1,1 @@
+(func i32x4.extract_lane 00 f64.const 00)(func i32x4.extract_lane 000)

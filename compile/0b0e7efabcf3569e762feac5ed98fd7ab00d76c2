@@ -1,0 +1,72 @@
+(func       
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+  i8x16.shl
+
+   i8x16.shl   f32.sub
+
+
+   i8x16.shl      f64x2.div
+
+  i64x2.sub   i8x16.shl       i8x16.shl
+
+   i8x16.shl   f32.sub
+
+
+   i8x16.shl      
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+  i8x16.shl
+
+   i8x16.shl   f32.sub
+
+
+   i8x16.shl      f64x2.div
+
+  i64x2.sub   i8x16.shl       i8x16.shl
+
+   i8x16.shl   f32.sub
+
+
+   i8x16.shl      f64x2.div
+
+  i64x2.sub   i8x16.shl     f64x2.div
+
+  i64x2.sub   i8x16.shl   
+
+
+
+ i64.store
+
+
+
+
+
+
+
+
+
+
+) 

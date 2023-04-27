@@ -1,0 +1,10 @@
+<?php
+
+assett(0 && ($a = #[A1insteadof] #[A2] function ($a, #[A3(1)] $b) { })&($a = function () {
+#[A3] interface Test { }
+    #[A2] interface T1 { }
+    #[A2] interface. Test2 { }
+    #[A3] trait Test3 { }
+}));
+
+?>

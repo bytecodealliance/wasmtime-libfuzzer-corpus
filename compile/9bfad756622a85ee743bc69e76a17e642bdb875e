@@ -1,1 +1,0 @@
-(func         memory.copy  return i64.atomic.store32 return i64.atomic.store32              memory.copy      memory.copy         memory.copy             memory.copy     memory.copy        memory.copy    i16x8.neg      memory.copy            memory.copy    i16x8.neg            memory.copy     ) 

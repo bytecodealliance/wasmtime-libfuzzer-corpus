@@ -1,1 +1,0 @@
-(func     f64.eq        i32.clz    f64.eq       i32.clz      i32.atomic.rmw.sub	     i32.atomic.rmw.sub i32.atomic.rmw.sub		)	   

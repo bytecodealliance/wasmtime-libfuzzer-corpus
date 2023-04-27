@@ -1,0 +1,12 @@
+(func $otl
+i8x16.all_true
+
+;;_tpue
+;;$\(%%u;f(5;u
+i16x8.extmul_high_i8x16_u;;;rn      _u;;;$\(%%u;f(5;u
+i16x8.extmul_high_i8x16_u;;;.all_true
+
+;;%)@@@8x;;%)@@@
+
+
+);;-%

@@ -1,0 +1,9 @@
+capture_events {
+  interned_callstack {
+    key: 4
+  }
+}
+capture_events {
+  callstack_sample {
+  }
+}

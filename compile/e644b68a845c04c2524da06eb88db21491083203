@@ -1,1 +1,0 @@
-(func i64.atomic.load i64.atomic.load i64.atomic.rmw16.cmpxchg_u)(func $^'aic.load i64.atomic.rmw16.cmpxchg_u)(func $^'atomicoad i64.atomic.rmw16.cmpxchg_u)(func $^ i64.atomic.rmw16.cmpxchg_u)(func $^tomic.load i64.atomic.rmw16.cmpxchg_u)(func $16.cmpxchg_u)(func $^'atomicoai16x8.lloa.l)

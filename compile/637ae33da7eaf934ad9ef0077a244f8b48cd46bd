@@ -1,1 +1,0 @@
-(func           i64.atomic.load8_u      return     i64.atomic.load8_u      i32x4.gt_s           i64.atomic.load8_u      return     i64.atomic.load8_u            i64.atomic.load8_u      return     i64.atomic.load8_u      i32x4.gt_s           i64.atomic.load8_u      return     i64.atomic.load8_u      i16x8.all_true    ) (func    ) 

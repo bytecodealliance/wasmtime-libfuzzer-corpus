@@ -1,0 +1,52 @@
+(func  
+
+
+f32.ceil i32.le_s 
+
+
+
+f32.ceil i32.le_s 
+
+
+
+
+f32.ceil i32.le_s 
+ i32.le_s 
+
+i8x16.le_u
+
+
+
+
+
+f32.ceil i32.le_s i8x16.le_u
+
+
+
+
+
+f32.ceil i32.le_s 
+
+
+
+
+f32.ceil i32.le_s 
+
+
+
+
+f32.ceil 
+
+f32.ceil i32.le_s 
+
+
+
+
+f32.ceil 
+
+
+i8x16.le_u
+
+
+
+) 

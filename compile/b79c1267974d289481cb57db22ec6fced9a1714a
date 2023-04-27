@@ -1,1 +1,0 @@
-(func          i32.load8_u                i32.load8_u   i32x4.mul   i32.load   i32x4.mul   i32.load          i32.load8_u                i32.load8_u       i32.load8_u                i32.load8_u   i32x4.mul   i32.load   i32x4.mul i32.load8_u                i32.load8_u       i32$4.mul   i3f64.n ) 

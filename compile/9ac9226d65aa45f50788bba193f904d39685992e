@@ -1,0 +1,55 @@
+(func
+
+
+
+return
+f64.neg
+
+f64.neg
+ array.len  
+
+
+
+f64.ne array.len  
+
+
+
+f64.neg
+  f64.neg
+
+f64.neg
+
+
+
+
+return
+f64.neg
+
+f64.neg
+ array.len  
+
+
+
+f64.neg
+  f64.neg
+
+f64.neg
+
+f64.neg
+ array.len   f64.neg
+
+f64.neg
+
+f64.neg
+ array.len  
+
+
+
+f64.neg
+  f64.neg
+
+
+
+f64.neg
+f64.neg
+ array.len  ) 

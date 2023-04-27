@@ -1,9 +1,0 @@
-(func i16x8.add
-
-;;%@%
-
-f32x4.extract_lane
-
-2
-
-);;%

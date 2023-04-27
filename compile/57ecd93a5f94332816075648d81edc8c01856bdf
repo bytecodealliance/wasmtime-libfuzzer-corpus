@@ -1,1 +1,0 @@
-(func       call_indirect f32x4.abs  i32.store i64.atomic.rmw.cmpxchg) ;; r  

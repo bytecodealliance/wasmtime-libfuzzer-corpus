@@ -1,1 +1,0 @@
-(func i32.atomic.load i16x8.le_s)(func $?mad i8x16.gt_s)(func $^ad i8x16.gt_s)(func $^'1d i8x16.gt_s)(func $e i8x16.gt_s)(func $^)

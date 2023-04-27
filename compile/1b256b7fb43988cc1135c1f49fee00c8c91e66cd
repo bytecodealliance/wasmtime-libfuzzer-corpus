@@ -1,1 +1,0 @@
-(func    i8x16.ge_u   return  return i64.extend_s/i32 i64.extend_s/i32  )      

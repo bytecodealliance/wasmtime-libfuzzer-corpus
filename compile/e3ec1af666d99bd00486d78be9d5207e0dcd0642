@@ -1,0 +1,13 @@
+(func $'l$22
+
+
+i64.extend_s/i32
+
+i64.extend_s/i32;;nc $
+
+
+
+i64.extend_s/i32;;% @@
+
+
+i64.extend_s/i32;;unc $/%

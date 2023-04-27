@@ -1,0 +1,11 @@
+(func
+
+;;.ne
+i32x4.ne
+i32x4.ne;;e
+i32x4.ne
+i32x4.ne;;%
+i32x4.ne
+i32x4.ne;;e
+i32x4.ne
+i32x4.ne;;

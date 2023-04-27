@@ -1,0 +1,24 @@
+(func   
+
+
+
+  i8x16.lt_s   i8x16.narrow_i16x8_u
+
+
+
+
+
+
+
+
+
+
+
+ i8x16.narrow_i16x8_u     i8x16.lt_s   i8x16.narrow_i16x8_u
+
+
+
+
+
+   i8x16.narrow_i16x8_u
+ ) 

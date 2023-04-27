@@ -1,0 +1,5 @@
+(func ;;f(fu
+v128.consti64x206;;;; ;;;;   nc ;
+i8x16.popcnt
+;;u
+)

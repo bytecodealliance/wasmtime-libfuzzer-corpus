@@ -1,0 +1,1 @@
+(func  f64x2.sub  i32.atomic.rmw.xchg   i64.atomic.rmw.xchg f64x2.sub   i64.atomic.rmw.xchg f64x2.sub    f64x2.sub   ) 

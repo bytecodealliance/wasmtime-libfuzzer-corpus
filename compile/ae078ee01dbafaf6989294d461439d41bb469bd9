@@ -1,0 +1,9 @@
+(func $0
+i8x16.extract_lane_u
+
+2
+;;%0
+i8x16.extract_lane_u
+
+2
+;un

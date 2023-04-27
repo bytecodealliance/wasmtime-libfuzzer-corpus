@@ -1,0 +1,23 @@
+(func 
+
+
+
+
+i32.atomic.load
+
+
+
+
+
+
+
+
+i32.atomic.load
+
+  i32.atomic.load
+
+
+
+
+
+  i32.atomic.load

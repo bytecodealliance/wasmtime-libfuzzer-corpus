@@ -1,1 +1,0 @@
-(func         atomic.fence i32.sub    atomic.fence ) 

@@ -1,1 +1,0 @@
-(func   i64.atomic.rmw32.cmpxchg_u            f32.eq        i64x2.extmul_low_i32x4_u    f32.eq  i64.atomic.rmw32.cmpxchg_u  ) 

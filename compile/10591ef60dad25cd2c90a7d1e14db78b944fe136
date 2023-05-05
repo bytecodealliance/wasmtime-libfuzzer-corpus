@@ -1,1 +1,0 @@
-(func     return   memory.init  2147483651  2            i32.store   return          memory.init 1          2     memory.init  2147483651  2     memory.init  2147483651   7  ) 

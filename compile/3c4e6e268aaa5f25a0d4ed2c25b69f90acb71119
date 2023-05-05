@@ -1,1 +1,0 @@
-(elem  (        i32x4.relaxed_trunc_f32x4_u(   i32.atomic.rmw16.cmpxchg_u  f32x4.min    )       

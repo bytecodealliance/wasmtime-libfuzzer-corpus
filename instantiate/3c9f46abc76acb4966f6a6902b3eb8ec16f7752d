@@ -1,59 +1,0 @@
- CREATE TABLE t1(aÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ ÑÑÑÑÑÑÑÑÑÑELECT idx, flgsÑÑÑÑÑÑÑÑÑ
-ÑÑÑÑÑÑÑÑÑÑÑÑ2ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑVALUESÑ,ÑUÑÑÑÑ,üüüüü÷üüÑÑÑÑÑÑÑÑÑÑÑÑÑÑ9ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ application_idÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ 'a''b'ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑE  REGERENCES tUSINGERRABLE , b‘ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÓÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÒÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÔÔÔÔÔÔÔÔÔÔÔÔÔÔXb as(4) ,
-ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑb as(4) ,ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÑÑÑÑÑÑÑÑÑÑÑÑÑÑELSEÑÑÑÑÑÑ9NSERTQUEIUNNÑÑÑÑÑÑüüü ddata_stf½9—düüüüÑÑÑÑÑ, a INTEGER PRIMARY KEY ON CONFLICt REPLACE, b bVALüR UNIJÑÑÑÑE  REFERENCES t1 DEFERRABLE) WITHOUT ROWID;
---“atcIE;b- CREATFEREnCES t45DEFERRABLE) WITHgggggggggg  CREATE TABLE t1(a PRcMtal(1), b ÖPDAFßc) ;
- CREATE INDEX indt0¥ ON t1(b)WHERE~ 'xbRR®­­­­­­I­­­­­R;
-TACHÏÏÏÏÏÏÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿXÿÿÿÿÿÿÿÿÿÿÿÿÏTACHÏÏÏÏÏÏÏCR EÿÿÿO a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEEEøøøøø2
-  UPDATE t1 SET b='x'||a||'y';
-  SELECT sum(length(b)) FROM t1;
-  --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| random()|'ÆÇ01137yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy ÏÏDETACHÏÏÏÏÏÏÏCR EÿÿÿO a='0'||a| random()|a| random()|'ÆÇ01137y';
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE yyyyyyyyyyyyyyyyyyyyyyyyyyyyy'; 
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEEEøøøøø2
-  UPDATE t1 SET b='x'||a||'y';
-  SELECT sum(length(b)) FROM t1;
-  --0x'|eepTRIGGElCO t1 O a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ0q137y'; 
-   
---matlh  EEEEEEEEEEøøøøø2
-  UPDATE t1 SET b='x'||a||'y';
-  SELECT sum(length(b)) FROM t1;
-  --0x'|eepdom()|'ÆÇ01137yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy'; 
-   
--matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEEEøøøøø2
-  UPDATE t1 SET b='x'|

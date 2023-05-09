@@ -1,6 +1,0 @@
-(data $|>>>>>>>>>>ffffff(f32.nearest;;|x||
-i32x4.extmul_low_i08x8_u
-u
-
-
-ifc i32.const 0xc i32.coxst

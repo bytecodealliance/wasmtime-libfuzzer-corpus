@@ -1,1 +1,0 @@
-(func         (  f32.eq  )(  f32.eq  )    f64.eq  f32.gt     (  f64.eq  )(  f64.eq  )    f64.eq  f32.gt              ) 

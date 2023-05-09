@@ -1,1 +1,0 @@
-(func data.drop 1167042872 i32.atomic.rmw8.and_u)

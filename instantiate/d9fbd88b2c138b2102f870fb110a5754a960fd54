@@ -1,1 +1,0 @@
-str:tokenize('˜*[date:minute-in-hour(processin)=dn]¬¬ttemap[1=1]+/*]>sin×'	)[0][1=1][dyn:map(//.,F/r||t/preceding|.)]

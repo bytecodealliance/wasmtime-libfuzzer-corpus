@@ -1,8 +1,0 @@
-(func $$@fkn8
-i64x2.ge_s;;sr;fx16.min_u_i't64_s2emnsnc;%
-try;;f%
-try;;n_u;;%
-try;;fx_u_i't64_s2emr
-v128.load32_splat;;f_uv128.cons1nc;%22
-
-);;

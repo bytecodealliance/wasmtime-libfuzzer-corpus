@@ -1,1 +1,0 @@
-(elem 04(  (  f32.lt ) i32.atomic.wait (  f32.lt )))

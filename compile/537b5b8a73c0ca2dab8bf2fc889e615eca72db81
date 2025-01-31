@@ -1,1 +1,0 @@
-(func   return  i32.clz i32.xor   return  i32.clz i32.clz i32.xor i32.clz i32.xor ) 

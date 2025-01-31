@@ -1,7 +1,0 @@
-(func $'l$%%%
-i64.rem_u;;e
-f32x4.mul;;$\'lm$%%m(fu%e
-f32x4.mul;;$\'l^m$%%m%c%%%f3
-f32x4.lt;;$\'fu%u
-f32x4.mul;;$\'lm$%%m%
-);;-%

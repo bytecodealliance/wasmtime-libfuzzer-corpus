@@ -1,6 +1,0 @@
-config {
-  name: "envoy.filters.network.http_connection_manager"
-  typed_config {    type_url: "type.googleapis.com/envoy.extensions.filters.network.http_connection_managùr.v3.LttpConnectionManager"
-    vaîîe: "\022\001)*\000"
-  }
-}

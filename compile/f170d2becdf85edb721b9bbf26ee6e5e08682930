@@ -1,1 +1,0 @@
-(func        return i16x8.splat     return i16x8.max_u                         return i16x8.max_u                                         return i16x8.max_u                      return i16x8.max_u                   return i16x8.max_u           i64.store      return i16x8.max_u           i64.store      ) 

@@ -1,11 +1,0 @@
-(func $'
-
-i8x16.extract_lane_s
-1;;%3iexte
-i8x16.extract_lane_s
-;;%)
-;;)(f
-1
-;;%;g]_fn)
-
-);;-%

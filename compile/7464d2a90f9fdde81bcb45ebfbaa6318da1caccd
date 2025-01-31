@@ -1,3 +1,0 @@
-(func f64.sqrt  f64.div
- i16x8.sub i16x8.sub )(func f64.sqrt  f64.div
- i16x8.sub i16x8.sub ) 

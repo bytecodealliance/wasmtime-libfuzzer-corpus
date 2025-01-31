@@ -1,1 +1,0 @@
-(func i64x2.le_s i64.atomic.rmw8.cmpxchg_u    i64.atomic.rmw8.cmpxchg_u  i32.wrap_i64) 

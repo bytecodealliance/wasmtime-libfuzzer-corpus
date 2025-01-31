@@ -1,1 +1,0 @@
-(func       return   drop  i32.trunc_u:sat/f32         i32.trunc_u:sat/f32  i32.trunc_u:sat/f32     return )   

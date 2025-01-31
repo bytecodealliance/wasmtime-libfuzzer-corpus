@@ -1,1 +1,0 @@
-(func      return     f32.gt  select       memory.fill    return   memory.fill        memory.fill       memory.fill      memory.fill      memory.fill      select      memory.fill           return   memory.fill    ) 

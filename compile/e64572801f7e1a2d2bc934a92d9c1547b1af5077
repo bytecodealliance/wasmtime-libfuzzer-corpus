@@ -1,1 +1,0 @@
-(func    i64.ne    i32.trunc_u:sat/f64 i32.ne      i64.ne    i32.trunc_u:sat/f64 i32.ne          i32.trunc_u:sat/f64 i32.ne          i32.trunc_u:sat/f64   i32.trunc_u:sat/f64 i32.ne) 

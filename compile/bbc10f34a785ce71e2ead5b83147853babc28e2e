@@ -1,1 +1,0 @@
-(func    v128.not      f32.sub    f32.min    f32.sub    f32.min      v128.not   v128.not   v128.not     v128.not       v128.not    )   	    

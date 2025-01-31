@@ -1,1 +1,0 @@
-(func i32.atomic.load v128.store)(func i32.atomic.load f64x2.sqrt)(func $c i32.atomic.load v128.store)(func i32.atomic.load f64x2.sqrt)(func $^>?)

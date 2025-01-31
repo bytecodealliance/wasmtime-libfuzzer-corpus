@@ -1,1 +1,0 @@
-(func f32x4.floor    f32x4.floor   i64.sub       i64.sub    i64.sub i64.sub    f32x4.floor   i64.sub    i32.sub   f32x4.floor   i64.sub       i64.sub        i64.sub ) 

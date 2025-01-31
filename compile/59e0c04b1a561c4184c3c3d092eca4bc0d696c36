@@ -1,1 +1,0 @@
-(func f32.const 0x8   select     f64x2.relaxed_max   return f64x2.relaxed_max  select    f64x2.relaxed_max    select ) 

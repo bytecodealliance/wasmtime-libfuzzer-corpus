@@ -1,1 +1,0 @@
-(func         i32.shr_u i32.shr_u            i32.shr_u    i64.clz         i32.shr_u i32.shr_u         i64.clz           memory.size   i32.shr_u        i32.shr_u i32.shr_u    ) 

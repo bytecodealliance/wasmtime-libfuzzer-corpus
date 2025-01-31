@@ -1,5 +1,0 @@
-(func
-
-  
-i32.atomic.rmw.add
-99999999999999

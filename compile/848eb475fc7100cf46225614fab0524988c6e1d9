@@ -1,6 +1,0 @@
-(func f64x2.sub
- i64.rem_s    f64x2.sub
-
- f64x2.sub
-
- ) 

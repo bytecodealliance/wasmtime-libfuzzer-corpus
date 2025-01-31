@@ -1,1 +1,0 @@
-(func     i32.atomic.rmw.add    i32.atomic.rmw.add )     (func  i32.atomic.rmw.add )     (func     i32.atomic.rmw.add    i32.atomic.rmw.add )     (func  i32.atomic.rmw.add )     (func     i32.atomic.rmw.add    i32.atomic.rmw.add(f.atomic.rmw

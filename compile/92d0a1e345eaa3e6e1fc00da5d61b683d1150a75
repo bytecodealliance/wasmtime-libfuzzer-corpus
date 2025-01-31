@@ -1,1 +1,0 @@
-(elem  (    return     i32.atomic.store16      5555555555

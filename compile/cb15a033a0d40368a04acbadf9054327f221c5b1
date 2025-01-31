@@ -1,1 +1,0 @@
-(func i32.atomic.load i16x8.sub)(func i32.atomic.load f64x2.sqrt)(func)(func i32.atomic.load f64x2.sqrt)(func $^??ign)

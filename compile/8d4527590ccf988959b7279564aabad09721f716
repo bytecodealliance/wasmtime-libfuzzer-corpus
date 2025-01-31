@@ -1,1 +1,0 @@
-(func     i64.atomic.rmw16.sub_u   loop        array.get_u  0  array.get   0   return             return        array.get_u  0  array.get   00          ) 

@@ -1,1 +1,0 @@
-(func i32.lt_u call  6   call  77  call  6  call  7  )(func i32.lt_u call  6   call  7  call  7  )(func i32.lt_u call  6   call  7  call  6  call  7  )(func i32.lt_u call  6   call  7  call  6  call  7  )(func i32.lt_u call  6 call  7  call  6  call  7  )

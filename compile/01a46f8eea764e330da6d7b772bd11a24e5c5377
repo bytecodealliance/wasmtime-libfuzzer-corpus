@@ -1,1 +1,0 @@
-(func  return f64x2.relaxed_max  select f64x2.relaxed_max   ) 

@@ -1,1 +1,0 @@
-(func f32.const 0x41FF table.set 0 i8x16.add_sat_s)(func f32.const 0x41FF table.set  i8x16.add_sat_s)

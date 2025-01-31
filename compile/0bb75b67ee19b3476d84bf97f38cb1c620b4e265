@@ -1,9 +1,0 @@
-(func  ;;32.eq32.eq i32x4.sub       i32.eq i32x4
-      elem.drop 00410772   elem.drop 004       i32.eq i32x4.sub ;;5.a2(func f2r  re02455. 
-      elem.drop 00410772  elem.drop 00410772   elem.drop 5       i32.eq i32x4.sub ;;5.a2(func f2r  re02455. 
-      elem.drop 00410772   elem.drop 0082154 ;;32.eq i32x4.sub       iunc f2r  re02455. 
-      elem.drop 00410772490   elem.drop 00410772   elem.drop 0 elem.drop 0082154 ;;32.eq i32x4.sub       i61.e i32x4.sub       i32.eq i32x4
-      elem.drop 004107724      i32.eq i32x4.sub ;;5.a2(func f2r  re02455. 
-      elem.drop 00410772   elem.drop 0082154 ;;32.eq i32x4.su  b     i61!eq i32x4
-      elem.drop 00410772   elem.drop 004       i32.eq i32x4.sub ;;nc f2r  re02455. 
-      elem.drop 00410772490   elem.drop 00000241077245 ) ;;u  ele0    -u

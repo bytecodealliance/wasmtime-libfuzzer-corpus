@@ -1,1 +1,0 @@
-(func call_indirect $nc call_indirect $c call_indirect $n

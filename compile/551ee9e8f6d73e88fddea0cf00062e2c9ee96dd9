@@ -1,1 +1,0 @@
-(func   f32x4.relaxed_madd        i64.atomic.store16     f32x4.relaxed_madd  f64x2.ge return f64x2.ge   f32x4.relaxed_madd        )    

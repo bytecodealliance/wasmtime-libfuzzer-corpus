@@ -1,4 +1,0 @@
-(func $'l$@%4
-v128.load16_lane
--1
-;;RRv

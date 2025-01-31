@@ -1,1 +1,0 @@
-(func  i64.load   2 i64.load    i64.load f64x2.floor       i64.load      i64.load  i64.load    i64.load      i64.load   i64.load     64     i64.load  i64.load  i64.load  ) 

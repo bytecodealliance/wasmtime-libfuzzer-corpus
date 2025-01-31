@@ -1,40 +1,0 @@
- CREATE TABLE t1(aÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ ÑÑÑÑÑÑÑÑÑÑELECT idx, flgsÑÑÑÑÑÑÑÑÑ
-ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑVALUESÑ,ÑUÑÑÑÑ,üüüüü÷üüÑÑÑÑÑÑÑÑÑÑÑÑÑÑ9ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ 'a''b'ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑE  REGERENCES tUSINGERRABLE , b‘ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÓÑÑÑÑÑÑÑÑÑÑÑÑÿÿÿÿÿÿÿÑÑÑ(ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÒÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÔÔÔÔÔÔÔÔÔÔÔÔÔÔXb as(4) ,
-ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑb as(4) ,ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÑÑÑÑÑÑÑÑÑÑÑÑÑÑELSEÑÑÑÑÑÑ9NSERTQUEIUNNÑÑÑÑÑÑüüü ddata_stf½9—düüüüÑÑÑÑÑ, a INTEGER PRIMARY KEY ON CONFLICt REPLACE, b bVALü|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEEEøøøøø2
-  UPDATE t1 SET b='x'||a||'y';
-  SELECT sum(length(b)) FROM t1;
-  --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| random()|';
-  --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEAEEEEøøøøø2
-  UPDATE t1 SET b='x'||a||'y';
-  SELECT sum(length(b)) FrOM t1;
-  --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE t1 SET a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEEEøøøøø2
-  UPDATE t1 SET b='x'||a||'y';
-  SELECT sum(length(b)) FROM t1;
-  --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| rayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy'y';
-  SELE§T sum(length(b)) FROM t1;
-  --0x'|eepTRIGGElCOLLATE)) FROM Oë!) FROM t1 O a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEE; 
-   
---6Ta;m
-   --[Ÿch

@@ -1,9 +1,0 @@
-(func $-\\l
-i8x16.shr_s
-
-
-i8x16.shr_s
-i8x16.shr_s
-;;f;;\
-
-);;-%

@@ -1,1 +1,0 @@
-(func) (func  i16x8.le_s  select ) (func) (func  select select f64.neg)(func  i16x8.le_s  select ) (func  select  select f64.neg) (func) (func  i16x8.le_s  select ) (func) (func  select  select ) (func) (func  i16x8.le_s  select) (func  p16x8.le_s  select )

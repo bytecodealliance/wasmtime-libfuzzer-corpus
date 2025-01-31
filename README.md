@@ -1,5 +1,7 @@
 # `wasmtime-libfuzzer-corpus`
 
+**This repository is deprecated and archived**
+
 libFuzzer corpus for our wasmtime fuzz targets.
 
 [Read more about libFuzzer corpora here.](https://www.llvm.org/docs/LibFuzzer.html#corpus)

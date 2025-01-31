@@ -1,6 +1,0 @@
-(func $'|||
-v128.load16_lane
--1
-;;RRv6_lane
--1
-;;RRv

@@ -1,1 +1,0 @@
-(func      i16x8.all_true   i16x8.all_true     i16x8.all_true i32.le_u             return        i16x8.all_true    i16x8.all_true    ) 

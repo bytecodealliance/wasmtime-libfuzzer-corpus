@@ -1,6 +1,0 @@
-(func   f32.load
-
-
-f32.load
-
-select    f64x2.relaxed_max      ) 

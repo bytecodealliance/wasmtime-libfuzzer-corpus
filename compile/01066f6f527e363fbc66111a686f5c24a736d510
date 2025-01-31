@@ -1,1 +1,0 @@
-(func  return i16x8.extend_low_i8x16_s select  select (   return i16x8.extend_low_i8x16_s  select i16x8.extend_low_i8x16_s  select i16x8.extend_low_i8x16_s  select   ))

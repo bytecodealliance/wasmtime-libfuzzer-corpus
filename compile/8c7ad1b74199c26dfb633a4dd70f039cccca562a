@@ -1,1 +1,0 @@
-(func (        i32.sub     i64.trunc_u/f32           f32.sub ( i64.trunc_u/f32           i64.trunc_u/f32           f32.sub ( i64.trunc_u/f32   i64.trunc_u/f32          i64.trunc_u/f32           f32.sub ( i64.trunc_u/f32   i64.trunc_u/f32     2.sub 

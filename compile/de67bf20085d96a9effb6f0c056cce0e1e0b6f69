@@ -1,1 +1,0 @@
-(func f32.const 0400   f32.const 01   f32.sub   ) ;;c    8

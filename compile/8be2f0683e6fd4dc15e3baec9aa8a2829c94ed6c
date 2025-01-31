@@ -1,1 +1,0 @@
-(func       i64.atomic.load16_u   drop       i64.atomic.load16_u   i64.atomic.load16_u         )

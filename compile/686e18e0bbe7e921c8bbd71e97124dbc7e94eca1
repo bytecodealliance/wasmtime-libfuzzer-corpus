@@ -1,1 +1,0 @@
-(func       memory.copy    i64.trunc_f64_s  i32.trunc_f64_s  i32.trunc_f64_s  i32.trunc_f64_s ) 

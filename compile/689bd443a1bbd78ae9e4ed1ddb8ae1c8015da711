@@ -1,1 +1,0 @@
-(func               f64x2.max     i32.ge_u  v128.or      f32x4.relaxed_nmadd  v128.or  f64x2.max              f32x4.relaxed_nmadd  v128.or  f64x2.max         )       

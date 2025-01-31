@@ -1,8 +1,0 @@
-(func $'|
-;;
-;;%)(e_u
-table.fill
- return_call_indirect      255;;$\'836
-table.fill
- return_call_indirect      255;;$\'83649xt_i
-);;-%

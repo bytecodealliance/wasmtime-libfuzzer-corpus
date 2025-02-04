@@ -1,6 +1,0 @@
-(func 
-i64x2.bitmask
-
-v128.store8_lane
-3;;%i;;data;) 
-  return     )

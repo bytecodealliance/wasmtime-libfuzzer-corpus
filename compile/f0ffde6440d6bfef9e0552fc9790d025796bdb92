@@ -1,1 +1,0 @@
-(func $p(loop)(loop)) (func (loop)(loop)) 

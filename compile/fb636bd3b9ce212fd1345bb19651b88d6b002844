@@ -1,7 +1,0 @@
-(func
-f32.gt
- f64x2.sub
-
-f32.gt
- f64x2.sub
-)

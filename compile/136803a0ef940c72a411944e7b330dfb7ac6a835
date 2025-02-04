@@ -1,6 +1,0 @@
-(func
-f64x2.pmax
-i8x16.sub
-
-f64x2.convert_low_i32x4_u
-   ) 

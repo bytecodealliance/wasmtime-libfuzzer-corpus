@@ -1,5 +1,0 @@
-(func $in_ui32x4.ext>>>>>>Y>>>Y>>
-i32x4.extadd_pairwise_i16x8_s;;$\nf       ;000000002>>>>>>>>>>>>>>>>>>Y>>
-i32x4.extadd_pairwise_i16x8_s;;$\nf     >>>>>>>>>>>>>>>>>>Y>>
-i32x4.extadd_pairwise_i16x8_s;;$\nf fif64qnh.2=trqc3i64.rem_u
-);;-%

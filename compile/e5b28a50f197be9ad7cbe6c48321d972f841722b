@@ -1,1 +1,0 @@
-(func     memory.copy           f32x4.neg      i64.atomic.rmw32.and_u    f32x4.neg      i64.atomic.rmw32.and_u    memory.copy          i64.atomic.rmw32.and_u       memory.copy          i64.atomic.rmw32.and_u           ) 

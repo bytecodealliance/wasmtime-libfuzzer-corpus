@@ -1,1 +1,0 @@
-(func       return       i32.atomic.rmw16.xor_u                  f32x4.convert_i32x4_s  memory.copy            return   f32x4.convert_i32x4_s    i32.atomic.rmw16.xor_u           f32x4.convert_i32x4_s           return             memory.copy            return   f32x4.convert_i32x4_s    i32.atomic.rmw16.xor_u         ) 

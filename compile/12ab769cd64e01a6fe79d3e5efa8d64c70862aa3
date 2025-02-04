@@ -1,3 +1,0 @@
-(func  f64x2.lt 
-i64.atomic.rmw.or
-i64.atomic.rmw.or) 

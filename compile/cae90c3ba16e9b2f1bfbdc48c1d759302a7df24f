@@ -1,9 +1,0 @@
-(func $$@f3.mul
-;;%u
-
-i16x8.extend_low_i8x16_u
-
-f64x2.lt;;;%nc.cm;;;$.mul
-;;%u
-
-i16x8.extend_low_i8x16_u

@@ -1,1 +1,0 @@
-(func               f64x2.pmin   v128.load         f32x4.relaxed_madd  v128.load v128.load    ) 

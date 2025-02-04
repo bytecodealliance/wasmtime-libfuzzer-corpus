@@ -1,1 +1,0 @@
-(func(i32.atomic.rmw.and 0xfcccccccc

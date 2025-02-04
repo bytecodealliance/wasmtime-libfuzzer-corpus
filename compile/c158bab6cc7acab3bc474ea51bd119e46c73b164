@@ -1,1 +1,0 @@
-(func(f32.copysign(f64.copysign(i64.load (f64.copysign(i64.load (f64.copysign(i64.load nop(f64.copysign((3U

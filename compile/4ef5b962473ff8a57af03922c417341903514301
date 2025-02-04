@@ -1,1 +1,0 @@
-(func          return    i32.ctz  i32.ctz     i32.ctz  i32.ctz         return     i32x4.extmul_low_i16x8_u  i32.ctz  )       

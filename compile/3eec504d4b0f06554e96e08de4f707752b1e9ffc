@@ -1,1 +1,0 @@
-(func global.get 0 global.get  12)(func global.get 0 global.get  0  )(func global.get 65536 global.get  0   global.get 0 global.get  128  )(func global.get 0 global.get  0  )(func global.get 65536 global.get  0) 

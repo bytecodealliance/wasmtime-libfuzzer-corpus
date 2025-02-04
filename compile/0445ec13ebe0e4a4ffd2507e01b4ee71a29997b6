@@ -1,9 +1,0 @@
-(func $'lE
-
-table.grow
-f64x2.ne
-
-
-table.grow
-7;;5i;
-);;$$$?)(

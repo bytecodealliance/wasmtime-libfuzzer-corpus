@@ -1,1 +1,0 @@
-(func    i64.store16      f64x2.relaxed_nmadd   i64.store16              f64x2.relaxed_nmadd   i64.store16           ) 

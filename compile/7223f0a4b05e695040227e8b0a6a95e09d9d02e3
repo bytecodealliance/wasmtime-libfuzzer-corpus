@@ -1,6 +1,0 @@
-(func 
-i64x2.sub;;[
-i64.load8_s;;$;$_
-i64.load8_s;;f30x2.lec'c
-i64.load8_s
-i64.load8_s)

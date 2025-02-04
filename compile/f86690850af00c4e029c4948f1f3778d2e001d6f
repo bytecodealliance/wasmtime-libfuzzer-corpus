@@ -1,1 +1,0 @@
-(func    return     return i8x16.replace_lane     0           return i8x16.replace_lane     0                  return i8x16.replace_lane     0       return i8x16.replace_lane     0            ) 

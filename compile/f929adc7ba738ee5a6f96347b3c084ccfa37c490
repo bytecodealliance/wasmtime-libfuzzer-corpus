@@ -1,1 +1,0 @@
-(func f32.const 00  f32.sub   i32.atomic.store8   ) ;; 4

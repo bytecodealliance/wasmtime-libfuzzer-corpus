@@ -1,1 +1,0 @@
-(func         i32.shr_u i32.shr_u            i32.shr_u    i64.clz         i32.shr_u i32.shr_u       i32x4.relaxed_trunc_f64x2_u_zero  i32.shr_u    i32.shr_u         i64.clz            ) 

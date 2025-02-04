@@ -1,1 +1,0 @@
-(func      return               v128.bitselect          v128.bitselect                 i32x4.relaxed_trunc_f32x4_u     v128.bitselect         v128.bitselect   ) 

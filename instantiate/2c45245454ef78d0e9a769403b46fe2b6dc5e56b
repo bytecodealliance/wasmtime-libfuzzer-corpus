@@ -1,8 +1,0 @@
-		(func	(result
-f32;;r;;lt
-i32;;3)p]shr{}	dt!
-v128))		(func	(result
-f32;;(f{{{}	dt!
-v128))		(func	(result
-f32;;r!
-f32))

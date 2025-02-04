@@ -1,1 +1,0 @@
-(func i64.atomic.load i16x8.gt_s i64.atomic.load i16x8.gt_s)(func  i16x8.gt_s);;unchr_u6eeeeeeK%

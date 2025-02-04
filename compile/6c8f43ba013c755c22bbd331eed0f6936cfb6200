@@ -1,9 +1,0 @@
-(func $$@ff32y;;fx
-try;;fx16ge__s2emr
-v128.load64_splat;;_s2emr
-v128.load64_splat;;f_uv128.consnc;%rtry;;f%
-try;;n_u;;%
-try;;fs2emr
-v128.load64_splat;;f_uv128.consnc;%v12f3m22
-
-);;

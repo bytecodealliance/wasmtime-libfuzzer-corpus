@@ -1,1 +1,0 @@
-(func           i64.ne   i32.atomic.rmw.or        return i32.atomic.rmw.or      i32.atomic.rmw.or             i32.atomic.rmw.or     )   

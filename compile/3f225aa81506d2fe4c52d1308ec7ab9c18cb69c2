@@ -1,4 +1,0 @@
-(func $u
-table.fill
-255;;i
-);;-%

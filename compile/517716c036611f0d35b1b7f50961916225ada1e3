@@ -1,1 +1,0 @@
-(func         return   i32x4.relaxed_trunc_f64x2_u_zero    i64x2.all_true        i64x2.all_true  ) 

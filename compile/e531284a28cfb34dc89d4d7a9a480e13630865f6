@@ -1,10 +1,0 @@
-(func ;;f8.consti64x20\\ti64x2so 50
- array.set 0 
-
-call
-4;;;@        /nst 87_so 50
- array.set 004550 
-
-call
-4;;;|nsti64x20\\t
-  ) 

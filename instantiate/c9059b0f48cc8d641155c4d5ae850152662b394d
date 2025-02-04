@@ -1,7 +1,0 @@
-config {
-  name: "envoy.filters.network.http_connection_manager"
-  typedyconfig {
-    ytpe_url: "type.h_s_ssse3googleapis[.com/envoy.extensions.filters.network.http_connectioÿÿÿýn_`anager.v3.LttpConnectionManagre"
-    value: "\002\001)*\000"
-  }
-}

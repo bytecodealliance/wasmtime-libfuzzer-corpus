@@ -1,3 +1,0 @@
-(func  (    result anyfunc);;
-i16x8.extmul_low_i8x16_s
-);;0-%

@@ -1,1 +1,0 @@
-(func    return      i32x4.lt_s     i32.atomic.rmw16.xor_u    i32.atomic.rmw16.xor_u      i32.atomic.rmw16.xor_u      i32.atomic.rmw16.xor_u    i32.atomic.rmw16.xor_u      i32.atomic.rmw16.xor_u      i32.atomic.rmw16.xor_u      i32.atomic.rmw16.xor_u        ) 

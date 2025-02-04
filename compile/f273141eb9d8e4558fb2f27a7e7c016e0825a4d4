@@ -1,1 +1,0 @@
-(func       i64x2.extmul_low_i32x4_s   return   i64.gt_s          i32x4.extmul_high_i16x8_s   ) 

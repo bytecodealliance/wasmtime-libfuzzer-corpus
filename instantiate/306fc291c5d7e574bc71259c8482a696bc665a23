@@ -1,20 +1,0 @@
- CREATE TABLE t1(aÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ ÑÑÑÑÑÑÑÑÑÑELECT idx, flgsÑÑÑÑÑÑÑÑÑ
-ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑVALUESÑ,ÑUÑÑÑÑ,üüüüü÷üüÑÑÑÑÑÑÑÑÑÑÑÑÑÑ9ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ application_idÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ 'a''b'ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑE  REGERENCES tUSINGERRABLE , b‘ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÓÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÒÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÔÔÔÔÔÔÔÔÔÔÔÔÔÔXb as(4) ,
-ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑb as(4) ,ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÑÑÑÑÑÑÑÑÑÑÑÑÑÑELSEÑÑÑÑÑÑ9NSERTQUEIUNNÑÑÑÑÑÑüüü ddata_stf½9—düüüüÑÑÑÑÑ, a INTEGER PRIMARY KEY ON CONFLICt REPLACE, b bVALüR UNIJÑÑÑÑE  REFERENCES t1 DEFERRABLE) WITHOUT ROWID;
---“atcIE;b- CREATFEREnCES t45DEFERRABLE) WITHgggggggggg  CREATE TABLE t1(a PRcMtal(1), b ÖPDAFßc) ;
- CREATE INDEX indt0¥ ON t1(b)WHERE~ 'xbRR®­­­­­­I­­­­­R;
-TACHÏÏÏÏÏÏÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿXÿJJJJJJJJJJJJJJJJJJÿÿÿÿÿÿÿÿÿÿÿÏ';
---  ÏÏDETACHÏÏÏÏÏÏÏCR EÿÿÿO a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-  --[Ÿch 2A00.0
-  --s$&pleeÿ
-  UPDATE t1 SET a='0'||a| random()|yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy ÏÏDETACHÏÏÏÏÏÏÏCR EÿÿÿO a='0'||a| random()|a| random()|'ÆÇ01137y'; 
-   
---matlh  EEEEEEEEE; 
-   
---maT 6;
-øø2
-  UPDATE t1 SET b='x'|
